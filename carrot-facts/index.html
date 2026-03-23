@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>Carrot Facts</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      overflow: hidden;
+      height: 100vh;
+      width: 100vw;
+      background: linear-gradient(to bottom, #a8d8ea 0%, #d4eef9 100%);
+      font-family: Georgia, serif;
+      touch-action: manipulation;
+    }
+
+    .water {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 48%;
+      background: linear-gradient(180deg, #29ABE2 0%, #0077B6 50%, #023E8A 100%);
+      z-index: 2;
+    }
+
+    .waves {
+      position: absolute;
+      top: -34px;
+      left: 0;
+      width: 100%;
+      height: 70px;
+      overflow: hidden;
+    }
+
+    .wave-svg {
+      position: absolute;
+      top: 0;
+      width: 200%;
+      height: 70px;
+      animation: waveMove 5s linear infinite;
+    }
+
+    .wave-svg.back {
+      animation: waveMove 8s linear infinite reverse;
+      opacity: 0.4;
+    }
+
+    @keyframes waveMove {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-50%); }
+    }
+
+    #carrot-wrapper {
+      position: fixed;
+      z-index: 10;
+      cursor: pointer;
+      user-select: none;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    /* Splash particles */
+    .particle {
+      position: fixed;
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: rgba(41, 171, 226, 0.85);
+      pointer-events: none;
+      z-index: 20;
+      animation: splashOut 0.65s ease-out forwards;
+    }
+
+    @keyframes splashOut {
+      to { transform: translate(var(--tx), var(--ty)); opacity: 0; }
+    }
+
+    /* Fact card */
+    #fact-card {
+      position: fixed;
+      top: 6%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-12px);
+      background: rgba(255, 255, 255, 0.93);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-radius: 22px;
+      padding: 18px 26px;
+      max-width: min(420px, 88vw);
+      text-align: center;
+      z-index: 30;
+      box-shadow: 0 8px 40px rgba(0, 60, 120, 0.18);
+      opacity: 0;
+      transition: opacity 0.35s ease, transform 0.35s ease;
+      pointer-events: none;
+    }
+
+    #fact-card.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    #fact-state {
+      font-size: 0.85rem;
+      font-weight: bold;
+      color: #0077B6;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 7px;
+    }
+
+    #fact-text {
+      font-size: 1rem;
+      color: #2c2c2c;
+      line-height: 1.55;
+    }
+
+    /* Tap hint */
+    #hint {
+      position: fixed;
+      bottom: 6%;
+      left: 50%;
+      transform: translateX(-50%);
+      color: rgba(255, 255, 255, 0.75);
+      font-size: 0.9rem;
+      letter-spacing: 0.06em;
+      z-index: 5;
+      pointer-events: none;
+      animation: hintFade 1s ease-in-out 3s forwards;
+    }
+
+    @keyframes hintFade {
+      to { opacity: 0; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="water">
+    <div class="waves">
+      <!-- Front wave -->
+      <svg class="wave-svg" viewBox="0 0 2880 70" preserveAspectRatio="none">
+        <path d="M0,35 C180,5 360,65 540,35 C720,5 900,65 1080,35 C1260,5 1440,65 1440,35
+                 C1620,5 1800,65 1980,35 C2160,5 2340,65 2520,35 C2700,5 2880,65 2880,35
+                 L2880,70 L0,70 Z" fill="#29ABE2"/>
+      </svg>
+      <!-- Back wave -->
+      <svg class="wave-svg back" viewBox="0 0 2880 70" preserveAspectRatio="none">
+        <path d="M0,40 C240,10 480,70 720,40 C960,10 1200,70 1440,40
+                 C1680,10 1920,70 2160,40 C2400,10 2640,70 2880,40
+                 L2880,70 L0,70 Z" fill="#1a8fc7"/>
+      </svg>
+    </div>
+  </div>
+
+  <div id="carrot-wrapper">
+    <svg id="carrot-svg" width="72" height="150" viewBox="0 0 72 210">
+      <!-- Leaves -->
+      <path d="M36 42 C28 22 8 10 -4 0 C10 14 26 26 36 38" fill="#4CAF50"/>
+      <path d="M36 42 C44 18 62 4 74 -6 C60 8 44 22 36 38" fill="#388E3C"/>
+      <path d="M36 42 C33 18 28 -4 24 -22 C28 -2 33 18 36 36" fill="#66BB6A"/>
+      <path d="M36 42 C39 16 46 -6 50 -24 C46 -4 40 16 36 36" fill="#2E7D32"/>
+      <path d="M36 42 C18 30 4 35 -8 40 C6 30 20 26 36 36" fill="#81C784"/>
+      <!-- Body -->
+      <path id="carrot-body"
+        d="M36 42 C52 42 65 90 65 138 C65 172 52 200 36 205 C20 200 7 172 7 138 C7 90 20 42 36 42 Z"
+        fill="#FF6B35"/>
+      <!-- Texture lines -->
+      <path d="M20 82  Q36 74  52 82"  stroke="rgba(0,0,0,0.1)" stroke-width="2" fill="none" stroke-linecap="round"/>
+      <path d="M15 108 Q36 100 57 108" stroke="rgba(0,0,0,0.1)" stroke-width="2" fill="none" stroke-linecap="round"/>
+      <path d="M16 134 Q36 126 56 134" stroke="rgba(0,0,0,0.1)" stroke-width="2" fill="none" stroke-linecap="round"/>
+      <path d="M20 160 Q36 152 52 160" stroke="rgba(0,0,0,0.1)" stroke-width="2" fill="none" stroke-linecap="round"/>
+      <!-- Highlight -->
+      <path d="M22 58 C18 80 17 112 20 144" stroke="rgba(255,255,255,0.28)" stroke-width="5" fill="none" stroke-linecap="round"/>
+    </svg>
+  </div>
+
+  <div id="fact-card">
+    <div id="fact-state"></div>
+    <div id="fact-text"></div>
+  </div>
+
+  <div id="hint">tap the carrot</div>
+
+  <script>
+    const stateFacts = [
+      { state: "Alabama",        fact: "Alabama has more navigable waterways than any other state in the nation." },
+      { state: "Alaska",         fact: "Alaska has more coastline than all other U.S. states combined." },
+      { state: "Arizona",        fact: "The Saguaro cactus, native to Arizona, can live over 150 years and grow up to 40 feet tall." },
+      { state: "Arkansas",       fact: "Arkansas is the only U.S. state where diamonds are mined publicly — visitors can keep what they find at Crater of Diamonds State Park." },
+      { state: "California",     fact: "California's economy is the largest of any U.S. state and would rank 5th in the world if it were its own country." },
+      { state: "Colorado",       fact: "Colorado has the highest mean elevation of any U.S. state, at 6,800 feet above sea level." },
+      { state: "Connecticut",    fact: "The first hamburger in the U.S. was served in New Haven, Connecticut in 1895 by Louis Lassen." },
+      { state: "Delaware",       fact: "Delaware was the first state to ratify the U.S. Constitution, earning the nickname 'The First State.'" },
+      { state: "Florida",        fact: "Florida receives more lightning strikes per year than any other state in the U.S." },
+      { state: "Georgia",        fact: "Georgia is the largest state east of the Mississippi River." },
+      { state: "Hawaii",         fact: "Hawaii is the only U.S. state that grows coffee commercially, and it's the only state made entirely of islands." },
+      { state: "Idaho",          fact: "Idaho produces about one-third of all potatoes grown in the United States." },
+      { state: "Illinois",       fact: "Illinois has more personalized license plates than any other state in the U.S." },
+      { state: "Indiana",        fact: "Indiana has more miles of interstate highway per square mile than any other state." },
+      { state: "Iowa",           fact: "Iowa produces more corn than any other state and sits on some of the richest farmland on Earth." },
+      { state: "Kansas",         fact: "Kansas is the geographic center of the contiguous 48 United States." },
+      { state: "Kentucky",       fact: "Kentucky produces around 95% of the world's bourbon whiskey." },
+      { state: "Louisiana",      fact: "Louisiana is the only U.S. state divided into parishes rather than counties." },
+      { state: "Maine",          fact: "Maine is the only U.S. state whose name has just one syllable." },
+      { state: "Maryland",       fact: "Maryland is home to the first umbrella factory in the United States, opened in Baltimore in 1828." },
+      { state: "Massachusetts",  fact: "The first American lighthouse was built on Little Brewster Island in Boston Harbor in 1716." },
+      { state: "Michigan",       fact: "Michigan is the only state in the contiguous U.S. consisting of two separate peninsulas." },
+      { state: "Minnesota",      fact: "Minnesota has over 10,000 lakes — more than California, Florida, and Hawaii combined." },
+      { state: "Mississippi",    fact: "Mississippi is considered the birthplace of the blues, originating in the Mississippi Delta region." },
+      { state: "Missouri",       fact: "The Gateway Arch in St. Louis is the tallest monument in the Western Hemisphere at 630 feet." },
+      { state: "Montana",        fact: "Montana has approximately three times as many cattle as people." },
+      { state: "Nebraska",       fact: "Nebraska is the only U.S. state with a unicameral (single-chamber) legislature." },
+      { state: "Nevada",         fact: "Nevada is the driest state in the U.S., averaging less than 10 inches of rainfall per year." },
+      { state: "New Hampshire",  fact: "New Hampshire was the first state to adopt its own constitution, in January 1776." },
+      { state: "New Jersey",     fact: "New Jersey has more diners per square mile than anywhere else in the world." },
+      { state: "New Mexico",     fact: "Santa Fe, New Mexico, founded in 1610, is the oldest state capital in the U.S." },
+      { state: "New York",       fact: "New York City's Central Park is larger than the entire country of Monaco." },
+      { state: "North Carolina", fact: "The Wright Brothers made the first successful airplane flight at Kitty Hawk, North Carolina in 1903." },
+      { state: "North Dakota",   fact: "North Dakota grows more sunflowers than any other U.S. state." },
+      { state: "Ohio",           fact: "Ohio has produced more U.S. presidents than any other state, including seven total." },
+      { state: "Oklahoma",       fact: "Oklahoma has more man-made lakes than any other state, with over 200 reservoirs." },
+      { state: "Oregon",         fact: "Crater Lake in Oregon is the deepest lake in the United States, at 1,943 feet." },
+      { state: "Pennsylvania",   fact: "Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo, opened in 1874." },
+      { state: "Rhode Island",   fact: "Rhode Island has the longest official state name: 'State of Rhode Island and Providence Plantations.'" },
+      { state: "South Carolina", fact: "South Carolina grows more peaches than Georgia, despite Georgia's 'Peach State' nickname." },
+      { state: "South Dakota",   fact: "South Dakota is home to the Jewel Cave National Monument, one of the longest known caves in the world." },
+      { state: "Tennessee",      fact: "The Great Smoky Mountains in Tennessee is the most visited national park in the United States." },
+      { state: "Texas",          fact: "Texas is the only U.S. state to have been an independent nation before joining the United States." },
+      { state: "Utah",           fact: "Utah's Bonneville Salt Flats are so level you can see the curvature of the Earth on a clear day." },
+      { state: "Vermont",        fact: "Vermont is the leading producer of maple syrup in the United States." },
+      { state: "Virginia",       fact: "Virginia is called the 'Mother of Presidents' — eight U.S. presidents were born there." },
+      { state: "Washington",     fact: "Washington state produces more apples than any other state, accounting for about 70% of U.S. production." },
+      { state: "West Virginia",  fact: "West Virginia is the only state formed by seceding from a Confederate state during the Civil War." },
+      { state: "Wisconsin",      fact: "Wisconsin produces more cheese than any other state, with over 600 varieties." },
+      { state: "Wyoming",        fact: "Wyoming was the first U.S. state to grant women the right to vote, in 1869." },
+    ];
+
+    const colors = [
+      '#FF6B35', '#FF1493', '#9B59B6', '#2980B9',
+      '#27AE60', '#F39C12', '#E74C3C', '#16A085',
+      '#8E44AD', '#D35400',
+    ];
+
+    let colorIdx = 0;
+    const usedFacts = new Set();
+    let factTimer = null;
+
+    // --- Physics ---
+    const WATER_RATIO = 0.52;  // water starts at this fraction from top
+    const SVG_H = 150;
+
+    let posY = 0, velY = 0;
+    let angle = 0, velA = 0;
+
+    const wrapper = document.getElementById('carrot-wrapper');
+
+    function restY() {
+      return window.innerHeight * WATER_RATIO - SVG_H * 0.62;
+    }
+
+    function physicsStep() {
+      const spring = 0.045, damp = 0.91;
+      const aSpring = 0.032, aDamp = 0.87;
+
+      velY += -spring * posY;
+      velY *= damp;
+      posY += velY;
+
+      velA += -aSpring * angle;
+      velA *= aDamp;
+      angle += velA;
+
+      wrapper.style.top  = (restY() + posY) + 'px';
+      wrapper.style.left = '50%';
+      wrapper.style.transform = `translateX(-50%) rotate(${angle.toFixed(2)}deg)`;
+
+      requestAnimationFrame(physicsStep);
+    }
+
+    wrapper.style.top  = restY() + 'px';
+    wrapper.style.left = '50%';
+    wrapper.style.transform = 'translateX(-50%)';
+    requestAnimationFrame(physicsStep);
+
+    window.addEventListener('resize', () => { posY = 0; velY = 0; });
+
+    // --- Tap ---
+    wrapper.addEventListener('click', onTap);
+    wrapper.addEventListener('touchend', e => { e.preventDefault(); onTap(); });
+
+    function onTap() {
+      // Color
+      colorIdx = (colorIdx + 1) % colors.length;
+      document.getElementById('carrot-body').setAttribute('fill', colors[colorIdx]);
+
+      // Physics impulse
+      velY += 9;
+      velA += (Math.random() - 0.5) * 4;
+
+      // Splash
+      splash();
+
+      // Fact
+      showFact();
+    }
+
+    function splash() {
+      const waterY = window.innerHeight * WATER_RATIO;
+      const cx = window.innerWidth / 2;
+      const count = 10;
+
+      for (let i = 0; i < count; i++) {
+        const p = document.createElement('div');
+        p.className = 'particle';
+        const a = (i / count) * Math.PI * 2;
+        const dist = 28 + Math.random() * 44;
+        p.style.setProperty('--tx', (Math.cos(a) * dist) + 'px');
+        p.style.setProperty('--ty', (Math.sin(a) * dist - 30) + 'px');
+        p.style.left = cx + 'px';
+        p.style.top  = waterY + 'px';
+        document.body.appendChild(p);
+        setTimeout(() => p.remove(), 700);
+      }
+    }
+
+    function showFact() {
+      if (usedFacts.size >= stateFacts.length) usedFacts.clear();
+
+      let idx;
+      do { idx = Math.floor(Math.random() * stateFacts.length); }
+      while (usedFacts.has(idx));
+      usedFacts.add(idx);
+
+      const { state, fact } = stateFacts[idx];
+      document.getElementById('fact-state').textContent = state;
+      document.getElementById('fact-text').textContent  = fact;
+
+      const card = document.getElementById('fact-card');
+      card.classList.add('show');
+
+      clearTimeout(factTimer);
+      factTimer = setTimeout(() => card.classList.remove('show'), 4500);
+    }
+  </script>
+</body>
+</html>
