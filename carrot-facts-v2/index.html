@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Carrot Facts v2</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{overflow:hidden;width:100vw;height:100vh;background:#001830;touch-action:manipulation;cursor:pointer;user-select:none;-webkit-user-select:none;-webkit-tap-highlight-color:transparent}
+canvas{display:block}
+#hud{position:fixed;top:14px;right:18px;z-index:10;text-align:right;pointer-events:none}
+#score{font:bold 2.2rem 'Courier New',monospace;color:#fff;text-shadow:2px 2px 0 #000,-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000}
+#mult{font:bold 1.1rem 'Courier New',monospace;color:#FFD700;text-shadow:1px 1px 0 #000;transition:transform .12s}
+#mult.pulse{transform:scale(1.4)}
+#combo-wrap{width:80px;height:4px;background:rgba(255,255,255,.12);border-radius:2px;margin-top:5px;margin-left:auto;overflow:hidden}
+#combo-fill{height:100%;width:0%;background:#FFD700;border-radius:2px}
+#fact-card{position:fixed;top:14px;left:50%;transform:translateX(-50%) translateY(-120px);background:rgba(0,0,0,.78);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border:2px solid rgba(255,255,255,.25);border-radius:14px;padding:10px 18px;max-width:min(360px,82vw);text-align:center;z-index:20;transition:transform .3s ease;pointer-events:none}
+#fact-card.show{transform:translateX(-50%) translateY(0)}
+#fact-state{font:bold .72rem 'Courier New',monospace;color:#FFD700;letter-spacing:.14em;text-transform:uppercase;margin-bottom:4px}
+#fact-text{font:normal .82rem Georgia,serif;color:#eee;line-height:1.45}
+#hint{position:fixed;bottom:8%;left:50%;transform:translateX(-50%);font:.9rem 'Courier New',monospace;color:rgba(255,255,255,.55);letter-spacing:.08em;z-index:10;pointer-events:none;animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+.fs{position:fixed;font:bold 1rem 'Courier New',monospace;color:#FFD700;text-shadow:1px 1px 0 #000;pointer-events:none;z-index:15;animation:fu .8s ease-out forwards}
+@keyframes fu{0%{opacity:1;transform:translateY(0) scale(1)}100%{opacity:0;transform:translateY(-55px) scale(1.4)}}
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="hud">
+  <div id="score">0</div>
+  <div id="mult">x1</div>
+  <div id="combo-wrap"><div id="combo-fill"></div></div>
+</div>
+<div id="fact-card"><div id="fact-state"></div><div id="fact-text"></div></div>
+<div id="hint">tap anywhere</div>
+
+<script>
+// ===================== CANVAS SETUP =====================
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+let W, H, dpr;
+
+function resize() {
+  dpr = Math.min(window.devicePixelRatio || 1, 2);
+  W = window.innerWidth;
+  H = window.innerHeight;
+  canvas.width = W * dpr;
+  canvas.height = H * dpr;
+  canvas.style.width = W + 'px';
+  canvas.style.height = H + 'px';
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+}
+resize();
+window.addEventListener('resize', resize);
+
+// ===================== STATE FACTS =====================
+const FACTS = [
+  { s: "Alabama", f: "Alabama has more navigable waterways than any other state in the nation." },
+  { s: "Alaska", f: "Alaska has more coastline than all other U.S. states combined." },
+  { s: "Arizona", f: "The Saguaro cactus, native to Arizona, can live over 150 years and grow up to 40 feet tall." },
+  { s: "Arkansas", f: "Arkansas is the only U.S. state where diamonds are mined publicly." },
+  { s: "California", f: "California's economy would rank 5th in the world if it were its own country." },
+  { s: "Colorado", f: "Colorado has the highest mean elevation of any U.S. state, at 6,800 feet." },
+  { s: "Connecticut", f: "The first hamburger in the U.S. was served in New Haven, Connecticut in 1895." },
+  { s: "Delaware", f: "Delaware was the first state to ratify the U.S. Constitution." },
+  { s: "Florida", f: "Florida receives more lightning strikes per year than any other state." },
+  { s: "Georgia", f: "Georgia is the largest state east of the Mississippi River." },
+  { s: "Hawaii", f: "Hawaii is the only U.S. state that grows coffee commercially." },
+  { s: "Idaho", f: "Idaho produces about one-third of all potatoes grown in the United States." },
+  { s: "Illinois", f: "Illinois has more personalized license plates than any other state." },
+  { s: "Indiana", f: "Indiana has more miles of interstate highway per square mile than any other state." },
+  { s: "Iowa", f: "Iowa produces more corn than any other state and sits on some of the richest farmland on Earth." },
+  { s: "Kansas", f: "Kansas is the geographic center of the contiguous 48 United States." },
+  { s: "Kentucky", f: "Kentucky produces around 95% of the world's bourbon whiskey." },
+  { s: "Louisiana", f: "Louisiana is the only U.S. state divided into parishes rather than counties." },
+  { s: "Maine", f: "Maine is the only U.S. state whose name has just one syllable." },
+  { s: "Maryland", f: "Maryland is home to the first umbrella factory in the United States." },
+  { s: "Massachusetts", f: "The first American lighthouse was built in Boston Harbor in 1716." },
+  { s: "Michigan", f: "Michigan is the only state consisting of two separate peninsulas." },
+  { s: "Minnesota", f: "Minnesota has over 10,000 lakes, more than California, Florida, and Hawaii combined." },
+  { s: "Mississippi", f: "Mississippi is considered the birthplace of the blues." },
+  { s: "Missouri", f: "The Gateway Arch in St. Louis is the tallest monument in the Western Hemisphere at 630 feet." },
+  { s: "Montana", f: "Montana has approximately three times as many cattle as people." },
+  { s: "Nebraska", f: "Nebraska is the only U.S. state with a unicameral legislature." },
+  { s: "Nevada", f: "Nevada is the driest state in the U.S., averaging less than 10 inches of rainfall per year." },
+  { s: "New Hampshire", f: "New Hampshire was the first state to adopt its own constitution, in January 1776." },
+  { s: "New Jersey", f: "New Jersey has more diners per square mile than anywhere else in the world." },
+  { s: "New Mexico", f: "Santa Fe, founded in 1610, is the oldest state capital in the U.S." },
+  { s: "New York", f: "New York City's Central Park is larger than the entire country of Monaco." },
+  { s: "North Carolina", f: "The Wright Brothers made the first successful airplane flight at Kitty Hawk in 1903." },
+  { s: "North Dakota", f: "North Dakota grows more sunflowers than any other U.S. state." },
+  { s: "Ohio", f: "Ohio has produced more U.S. presidents than any other state, with seven total." },
+  { s: "Oklahoma", f: "Oklahoma has more man-made lakes than any other state, with over 200." },
+  { s: "Oregon", f: "Crater Lake in Oregon is the deepest lake in the United States, at 1,943 feet." },
+  { s: "Pennsylvania", f: "Pennsylvania is home to the nation's first zoo, the Philadelphia Zoo, opened in 1874." },
+  { s: "Rhode Island", f: "Rhode Island has the longest official state name of any U.S. state." },
+  { s: "South Carolina", f: "South Carolina grows more peaches than Georgia, despite Georgia's nickname." },
+  { s: "South Dakota", f: "South Dakota is home to the Jewel Cave, one of the longest known caves in the world." },
+  { s: "Tennessee", f: "The Great Smoky Mountains is the most visited national park in the United States." },
+  { s: "Texas", f: "Texas is the only U.S. state to have been an independent nation before joining the Union." },
+  { s: "Utah", f: "Utah's Bonneville Salt Flats are so level you can see the curvature of the Earth." },
+  { s: "Vermont", f: "Vermont is the leading producer of maple syrup in the United States." },
+  { s: "Virginia", f: "Virginia is called the 'Mother of Presidents'; eight were born there." },
+  { s: "Washington", f: "Washington state produces about 70% of all apples in the U.S." },
+  { s: "West Virginia", f: "West Virginia is the only state formed by seceding from a Confederate state." },
+  { s: "Wisconsin", f: "Wisconsin produces more cheese than any other state, with over 600 varieties." },
+  { s: "Wyoming", f: "Wyoming was the first U.S. state to grant women the right to vote, in 1869." },
+];
+
+const usedFacts = new Set();
+let factTimer = null;
+
+function showFact() {
+  if (usedFacts.size >= FACTS.length) usedFacts.clear();
+  let idx;
+  do { idx = Math.floor(Math.random() * FACTS.length); } while (usedFacts.has(idx));
+  usedFacts.add(idx);
+  document.getElementById('fact-state').textContent = FACTS[idx].s;
+  document.getElementById('fact-text').textContent = FACTS[idx].f;
+  const card = document.getElementById('fact-card');
+  card.classList.add('show');
+  clearTimeout(factTimer);
+  factTimer = setTimeout(() => card.classList.remove('show'), 3500);
+}
+
+// ===================== COLOR PALETTE =====================
+// [highlight, light, mid, shadow]
+const PAL = [
+  ['#FF8844','#FF6B2B','#E85520','#CC4400'], // orange
+  ['#FF7FA0','#FF5C8A','#E04470','#B83055'], // pink
+  ['#C99FEE','#B07FDB','#9560C0','#7540A0'], // purple
+  ['#80CCFF','#5CB3FF','#3C95E0','#2070B8'], // blue
+  ['#7FEE7F','#5CD65C','#40B840','#2E8E2E'], // green
+  ['#FFE580','#FFD34F','#E0B530','#B89020'], // yellow
+  ['#FF8080','#FF5A5A','#E03C3C','#B82020'], // red
+  ['#80EEDF','#4FD6C8','#30B8AA','#208E82'], // teal
+];
+
+// ===================== GAME STATE =====================
+const G = {
+  y: 0, vy: 0,                     // vertical position offset and velocity
+  angle: 0, angVel: 0,             // rotation
+  squash: 1, squashVel: 0,         // squash/stretch
+  score: 0, mult: 1, combo: 0,     // scoring
+  cam: 0,                          // camera Y offset
+  time: 0,                         // elapsed seconds
+  shakeX: 0, shakeY: 0,            // screen shake
+  colorIdx: 0,                     // palette index
+  taps: 0,                         // total taps
+  splashes: [],                    // particle array
+  prevBottom: 0,                   // for water entry detection
+};
+
+// ===================== CONSTANTS =====================
+const CARROT_W = 56;
+const CARROT_H = 120;
+const GRAVITY = 480;
+const TAP_VEL = -270;
+const BUOYANCY = 720;
+const WATER_DRAG = 3.5;
+const AIR_DRAG = 0.15;
+const ANG_SPRING = 8;
+const ANG_DAMP = 5;
+const SQUASH_SPRING = 22;
+const SQUASH_DAMP = 8;
+const COMBO_TIME = 2;
+const MAX_MULT = 50;
+
+// ===================== HELPERS =====================
+function waterBase() { return H * 0.55; }
+function restY() { return waterBase() - 35; }
+function carrotY() { return restY() + G.y; }
+
+function waveAt(x, t) {
+  return Math.sin(x * 0.018 + t * 1.8) * 10
+       + Math.sin(x * 0.042 + t * 1.2) * 4
+       + Math.sin(x * 0.007 + t * 0.5) * 6;
+}
+
+function lerpColor(a, b, t) {
+  const p = (s, i) => parseInt(s.slice(i, i + 2), 16);
+  const m = (v1, v2) => Math.round(v1 + (v2 - v1) * t);
+  return `rgb(${m(p(a,1),p(b,1))},${m(p(a,3),p(b,3))},${m(p(a,5),p(b,5))})`;
+}
+
+// ===================== DRAW SKY =====================
+function drawSky(cam) {
+  const alt = Math.max(0, -cam) / H;
+  const dark = Math.min(1, alt * 0.12);
+
+  const grad = ctx.createLinearGradient(0, 0, 0, H);
+  grad.addColorStop(0, lerpColor('#87CEEB', '#0a0a30', dark));
+  grad.addColorStop(1, lerpColor('#CCE8F0', '#1a1040', dark));
+  ctx.fillStyle = grad;
+  ctx.fillRect(0, 0, W, H);
+
+  // Clouds (fade with altitude)
+  if (dark < 0.6) {
+    const a = 0.25 * (1 - dark * 1.6);
+    ctx.fillStyle = `rgba(255,255,255,${a})`;
+    for (let i = 0; i < 6; i++) {
+      const cx = ((i * 187 + G.time * 6) % (W + 200)) - 100;
+      const cy = H * 0.12 + i * 35 - cam * 0.25;
+      ctx.beginPath();
+      ctx.ellipse(cx, cy, 55 + i * 12, 16 + i * 2, 0, 0, Math.PI * 2);
+      ctx.fill();
+    }
+  }
+
+  // Stars at high altitude
+  if (dark > 0.25) {
+    const sa = Math.min(1, (dark - 0.25) * 1.5);
+    ctx.fillStyle = `rgba(255,255,255,${sa})`;
+    for (let i = 0; i < 80; i++) {
+      const sx = (i * 137.5 + 42) % W;
+      const sy = (i * 89.3 + 17) % (H * 0.75);
+      const sz = 1 + (i % 3);
+      ctx.fillRect(sx, sy, sz, sz);
+    }
+  }
+}
+
+// ===================== DRAW CARROT =====================
+function bodyPath(bw, topY, botY) {
+  const midY = topY + (botY - topY) * 0.45;
+  ctx.beginPath();
+  ctx.moveTo(0, topY);
+  ctx.bezierCurveTo(bw * 0.9, topY, bw, topY + (midY - topY) * 0.6, bw, midY);
+  ctx.bezierCurveTo(bw * 0.95, midY + (botY - midY) * 0.4, bw * 0.35, botY - 8, 0, botY);
+  ctx.bezierCurveTo(-bw * 0.35, botY - 8, -bw * 0.95, midY + (botY - midY) * 0.4, -bw, midY);
+  ctx.bezierCurveTo(-bw, topY + (midY - topY) * 0.6, -bw * 0.9, topY, 0, topY);
+  ctx.closePath();
+}
+
+function drawLeaves(topY) {
+  const leaves = [
+    { a: -0.55, len: 38, w: 13 },
+    { a: -0.15, len: 45, w: 11 },
+    { a: 0.22, len: 40, w: 12 },
+    { a: 0.52, len: 34, w: 11 },
+  ];
+  const greens = [
+    ['#4CAF50','#2E7D32'], ['#66BB6A','#388E3C'],
+    ['#81C784','#43A047'], ['#4CAF50','#2E7D32'],
+  ];
+
+  for (let i = 0; i < leaves.length; i++) {
+    const { a, len, w } = leaves[i];
+    const [light, dark] = greens[i];
+    ctx.save();
+    ctx.translate(0, topY);
+    ctx.rotate(a);
+
+    // Leaf shape
+    const pts = [
+      [0, 0], [-w * 0.5, -len * 0.35], [-w * 0.25, -len * 0.7],
+      [0, -len], [w * 0.25, -len * 0.7], [w * 0.5, -len * 0.35],
+    ];
+
+    // Left half (light)
+    ctx.beginPath();
+    ctx.moveTo(0, 0);
+    ctx.lineTo(pts[1][0], pts[1][1]);
+    ctx.lineTo(pts[2][0], pts[2][1]);
+    ctx.lineTo(pts[3][0], pts[3][1]);
+    ctx.lineTo(0, 0);
+    ctx.fillStyle = light;
+    ctx.fill();
+
+    // Right half (dark)
+    ctx.beginPath();
+    ctx.moveTo(0, 0);
+    ctx.lineTo(pts[3][0], pts[3][1]);
+    ctx.lineTo(pts[4][0], pts[4][1]);
+    ctx.lineTo(pts[5][0], pts[5][1]);
+    ctx.lineTo(0, 0);
+    ctx.fillStyle = dark;
+    ctx.fill();
+
+    // Outline
+    ctx.beginPath();
+    ctx.moveTo(pts[0][0], pts[0][1]);
+    for (let j = 1; j < pts.length; j++) ctx.lineTo(pts[j][0], pts[j][1]);
+    ctx.closePath();
+    ctx.strokeStyle = '#1a1a1a';
+    ctx.lineWidth = 2;
+    ctx.lineJoin = 'round';
+    ctx.stroke();
+
+    // Vein
+    ctx.beginPath();
+    ctx.moveTo(0, -2);
+    ctx.lineTo(0, -len * 0.85);
+    ctx.strokeStyle = 'rgba(0,0,0,0.2)';
+    ctx.lineWidth = 1.5;
+    ctx.stroke();
+
+    ctx.restore();
+  }
+}
+
+function drawCarrot(cx, cy) {
+  const pal = PAL[G.colorIdx];
+  const bw = CARROT_W / 2;
+  const topY = -CARROT_H * 0.35;
+  const botY = CARROT_H * 0.65;
+
+  ctx.save();
+  ctx.translate(cx, cy);
+  ctx.rotate(G.angle);
+  ctx.scale(1 / G.squash, G.squash);
+
+  // Glow at high multiplier
+  if (G.mult >= 5) {
+    const gs = 70 + G.mult * 2;
+    const ga = Math.min(0.35, G.mult * 0.012);
+    const glow = ctx.createRadialGradient(0, 10, 0, 0, 10, gs);
+    glow.addColorStop(0, `rgba(255,200,80,${ga})`);
+    glow.addColorStop(1, 'rgba(255,200,80,0)');
+    ctx.fillStyle = glow;
+    ctx.beginPath();
+    ctx.arc(0, 10, gs, 0, Math.PI * 2);
+    ctx.fill();
+  }
+
+  // Leaves (behind body)
+  drawLeaves(topY);
+
+  // Body fill with cel-shaded zones
+  ctx.save();
+  bodyPath(bw, topY, botY);
+  ctx.clip();
+
+  // 4 vertical color bands: highlight, light, mid, shadow
+  ctx.fillStyle = pal[3]; // shadow base
+  ctx.fillRect(-bw - 2, topY - 2, bw * 2 + 4, botY - topY + 4);
+  ctx.fillStyle = pal[2]; // mid
+  ctx.fillRect(-bw - 2, topY - 2, bw * 1.5, botY - topY + 4);
+  ctx.fillStyle = pal[1]; // light
+  ctx.fillRect(-bw - 2, topY - 2, bw * 0.85, botY - topY + 4);
+  ctx.fillStyle = pal[0]; // highlight
+  ctx.fillRect(-bw - 2, topY - 2, bw * 0.35, botY - topY + 4);
+
+  // Specular highlight
+  ctx.fillStyle = 'rgba(255,240,220,0.35)';
+  ctx.beginPath();
+  ctx.ellipse(-bw * 0.48, topY + (botY - topY) * 0.28, bw * 0.1, (botY - topY) * 0.2, 0.1, 0, Math.PI * 2);
+  ctx.fill();
+
+  // Horizontal segment lines (faceted look)
+  ctx.strokeStyle = 'rgba(0,0,0,0.1)';
+  ctx.lineWidth = 1.5;
+  const segs = 7;
+  for (let i = 1; i < segs; i++) {
+    const sy = topY + (botY - topY) * (i / segs);
+    const t = i / segs;
+    const sw = bw * (1 - Math.pow(t - 0.35, 2) * 2.2);
+    ctx.beginPath();
+    ctx.moveTo(-sw, sy);
+    ctx.quadraticCurveTo(0, sy - 3, sw, sy);
+    ctx.stroke();
+  }
+
+  ctx.restore(); // unclip
+
+  // Bold outline
+  bodyPath(bw, topY, botY);
+  ctx.strokeStyle = '#1a1a1a';
+  ctx.lineWidth = 3;
+  ctx.lineJoin = 'round';
+  ctx.stroke();
+
+  ctx.restore();
+}
+
+// ===================== DRAW WATER =====================
+function drawWater(baseY, cam, t) {
+  const surfY = baseY - cam;
+
+  // Wave surface path + fill to bottom
+  ctx.beginPath();
+  ctx.moveTo(-5, H + 5);
+  for (let x = -5; x <= W + 5; x += 3) {
+    ctx.lineTo(x, surfY + waveAt(x, t));
+  }
+  ctx.lineTo(W + 5, H + 5);
+  ctx.closePath();
+
+  // Hard-banded gradient (video game style)
+  const waterGrad = ctx.createLinearGradient(0, surfY, 0, H);
+  waterGrad.addColorStop(0, '#2090E0');
+  waterGrad.addColorStop(0.22, '#2090E0');
+  waterGrad.addColorStop(0.23, '#1565C0');
+  waterGrad.addColorStop(0.52, '#1565C0');
+  waterGrad.addColorStop(0.53, '#0D47A1');
+  waterGrad.addColorStop(0.79, '#0D47A1');
+  waterGrad.addColorStop(0.80, '#002255');
+  waterGrad.addColorStop(1, '#002255');
+  ctx.fillStyle = waterGrad;
+  ctx.fill();
+
+  // Caustic highlights
+  ctx.save();
+  ctx.beginPath();
+  ctx.moveTo(-5, H + 5);
+  for (let x = -5; x <= W + 5; x += 3) {
+    ctx.lineTo(x, surfY + waveAt(x, t));
+  }
+  ctx.lineTo(W + 5, H + 5);
+  ctx.closePath();
+  ctx.clip();
+  ctx.globalAlpha = 0.06;
+  ctx.fillStyle = '#88DDFF';
+  for (let i = 0; i < 12; i++) {
+    const ex = ((i * 137.5 + t * 22) % (W + 80)) - 40;
+    const ey = surfY + 25 + ((i * 89.3 + t * 10) % Math.max(1, H - surfY));
+    const rx = 28 + Math.sin(i * 2.1 + t * 0.8) * 14;
+    const ry = 14 + Math.cos(i * 1.7 + t * 0.6) * 7;
+    ctx.beginPath();
+    ctx.ellipse(ex, ey, rx, ry, i * 0.5 + t * 0.15, 0, Math.PI * 2);
+    ctx.fill();
+  }
+  ctx.globalAlpha = 1;
+  ctx.restore();
+
+  // Surface highlight line
+  ctx.beginPath();
+  for (let x = -5; x <= W + 5; x += 3) {
+    const wy = surfY + waveAt(x, t);
+    if (x === -5) ctx.moveTo(x, wy); else ctx.lineTo(x, wy);
+  }
+  ctx.strokeStyle = 'rgba(160,225,255,0.55)';
+  ctx.lineWidth = 3;
+  ctx.stroke();
+
+  // Dark edge below surface
+  ctx.beginPath();
+  for (let x = -5; x <= W + 5; x += 3) {
+    const wy = surfY + waveAt(x, t) + 4;
+    if (x === -5) ctx.moveTo(x, wy); else ctx.lineTo(x, wy);
+  }
+  ctx.strokeStyle = 'rgba(0,30,80,0.3)';
+  ctx.lineWidth = 2;
+  ctx.stroke();
+
+  // Foam on wave peaks
+  ctx.fillStyle = 'rgba(255,255,255,0.18)';
+  for (let x = 0; x < W; x += 5) {
+    const wy = surfY + waveAt(x, t);
+    const slope = waveAt(x + 3, t) - waveAt(x - 3, t);
+    if (slope > 0.8) {
+      ctx.fillRect(x, wy - 1, 5, 3);
+    }
+  }
+}
+
+// ===================== SPLASH PARTICLES =====================
+function spawnSplash(cx, wy, vel) {
+  const count = Math.min(25, 6 + Math.abs(vel) * 0.015 + G.mult * 0.3);
+  const speed = Math.min(380, 80 + Math.abs(vel) * 0.6);
+
+  for (let i = 0; i < count; i++) {
+    const ang = -Math.PI * 0.12 - Math.random() * Math.PI * 0.76;
+    const spd = speed * (0.3 + Math.random() * 0.7);
+    const dir = Math.random() > 0.5 ? 1 : -1;
+    G.splashes.push({
+      x: cx + (Math.random() - 0.5) * 30,
+      y: wy,
+      vx: Math.cos(ang) * spd * dir,
+      vy: Math.sin(ang) * spd,
+      size: 2.5 + Math.random() * 4.5,
+      life: 1,
+      decay: 1.2 + Math.random() * 0.6,
+    });
+  }
+}
+
+function updateSplashes(dt) {
+  for (let i = G.splashes.length - 1; i >= 0; i--) {
+    const s = G.splashes[i];
+    s.vy += GRAVITY * dt;
+    s.x += s.vx * dt;
+    s.y += s.vy * dt;
+    s.life -= s.decay * dt;
+    if (s.life <= 0) G.splashes.splice(i, 1);
+  }
+  // Cap particles
+  if (G.splashes.length > 120) G.splashes.splice(0, G.splashes.length - 120);
+}
+
+function drawSplashes(cam) {
+  for (const s of G.splashes) {
+    const sy = s.y - cam;
+    if (sy < -20 || sy > H + 20) continue;
+    ctx.globalAlpha = Math.max(0, s.life * 0.8);
+    ctx.fillStyle = '#6EC6FF';
+    ctx.strokeStyle = '#1a1a1a';
+    ctx.lineWidth = 1.5;
+    ctx.beginPath();
+    ctx.arc(s.x, sy, s.size, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.stroke();
+  }
+  ctx.globalAlpha = 1;
+}
+
+// ===================== PHYSICS =====================
+function updatePhysics(dt) {
+  const wl = waterBase();
+  const bottom = carrotY() + CARROT_H * 0.4;
+  const submerged = Math.max(0, (bottom - wl) / CARROT_H);
+
+  // Gravity
+  G.vy += GRAVITY * dt;
+
+  // Buoyancy and drag when submerged
+  if (submerged > 0) {
+    G.vy -= BUOYANCY * submerged * dt;
+    G.vy *= (1 - WATER_DRAG * dt);
+  } else {
+    G.vy *= (1 - AIR_DRAG * dt);
+  }
+
+  G.y += G.vy * dt;
+
+  // Angular spring
+  G.angVel -= ANG_SPRING * G.angle * dt;
+  G.angVel -= ANG_DAMP * G.angVel * dt;
+  G.angle += G.angVel * dt;
+
+  // Squash spring
+  G.squashVel += (1 - G.squash) * SQUASH_SPRING * dt;
+  G.squashVel -= G.squashVel * SQUASH_DAMP * dt;
+  G.squash += G.squashVel * dt;
+
+  // Combo timer
+  if (G.combo > 0) {
+    G.combo -= dt;
+    if (G.combo <= 0) {
+      G.combo = 0;
+      G.mult = 1;
+      updateHUD();
+    }
+  }
+
+  // Screen shake decay
+  G.shakeX *= 0.85;
+  G.shakeY *= 0.85;
+
+  // Camera follow
+  const target = Math.min(0, carrotY() - H * 0.35);
+  G.cam += (target - G.cam) * 3 * dt;
+
+  // Water entry splash detection
+  const newBottom = carrotY() + CARROT_H * 0.4;
+  if (G.prevBottom < wl && newBottom >= wl && G.vy > 40) {
+    spawnSplash(W / 2, wl, G.vy * 0.6);
+  }
+  G.prevBottom = newBottom;
+}
+
+// ===================== INPUT =====================
+let touchUsed = false;
+
+canvas.addEventListener('touchstart', function(e) {
+  e.preventDefault();
+  touchUsed = true;
+  onTap(e.touches[0].clientX, e.touches[0].clientY);
+}, { passive: false });
+
+canvas.addEventListener('click', function(e) {
+  if (touchUsed) { touchUsed = false; return; }
+  onTap(e.clientX, e.clientY);
+});
+
+function onTap(tx, ty) {
+  // Hide hint on first tap
+  const hint = document.getElementById('hint');
+  if (hint) hint.style.display = 'none';
+
+  // Physics impulse
+  G.vy += TAP_VEL;
+  G.angVel += (Math.random() - 0.5) * 8;
+  G.squash = 0.72;
+  G.squashVel = 0;
+
+  // Screen shake (scales with multiplier)
+  const shakeAmt = 2 + Math.min(6, G.mult * 0.2);
+  G.shakeX = (Math.random() - 0.5) * shakeAmt;
+  G.shakeY = (Math.random() - 0.5) * shakeAmt;
+
+  // Cycle color
+  G.colorIdx = (G.colorIdx + 1) % PAL.length;
+
+  // Scoring
+  const aboveWater = waterBase() - carrotY();
+  const gain = aboveWater > 0 ? 0.5 : 0.15;
+  G.mult = Math.min(MAX_MULT, G.mult + gain);
+  G.combo = COMBO_TIME;
+  const pts = Math.floor(10 * G.mult);
+  G.score += pts;
+  G.taps++;
+
+  updateHUD();
+  floatScore(tx, ty, pts);
+
+  // Splash at waterline
+  spawnSplash(W / 2, waterBase(), G.vy);
+
+  // Show fact
+  showFact();
+}
+
+// ===================== HUD =====================
+function updateHUD() {
+  document.getElementById('score').textContent = G.score.toLocaleString();
+  const mel = document.getElementById('mult');
+  mel.textContent = 'x' + Math.floor(G.mult);
+
+  if (G.mult >= 20) mel.style.color = '#FF4444';
+  else if (G.mult >= 10) mel.style.color = '#FF8800';
+  else if (G.mult >= 5) mel.style.color = '#FFDD00';
+  else mel.style.color = '#FFD700';
+
+  mel.classList.remove('pulse');
+  void mel.offsetWidth; // force reflow
+  mel.classList.add('pulse');
+
+  // Combo bar color matches multiplier
+  document.getElementById('combo-fill').style.background = mel.style.color;
+}
+
+function floatScore(x, y, pts) {
+  const el = document.createElement('div');
+  el.className = 'fs';
+  el.textContent = '+' + pts;
+  el.style.left = x + 'px';
+  el.style.top = y + 'px';
+  el.style.fontSize = Math.min(2.2, 1 + G.mult * 0.02) + 'rem';
+  document.body.appendChild(el);
+  setTimeout(() => el.remove(), 820);
+}
+
+// ===================== GAME LOOP =====================
+let lastT = performance.now();
+
+function loop(now) {
+  const dt = Math.min(0.05, (now - lastT) / 1000);
+  lastT = now;
+  G.time += dt;
+
+  updatePhysics(dt);
+  updateSplashes(dt);
+
+  // Combo bar
+  const fillPct = G.combo > 0 ? (G.combo / COMBO_TIME * 100) : 0;
+  document.getElementById('combo-fill').style.width = fillPct + '%';
+
+  // Render
+  ctx.clearRect(0, 0, W, H);
+  ctx.save();
+  ctx.translate(G.shakeX, G.shakeY);
+
+  drawSky(G.cam);
+
+  // Carrot (rendered before water so water covers submerged part)
+  const cx = W / 2;
+  const cy = carrotY() - G.cam;
+  drawCarrot(cx, cy);
+
+  // Water (on top of carrot)
+  drawWater(waterBase(), G.cam, G.time);
+
+  // Splashes (on top of water)
+  drawSplashes(G.cam);
+
+  ctx.restore();
+
+  requestAnimationFrame(loop);
+}
+
+requestAnimationFrame(loop);
+</script>
+</body>
+</html>
