@@ -1,0 +1,1256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claude Hub — Resources, Best Practices & Inspiration</title>
+  <meta name="description" content="The definitive resource hub for getting the most out of Claude. Best practices for every product, fresh updates, curated links, and workflow inspiration for all kinds of users.">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #07070f;
+      --surface: #0f0f1e;
+      --card: #13132a;
+      --card-hover: #1c1c38;
+      --border: #252545;
+      --border-light: #38387a;
+      --purple: #8b5cf6;
+      --purple-light: #a78bfa;
+      --purple-dark: #6d28d9;
+      --pink: #ec4899;
+      --gradient: linear-gradient(135deg, #6d28d9 0%, #8b5cf6 40%, #a855f7 70%, #ec4899 100%);
+      --text: #e2e8f0;
+      --text-muted: #94a3b8;
+      --text-dim: #4a5568;
+      --radius: 14px;
+      --radius-sm: 8px;
+      --nav-h: 60px;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.65;
+    }
+
+    /* NAV */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      height: var(--nav-h);
+      background: rgba(7, 7, 15, 0.9);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      padding: 0 2rem;
+      gap: 2rem;
+    }
+
+    .nav-logo {
+      font-weight: 800;
+      font-size: 1rem;
+      background: var(--gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      white-space: nowrap;
+      text-decoration: none;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 0.125rem;
+      overflow-x: auto;
+      scrollbar-width: none;
+      flex: 1;
+    }
+
+    .nav-links::-webkit-scrollbar { display: none; }
+
+    .nav-link {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 0.85rem;
+      padding: 0.4rem 0.875rem;
+      border-radius: 6px;
+      white-space: nowrap;
+      transition: color 0.15s, background 0.15s;
+    }
+
+    .nav-link:hover { color: var(--text); background: rgba(255,255,255,0.06); }
+
+    /* LAYOUT */
+    .container { max-width: 1200px; margin: 0 auto; padding: 0 2rem; }
+
+    section { padding: 5.5rem 0; }
+
+    .section-label {
+      font-size: 0.72rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--purple-light);
+      margin-bottom: 0.75rem;
+    }
+
+    h2 {
+      font-size: clamp(1.8rem, 4vw, 2.75rem);
+      font-weight: 800;
+      margin-bottom: 0.875rem;
+      line-height: 1.15;
+    }
+
+    .section-desc {
+      color: var(--text-muted);
+      font-size: 1.05rem;
+      max-width: 580px;
+      margin-bottom: 3.5rem;
+    }
+
+    .divider {
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--border), transparent);
+    }
+
+    /* HERO */
+    #hero {
+      padding: 8rem 0 5.5rem;
+      text-align: center;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: rgba(139, 92, 246, 0.12);
+      border: 1px solid rgba(139, 92, 246, 0.3);
+      color: var(--purple-light);
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      padding: 0.4rem 1.1rem;
+      border-radius: 999px;
+      margin-bottom: 2rem;
+    }
+
+    .hero-badge span { opacity: 0.6; }
+
+    #hero h1 {
+      font-size: clamp(2.8rem, 8vw, 5rem);
+      font-weight: 900;
+      line-height: 1.0;
+      letter-spacing: -0.02em;
+      margin-bottom: 1.5rem;
+      background: linear-gradient(135deg, #f1f5f9 0%, var(--purple-light) 50%, #f472b6 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hero-sub {
+      font-size: 1.2rem;
+      color: var(--text-muted);
+      max-width: 600px;
+      margin: 0 auto 3rem;
+    }
+
+    .hero-ctas {
+      display: flex;
+      gap: 0.875rem;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 4rem;
+    }
+
+    .btn-primary {
+      background: var(--purple);
+      color: #fff;
+      border: none;
+      padding: 0.8rem 1.875rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.925rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background 0.15s, transform 0.1s, box-shadow 0.15s;
+      box-shadow: 0 0 20px rgba(139, 92, 246, 0.3);
+    }
+
+    .btn-primary:hover {
+      background: var(--purple-light);
+      transform: translateY(-1px);
+      box-shadow: 0 0 30px rgba(139, 92, 246, 0.45);
+    }
+
+    .btn-secondary {
+      background: transparent;
+      color: var(--text-muted);
+      border: 1px solid var(--border-light);
+      padding: 0.8rem 1.875rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.925rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: color 0.15s, border-color 0.15s, transform 0.1s;
+    }
+
+    .btn-secondary:hover {
+      color: var(--text);
+      border-color: var(--purple-light);
+      transform: translateY(-1px);
+    }
+
+    .hero-stats {
+      display: flex;
+      gap: 3rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .hero-stat {
+      text-align: center;
+    }
+
+    .hero-stat .stat-num {
+      font-size: 1.5rem;
+      font-weight: 800;
+      background: var(--gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hero-stat .stat-label {
+      font-size: 0.8rem;
+      color: var(--text-dim);
+    }
+
+    /* PRODUCTS */
+    .products-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .product-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      transition: border-color 0.2s, transform 0.2s, background 0.2s;
+    }
+
+    .product-card:hover {
+      border-color: var(--purple);
+      background: var(--card-hover);
+      transform: translateY(-3px);
+    }
+
+    .product-icon { font-size: 2rem; margin-bottom: 1rem; }
+
+    .product-card h3 {
+      font-size: 1.15rem;
+      font-weight: 800;
+      margin-bottom: 0.35rem;
+    }
+
+    .product-desc {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 1.5rem;
+    }
+
+    .practice-heading {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-dim);
+      margin-bottom: 0.75rem;
+    }
+
+    .practice-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+      margin-bottom: 1.75rem;
+      flex: 1;
+    }
+
+    .practice-list li {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      padding-left: 1.4rem;
+      position: relative;
+    }
+
+    .practice-list li::before {
+      content: "→";
+      position: absolute;
+      left: 0;
+      color: var(--purple-light);
+      font-size: 0.8rem;
+    }
+
+    .product-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      color: var(--purple-light);
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+      transition: color 0.15s, gap 0.15s;
+    }
+
+    .product-link:hover { color: #fff; gap: 0.6rem; }
+
+    /* NEWS STRIP */
+    .news-strip {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem 2rem;
+      margin-bottom: 3.5rem;
+    }
+
+    .news-strip-label {
+      font-size: 0.7rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--purple-light);
+      margin-bottom: 1rem;
+    }
+
+    .news-items {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1.25rem;
+    }
+
+    .news-item {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+
+    .news-item .news-date {
+      font-size: 0.72rem;
+      color: var(--text-dim);
+      font-weight: 600;
+    }
+
+    .news-item a {
+      color: var(--text);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 700;
+      line-height: 1.3;
+      transition: color 0.15s;
+    }
+
+    .news-item a:hover { color: var(--purple-light); }
+
+    .news-item p {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    /* SOCIALS */
+    .socials-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(265px, 1fr));
+      gap: 1rem;
+    }
+
+    .social-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      text-decoration: none;
+      color: var(--text);
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      transition: border-color 0.2s, background 0.2s, transform 0.2s;
+    }
+
+    .social-card:hover {
+      border-color: var(--purple);
+      background: var(--card-hover);
+      transform: translateY(-2px);
+    }
+
+    .social-card.featured {
+      border-color: rgba(139, 92, 246, 0.35);
+      background: rgba(109, 40, 217, 0.08);
+    }
+
+    .social-card.featured:hover {
+      border-color: var(--purple-light);
+      background: rgba(109, 40, 217, 0.14);
+    }
+
+    .social-icon-wrap {
+      font-size: 1.5rem;
+      flex-shrink: 0;
+      width: 2.75rem;
+      height: 2.75rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(139, 92, 246, 0.1);
+      border-radius: var(--radius-sm);
+    }
+
+    .social-card .social-handle {
+      font-weight: 800;
+      font-size: 0.95rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .social-card .social-platform {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-dim);
+      margin-bottom: 0.4rem;
+    }
+
+    .social-card .social-desc {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      line-height: 1.45;
+    }
+
+    .featured-tag {
+      display: inline-block;
+      background: rgba(139, 92, 246, 0.2);
+      color: var(--purple-light);
+      font-size: 0.65rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      margin-bottom: 0.4rem;
+    }
+
+    /* RESOURCES */
+    .resources-group { margin-bottom: 2.75rem; }
+
+    .resources-group-title {
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.11em;
+      color: var(--text-dim);
+      margin-bottom: 1rem;
+      padding-bottom: 0.6rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .resources-links {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(215px, 1fr));
+      gap: 0.75rem;
+    }
+
+    .resource-link {
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      padding: 0.9rem 1rem;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      text-decoration: none;
+      color: var(--text);
+      font-size: 0.875rem;
+      font-weight: 600;
+      transition: border-color 0.15s, background 0.15s, color 0.15s;
+    }
+
+    .resource-link:hover {
+      border-color: var(--purple);
+      background: var(--card-hover);
+      color: var(--purple-light);
+    }
+
+    .rl-icon { font-size: 1.05rem; flex-shrink: 0; }
+
+    /* GUIDES */
+    .guides-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.25rem;
+    }
+
+    .guide-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.75rem;
+      text-decoration: none;
+      color: var(--text);
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+      transition: border-color 0.2s, background 0.2s, transform 0.2s;
+    }
+
+    .guide-card:hover {
+      border-color: var(--purple);
+      background: var(--card-hover);
+      transform: translateY(-2px);
+    }
+
+    .guide-tag {
+      font-size: 0.7rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--purple-light);
+    }
+
+    .guide-card h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.3;
+    }
+
+    .guide-card p {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      flex: 1;
+      line-height: 1.5;
+    }
+
+    .guide-arrow {
+      color: var(--purple-light);
+      font-size: 0.82rem;
+      font-weight: 700;
+      margin-top: 0.625rem;
+    }
+
+    /* INSPIRATION */
+    .inspo-intro {
+      background: linear-gradient(135deg, rgba(109, 40, 217, 0.08), rgba(236, 72, 153, 0.04));
+      border: 1px solid rgba(139, 92, 246, 0.18);
+      border-radius: var(--radius);
+      padding: 1.875rem 2rem;
+      margin-bottom: 3rem;
+    }
+
+    .inspo-intro p {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      line-height: 1.65;
+    }
+
+    .inspo-intro strong { color: var(--text); }
+
+    .inspiration-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.25rem;
+    }
+
+    .inspo-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.75rem;
+      transition: border-color 0.2s, background 0.2s;
+    }
+
+    .inspo-card:hover {
+      border-color: var(--border-light);
+      background: var(--card-hover);
+    }
+
+    .inspo-header {
+      display: flex;
+      align-items: center;
+      gap: 0.875rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .inspo-emoji { font-size: 1.625rem; }
+
+    .inspo-card h3 {
+      font-size: 1rem;
+      font-weight: 800;
+    }
+
+    .inspo-desc {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 1.25rem;
+      line-height: 1.5;
+    }
+
+    .inspo-prompt {
+      background: rgba(0, 0, 0, 0.35);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--purple);
+      border-radius: 0 4px 4px 0;
+      padding: 0.875rem 1rem;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      font-style: italic;
+      line-height: 1.5;
+    }
+
+    .inspo-prompt-label {
+      display: block;
+      font-style: normal;
+      font-weight: 800;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--purple-light);
+      margin-bottom: 0.35rem;
+    }
+
+    /* FOOTER */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 3rem 2rem;
+      text-align: center;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .footer-logo {
+      font-size: 1rem;
+      font-weight: 800;
+      background: var(--gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 0.75rem;
+    }
+
+    .footer-note {
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      max-width: 480px;
+      margin: 0 auto 1.5rem;
+      line-height: 1.55;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 1.5rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .footer-links a {
+      color: var(--text-dim);
+      text-decoration: none;
+      font-size: 0.82rem;
+      transition: color 0.15s;
+    }
+
+    .footer-links a:hover { color: var(--purple-light); }
+
+    /* RESPONSIVE */
+    @media (max-width: 700px) {
+      nav { padding: 0 1.25rem; gap: 1rem; }
+      .container { padding: 0 1.25rem; }
+      section { padding: 3.5rem 0; }
+      #hero { padding: 5rem 0 3.5rem; }
+      .products-grid,
+      .socials-grid,
+      .guides-grid,
+      .inspiration-grid { grid-template-columns: 1fr; }
+      .hero-stats { gap: 2rem; }
+      .news-items { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a href="#" class="nav-logo">Claude Hub</a>
+    <div class="nav-links">
+      <a href="#products" class="nav-link">Products</a>
+      <a href="#updates" class="nav-link">Stay Updated</a>
+      <a href="#resources" class="nav-link">Resources</a>
+      <a href="#guides" class="nav-link">Guides</a>
+      <a href="#inspiration" class="nav-link">Inspiration</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <div class="container">
+    <section id="hero">
+      <div class="hero-badge"><span>✦</span> Community Resource Hub <span>✦</span></div>
+      <h1>Get More From Claude</h1>
+      <p class="hero-sub">Best practices, curated links, fresh updates, and real-world inspiration for every Claude product — whether you're just starting out or going deep.</p>
+      <div class="hero-ctas">
+        <a href="#products" class="btn-primary">Explore Products</a>
+        <a href="#inspiration" class="btn-secondary">See Use Cases</a>
+      </div>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <div class="stat-num">5</div>
+          <div class="stat-label">Products Covered</div>
+        </div>
+        <div class="hero-stat">
+          <div class="stat-num">40+</div>
+          <div class="stat-label">Curated Links</div>
+        </div>
+        <div class="hero-stat">
+          <div class="stat-num">12</div>
+          <div class="stat-label">Workflow Inspirations</div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- PRODUCTS -->
+  <div class="container">
+    <section id="products">
+      <div class="section-label">Best Practices</div>
+      <h2>Every Claude Product</h2>
+      <p class="section-desc">Tips and workflows to get the most out of each product, whether you're using Claude personally or at work.</p>
+
+      <div class="products-grid">
+
+        <!-- Claude.ai -->
+        <div class="product-card">
+          <div class="product-icon">🌐</div>
+          <h3>Claude.ai</h3>
+          <p class="product-desc">The main web interface. Where most people start — and where a lot of power users live.</p>
+          <div class="practice-heading">Best Practices</div>
+          <ul class="practice-list">
+            <li>Use <strong>Projects</strong> to maintain context across long conversations — no re-explaining every session</li>
+            <li>Set a <strong>custom system prompt</strong> in Project settings to define tone, format, and persona</li>
+            <li>Upload files, images, and PDFs — Claude can analyze, summarize, and extract information directly</li>
+            <li>Browse the <strong>Prompt Library</strong> when you're not sure how to ask for what you need</li>
+            <li>Use the <strong>Artifacts</strong> panel to generate and refine code, documents, and diagrams in-session</li>
+          </ul>
+          <a href="https://claude.ai" target="_blank" rel="noopener" class="product-link">Open Claude.ai →</a>
+        </div>
+
+        <!-- Claude for Desktop -->
+        <div class="product-card">
+          <div class="product-icon">💻</div>
+          <h3>Claude for Desktop</h3>
+          <p class="product-desc">Native Mac and Windows app. Faster, integrates with your OS, and supports computer use.</p>
+          <div class="practice-heading">Best Practices</div>
+          <ul class="practice-list">
+            <li>Enable <strong>computer use</strong> (research preview, Pro/Max) to let Claude operate your desktop autonomously</li>
+            <li>Grant <strong>local file system access</strong> so Claude can read and write files without copy-paste</li>
+            <li>Use the global keyboard shortcut to summon Claude from anywhere without switching windows</li>
+            <li>Pair with Projects for persistent context that carries over every time you open the app</li>
+            <li>Great for long research sessions — the desktop app handles large file uploads more smoothly</li>
+          </ul>
+          <a href="https://claude.com/download" target="_blank" rel="noopener" class="product-link">Download the App →</a>
+        </div>
+
+        <!-- Claude Mobile -->
+        <div class="product-card">
+          <div class="product-icon">📱</div>
+          <h3>Claude Mobile</h3>
+          <p class="product-desc">iOS and Android. Full Claude in your pocket with voice, camera, and share-sheet integration.</p>
+          <div class="practice-heading">Best Practices</div>
+          <ul class="practice-list">
+            <li>Use <strong>Voice mode</strong> for commute conversations, brainstorming walks, or hands-free journaling</li>
+            <li>Point your camera at anything — menus, whiteboards, labels, books — and ask Claude questions about it</li>
+            <li>Use the iOS/Android <strong>share sheet</strong> to send articles, screenshots, or text straight to Claude from any app</li>
+            <li>Your Projects sync across mobile and desktop — start on your phone, continue on your computer</li>
+            <li>Voice conversations feel more like talking through a problem than typing — great for early-stage thinking</li>
+          </ul>
+          <a href="https://claude.com/download" target="_blank" rel="noopener" class="product-link">Get the App →</a>
+        </div>
+
+        <!-- Claude Code -->
+        <div class="product-card">
+          <div class="product-icon">⚡</div>
+          <h3>Claude Code</h3>
+          <p class="product-desc">Agentic coding in your terminal. Runs tasks, writes code, edits files, and commits — autonomously.</p>
+          <div class="practice-heading">Best Practices</div>
+          <ul class="practice-list">
+            <li>Add a <strong>CLAUDE.md</strong> file to your project root with codebase context, conventions, and patterns</li>
+            <li>Describe the <em>goal</em>, not just the step — Claude Code performs better with outcomes than instructions</li>
+            <li>Use <strong>parallel sub-agents</strong> to run independent tasks simultaneously within the same project</li>
+            <li>Set up <strong>hooks</strong> to automate pre/post actions on every file edit or test run</li>
+            <li>Lean on git to checkpoint progress — Claude Code integrates with version control natively</li>
+          </ul>
+          <a href="https://claude.com/product/claude-code" target="_blank" rel="noopener" class="product-link">Learn About Claude Code →</a>
+        </div>
+
+        <!-- Claude for Work -->
+        <div class="product-card">
+          <div class="product-icon">🏢</div>
+          <h3>Claude for Work</h3>
+          <p class="product-desc">Team and Enterprise plans. Shared Projects, admin controls, compliance features, and analytics.</p>
+          <div class="practice-heading">Best Practices</div>
+          <ul class="practice-list">
+            <li>Set up <strong>shared Projects</strong> so your whole team benefits from the same persistent context</li>
+            <li>Create department-specific Projects with tailored system prompts per team (Sales, Engineering, Support)</li>
+            <li>Use the <strong>admin console</strong> to see usage patterns and identify high-value workflows to standardize</li>
+            <li>Enterprise plans include SSO, data residency controls, and compliance features for regulated industries</li>
+            <li>Claude Code is now available on Team and Enterprise plans with usage analytics</li>
+          </ul>
+          <a href="https://anthropic.com/enterprise" target="_blank" rel="noopener" class="product-link">Explore Plans →</a>
+        </div>
+
+      </div>
+    </section>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- STAY UPDATED -->
+  <div class="container">
+    <section id="updates">
+      <div class="section-label">Stay Updated</div>
+      <h2>Follow the Signal</h2>
+      <p class="section-desc">The best places to stay current on Claude's capabilities, updates, and the community building with it.</p>
+
+      <!-- Recent News -->
+      <div class="news-strip">
+        <div class="news-strip-label">Recent Highlights</div>
+        <div class="news-items">
+          <div class="news-item">
+            <span class="news-date">Mar 2026</span>
+            <a href="https://www.anthropic.com/news/claude-code-on-team-and-enterprise" target="_blank" rel="noopener">Claude Code on Team and Enterprise</a>
+            <p>Usage up 300% since Claude 4. Now accessible from claude.ai web and mobile with parallel agentic workflows.</p>
+          </div>
+          <div class="news-item">
+            <span class="news-date">Mar 2026</span>
+            <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Computer Use on Mac (Research Preview)</a>
+            <p>Claude can now open apps, click, type, and browse autonomously on your Mac. Available to Pro and Max subscribers.</p>
+          </div>
+          <div class="news-item">
+            <span class="news-date">Feb 2026</span>
+            <a href="https://www.anthropic.com/news/claude-opus-4-6" target="_blank" rel="noopener">Claude Opus 4.6 Released</a>
+            <p>1M-token context window, industry-leading agentic coding, 14.5-hour task horizon, and improved computer use.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Social Cards -->
+      <div class="socials-grid">
+
+        <a href="https://x.com/bcherny" target="_blank" rel="noopener" class="social-card featured">
+          <div class="social-icon-wrap">⚡</div>
+          <div>
+            <div class="featured-tag">Must Follow</div>
+            <div class="social-handle">@bcherny</div>
+            <div class="social-platform">X (Twitter)</div>
+            <p class="social-desc">Boris Cherny, Head of Claude Code at Anthropic. Frequent posts on tips, workflows, new features, and the philosophy behind agentic coding. This is the closest you get to a live changelog.</p>
+          </div>
+        </a>
+
+        <a href="https://x.com/AnthropicAI" target="_blank" rel="noopener" class="social-card">
+          <div class="social-icon-wrap">🤖</div>
+          <div>
+            <div class="social-handle">@AnthropicAI</div>
+            <div class="social-platform">X (Twitter)</div>
+            <p class="social-desc">Official Anthropic account. Product announcements, research releases, and major capability updates. The first place to hear about new models and features.</p>
+          </div>
+        </a>
+
+        <a href="https://x.com/DarioAmodei" target="_blank" rel="noopener" class="social-card">
+          <div class="social-icon-wrap">🧠</div>
+          <div>
+            <div class="social-handle">@DarioAmodei</div>
+            <div class="social-platform">X (Twitter)</div>
+            <p class="social-desc">Anthropic CEO. Long-form thinking on AI safety, model capabilities, and the broader direction of the company. Worth reading for context on where this is all heading.</p>
+          </div>
+        </a>
+
+        <a href="https://www.youtube.com/@anthropic" target="_blank" rel="noopener" class="social-card">
+          <div class="social-icon-wrap">▶️</div>
+          <div>
+            <div class="social-handle">@anthropic</div>
+            <div class="social-platform">YouTube · 309k subscribers</div>
+            <p class="social-desc">Product demos, research talks, and in-depth walkthroughs. The best place to see Claude's capabilities in action before trying them yourself.</p>
+          </div>
+        </a>
+
+        <a href="https://www.linkedin.com/company/anthropicresearch" target="_blank" rel="noopener" class="social-card">
+          <div class="social-icon-wrap">💼</div>
+          <div>
+            <div class="social-handle">Anthropic</div>
+            <div class="social-platform">LinkedIn</div>
+            <p class="social-desc">Company updates, research milestones, and professional use cases. Good for sharing Claude wins with a workplace audience.</p>
+          </div>
+        </a>
+
+        <a href="https://www.reddit.com/r/ClaudeAI/" target="_blank" rel="noopener" class="social-card">
+          <div class="social-icon-wrap">💬</div>
+          <div>
+            <div class="social-handle">r/ClaudeAI</div>
+            <div class="social-platform">Reddit · 612k+ members</div>
+            <p class="social-desc">The largest Claude community. Real users sharing workflows, discoveries, comparisons, and frustrations. Excellent for finding use cases you hadn't considered.</p>
+          </div>
+        </a>
+
+        <a href="https://discord.com/invite/6PPFFzqPDZ" target="_blank" rel="noopener" class="social-card">
+          <div class="social-icon-wrap">🎮</div>
+          <div>
+            <div class="social-handle">Anthropic Discord</div>
+            <div class="social-platform">Discord · ~77k members</div>
+            <p class="social-desc">Official Anthropic community server. Real-time conversation, channels for different use cases, and occasional direct responses from the Anthropic team.</p>
+          </div>
+        </a>
+
+        <a href="https://www.anthropic.com/news" target="_blank" rel="noopener" class="social-card">
+          <div class="social-icon-wrap">📰</div>
+          <div>
+            <div class="social-handle">Anthropic News</div>
+            <div class="social-platform">Blog / Newsroom</div>
+            <p class="social-desc">Every official announcement, model release, and research paper. Bookmark this as your authoritative source for what changed and why.</p>
+          </div>
+        </a>
+
+      </div>
+    </section>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- RESOURCES -->
+  <div class="container">
+    <section id="resources">
+      <div class="section-label">Curated Links</div>
+      <h2>Resources Directory</h2>
+      <p class="section-desc">Everything you might need — docs, changelogs, community hubs, and official reference material — in one place.</p>
+
+      <div class="resources-group">
+        <div class="resources-group-title">Core Products</div>
+        <div class="resources-links">
+          <a href="https://claude.ai" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">🌐</span> Claude.ai</a>
+          <a href="https://claude.com/download" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">💻</span> Download Desktop & Mobile</a>
+          <a href="https://claude.com/product/claude-code" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">⚡</span> Claude Code</a>
+          <a href="https://claude.com/pricing/team" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">🏢</span> Team Plan</a>
+          <a href="https://www.anthropic.com/enterprise" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">🔐</span> Enterprise Plan</a>
+          <a href="https://claude.com/community" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">👥</span> Community Hub</a>
+        </div>
+      </div>
+
+      <div class="resources-group">
+        <div class="resources-group-title">Documentation & Help</div>
+        <div class="resources-links">
+          <a href="https://docs.anthropic.com" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">📚</span> Anthropic Docs</a>
+          <a href="https://support.claude.com" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">🆘</span> Help Center</a>
+          <a href="https://code.claude.com/docs/en/overview" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">⚡</span> Claude Code Docs</a>
+          <a href="https://docs.anthropic.com/en/prompt-library/library" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">💡</span> Prompt Library</a>
+          <a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">🎯</span> Prompt Engineering Guide</a>
+          <a href="https://www.anthropic.com/learn/claude-for-work" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">🏢</span> Claude for Work Guide</a>
+        </div>
+      </div>
+
+      <div class="resources-group">
+        <div class="resources-group-title">Changelogs & Release Notes</div>
+        <div class="resources-links">
+          <a href="https://docs.anthropic.com/en/release-notes/claude-apps" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">📋</span> Claude Apps Release Notes</a>
+          <a href="https://docs.anthropic.com/en/release-notes/overview" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">📋</span> API Release Notes</a>
+          <a href="https://code.claude.com/docs/en/changelog" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">📋</span> Claude Code Changelog</a>
+          <a href="https://github.com/anthropics/claude-code/releases" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">🐙</span> Claude Code GitHub Releases</a>
+        </div>
+      </div>
+
+      <div class="resources-group">
+        <div class="resources-group-title">Research & Model Transparency</div>
+        <div class="resources-links">
+          <a href="https://www.anthropic.com/research" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">🔬</span> Anthropic Research</a>
+          <a href="https://www.anthropic.com/system-cards" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">📄</span> Model System Cards</a>
+          <a href="https://www.anthropic.com/constitution" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">📜</span> Claude's Constitution</a>
+          <a href="https://www.anthropic.com/research/claude-character" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">🧬</span> Claude's Character</a>
+          <a href="https://www.anthropic.com/engineering" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">⚙️</span> Engineering Blog</a>
+          <a href="https://claude.com/blog" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">✍️</span> Claude Blog</a>
+        </div>
+      </div>
+
+      <div class="resources-group">
+        <div class="resources-group-title">Apps</div>
+        <div class="resources-links">
+          <a href="https://apps.apple.com/us/app/claude-by-anthropic/id6473753684" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">🍎</span> iOS App Store</a>
+          <a href="https://play.google.com/store/apps/details?id=com.anthropic.claude" target="_blank" rel="noopener" class="resource-link"><span class="rl-icon">🤖</span> Google Play</a>
+        </div>
+      </div>
+
+    </section>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- GUIDES -->
+  <div class="container">
+    <section id="guides">
+      <div class="section-label">Tutorials & Learning</div>
+      <h2>Guides for Every Level</h2>
+      <p class="section-desc">From absolute beginner to power user. Official courses, community tutorials, and deep-dives on specific capabilities.</p>
+
+      <div class="guides-grid">
+
+        <a href="https://anthropic.skilljar.com/claude-code-in-action" target="_blank" rel="noopener" class="guide-card">
+          <div class="guide-tag">Official · Free</div>
+          <h3>Claude Code in Action</h3>
+          <p>Anthropic's own training course. Hands-on introduction to Claude Code with structured lessons from the team that built it.</p>
+          <div class="guide-arrow">Take the Course →</div>
+        </a>
+
+        <a href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview" target="_blank" rel="noopener" class="guide-card">
+          <div class="guide-tag">Official · Docs</div>
+          <h3>Prompt Engineering Guide</h3>
+          <p>Anthropic's definitive guide to writing better prompts. Covers chain-of-thought, role prompting, structured outputs, and more.</p>
+          <div class="guide-arrow">Read the Guide →</div>
+        </a>
+
+        <a href="https://docs.anthropic.com/en/prompt-library/library" target="_blank" rel="noopener" class="guide-card">
+          <div class="guide-tag">Official · Templates</div>
+          <h3>Anthropic Prompt Library</h3>
+          <p>Curated collection of ready-to-use prompts for dozens of common tasks. Great starting point for new use cases.</p>
+          <div class="guide-arrow">Browse Templates →</div>
+        </a>
+
+        <a href="https://www.anthropic.com/learn/claude-for-work" target="_blank" rel="noopener" class="guide-card">
+          <div class="guide-tag">Official · Work</div>
+          <h3>Claude for Work Learning Hub</h3>
+          <p>Resources specifically for Teams and Enterprise customers. Workflows, best practices, and deployment guidance for organizations.</p>
+          <div class="guide-arrow">Explore →</div>
+        </a>
+
+        <a href="https://code.claude.com/docs/en/overview" target="_blank" rel="noopener" class="guide-card">
+          <div class="guide-tag">Official · Docs</div>
+          <h3>Claude Code Documentation</h3>
+          <p>Complete reference for Claude Code. Setup, CLAUDE.md configuration, hooks, parallel agents, MCP integrations, and more.</p>
+          <div class="guide-arrow">Read the Docs →</div>
+        </a>
+
+        <a href="https://www.sabrina.dev/p/claude-code-full-course-for-beginners" target="_blank" rel="noopener" class="guide-card">
+          <div class="guide-tag">Community · Course</div>
+          <h3>Claude Code Full Course for Beginners</h3>
+          <p>Comprehensive beginner-friendly course by Sabrina.dev. Covers the full Claude Code workflow from installation to advanced agentic tasks.</p>
+          <div class="guide-arrow">Start Learning →</div>
+        </a>
+
+        <a href="https://www.youtube.com/@anthropic" target="_blank" rel="noopener" class="guide-card">
+          <div class="guide-tag">Official · Video</div>
+          <h3>Anthropic YouTube</h3>
+          <p>Product demos, research explainers, and capability walkthroughs. Watch before you try — seeing is faster than reading for complex features.</p>
+          <div class="guide-arrow">Watch →</div>
+        </a>
+
+        <a href="https://www.anthropic.com/research/claude-character" target="_blank" rel="noopener" class="guide-card">
+          <div class="guide-tag">Research · Deep Dive</div>
+          <h3>Understanding Claude's Character</h3>
+          <p>Anthropic's research post on how Claude's values, personality, and ways of engaging with the world were developed. Fascinating context for power users.</p>
+          <div class="guide-arrow">Read →</div>
+        </a>
+
+      </div>
+    </section>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- INSPIRATION -->
+  <div class="container">
+    <section id="inspiration">
+      <div class="section-label">Everyday Workflows</div>
+      <h2>What Could You Do With This?</h2>
+      <p class="section-desc">Not sure where to start? Here are twelve ways real people use Claude in their daily lives — no technical background required.</p>
+
+      <div class="inspo-intro">
+        <p><strong>The best way to learn Claude is to throw something real at it.</strong> Pick a task from your actual life or work — something you've been putting off, something you're stuck on, or just something tedious. The prompts below are starting points, not scripts. Claude responds best when you give it context about who you are and what you actually need.</p>
+      </div>
+
+      <div class="inspiration-grid">
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">✍️</span>
+            <h3>Writing & Editing</h3>
+          </div>
+          <p class="inspo-desc">First drafts, rewrites, feedback, and formatting. Claude can help you write clearer, faster — and explain why the changes work.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "Here's a draft of my performance review. Make it more specific and results-focused, and cut it by 20%."
+          </div>
+        </div>
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">🔍</span>
+            <h3>Research Shortcuts</h3>
+          </div>
+          <p class="inspo-desc">Paste in long documents, reports, or links and ask Claude to extract, summarize, or compare. Saves hours on dense reading.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "Here's a 40-page contract. Pull out every clause related to termination, liability, and payment terms."
+          </div>
+        </div>
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">📚</span>
+            <h3>Learning Anything</h3>
+          </div>
+          <p class="inspo-desc">Claude is a patient, adaptive tutor. Ask it to explain something at your level, then push until you actually understand it.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "Explain how compound interest works using a real example with actual numbers. I'm 28 and just opened a Roth IRA."
+          </div>
+        </div>
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">✈️</span>
+            <h3>Trip Planning</h3>
+          </div>
+          <p class="inspo-desc">Claude can build full itineraries with timing, logistics, and alternatives. Give it constraints and it handles the tradeoffs.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "Plan 7 days in Japan for two adults who love food, architecture, and don't want tourist traps. Budget: moderate."
+          </div>
+        </div>
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">💡</span>
+            <h3>Brainstorming</h3>
+          </div>
+          <p class="inspo-desc">Use Claude as a thinking partner. It won't just generate a list — it'll push back, challenge assumptions, and help you refine ideas.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "I want to launch a side project. Here are three ideas. Help me stress-test each one and tell me which has the best angle."
+          </div>
+        </div>
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">📧</span>
+            <h3>Email Wrangling</h3>
+          </div>
+          <p class="inspo-desc">From difficult replies to inbox zero strategy. Paste the thread, explain the dynamic, and let Claude draft the response.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "Here's an email from a client who's clearly frustrated but being polite about it. Help me respond in a way that addresses the real concern."
+          </div>
+        </div>
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">🍳</span>
+            <h3>Meal Planning</h3>
+          </div>
+          <p class="inspo-desc">Weekly dinners, grocery lists, meal prep schedules — all with your dietary constraints, budget, and actual cooking skill level factored in.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "Plan 5 weeknight dinners for two people. Budget: under $80. One person doesn't eat red meat. I hate doing dishes."
+          </div>
+        </div>
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">💪</span>
+            <h3>Health & Fitness</h3>
+          </div>
+          <p class="inspo-desc">Workout plans, nutrition questions, recovery guidance. Be specific about your starting point and Claude will meet you there.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "I want to start running but I get shin splints. Design a 6-week beginner plan that builds up slowly and prevents injury."
+          </div>
+        </div>
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">💰</span>
+            <h3>Financial Clarity</h3>
+          </div>
+          <p class="inspo-desc">Untangle financial concepts, stress-test decisions, build simple models. Claude explains the tradeoffs without the jargon.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "I have $8,000 in savings. Walk me through whether to pay off my car loan early or invest it, given these numbers: [paste details]."
+          </div>
+        </div>
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">🏠</span>
+            <h3>Home Projects</h3>
+          </div>
+          <p class="inspo-desc">DIY guidance, contractor questions, renovation planning. Claude helps you understand what you're getting into before you start.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "I want to tile my bathroom floor myself. I've never done it before. What do I actually need to know before I start?"
+          </div>
+        </div>
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">👔</span>
+            <h3>Career Help</h3>
+          </div>
+          <p class="inspo-desc">Resumes, cover letters, interview prep, LinkedIn rewrites. Tell Claude the role and they'll tailor everything to the context.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "Here's my resume. Here's the job description. Rewrite my experience section to match what they're actually asking for."
+          </div>
+        </div>
+
+        <div class="inspo-card">
+          <div class="inspo-header">
+            <span class="inspo-emoji">🎨</span>
+            <h3>Creative Projects</h3>
+          </div>
+          <p class="inspo-desc">Writing, worldbuilding, scripts, song lyrics, design concepts. Claude collaborates — it'll riff, refine, and follow your vision.</p>
+          <div class="inspo-prompt">
+            <span class="inspo-prompt-label">Try asking</span>
+            "I want to write a short horror story set in a grocery store at 3am. Help me develop the atmosphere and first scene."
+          </div>
+        </div>
+
+      </div>
+    </section>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-logo">Claude Hub</div>
+      <p class="footer-note">An independent resource hub. Not affiliated with Anthropic. All links go to official Anthropic properties or community resources. Content reflects information available as of early 2026.</p>
+      <div class="footer-links">
+        <a href="https://claude.ai" target="_blank" rel="noopener">Claude.ai</a>
+        <a href="https://www.anthropic.com" target="_blank" rel="noopener">Anthropic</a>
+        <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Latest News</a>
+        <a href="https://www.reddit.com/r/ClaudeAI/" target="_blank" rel="noopener">Community</a>
+        <a href="#hero">Back to Top</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
