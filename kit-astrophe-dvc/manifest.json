@@ -1,0 +1,18 @@
+{
+  "series": "DVC Evening Brief",
+  "description": "Daily situational awareness briefs across geopolitical, economic, infrastructure, domestic, and local-PNW domains. Analyst voice. Vibe-scored 1-10.",
+  "format_version": "1.0",
+  "reports": [
+    {
+      "id": "2026-04-02-evening",
+      "date": "2026-04-02",
+      "session": "evening",
+      "file": "reports/2026-04-02-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Liberation Day Anniversary: Tariff Architecture Contested, DOGE Clock Running, PNW Compound Stress",
+      "generated_at": "2026-04-02T20:00:00-07:00"
+    }
+  ],
+  "last_updated": "2026-04-02T20:00:00-07:00"
+}
