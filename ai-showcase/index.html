@@ -411,6 +411,23 @@
       font-size: 12px;
     }
 
+    .principles-table td a {
+      color: var(--accent);
+      text-decoration: none;
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+    }
+
+    .principles-table td a:hover {
+      text-decoration: underline;
+    }
+
+    #links .principles-table td:last-child {
+      color: var(--text-dim);
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+    }
+
     /* ── TOOL CATEGORY ── */
     .tool-category {
       margin-bottom: 40px;
@@ -889,6 +906,7 @@
   <a href="#demos">Tutorial Demos</a>
   <a href="#prompts">Showcase Prompts</a>
   <a href="#additions">Suggested Additions</a>
+  <a href="#links">All Links</a>
 
   <div class="theme-picker">
     <div class="theme-picker-label">Theme</div>
@@ -1488,6 +1506,47 @@ I commit to anything. Dark theme, pure HTML/JS.</pre>
     </div>
   </section>
 
+  <hr class="divider" />
+
+  <!-- SECTION: ALL LINKS -->
+  <section id="links">
+    <div class="section-label">Quick Reference</div>
+    <h2>All Links</h2>
+    <p class="section-desc">Every tool mentioned in one place.</p>
+
+    <table class="principles-table">
+      <thead>
+        <tr>
+          <th>Tool</th>
+          <th>Category</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td><a href="https://claude.ai/code" target="_blank">Claude Code</a></td><td>AI Coding</td><td>Terminal-first agentic coding assistant</td></tr>
+        <tr><td><a href="https://antigravity.google" target="_blank">Google Antigravity</a></td><td>AI Coding</td><td>VS Code fork, multi-agent manager view, free preview</td></tr>
+        <tr><td><a href="https://cursor.com" target="_blank">Cursor</a></td><td>AI Coding</td><td>AI-native IDE, multi-file Composer, shadow workspace</td></tr>
+        <tr><td><a href="https://opencode.ai" target="_blank">opencode</a></td><td>AI Coding</td><td>Free terminal-based AI coding assistant</td></tr>
+        <tr><td><a href="https://code.visualstudio.com" target="_blank">VS Code</a></td><td>AI Coding</td><td>Free baseline, Copilot free tier, Claude Code extension</td></tr>
+        <tr><td><a href="https://ollama.com" target="_blank">Ollama</a></td><td>Local AI</td><td>Run LLMs locally, zero network, one command setup</td></tr>
+        <tr><td><a href="https://lmstudio.ai" target="_blank">LM Studio</a></td><td>Local AI</td><td>GUI for local models, built-in OpenAI-compatible API server</td></tr>
+        <tr><td><a href="https://openwebui.com" target="_blank">Open WebUI</a></td><td>Local AI</td><td>Self-hosted ChatGPT-style UI for Ollama via Docker</td></tr>
+        <tr><td><a href="https://superwhisper.com" target="_blank">Superwhisper</a></td><td>Voice</td><td>System-wide voice-to-text, runs Whisper locally on Mac</td></tr>
+        <tr><td><a href="https://obsidian.md" target="_blank">Obsidian</a></td><td>Knowledge</td><td>Local markdown vault, point Claude Code directly at it</td></tr>
+        <tr><td><a href="https://notebooklm.google.com" target="_blank">Google NotebookLM</a></td><td>Knowledge</td><td>Upload docs, Q&amp;A with citations, Audio Overview podcast generator</td></tr>
+        <tr><td><a href="https://gemini.google.com" target="_blank">Gemini</a></td><td>Generative</td><td>Image generation, video (Veo), multimodal chat</td></tr>
+        <tr><td><a href="https://nanobanana.ai" target="_blank">Nano Banana</a></td><td>Generative</td><td>Google text-based image editor, best-in-class text rendering in images</td></tr>
+        <tr><td><a href="https://aitestkitchen.withgoogle.com" target="_blank">MusicFX</a></td><td>Generative</td><td>Text-to-music via Google AI Test Kitchen</td></tr>
+        <tr><td><a href="https://stitch.withgoogle.com" target="_blank">Google Stitch</a></td><td>Generative</td><td>Prompt-to-UI, generates working HTML/CSS from descriptions</td></tr>
+        <tr><td><a href="https://perplexity.ai" target="_blank">Perplexity</a></td><td>Research</td><td>Cited web search, every answer has sources</td></tr>
+        <tr><td><a href="https://v0.dev" target="_blank">v0 by Vercel</a></td><td>Generative</td><td>Text-to-React component, production-quality output</td></tr>
+        <tr><td><a href="https://bolt.new" target="_blank">Bolt.new</a></td><td>Generative</td><td>Full-stack app in the browser, no local setup</td></tr>
+        <tr><td><a href="https://elevenlabs.io" target="_blank">ElevenLabs</a></td><td>Voice</td><td>Text-to-speech and voice cloning, free tier available</td></tr>
+        <tr><td><a href="https://n8n.io" target="_blank">n8n</a></td><td>Automation</td><td>Visual workflow automation, self-hostable</td></tr>
+      </tbody>
+    </table>
+  </section>
+
 </main>
 
 <script>
@@ -1553,6 +1612,11 @@ I commit to anything. Dark theme, pure HTML/JS.</pre>
   // ── THEME SWITCHER ──
   const swatches = document.querySelectorAll('.swatch');
   const root = document.documentElement;
+  const THEME_KEY = 'ai-showcase-theme';
+  const DARK_THEME_KEY = 'ai-showcase-dark-theme'; // last manually chosen dark theme
+
+  const DARK_THEMES = ['', 'nord', 'dracula', 'tokyo', 'catppuccin', 'gruvbox', 'rosepine', 'synthwave'];
+  const LIGHT_THEME = 'paper';
 
   function applyTheme(id) {
     if (id) {
@@ -1561,21 +1625,42 @@ I commit to anything. Dark theme, pure HTML/JS.</pre>
       root.removeAttribute('data-theme');
     }
     swatches.forEach(s => s.classList.toggle('active', s.dataset.themeId === id));
-    // fix the obsidian swatch border since it's always dark
     document.querySelector('.swatch[data-theme-id=""]').style.borderColor =
       id ? '#333' : 'var(--text)';
   }
 
-  // Restore from localStorage
-  const saved = localStorage.getItem('ai-showcase-theme') || '';
-  applyTheme(saved);
+  function resolveTheme() {
+    const manual = localStorage.getItem(THEME_KEY);
+    // If user explicitly chose a theme, honour it
+    if (manual !== null) return manual;
+    // Otherwise follow system
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (!prefersDark) return LIGHT_THEME;
+    return localStorage.getItem(DARK_THEME_KEY) || ''; // Obsidian default
+  }
+
+  applyTheme(resolveTheme());
 
   swatches.forEach(swatch => {
     swatch.addEventListener('click', () => {
       const id = swatch.dataset.themeId;
-      localStorage.setItem('ai-showcase-theme', id);
+      localStorage.setItem(THEME_KEY, id);
+      // Remember last chosen dark theme separately
+      if (DARK_THEMES.includes(id)) {
+        localStorage.setItem(DARK_THEME_KEY, id);
+      }
       applyTheme(id);
     });
+  });
+
+  // React to OS-level scheme changes while the tab is open
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+    // Only auto-switch if user hasn't manually picked a theme
+    if (localStorage.getItem(THEME_KEY) === null) {
+      applyTheme(e.matches
+        ? (localStorage.getItem(DARK_THEME_KEY) || '')
+        : LIGHT_THEME);
+    }
   });
 
   // ── ACTIVE NAV ──
