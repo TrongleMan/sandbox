@@ -763,68 +763,6 @@
       .hero h1 { font-size: 28px; }
       main { padding: 24px 16px; }
     }
-    /* ── ATOMIC CARD ── */
-    .atomic-card {
-      background: var(--surface);
-      border: 1px solid color-mix(in srgb, var(--accent) 35%, var(--border));
-      border-radius: 14px;
-      padding: 32px;
-      margin-top: 8px;
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-    }
-
-    .atomic-card p {
-      color: var(--text-dim);
-      font-size: 15px;
-      line-height: 1.75;
-      margin: 0;
-    }
-
-    .atomic-headline {
-      font-size: 18px;
-      font-weight: 700;
-      color: var(--text);
-      line-height: 1.5;
-      letter-spacing: -.015em;
-    }
-
-    .atomic-example {
-      background: var(--surface-2);
-      border: 1px solid var(--border);
-      border-left: 3px solid var(--accent-2);
-      border-radius: 8px;
-      padding: 20px;
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
-
-    .atomic-example-label {
-      font-size: 10px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: .12em;
-      color: var(--accent-2);
-    }
-
-    .atomic-example p {
-      font-size: 13px;
-      line-height: 1.7;
-    }
-
-    /* ── INTRO LIST ── */
-    .intro-list {
-      color: var(--text-dim);
-      font-size: 14px;
-      line-height: 1.9;
-      padding-left: 20px;
-      margin: 0;
-    }
-
-    .intro-list li { margin-bottom: 2px; }
-
     /* ── LOCK SCREEN ── */
     #lockscreen {
       position: fixed;
@@ -952,11 +890,6 @@
 <nav>
   <div class="logo">AI Showcase</div>
 
-  <span class="nav-section">Start Here</span>
-  <a href="#not-coding">Not Just Coding</a>
-  <a href="#atomic">The Atomic Principle</a>
-  <a href="#real-world">Real World Examples</a>
-
   <span class="nav-section">System Patterns</span>
   <a href="#pluribus">The Pluribus Approach</a>
   <a href="#patterns">6 Core Patterns</a>
@@ -998,96 +931,8 @@
   <div class="hero">
     <div class="hero-tag">&#x2728; Friend's Tour</div>
     <h1>AI Showcase<br/>Guide</h1>
-    <p>A tour of how AI works as an actual part of your life, not just a chatbot to ask questions. Real examples, real tools, and a path for exploring on your own.</p>
+    <p>A curated walkthrough of how to use AI as an actual workflow layer — not just a chatbot. Tools, patterns, demos, and ready-to-run prompts.</p>
   </div>
-
-  <!-- SECTION: NOT JUST CODING -->
-  <section id="not-coding">
-    <div class="section-label">Before we start</div>
-    <h2>You don't need to write code for any of this.</h2>
-    <p class="section-desc">Most people assume AI tools are for programmers. They're not. The most powerful uses have nothing to do with writing code.</p>
-    <div class="tool-card">
-      <div class="tool-desc" style="margin-bottom: 14px">Claude Code and Claude can help you:</div>
-      <ul class="intro-list">
-        <li>Organize thousands of files, documents, and notes you've been avoiding for years</li>
-        <li>Structure your information in a way that fits how your brain actually works</li>
-        <li>Connect the apps you already use so they talk to each other automatically</li>
-        <li>Build systems that run on your behalf — briefings, summaries, routing — while you do other things</li>
-        <li>Turn shoeboxes of cards, receipts, manuals, or data into searchable, organized libraries</li>
-      </ul>
-      <div class="tool-desc" style="margin-top: 14px; margin-bottom: 0">Everything on this page is real. These are tools built by someone who learned as they went, not a programmer by training.</div>
-    </div>
-  </section>
-
-  <!-- SECTION: THE ATOMIC PRINCIPLE -->
-  <section id="atomic">
-    <div class="section-label">The Big Idea</div>
-    <h2>The Atomic Principle</h2>
-    <p class="section-desc">The single most important concept for getting exceptional results from AI.</p>
-    <div class="atomic-card">
-      <div class="atomic-headline">The more granularly you describe your world to Claude, the smarter it gets about solving your problems — including problems you didn't know you had.</div>
-      <p>Not "I have a home network." But: which devices, what each one runs, how they connect, what each one is for. Not "I have a lot of files." But: what kind, where they live, what you actually do with them.</p>
-      <p>Every granular detail you feed in is a Lego brick. Claude can't build much with three bricks. Give it a thousand, and it starts connecting things you hadn't noticed were connected — and suggesting solutions you'd never have thought of yourself.</p>
-      <div class="atomic-example">
-        <div class="atomic-example-label">Real example</div>
-        <p>Phillip's home lab is documented at the component level: every machine, every program running on it, its intended purpose, its power requirements, its specs, and how everything connects. One session, Claude flagged that three programs running on one overloaded machine could easily move to two other machines sitting mostly idle — and explained exactly how to do it. Phillip hadn't noticed the imbalance. Claude had all the pieces at once and could see what a person couldn't.</p>
-      </div>
-      <p style="margin-bottom: 0">You start small. One file, a few facts. Over time it compounds. The AI gets smarter about your world the longer you use it — and eventually starts giving you advice that feels like it knows you personally. Because, in a way, it does.</p>
-    </div>
-  </section>
-
-  <!-- SECTION: REAL-WORLD EXAMPLES -->
-  <section id="real-world">
-    <div class="section-label">Part 0 &mdash; Real World</div>
-    <h2>How This Actually Gets Used</h2>
-    <p class="section-desc">Not hypothetical. These are live, running systems built incrementally — most starting with a single file and a few hours of setup.</p>
-
-    <div class="pattern-grid">
-
-      <div class="pattern-card">
-        <div class="pattern-num">📚</div>
-        <h3>The Knowledge Vault</h3>
-        <p>A persona called <em>Vaultron</em> reads across all of Phillip's other AI contexts and consolidates everything — notes, links, decisions, ideas — into a single Obsidian vault, organized automatically.</p>
-        <div class="pattern-insight">One place to look for anything. Built and maintained by Claude, not by hand.</div>
-      </div>
-
-      <div class="pattern-card">
-        <div class="pattern-num">📻</div>
-        <h3>The Morning Briefing</h3>
-        <p>Every morning, a Claude agent pulls together tasks, calendar, weather, and notes, then delivers a formatted briefing as a message in Discord — sent by a bot named <em>Bingus</em>.</p>
-        <div class="pattern-insight">Your day summarized before you've had coffee. No apps to open, no tabs to check.</div>
-      </div>
-
-      <div class="pattern-card">
-        <div class="pattern-num">🗂️</div>
-        <h3>The Life Portal</h3>
-        <p>A local dashboard that organizes every domain of life — homelab, finances, health, projects, shopping — into purpose-built AI contexts, each one carrying its own deep knowledge and persistent memory.</p>
-        <div class="pattern-insight">Different "modes" for different parts of life. Not one chat window for everything.</div>
-      </div>
-
-      <div class="pattern-card">
-        <div class="pattern-num">🃏</div>
-        <h3>The Card Scanner</h3>
-        <p>A persona called <em>The Collector</em> used a camera to scan hundreds of Pokémon cards, identify each one, look up current market values, and build a live inventory in Google Sheets — automatically, in an afternoon.</p>
-        <div class="pattern-insight">A shoebox of cards became a searchable, valued collection. No manual data entry.</div>
-      </div>
-
-      <div class="pattern-card">
-        <div class="pattern-num">📧</div>
-        <h3>The Google Assistant</h3>
-        <p>A persona called <em>Analyst</em> is connected live to Gmail, Google Docs, Sheets, and Calendar. Ask it to summarize unread emails, draft a document, or update a spreadsheet — no clicking, no tabs.</p>
-        <div class="pattern-insight">All of Google Workspace, operated by voice command instead of mouse clicks.</div>
-      </div>
-
-      <div class="pattern-card">
-        <div class="pattern-num">📁</div>
-        <h3>The Manual Library</h3>
-        <p>Years of accumulated instruction manual PDFs — thousands of files, many duplicated. Claude identified the duplicates, removed them, categorized everything that remained, renamed every file descriptively, and organized it all into a browsable reference library.</p>
-        <div class="pattern-insight">The kind of cleanup that sits undone for years. Done in one afternoon.</div>
-      </div>
-
-    </div>
-  </section>
 
   <!-- SECTION: PLURIBUS APPROACH -->
   <section id="pluribus">
