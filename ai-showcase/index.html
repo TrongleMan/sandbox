@@ -1,0 +1,1184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Showcase Guide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #080808;
+      --surface: #0f0f0f;
+      --surface-2: #161616;
+      --border: #1f1f1f;
+      --border-2: #2a2a2a;
+      --text: #e2e2e2;
+      --text-dim: #888;
+      --text-dimmer: #555;
+      --accent: #7b61ff;
+      --accent-2: #00c9a7;
+      --accent-3: #ff6b6b;
+      --accent-4: #ffa94d;
+      --accent-5: #4dabf7;
+      --nav-w: 240px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      line-height: 1.7;
+      display: flex;
+      min-height: 100vh;
+    }
+
+    /* ── NAV ── */
+    nav {
+      width: var(--nav-w);
+      min-width: var(--nav-w);
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow-y: auto;
+      border-right: 1px solid var(--border);
+      padding: 32px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    nav .logo {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--text-dimmer);
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    nav .nav-section {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--text-dimmer);
+      margin-top: 20px;
+      margin-bottom: 6px;
+      padding-left: 8px;
+    }
+
+    nav a {
+      display: block;
+      padding: 6px 8px;
+      border-radius: 6px;
+      text-decoration: none;
+      color: var(--text-dim);
+      font-size: 13px;
+      transition: all .15s;
+    }
+
+    nav a:hover {
+      background: var(--surface-2);
+      color: var(--text);
+    }
+
+    nav a.active {
+      background: var(--surface-2);
+      color: var(--text);
+    }
+
+    /* ── MAIN ── */
+    main {
+      flex: 1;
+      max-width: 900px;
+      padding: 48px 56px;
+      overflow: hidden;
+    }
+
+    /* ── HERO ── */
+    .hero {
+      margin-bottom: 64px;
+    }
+
+    .hero-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--accent);
+      background: rgba(123,97,255,.1);
+      border: 1px solid rgba(123,97,255,.2);
+      border-radius: 20px;
+      padding: 4px 12px;
+      margin-bottom: 20px;
+    }
+
+    .hero h1 {
+      font-size: 42px;
+      font-weight: 700;
+      letter-spacing: -.02em;
+      line-height: 1.15;
+      margin-bottom: 16px;
+      background: linear-gradient(135deg, #e2e2e2, #888);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hero p {
+      font-size: 17px;
+      color: var(--text-dim);
+      max-width: 580px;
+      line-height: 1.7;
+    }
+
+    /* ── SECTIONS ── */
+    section {
+      margin-bottom: 72px;
+    }
+
+    .section-label {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+
+    section h2 {
+      font-size: 26px;
+      font-weight: 700;
+      letter-spacing: -.015em;
+      margin-bottom: 8px;
+    }
+
+    .section-desc {
+      color: var(--text-dim);
+      margin-bottom: 32px;
+      max-width: 580px;
+    }
+
+    /* ── PATTERN CARDS ── */
+    .pattern-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .pattern-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px;
+      transition: border-color .2s;
+    }
+
+    .pattern-card:hover {
+      border-color: var(--border-2);
+    }
+
+    .pattern-num {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .1em;
+      color: var(--text-dimmer);
+      margin-bottom: 8px;
+    }
+
+    .pattern-card h3 {
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .pattern-card p {
+      font-size: 13px;
+      color: var(--text-dim);
+      line-height: 1.6;
+      margin-bottom: 12px;
+    }
+
+    .pattern-example {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      color: var(--accent-2);
+    }
+
+    .pattern-insight {
+      margin-top: 12px;
+      font-size: 12px;
+      color: var(--text-dimmer);
+      font-style: italic;
+      line-height: 1.5;
+    }
+
+    /* ── PRINCIPLES TABLE ── */
+    .principles-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+      margin-top: 24px;
+    }
+
+    .principles-table th {
+      text-align: left;
+      padding: 10px 16px;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--text-dimmer);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .principles-table td {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+
+    .principles-table tr:last-child td { border-bottom: none; }
+
+    .principles-table td:first-child { font-weight: 500; }
+    .principles-table td:nth-child(2) { color: var(--text-dim); }
+    .principles-table td:last-child {
+      color: var(--accent-2);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+    }
+
+    /* ── TOOL CATEGORY ── */
+    .tool-category {
+      margin-bottom: 40px;
+    }
+
+    .category-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+
+    .category-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .category-header h3 {
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      color: var(--text-dim);
+    }
+
+    .tool-grid {
+      display: grid;
+      gap: 12px;
+    }
+
+    .tool-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 18px 20px;
+      transition: border-color .2s;
+    }
+
+    .tool-card:hover { border-color: var(--border-2); }
+
+    .tool-header {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      margin-bottom: 6px;
+    }
+
+    .tool-name {
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    .tool-name a {
+      color: var(--text);
+      text-decoration: none;
+    }
+
+    .tool-name a:hover { color: var(--accent); }
+
+    .tool-badge {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      padding: 2px 8px;
+      border-radius: 4px;
+    }
+
+    .badge-free { background: rgba(0,201,167,.12); color: var(--accent-2); }
+    .badge-new { background: rgba(123,97,255,.12); color: var(--accent); }
+    .badge-local { background: rgba(255,107,107,.12); color: var(--accent-3); }
+
+    .tool-desc {
+      font-size: 13px;
+      color: var(--text-dim);
+      line-height: 1.6;
+      margin-bottom: 8px;
+    }
+
+    .tool-showcase {
+      font-size: 12px;
+      color: var(--text-dimmer);
+      font-style: italic;
+    }
+
+    .tool-showcase strong { color: var(--accent-4); font-style: normal; }
+
+    /* ── DEMO CARDS ── */
+    .demo-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 16px;
+    }
+
+    .demo-card h3 {
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .demo-card p {
+      font-size: 13px;
+      color: var(--text-dim);
+      margin-bottom: 16px;
+      line-height: 1.6;
+    }
+
+    .demo-steps {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .demo-step {
+      display: flex;
+      gap: 12px;
+      align-items: flex-start;
+    }
+
+    .step-num {
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: var(--surface-2);
+      border: 1px solid var(--border-2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-dim);
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+
+    .step-text {
+      font-size: 13px;
+      color: var(--text-dim);
+      line-height: 1.6;
+    }
+
+    /* ── PROMPT CARDS ── */
+    .prompt-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      margin-bottom: 20px;
+      overflow: hidden;
+    }
+
+    .prompt-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .prompt-title {
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .prompt-target {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 20px;
+    }
+
+    .target-vercel { background: rgba(0,201,167,.1); color: var(--accent-2); }
+    .target-local { background: rgba(123,97,255,.1); color: var(--accent); }
+
+    .prompt-body {
+      position: relative;
+    }
+
+    .prompt-code {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      line-height: 1.7;
+      padding: 20px;
+      color: #c9d1d9;
+      white-space: pre-wrap;
+      overflow-x: auto;
+    }
+
+    .copy-btn {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      background: var(--surface-2);
+      border: 1px solid var(--border-2);
+      border-radius: 6px;
+      color: var(--text-dim);
+      font-size: 11px;
+      font-weight: 600;
+      padding: 4px 10px;
+      cursor: pointer;
+      font-family: 'Inter', sans-serif;
+      transition: all .15s;
+    }
+
+    .copy-btn:hover {
+      background: var(--border);
+      color: var(--text);
+    }
+
+    .copy-btn.copied {
+      color: var(--accent-2);
+      border-color: var(--accent-2);
+    }
+
+    /* ── ADDITIONS ── */
+    .addition-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 12px;
+    }
+
+    .addition-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+      transition: border-color .2s;
+    }
+
+    .addition-card:hover { border-color: var(--border-2); }
+
+    .addition-name {
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+
+    .addition-name a {
+      color: var(--text);
+      text-decoration: none;
+    }
+
+    .addition-name a:hover { color: var(--accent); }
+
+    .addition-desc {
+      font-size: 12px;
+      color: var(--text-dim);
+      line-height: 1.5;
+    }
+
+    /* ── DIVIDER ── */
+    .divider {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 64px 0;
+    }
+
+    /* ── SCROLLBAR ── */
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--border-2); border-radius: 3px; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 860px) {
+      nav { display: none; }
+      main { padding: 32px 24px; }
+      .pattern-grid { grid-template-columns: 1fr; }
+    }
+
+    @media (max-width: 600px) {
+      .hero h1 { font-size: 28px; }
+      main { padding: 24px 16px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── SIDEBAR NAV ── -->
+<nav>
+  <div class="logo">AI Showcase</div>
+
+  <span class="nav-section">System Patterns</span>
+  <a href="#pluribus">The Pluribus Approach</a>
+  <a href="#patterns">6 Core Patterns</a>
+  <a href="#principles">Key Principles</a>
+
+  <span class="nav-section">The Tools</span>
+  <a href="#local-ai">Local AI</a>
+  <a href="#coding-envs">Coding Environments</a>
+  <a href="#voice">Voice Input</a>
+  <a href="#knowledge">Knowledge Tools</a>
+  <a href="#generative">Image / Video / Audio</a>
+
+  <span class="nav-section">Getting Started</span>
+  <a href="#demos">Tutorial Demos</a>
+  <a href="#prompts">Showcase Prompts</a>
+  <a href="#additions">Suggested Additions</a>
+</nav>
+
+<!-- ── MAIN CONTENT ── -->
+<main>
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-tag">&#x2728; Friend's Tour</div>
+    <h1>AI Showcase<br/>Guide</h1>
+    <p>A curated walkthrough of how to use AI as an actual workflow layer — not just a chatbot. Tools, patterns, demos, and ready-to-run prompts.</p>
+  </div>
+
+  <!-- SECTION: PLURIBUS APPROACH -->
+  <section id="pluribus">
+    <div class="section-label">Part 1 &mdash; System Design</div>
+    <h2>The Pluribus Approach</h2>
+    <p class="section-desc">Instead of one generic chat window, build a network of purpose-built AI contexts. Each one knows a domain deeply. A hub routes between them. Memory persists across sessions.</p>
+    <div class="tool-card">
+      <div class="tool-desc">
+        The core insight: <strong style="color:var(--text)">the investment is in the context files, not the conversations.</strong> Every minute you spend writing a good CLAUDE.md (or system prompt) pays back across every future session. Generic prompts get generic answers. Loaded context gets expert answers.
+      </div>
+      <div class="tool-desc" style="margin-bottom:0">
+        This approach has 35+ specialized contexts (called <em>personas</em>) organized into layers: a Hub that orchestrates, Agents that run autonomously, Specialists for domain work, Characters that change how you interact, and Tools that invoke and return.
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION: 6 PATTERNS -->
+  <section id="patterns">
+    <div class="section-label">Part 1 &mdash; Core Patterns</div>
+    <h2>6 Patterns Worth Stealing</h2>
+    <p class="section-desc">These work at any scale. You don't need 35 personas to benefit from them.</p>
+
+    <div class="pattern-grid">
+
+      <div class="pattern-card">
+        <div class="pattern-num">01</div>
+        <h3>The Hub / Orchestrator</h3>
+        <p>One AI context acts as your front door. It reads your current state and routes you to the right place. No re-explaining context every session.</p>
+        <div class="pattern-example">/wm</div>
+        <div class="pattern-insight">Opens with your energy level, open tasks, and active projects. You just pick a direction.</div>
+      </div>
+
+      <div class="pattern-card">
+        <div class="pattern-num">02</div>
+        <h3>The Specialist Persona</h3>
+        <p>A context that already knows your resume, your history, and your weak spots. No "tell me about yourself." It remembers.</p>
+        <div class="pattern-example">/career<br/>Stripe systems design on Thursday.<br/>Last time I bombed scalability.</div>
+        <div class="pattern-insight">After 10 sessions the advice is calibrated to you specifically, not to "a job seeker."</div>
+      </div>
+
+      <div class="pattern-card">
+        <div class="pattern-num">03</div>
+        <h3>The Character Persona</h3>
+        <p>Personality changes how you engage. A deal-hunter warlock is more fun to consult than "AI Assistant" — and you actually build the habit.</p>
+        <div class="pattern-example">/shopping<br/>About to buy a mechanical keyboard.<br/>Budget $150.</div>
+        <div class="pattern-insight">You're more likely to use a tool consistently if it's enjoyable. Character creates relationship.</div>
+      </div>
+
+      <div class="pattern-card">
+        <div class="pattern-num">04</div>
+        <h3>Cross-Tool Integration</h3>
+        <p>AI as connective tissue between your apps. One command routes correctly across Todoist, Calendar, and notes — no micro-decisions.</p>
+        <div class="pattern-example">/capture<br/>[reads Apple Reminders, routes to<br/>Todoist + Calendar automatically]</div>
+        <div class="pattern-insight">The system knows your conventions better than you do in the moment.</div>
+      </div>
+
+      <div class="pattern-card">
+        <div class="pattern-num">05</div>
+        <h3>Persistent Memory</h3>
+        <p>Every session writes back to a shared knowledge base. The AI gets smarter about your world over time, not just in the moment.</p>
+        <div class="pattern-example">/wrap<br/>[commits session notes, writes<br/>solution to shared knowledge]</div>
+        <div class="pattern-insight">Most AI use is amnesiac. Writeback means compounding returns the longer you use it.</div>
+      </div>
+
+      <div class="pattern-card">
+        <div class="pattern-num">06</div>
+        <h3>The Autonomous Agent</h3>
+        <p>Some contexts aren't for conversation — they run a job and report back. You read it like a briefing.</p>
+        <div class="pattern-example">/gitmaxxing<br/>[scans all repos, flags stale ones,<br/>surfaces cross-project patterns]</div>
+        <div class="pattern-insight">You can't hold 35 repos in your head. An agent that audits them for you is a force multiplier.</div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- SECTION: PRINCIPLES TABLE -->
+  <section id="principles">
+    <div class="section-label">Part 1 &mdash; Transferable Principles</div>
+    <h2>Where to Start</h2>
+    <p class="section-desc">These scale from one person with one CLAUDE.md to a full ecosystem. Start with the ones that take five minutes.</p>
+
+    <table class="principles-table">
+      <thead>
+        <tr>
+          <th>Pattern</th>
+          <th>Starting point</th>
+          <th>Effort</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Hub / Orchestrator</td>
+          <td>One CLAUDE.md with your current context</td>
+          <td>5 min</td>
+        </tr>
+        <tr>
+          <td>Specialist Persona</td>
+          <td>One CLAUDE.md with domain knowledge</td>
+          <td>5 min</td>
+        </tr>
+        <tr>
+          <td>Persistent Memory</td>
+          <td>A work-journal.md updated at session end</td>
+          <td>5 min</td>
+        </tr>
+        <tr>
+          <td>Character Voice</td>
+          <td>A persona description with a distinct tone</td>
+          <td>5 min</td>
+        </tr>
+        <tr>
+          <td>Cross-Tool Integration</td>
+          <td>MCP servers for tools you already use</td>
+          <td>A few hours</td>
+        </tr>
+        <tr>
+          <td>Autonomous Agents</td>
+          <td>A CLAUDE.md designed for a job, not a conversation</td>
+          <td>5 min</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- SECTION: LOCAL AI -->
+  <section id="local-ai">
+    <div class="section-label">Part 2 &mdash; Tools</div>
+    <h2>Local AI Infrastructure</h2>
+    <p class="section-desc">Run models on your own hardware. Nothing leaves the device.</p>
+
+    <div class="tool-category">
+      <div class="tool-grid">
+
+        <div class="tool-card">
+          <div class="tool-header">
+            <div class="tool-name"><a href="https://ollama.com" target="_blank">Ollama</a></div>
+            <span class="tool-badge badge-free">Free</span>
+            <span class="tool-badge badge-local">Local</span>
+          </div>
+          <div class="tool-desc">One command to pull and run open-source LLMs (Llama, Mistral, Phi, DeepSeek, Gemma) entirely on your machine. No API key, no network calls.</div>
+          <div class="tool-showcase"><strong>Showcase angle:</strong> Pull up a network traffic monitor while running a query. Zero outbound. Powerful demo for anyone with privacy concerns or working with sensitive documents.</div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-header">
+            <div class="tool-name"><a href="https://lmstudio.ai" target="_blank">LM Studio</a></div>
+            <span class="tool-badge badge-free">Free</span>
+            <span class="tool-badge badge-local">Local</span>
+          </div>
+          <div class="tool-desc">GUI companion to Ollama. Browse and download models through a polished interface. Has a built-in local OpenAI-compatible API server — any app that talks to ChatGPT can point here instead.</div>
+          <div class="tool-showcase"><strong>Showcase angle:</strong> Show the model browser, pull one, then show the local server endpoint. "Any app that works with ChatGPT works with this, for free."</div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-header">
+            <div class="tool-name"><a href="https://openwebui.com" target="_blank">Open WebUI</a></div>
+            <span class="tool-badge badge-free">Free</span>
+            <span class="tool-badge badge-local">Local</span>
+          </div>
+          <div class="tool-desc">Drop-in web interface for Ollama. Full ChatGPT experience — conversation history, RAG on uploaded files, multiple models — running entirely locally via Docker.</div>
+          <div class="tool-showcase"><strong>Showcase angle:</strong> Paste in a PDF and ask detailed questions about it. Entirely offline. No data leaves the machine.</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION: CODING ENVS -->
+  <section id="coding-envs">
+    <div class="section-label">Part 2 &mdash; Tools</div>
+    <h2>AI Coding Environments</h2>
+    <p class="section-desc">The landscape has exploded. These are the ones actually worth knowing.</p>
+
+    <div class="tool-grid">
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://claude.ai/code" target="_blank">Claude Code</a></div>
+          <span class="tool-badge badge-new">Primary</span>
+        </div>
+        <div class="tool-desc">Terminal-first AI coding agent. Reads the whole codebase, writes and edits files, runs commands, works across multiple files simultaneously. Not a chat with copy-paste — an agent with real file access.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Use the prompts in Part 4. Point it at a messy folder. Watch it restructure everything.</div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://antigravity.google" target="_blank">Google Antigravity</a></div>
+          <span class="tool-badge badge-new">New</span>
+          <span class="tool-badge badge-free">Free Preview</span>
+        </div>
+        <div class="tool-desc">VS Code fork announced November 2025 alongside Gemini 3. Two views: an Editor (like Cursor) and a Manager for orchestrating multiple agents in parallel across workspaces. Supports Gemini 3.1 Pro, Claude Sonnet/Opus, and open-source models.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Open the Manager view and spawn two agents working on different parts of the same project at the same time. The parallelism is visually striking.</div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://cursor.com" target="_blank">Cursor</a></div>
+        </div>
+        <div class="tool-desc">The gold-standard AI-native IDE. VS Code fork with Composer (multi-file editing from a description), @ symbols to reference files/docs/web, and shadow workspace for background edits.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Open a codebase, use Composer to add a feature by description, watch it plan and edit 4 files at once.</div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://opencode.ai" target="_blank">opencode</a></div>
+          <span class="tool-badge badge-free">Free</span>
+        </div>
+        <div class="tool-desc">Terminal-based AI coding assistant from the team at SST. Capable coding tool with zero subscription cost if you bring your own API keys or run local models via Ollama.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Good entry point for developers who live in the terminal and don't want to pay a monthly fee.</div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://code.visualstudio.com" target="_blank">VS Code</a></div>
+          <span class="tool-badge badge-free">Free</span>
+        </div>
+        <div class="tool-desc">The free baseline. GitHub Copilot now has a free tier (2000 completions/month). Pair with the Claude Code extension. Most people haven't explored even half of what the free tier offers.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Show the diff view when AI edits a file, inline suggestions in context, and the chat panel — all without spending anything.</div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- SECTION: VOICE -->
+  <section id="voice">
+    <div class="section-label">Part 2 &mdash; Tools</div>
+    <h2>Voice Input</h2>
+    <p class="section-desc">Eliminate the keyboard as a bottleneck.</p>
+
+    <div class="tool-grid">
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://superwhisper.com" target="_blank">Superwhisper</a></div>
+        </div>
+        <div class="tool-desc">System-wide voice-to-text on Mac. Hold a key, speak, text appears anywhere — terminal, Slack, browser, any app. Runs Whisper locally, no cloud required.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Open a blank Claude Code prompt, hold the key, describe a whole app verbally, release. The gap between "I had an idea" and "I have code" becomes a few seconds.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION: KNOWLEDGE -->
+  <section id="knowledge">
+    <div class="section-label">Part 2 &mdash; Tools</div>
+    <h2>Knowledge &amp; Notes</h2>
+    <p class="section-desc">Your knowledge base as an AI-queryable layer.</p>
+
+    <div class="tool-grid">
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://obsidian.md" target="_blank">Obsidian + CLI</a></div>
+          <span class="tool-badge badge-free">Free</span>
+        </div>
+        <div class="tool-desc">Local markdown vault with an official CLI and community REST API plugin. Point Claude Code directly at your vault directory — it's just files, no plugin required.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Open your vault in Claude Code. Ask it to find all notes tagged #project and generate a weekly summary. Or restructure your note naming convention across 200 files instantly.</div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://notebooklm.google.com" target="_blank">Google NotebookLM</a></div>
+          <span class="tool-badge badge-free">Free</span>
+        </div>
+        <div class="tool-desc">Upload PDFs, Google Docs, URLs, or YouTube links as sources. Ask questions grounded in your sources with citations. The signature feature: Audio Overview — a two-host podcast-style discussion of your material generated in ~30 seconds.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Drop in a dense research paper or a long document, generate the Audio Overview, and play it. Watch someone's reaction. Also powerful for: interview prep, briefing docs, book summaries.</div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- SECTION: GENERATIVE -->
+  <section id="generative">
+    <div class="section-label">Part 2 &mdash; Tools</div>
+    <h2>Image, Video &amp; Audio Generation</h2>
+    <p class="section-desc">The generation stack — all from within Google's ecosystem.</p>
+
+    <div class="tool-grid">
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://gemini.google.com" target="_blank">Gemini — Image Generation</a></div>
+          <span class="tool-badge badge-free">Free Tier</span>
+        </div>
+        <div class="tool-desc">Imagen-powered image generation built into the Gemini app. Text-to-image for product mockups, concept art, social graphics, and more.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Give it a specific product brief or character description. Compare speed and cost vs. commissioning a designer for a rough concept.</div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://nanobanana.ai" target="_blank">Nano Banana / Nano Banana Pro</a></div>
+          <span class="tool-badge badge-new">New</span>
+        </div>
+        <div class="tool-desc">Google's text-based image editor (Gemini 2.5 Flash / Gemini 3 Pro). Edit images by describing changes in plain English: "remove the background," "make her hair red," "add rain," "put text on the shirt." Nano Banana Pro is best-in-class for rendering legible text inside images — something most models still fail at.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Take any photo, make three chained edits in plain English. Show consistency across edits — characters and scene stay coherent.</div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name">Gemini — Video Generation (Veo)</div>
+          <span class="tool-badge badge-new">Gemini Advanced</span>
+        </div>
+        <div class="tool-desc">Prompt-to-video generation via Veo, available in Gemini Advanced. Describe a scene, get a short video clip.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Describe a 5-second clip. Play the result. Point out what it would have cost to shoot or animate even a rough version of that. The trajectory matters more than the current quality.</div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://aitestkitchen.withgoogle.com" target="_blank">Google MusicFX — Song Generation</a></div>
+          <span class="tool-badge badge-free">Free</span>
+        </div>
+        <div class="tool-desc">Text-to-music via Google AI Test Kitchen. Describe genre, mood, tempo, and instrumentation. Generates loopable tracks in seconds.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Describe a very specific vibe: "lo-fi hip hop, rainy day, slow BPM, vinyl crackle." Play it. The precision of the output vs. the simplicity of the input is the reveal.</div>
+      </div>
+
+      <div class="tool-card">
+        <div class="tool-header">
+          <div class="tool-name"><a href="https://stitch.withgoogle.com" target="_blank">Google Stitch</a></div>
+          <span class="tool-badge badge-new">New</span>
+        </div>
+        <div class="tool-desc">Prompt-to-UI. Describe an app screen in plain language, Stitch generates working HTML/CSS. Built for rapid prototyping and wireframing.</div>
+        <div class="tool-showcase"><strong>Showcase angle:</strong> Describe a settings screen for a mobile app. Generate it. Copy the output, open in browser. "From description to working UI in under a minute."</div>
+      </div>
+
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- SECTION: DEMOS -->
+  <section id="demos">
+    <div class="section-label">Part 3 &mdash; Tutorial Demos</div>
+    <h2>Live Demos to Run</h2>
+    <p class="section-desc">Concrete, repeatable demos that land well with a non-technical audience.</p>
+
+    <div class="demo-card">
+      <h3>Demo 1: Messy Folder &rarr; Structured Data</h3>
+      <p>Create a folder of 20-30 inconsistently named files (scan_final_FINAL.pdf, IMG_4291.jpg, johns birthday - draft 3.docx). Then run a single Claude Code prompt. Everyone has a folder like this.</p>
+      <div class="demo-steps">
+        <div class="demo-step">
+          <div class="step-num">1</div>
+          <div class="step-text">Create ~/Desktop/demo-mess/ with poorly named files across several categories</div>
+        </div>
+        <div class="demo-step">
+          <div class="step-num">2</div>
+          <div class="step-text">Open Claude Code: "Infer what each file is, rename to YYYY-MM-DD_category_description.ext, and generate a CSV index with: original name, new name, category, confidence."</div>
+        </div>
+        <div class="demo-step">
+          <div class="step-num">3</div>
+          <div class="step-text">Show the renamed folder and the generated CSV. Total elapsed: under 60 seconds.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="demo-card">
+      <h3>Demo 2: Xcode — App from a Comment</h3>
+      <p>Open a blank SwiftUI project in Xcode 16. With Claude Code or GitHub Copilot active, start with a single comment and watch it fill in.</p>
+      <div class="demo-steps">
+        <div class="demo-step">
+          <div class="step-num">1</div>
+          <div class="step-text">New Xcode project → SwiftUI → blank ContentView.swift</div>
+        </div>
+        <div class="demo-step">
+          <div class="step-num">2</div>
+          <div class="step-text">Type: <code style="font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--accent-2)">// Tip calculator: bill input, tip slider 10–25%, party size, per-person breakdown, animated total</code></div>
+        </div>
+        <div class="demo-step">
+          <div class="step-num">3</div>
+          <div class="step-text">Let AI fill in the implementation. Run in simulator. A working feature from one description.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="demo-card">
+      <h3>Demo 3: NotebookLM Audio Overview</h3>
+      <p>The fastest "wait, what?" reaction in the AI demo catalog.</p>
+      <div class="demo-steps">
+        <div class="demo-step">
+          <div class="step-num">1</div>
+          <div class="step-text">Drop a dense PDF (research paper, long article, anything they'd never actually read) into NotebookLM</div>
+        </div>
+        <div class="demo-step">
+          <div class="step-num">2</div>
+          <div class="step-text">Click Generate Audio Overview. Wait ~30 seconds.</div>
+        </div>
+        <div class="demo-step">
+          <div class="step-num">3</div>
+          <div class="step-text">Play the two-host podcast discussion of that exact document. Watch the reaction.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="demo-card">
+      <h3>Demo 4: Nano Banana Chained Edits</h3>
+      <p>Shows the difference between generation and editing — and why consistency across edits matters.</p>
+      <div class="demo-steps">
+        <div class="demo-step">
+          <div class="step-num">1</div>
+          <div class="step-text">Open Nano Banana with any photo (a portrait, a product shot, a landscape)</div>
+        </div>
+        <div class="demo-step">
+          <div class="step-num">2</div>
+          <div class="step-text">Edit 1: "Remove the background, replace with a coffee shop interior." Edit 2: "Add warm golden hour lighting." Edit 3: "Add a coffee cup on the table next to them."</div>
+        </div>
+        <div class="demo-step">
+          <div class="step-num">3</div>
+          <div class="step-text">Show the consistency — same person, same clothes, same camera angle — across all three edits.</div>
+        </div>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- SECTION: PROMPTS -->
+  <section id="prompts">
+    <div class="section-label">Part 4 &mdash; Showcase Prompts</div>
+    <h2>Ready-to-Run Claude Code Prompts</h2>
+    <p class="section-desc">Paste these directly into Claude Code. Each produces something you can see and use within minutes.</p>
+
+    <div class="prompt-card">
+      <div class="prompt-header">
+        <div class="prompt-title">Personal "Now" Page</div>
+        <span class="prompt-target target-vercel">Vercel Deploy</span>
+      </div>
+      <div class="prompt-body">
+        <pre class="prompt-code">Build a minimal single-page "now" page at
+sandbox/projects/vercel-sandbox/now/.
+
+Dark background (#0a0a0a), off-white text. Three sections:
+Currently Building, Currently Playing, Currently Reading.
+Data lives in a now.json file I can edit by hand.
+Each section is a card with a subtle border.
+Mobile responsive. No framework, no build step —
+just index.html + now.json. Include a sample now.json.</pre>
+        <button class="copy-btn" onclick="copyPrompt(this)">Copy</button>
+      </div>
+    </div>
+
+    <div class="prompt-card">
+      <div class="prompt-header">
+        <div class="prompt-title">Countdown with Confetti</div>
+        <span class="prompt-target target-vercel">Vercel Deploy</span>
+      </div>
+      <div class="prompt-body">
+        <pre class="prompt-code">Build a countdown timer site at
+sandbox/projects/vercel-sandbox/launch/.
+
+Target date: [YOUR DATE HERE]. Full-screen dark gradient.
+Large days/hours/minutes/seconds display, updating live.
+When it hits zero, fire a canvas confetti burst and
+show "We're live." in large text.
+
+Single index.html, no dependencies except a CDN
+confetti library. Mobile responsive.</pre>
+        <button class="copy-btn" onclick="copyPrompt(this)">Copy</button>
+      </div>
+    </div>
+
+    <div class="prompt-card">
+      <div class="prompt-header">
+        <div class="prompt-title">Text Manipulation Toolkit</div>
+        <span class="prompt-target target-local">Local 192.168.1.123</span>
+      </div>
+      <div class="prompt-body">
+        <pre class="prompt-code">Build a single HTML file at ~/sites/text-tools/index.html.
+
+A local text manipulation toolkit: sidebar of tools,
+main textarea, output pane.
+
+Tools to include:
+- Remove blank lines
+- Trim whitespace
+- Convert to title case
+- Extract all URLs
+- Extract all emails
+- Count words / chars / lines
+- Convert to bullet list (one item per line)
+- Sort lines A-Z
+- Deduplicate lines
+- Convert tabs to spaces
+
+No server needed — pure HTML/JS. Dark theme.</pre>
+        <button class="copy-btn" onclick="copyPrompt(this)">Copy</button>
+      </div>
+    </div>
+
+    <div class="prompt-card">
+      <div class="prompt-header">
+        <div class="prompt-title">Quick Reference Dashboard</div>
+        <span class="prompt-target target-local">Local 192.168.1.123</span>
+      </div>
+      <div class="prompt-body">
+        <pre class="prompt-code">Build ~/sites/ref/index.html. A personal quick-reference
+dashboard with three columns:
+
+Left: live clock + local weather (use Open-Meteo free API,
+hardcode lat/long for my location).
+
+Center: a link grid configured via a links.json file
+(each entry: name, URL, emoji, color accent).
+
+Right: a scratchpad textarea that saves to localStorage
+automatically.
+
+Dark minimal design. Generate a sample links.json
+with 8 example entries.</pre>
+        <button class="copy-btn" onclick="copyPrompt(this)">Copy</button>
+      </div>
+    </div>
+
+    <div class="prompt-card">
+      <div class="prompt-header">
+        <div class="prompt-title">File Rename Script Generator</div>
+        <span class="prompt-target target-local">Local 192.168.1.123</span>
+      </div>
+      <div class="prompt-body">
+        <pre class="prompt-code">Build ~/sites/renamer/index.html. A rename script generator.
+
+I paste in a list of current filenames (one per line),
+choose a target format from a dropdown:
+  - kebab-case
+  - snake_case
+  - YYYY-MM-DD prefix
+  - all lowercase
+  - strip special characters
+
+Click Generate. Output: a shell script of mv commands
+I can copy and run in terminal.
+
+Preview pane shows before/after for every file before
+I commit to anything. Dark theme, pure HTML/JS.</pre>
+        <button class="copy-btn" onclick="copyPrompt(this)">Copy</button>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- SECTION: ADDITIONS -->
+  <section id="additions">
+    <div class="section-label">Part 5 &mdash; Worth Adding</div>
+    <h2>Suggested Additions</h2>
+    <p class="section-desc">Tools that didn't make the main list but are worth a mention.</p>
+
+    <div class="addition-grid">
+
+      <div class="addition-card">
+        <div class="addition-name"><a href="https://perplexity.ai" target="_blank">Perplexity</a></div>
+        <div class="addition-desc">Cited web search. Every answer includes sources. The best gateway for people still Googling research questions.</div>
+      </div>
+
+      <div class="addition-card">
+        <div class="addition-name"><a href="https://v0.dev" target="_blank">v0 by Vercel</a></div>
+        <div class="addition-desc">Text-to-React component. Pairs well with Stitch — different aesthetic, excellent production-quality output.</div>
+      </div>
+
+      <div class="addition-card">
+        <div class="addition-name"><a href="https://bolt.new" target="_blank">Bolt.new</a></div>
+        <div class="addition-desc">Full-stack app in the browser, no local setup. Describe an app, it writes it, deploys it. Impressive for non-developers.</div>
+      </div>
+
+      <div class="addition-card">
+        <div class="addition-name"><a href="https://elevenlabs.io" target="_blank">ElevenLabs</a></div>
+        <div class="addition-desc">Text-to-speech and voice cloning. Free tier. Pair with NotebookLM + Superwhisper for a full voice input/output loop.</div>
+      </div>
+
+      <div class="addition-card">
+        <div class="addition-name"><a href="https://n8n.io" target="_blank">n8n</a></div>
+        <div class="addition-desc">Visual workflow automation. Connect Gmail to Todoist to Slack in a graph. One of the fastest "wait, it can do THAT?" demos.</div>
+      </div>
+
+    </div>
+  </section>
+
+</main>
+
+<script>
+  function copyPrompt(btn) {
+    const code = btn.previousElementSibling.textContent;
+    navigator.clipboard.writeText(code.trim()).then(() => {
+      btn.textContent = 'Copied!';
+      btn.classList.add('copied');
+      setTimeout(() => {
+        btn.textContent = 'Copy';
+        btn.classList.remove('copied');
+      }, 2000);
+    });
+  }
+
+  // Active nav highlighting on scroll
+  const sections = document.querySelectorAll('section[id], div[id]');
+  const navLinks = document.querySelectorAll('nav a');
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        navLinks.forEach(link => link.classList.remove('active'));
+        const active = document.querySelector(`nav a[href="#${entry.target.id}"]`);
+        if (active) active.classList.add('active');
+      }
+    });
+  }, { rootMargin: '-20% 0px -70% 0px' });
+
+  sections.forEach(section => observer.observe(section));
+</script>
+
+</body>
+</html>
