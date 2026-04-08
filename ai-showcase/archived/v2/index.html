@@ -825,140 +825,6 @@
 
     .intro-list li { margin-bottom: 2px; }
 
-    /* ── LIMITATIONS CALLOUT ── */
-    .limitations-callout {
-      background: var(--surface);
-      border: 1px solid color-mix(in srgb, var(--accent-4) 40%, var(--border));
-      border-left: 3px solid var(--accent-4);
-      border-radius: 12px;
-      padding: 28px 32px;
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-      margin-top: 8px;
-    }
-
-    .limitations-callout .limit-row {
-      display: flex;
-      gap: 16px;
-      align-items: flex-start;
-    }
-
-    .limit-icon {
-      font-size: 18px;
-      line-height: 1;
-      flex-shrink: 0;
-      margin-top: 2px;
-    }
-
-    .limit-body h4 {
-      font-size: 14px;
-      font-weight: 600;
-      color: var(--text);
-      margin-bottom: 4px;
-    }
-
-    .limit-body p {
-      font-size: 13px;
-      color: var(--text-dim);
-      line-height: 1.65;
-      margin: 0;
-    }
-
-    .limitations-footer {
-      border-top: 1px solid var(--border);
-      padding-top: 16px;
-      font-size: 13px;
-      color: var(--text-dim);
-      font-style: italic;
-    }
-
-    /* ── FIRST WEEK ── */
-    .week-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 14px;
-      margin-top: 8px;
-    }
-
-    .week-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 22px 24px;
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      transition: border-color .2s;
-    }
-
-    .week-card:hover { border-color: var(--border-2); }
-
-    .week-card.week-full {
-      grid-column: 1 / -1;
-      background: color-mix(in srgb, var(--accent-2) 6%, var(--surface));
-      border-color: color-mix(in srgb, var(--accent-2) 25%, var(--border));
-    }
-
-    .week-day {
-      font-size: 10px;
-      font-weight: 700;
-      letter-spacing: .12em;
-      text-transform: uppercase;
-      color: var(--accent);
-    }
-
-    .week-card.week-full .week-day { color: var(--accent-2); }
-
-    .week-card h3 {
-      font-size: 15px;
-      font-weight: 600;
-      color: var(--text);
-      margin: 0;
-    }
-
-    .week-card p {
-      font-size: 13px;
-      color: var(--text-dim);
-      line-height: 1.65;
-      margin: 0;
-    }
-
-    .week-task {
-      background: var(--surface-2);
-      border: 1px solid var(--border);
-      border-radius: 7px;
-      padding: 8px 12px;
-      font-size: 12px;
-      color: var(--text-dim);
-      line-height: 1.5;
-    }
-
-    .week-task strong { color: var(--text); font-weight: 500; }
-
-    /* ── VIGNETTE BEFORE/AFTER ── */
-    .vignette-before {
-      font-size: 12px;
-      color: var(--text-dimmer);
-      font-style: italic;
-      border-left: 2px solid var(--border-2);
-      padding-left: 10px;
-      margin-bottom: 6px;
-      line-height: 1.5;
-    }
-
-    /* ── TOOLBOX INTRO NOTE ── */
-    .toolbox-note {
-      background: var(--surface-2);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 12px 16px;
-      font-size: 13px;
-      color: var(--text-dim);
-      margin-bottom: 24px;
-      line-height: 1.6;
-    }
-
     /* ── LOCK SCREEN ── */
     #lockscreen {
       position: fixed;
@@ -1088,9 +954,7 @@
 
   <span class="nav-section">Start Here</span>
   <a href="#not-coding">Not Just Coding</a>
-  <a href="#limitations">Honest Limitations</a>
   <a href="#atomic">The Atomic Principle</a>
-  <a href="#first-week">Your First Week</a>
   <a href="#real-world">Real World Examples</a>
 
   <span class="nav-section">System Patterns</span>
@@ -1098,7 +962,7 @@
   <a href="#patterns">6 Core Patterns</a>
   <a href="#principles">Key Principles</a>
 
-  <span class="nav-section">The Toolbox (Reference)</span>
+  <span class="nav-section">The Tools</span>
   <a href="#local-ai">Local AI</a>
   <a href="#coding-envs">Coding Environments</a>
   <a href="#voice">Voice Input</a>
@@ -1155,52 +1019,6 @@
     </div>
   </section>
 
-  <!-- SECTION: HONEST LIMITATIONS -->
-  <section id="limitations">
-    <div class="section-label">Be informed</div>
-    <h2>What AI Gets Wrong</h2>
-    <p class="section-desc">Knowing the limits makes you a sharper user, not a skeptic. These aren't reasons to avoid it, they're calibration.</p>
-    <div class="limitations-callout">
-
-      <div class="limit-row">
-        <div class="limit-icon">🎭</div>
-        <div class="limit-body">
-          <h4>It makes things up, confidently</h4>
-          <p>AI models can produce plausible-sounding facts that are simply wrong. Dates, names, citations, statistics, instructions for things it hasn't done before. It won't flag uncertainty the way a person would. If accuracy matters, verify it independently.</p>
-        </div>
-      </div>
-
-      <div class="limit-row">
-        <div class="limit-icon">📅</div>
-        <div class="limit-body">
-          <h4>Its knowledge has a cutoff date</h4>
-          <p>Claude's training has a knowledge cutoff. It doesn't know what happened last month or last year. For current events, recent research, or anything time-sensitive, it will either not know or guess from older patterns. Use it for timeless tasks, not breaking news.</p>
-        </div>
-      </div>
-
-      <div class="limit-row">
-        <div class="limit-icon">🗂️</div>
-        <div class="limit-body">
-          <h4>It's only as good as the context you give it</h4>
-          <p>Generic prompt, generic answer. The quality of the output is directly tied to how much of your actual situation you've described. This is why context files matter so much. A blank canvas produces average work. A loaded context produces expert work.</p>
-        </div>
-      </div>
-
-      <div class="limit-row">
-        <div class="limit-icon">✨</div>
-        <div class="limit-body">
-          <h4>It isn't magic, it's pattern completion</h4>
-          <p>AI is a very sophisticated pattern matcher trained on enormous amounts of human writing. It doesn't understand your situation the way a person does, it's predicting what a knowledgeable person would say given your context. That's useful but it's not the same thing.</p>
-        </div>
-      </div>
-
-      <div class="limitations-footer">
-        The most effective AI users aren't the ones who trust it blindly, they're the ones who know when to verify, when to push back, and when to just run with it.
-      </div>
-
-    </div>
-  </section>
-
   <!-- SECTION: THE ATOMIC PRINCIPLE -->
   <section id="atomic">
     <div class="section-label">The Big Idea</div>
@@ -1218,45 +1036,6 @@
     </div>
   </section>
 
-  <!-- SECTION: YOUR FIRST WEEK -->
-  <section id="first-week">
-    <div class="section-label">Start Here</div>
-    <h2>Your First Week</h2>
-    <p class="section-desc">A concrete plan for the free trial week Phillip is sharing with you. No pressure, no homework. Just a sequence that actually works.</p>
-
-    <div class="week-grid">
-
-      <div class="week-card">
-        <div class="week-day">Day 1</div>
-        <h3>Just explore. Ask it anything.</h3>
-        <p>Open claude.ai and talk to it like a knowledgeable friend who knows everything but has no opinions about you yet. Ask something you've always been curious about. Ask it to explain something complicated. Ask it to roast your grocery list. Get a feel for the voice.</p>
-        <div class="week-task"><strong>Try:</strong> "Explain [something I've always found confusing] like I'm smart but haven't studied it."</div>
-      </div>
-
-      <div class="week-card">
-        <div class="week-day">Days 2 &ndash; 3</div>
-        <h3>Point it at a real problem you have.</h3>
-        <p>Not a hypothetical. Something you've been putting off or a mess that's been sitting there for months. A folder of files. A decision you can't make. A thing you need to write but haven't started. Give it actual details about your actual situation.</p>
-        <div class="week-task"><strong>Try:</strong> "Here's a situation I've been stuck on: [describe it]. What would you actually do?"</div>
-      </div>
-
-      <div class="week-card">
-        <div class="week-day">Days 4 &ndash; 5</div>
-        <h3>Set up your first context file.</h3>
-        <p>Write a plain text file that describes you: what you do, what you care about, what you're working on, what you find annoying about generic AI answers. Paste it at the start of a conversation. Notice how different the responses feel. This is the compounding mechanism.</p>
-        <div class="week-task"><strong>Try:</strong> Paste your context file, then ask the same question you asked on Day 1. Compare the answers.</div>
-      </div>
-
-      <div class="week-card week-full">
-        <div class="week-day">End of Week &mdash; Decide</div>
-        <h3>Is this worth continuing? Here's how to tell.</h3>
-        <p>If at least one session felt genuinely useful, not just impressive, that's the signal. The bar isn't "wow." It's "I would have spent two hours on that otherwise." If you hit that once in a week, the tool has proved itself. If you want to keep going, the next step is Claude Code: file access, persistent memory, the deeper stuff on this page.</p>
-        <div class="week-task"><strong>If yes:</strong> Ask Phillip to walk you through Claude Code setup. It takes 20 minutes and opens a different tier of capability.</div>
-      </div>
-
-    </div>
-  </section>
-
   <!-- SECTION: REAL-WORLD EXAMPLES -->
   <section id="real-world">
     <div class="section-label">Part 0 &mdash; Real World</div>
@@ -1268,7 +1047,6 @@
       <div class="pattern-card">
         <div class="pattern-num">📚</div>
         <h3>The Knowledge Vault</h3>
-        <div class="vignette-before">Before: notes scattered across apps, tabs, and memory. Finding anything meant remembering which app you'd put it in.</div>
         <p>A persona called <em>Vaultron</em> reads across all of Phillip's other AI contexts and consolidates everything — notes, links, decisions, ideas — into a single Obsidian vault, organized automatically.</p>
         <div class="pattern-insight">One place to look for anything. Built and maintained by Claude, not by hand.</div>
       </div>
@@ -1276,7 +1054,6 @@
       <div class="pattern-card">
         <div class="pattern-num">📻</div>
         <h3>The Morning Briefing</h3>
-        <div class="vignette-before">Before: opening five different apps every morning to piece together what the day looked like — calendar, tasks, email, weather, all separately.</div>
         <p>Every morning, a Claude agent pulls together tasks, calendar, weather, and notes, then delivers a formatted briefing as a message in Discord — sent by a bot named <em>Bingus</em>.</p>
         <div class="pattern-insight">Your day summarized before you've had coffee. No apps to open, no tabs to check.</div>
       </div>
@@ -1284,7 +1061,6 @@
       <div class="pattern-card">
         <div class="pattern-num">🗂️</div>
         <h3>The Life Portal</h3>
-        <div class="vignette-before">Before: one generic chat window for everything — homelab questions, grocery lists, financial planning — all jumbled together with no memory between sessions.</div>
         <p>A local dashboard that organizes every domain of life — homelab, finances, health, projects, shopping — into purpose-built AI contexts, each one carrying its own deep knowledge and persistent memory.</p>
         <div class="pattern-insight">Different "modes" for different parts of life. Not one chat window for everything.</div>
       </div>
@@ -1292,15 +1068,13 @@
       <div class="pattern-card">
         <div class="pattern-num">🃏</div>
         <h3>The Card Scanner</h3>
-        <div class="vignette-before">Before: a literal shoebox of Pokémon cards, no idea what they were worth, no organization, had been sitting in a closet untouched for years.</div>
-        <p>A persona called <em>The Collector</em> used a camera to scan hundreds of cards, identify each one, look up current market values, and build a live inventory in Google Sheets — automatically, in an afternoon.</p>
+        <p>A persona called <em>The Collector</em> used a camera to scan hundreds of Pokémon cards, identify each one, look up current market values, and build a live inventory in Google Sheets — automatically, in an afternoon.</p>
         <div class="pattern-insight">A shoebox of cards became a searchable, valued collection. No manual data entry.</div>
       </div>
 
       <div class="pattern-card">
         <div class="pattern-num">📧</div>
         <h3>The Google Assistant</h3>
-        <div class="vignette-before">Before: switching between Gmail, Calendar, Docs, and Sheets constantly — copy something here, paste it there, repeat for every task that touched multiple apps.</div>
         <p>A persona called <em>Analyst</em> is connected live to Gmail, Google Docs, Sheets, and Calendar. Ask it to summarize unread emails, draft a document, or update a spreadsheet — no clicking, no tabs.</p>
         <div class="pattern-insight">All of Google Workspace, operated by voice command instead of mouse clicks.</div>
       </div>
@@ -1308,8 +1082,7 @@
       <div class="pattern-card">
         <div class="pattern-num">📁</div>
         <h3>The Manual Library</h3>
-        <div class="vignette-before">Before: thousands of instruction manual PDFs accumulated over years — duplicated, renamed cryptically, impossible to search, sitting in a folder no one ever opened.</div>
-        <p>Claude identified the duplicates, removed them, categorized everything that remained, renamed every file descriptively, and organized it all into a browsable reference library.</p>
+        <p>Years of accumulated instruction manual PDFs — thousands of files, many duplicated. Claude identified the duplicates, removed them, categorized everything that remained, renamed every file descriptively, and organized it all into a browsable reference library.</p>
         <div class="pattern-insight">The kind of cleanup that sits undone for years. Done in one afternoon.</div>
       </div>
 
@@ -1443,14 +1216,8 @@
 
   <!-- SECTION: LOCAL AI -->
   <section id="local-ai">
-    <div class="section-label">Part 2 &mdash; Toolbox (Reference)</div>
-    <h2>The Toolbox</h2>
-    <p class="section-desc">A curated list of tools worth knowing about.</p>
-    <div class="toolbox-note">
-      This is reference material, not required reading. Nothing here is homework. Browse when you're ready — come back when you're curious about a specific capability. The sections above this one are the real starting point.
-    </div>
-
-    <div style="margin-top: 32px; font-size: 18px; font-weight: 700; letter-spacing: -.01em; margin-bottom: 8px;">Local AI Infrastructure</div>
+    <div class="section-label">Part 2 &mdash; Tools</div>
+    <h2>Local AI Infrastructure</h2>
     <p class="section-desc">Run models on your own hardware. Nothing leaves the device.</p>
 
     <div class="tool-category">
@@ -1492,7 +1259,7 @@
 
   <!-- SECTION: CODING ENVS -->
   <section id="coding-envs">
-    <div class="section-label">Part 2 &mdash; Toolbox (Reference)</div>
+    <div class="section-label">Part 2 &mdash; Tools</div>
     <h2>AI Coding Environments</h2>
     <p class="section-desc">The landscape has exploded. These are the ones actually worth knowing.</p>
 
@@ -1548,7 +1315,7 @@
 
   <!-- SECTION: VOICE -->
   <section id="voice">
-    <div class="section-label">Part 2 &mdash; Toolbox (Reference)</div>
+    <div class="section-label">Part 2 &mdash; Tools</div>
     <h2>Voice Input</h2>
     <p class="section-desc">Eliminate the keyboard as a bottleneck.</p>
 
@@ -1565,7 +1332,7 @@
 
   <!-- SECTION: KNOWLEDGE -->
   <section id="knowledge">
-    <div class="section-label">Part 2 &mdash; Toolbox (Reference)</div>
+    <div class="section-label">Part 2 &mdash; Tools</div>
     <h2>Knowledge &amp; Notes</h2>
     <p class="section-desc">Your knowledge base as an AI-queryable layer.</p>
 
@@ -1594,7 +1361,7 @@
 
   <!-- SECTION: GENERATIVE -->
   <section id="generative">
-    <div class="section-label">Part 2 &mdash; Toolbox (Reference)</div>
+    <div class="section-label">Part 2 &mdash; Tools</div>
     <h2>Image, Video &amp; Audio Generation</h2>
     <p class="section-desc">The generation stack — all from within Google's ecosystem.</p>
 
