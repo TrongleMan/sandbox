@@ -1,0 +1,2627 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HOA Greenleaf Initiative</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0d1117;
+      --bg-secondary: #161b22;
+      --bg-tertiary: #21262d;
+      --border: #30363d;
+      --border-active: #388bfd;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --text-dim: #6e7681;
+      --accent: #3fb950;
+      --accent-blue: #388bfd;
+      --accent-orange: #d29922;
+      --font-mono: 'JetBrains Mono', monospace;
+      --font-sans: 'Inter', system-ui, sans-serif;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      font-size: 14px;
+      line-height: 1.5;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* TOPBAR */
+    .topbar {
+      background: var(--bg-secondary);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-shrink: 0;
+    }
+
+    .topbar-icon {
+      font-size: 20px;
+    }
+
+    .topbar-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .topbar-meta {
+      color: var(--text-muted);
+      font-size: 12px;
+    }
+
+    .topbar-divider {
+      color: var(--border);
+      margin: 0 4px;
+    }
+
+    /* ICLOUD NOTE */
+    .icloud-note {
+      background: #0d2b1e;
+      border-bottom: 1px solid #1a4731;
+      padding: 9px 20px;
+      font-size: 12px;
+      color: #7ee2a8;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .icloud-note strong {
+      color: #3fb950;
+    }
+
+    /* MAIN LAYOUT */
+    .layout {
+      display: flex;
+      flex: 1;
+      min-height: 0;
+      height: calc(100vh - 83px);
+    }
+
+    /* SIDEBAR */
+    .sidebar {
+      width: 260px;
+      min-width: 220px;
+      max-width: 320px;
+      background: var(--bg-secondary);
+      border-right: 1px solid var(--border);
+      overflow-y: auto;
+      flex-shrink: 0;
+      padding: 8px 0;
+    }
+
+    .sidebar-header {
+      padding: 8px 12px 4px;
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-dim);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .folder-label {
+      padding: 4px 12px 4px 12px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 4px;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .folder-label:hover {
+      color: var(--text);
+    }
+
+    .folder-chevron {
+      font-size: 10px;
+      transition: transform 0.15s;
+    }
+
+    .folder-label.open .folder-chevron {
+      transform: rotate(90deg);
+    }
+
+    .folder-children {
+      display: none;
+    }
+
+    .folder-children.open {
+      display: block;
+    }
+
+    .file-item {
+      padding: 5px 12px 5px 28px;
+      font-size: 12px;
+      color: var(--text-muted);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      border-radius: 4px;
+      margin: 1px 6px;
+      transition: background 0.1s, color 0.1s;
+    }
+
+    .file-item:hover {
+      background: var(--bg-tertiary);
+      color: var(--text);
+    }
+
+    .file-item.active {
+      background: var(--bg-tertiary);
+      color: var(--accent-blue);
+      font-weight: 500;
+    }
+
+    .file-item .file-icon {
+      font-size: 12px;
+      flex-shrink: 0;
+    }
+
+    /* Root file (README) */
+    .root-file {
+      padding: 5px 12px;
+      font-size: 12px;
+      color: var(--text-muted);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      border-radius: 4px;
+      margin: 1px 6px;
+      transition: background 0.1s, color 0.1s;
+    }
+
+    .root-file:hover {
+      background: var(--bg-tertiary);
+      color: var(--text);
+    }
+
+    .root-file.active {
+      background: var(--bg-tertiary);
+      color: var(--accent-blue);
+      font-weight: 500;
+    }
+
+    /* CONTENT PANE */
+    .content-pane {
+      flex: 1;
+      overflow-y: auto;
+      padding: 32px 40px;
+      min-width: 0;
+    }
+
+    .content-breadcrumb {
+      font-family: var(--font-mono);
+      font-size: 12px;
+      color: var(--text-dim);
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .content-breadcrumb .crumb-sep {
+      color: var(--border);
+    }
+
+    .content-breadcrumb .crumb-file {
+      color: var(--text-muted);
+    }
+
+    /* MARKDOWN STYLES */
+    .md-body {
+      max-width: 800px;
+    }
+
+    .md-body h1 {
+      font-size: 26px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .md-body h2 {
+      font-size: 20px;
+      font-weight: 600;
+      color: var(--text);
+      margin-top: 28px;
+      margin-bottom: 12px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .md-body h3 {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--text);
+      margin-top: 20px;
+      margin-bottom: 8px;
+    }
+
+    .md-body h4 {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-muted);
+      margin-top: 16px;
+      margin-bottom: 6px;
+    }
+
+    .md-body p {
+      color: var(--text-muted);
+      margin-bottom: 12px;
+      line-height: 1.7;
+    }
+
+    .md-body ul, .md-body ol {
+      margin: 8px 0 12px 20px;
+      color: var(--text-muted);
+      line-height: 1.7;
+    }
+
+    .md-body li {
+      margin-bottom: 4px;
+    }
+
+    .md-body li > p {
+      margin-bottom: 4px;
+    }
+
+    .md-body strong {
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    .md-body em {
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    .md-body code {
+      font-family: var(--font-mono);
+      font-size: 12px;
+      background: var(--bg-tertiary);
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #f0883e;
+    }
+
+    .md-body pre {
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 16px;
+      overflow-x: auto;
+      margin: 12px 0;
+    }
+
+    .md-body pre code {
+      background: none;
+      padding: 0;
+      color: var(--text-muted);
+      font-size: 13px;
+    }
+
+    .md-body blockquote {
+      border-left: 3px solid var(--accent);
+      padding: 8px 16px;
+      margin: 12px 0;
+      background: rgba(63, 185, 80, 0.06);
+      border-radius: 0 4px 4px 0;
+    }
+
+    .md-body blockquote p {
+      color: #7ee2a8;
+      margin: 0;
+    }
+
+    .md-body table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 12px 0;
+      font-size: 13px;
+    }
+
+    .md-body th {
+      text-align: left;
+      padding: 8px 12px;
+      background: var(--bg-tertiary);
+      color: var(--text);
+      border: 1px solid var(--border);
+      font-weight: 600;
+      font-size: 12px;
+    }
+
+    .md-body td {
+      padding: 7px 12px;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      vertical-align: top;
+    }
+
+    .md-body tr:hover td {
+      background: rgba(255,255,255,0.02);
+    }
+
+    .md-body a {
+      color: var(--accent-blue);
+      text-decoration: none;
+    }
+
+    .md-body a:hover {
+      text-decoration: underline;
+    }
+
+    .md-body hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 24px 0;
+    }
+
+    /* Checkbox lists */
+    .md-body input[type="checkbox"] {
+      margin-right: 6px;
+      accent-color: var(--accent);
+    }
+
+    /* Scrollbar styling */
+    ::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    ::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: var(--border);
+      border-radius: 3px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: var(--text-dim);
+    }
+
+    /* Responsive */
+    @media (max-width: 700px) {
+      .layout { flex-direction: column; height: auto; }
+      .sidebar { width: 100%; max-width: none; height: auto; border-right: none; border-bottom: 1px solid var(--border); }
+      .content-pane { padding: 20px 16px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- TOPBAR -->
+  <div class="topbar">
+    <span class="topbar-icon">🌿</span>
+    <span class="topbar-title">HOA Greenleaf Initiative</span>
+    <span class="topbar-divider">/</span>
+    <span class="topbar-meta">79-unit HOA, Raleigh NC</span>
+    <span class="topbar-divider">&nbsp;&middot;&nbsp;</span>
+    <span class="topbar-meta">Strategic proposal — self-management + green infrastructure</span>
+  </div>
+
+  <!-- ICLOUD NOTE -->
+  <div class="icloud-note">
+    <span>&#9729;&#65039;</span>
+    These files are also available in the shared iCloud Drive folder <strong>'Vibe coding resources'</strong> that Phillip shared with you.
+  </div>
+
+  <!-- MAIN -->
+  <div class="layout">
+
+    <!-- SIDEBAR TREE -->
+    <nav class="sidebar" id="sidebar">
+      <div class="sidebar-header">Project Files</div>
+
+      <div class="root-file active" data-key="readme" onclick="openFile('readme')">
+        <span class="file-icon">📄</span> README.md
+      </div>
+
+      <!-- Budget -->
+      <div class="folder-label open" onclick="toggleFolder(this, 'budget')">
+        <span class="folder-chevron">▶</span>
+        <span>📁</span> budget
+      </div>
+      <div class="folder-children open" id="folder-budget">
+        <div class="file-item" data-key="budget-current" onclick="openFile('budget-current')">
+          <span class="file-icon">📄</span> current-budget-template.md
+        </div>
+        <div class="file-item" data-key="budget-proposed" onclick="openFile('budget-proposed')">
+          <span class="file-icon">📄</span> proposed-green-budget.md
+        </div>
+        <div class="file-item" data-key="budget-savings" onclick="openFile('budget-savings')">
+          <span class="file-icon">📄</span> cost-savings-projections.md
+        </div>
+      </div>
+
+      <!-- Green Initiatives -->
+      <div class="folder-label open" onclick="toggleFolder(this, 'green')">
+        <span class="folder-chevron">▶</span>
+        <span>📁</span> green-initiatives
+      </div>
+      <div class="folder-children open" id="folder-green">
+        <div class="file-item" data-key="green-rain" onclick="openFile('green-rain')">
+          <span class="file-icon">📄</span> rain-gardens.md
+        </div>
+        <div class="file-item" data-key="green-solar" onclick="openFile('green-solar')">
+          <span class="file-icon">📄</span> solar-panels.md
+        </div>
+        <div class="file-item" data-key="green-tax" onclick="openFile('green-tax')">
+          <span class="file-icon">📄</span> tax-incentives-raleigh-nc.md
+        </div>
+        <div class="file-item" data-key="green-waste" onclick="openFile('green-waste')">
+          <span class="file-icon">📄</span> waste-reduction.md
+        </div>
+      </div>
+
+      <!-- Self-Management -->
+      <div class="folder-label open" onclick="toggleFolder(this, 'selfmgmt')">
+        <span class="folder-chevron">▶</span>
+        <span>📁</span> self-management
+      </div>
+      <div class="folder-children open" id="folder-selfmgmt">
+        <div class="file-item" data-key="sm-transition" onclick="openFile('sm-transition')">
+          <span class="file-icon">📄</span> transition-plan.md
+        </div>
+        <div class="file-item" data-key="sm-governance" onclick="openFile('sm-governance')">
+          <span class="file-icon">📄</span> governance-structure.md
+        </div>
+        <div class="file-item" data-key="sm-comparison" onclick="openFile('sm-comparison')">
+          <span class="file-icon">📄</span> management-company-comparison.md
+        </div>
+      </div>
+
+      <!-- Community Engagement -->
+      <div class="folder-label open" onclick="toggleFolder(this, 'community')">
+        <span class="folder-chevron">▶</span>
+        <span>📁</span> community-engagement
+      </div>
+      <div class="folder-children open" id="folder-community">
+        <div class="file-item" data-key="ce-persuasion" onclick="openFile('ce-persuasion')">
+          <span class="file-icon">📄</span> persuasion-playbook.md
+        </div>
+        <div class="file-item" data-key="ce-communication" onclick="openFile('ce-communication')">
+          <span class="file-icon">📄</span> communication-strategy.md
+        </div>
+        <div class="file-item" data-key="ce-stakeholder" onclick="openFile('ce-stakeholder')">
+          <span class="file-icon">📄</span> stakeholder-map.md
+        </div>
+      </div>
+
+      <!-- Calendar -->
+      <div class="folder-label open" onclick="toggleFolder(this, 'calendar')">
+        <span class="folder-chevron">▶</span>
+        <span>📁</span> calendar
+      </div>
+      <div class="folder-children open" id="folder-calendar">
+        <div class="file-item" data-key="cal-project" onclick="openFile('cal-project')">
+          <span class="file-icon">📄</span> project-calendar.md
+        </div>
+      </div>
+
+      <!-- Resources -->
+      <div class="folder-label open" onclick="toggleFolder(this, 'resources')">
+        <span class="folder-chevron">▶</span>
+        <span>📁</span> resources
+      </div>
+      <div class="folder-children open" id="folder-resources">
+        <div class="file-item" data-key="res-vendors" onclick="openFile('res-vendors')">
+          <span class="file-icon">📄</span> vendors-and-contacts.md
+        </div>
+        <div class="file-item" data-key="res-references" onclick="openFile('res-references')">
+          <span class="file-icon">📄</span> references.md
+        </div>
+      </div>
+
+    </nav>
+
+    <!-- CONTENT PANE -->
+    <main class="content-pane">
+      <div class="content-breadcrumb" id="breadcrumb">
+        <span>hoa-greenleaf</span>
+        <span class="crumb-sep">/</span>
+        <span class="crumb-file">README.md</span>
+      </div>
+      <div class="md-body" id="md-content"></div>
+    </main>
+
+  </div>
+
+  <script>
+    // ─── FILE CONTENT ───────────────────────────────────────────────────────────
+
+    const files = {
+
+      'readme': {
+        path: 'README.md',
+        content: `# HOA Greenleaf Initiative
+### 79-Unit Community, Raleigh, North Carolina
+
+> "A greener community, owned by its people."
+
+---
+
+## What This Project Is
+
+This project organizes a full-spectrum proposal to transform how our 79-unit HOA operates. The initiative has two interlocking goals:
+
+1. **Go green.** Reduce waste, install solar, build rain gardens, and capture available city and state incentives while improving quality of life for every resident.
+2. **Go independent.** Transition from an out-of-area third-party property management company to a community-led, self-managed structure that keeps money and decisions local.
+
+These goals reinforce each other. Self-management frees up budget headroom that funds green infrastructure. Green infrastructure reduces long-term operating costs and qualifies for rebates that further reduce dues or fund community improvements.
+
+---
+
+## Project Structure
+
+| Folder | Contents |
+|---|---|
+| \`budget/\` | Current budget analysis, proposed green/self-managed budget, cost-savings projections |
+| \`green-initiatives/\` | Solar panel plan, rain garden plan, waste reduction, Raleigh-specific tax incentives |
+| \`self-management/\` | Transition plan, governance structure, management company comparison |
+| \`community-engagement/\` | Persuasion playbook, communication strategy, stakeholder map |
+| \`calendar/\` | Phased project calendar with key milestones and deadlines |
+| \`resources/\` | Vendor contacts, grant application links, reference reading |
+
+---
+
+## Key Numbers at a Glance
+
+- **Units:** 79
+- **Location:** City of Raleigh, Wake County, NC
+- **Primary rain garden incentive:** Raleigh Rainwater Rewards (R3) — 90% cost-share, up to $10K staff-approved per project
+- **Solar path (2026):** Residential ITC expired. Best route is a Power Purchase Agreement (PPA) with a commercial provider
+- **NC property tax exemption:** Solar adds value; 80% of that added value is tax-exempt
+- **NC HOA solar law:** HOAs cannot prohibit solar installations (N.C. Gen. Stat. 22B-20)
+
+---
+
+## Status
+
+- [ ] Community needs assessment (survey residents)
+- [ ] Current budget audit complete
+- [ ] Stormwater site assessment (R3 pre-application call)
+- [ ] Solar feasibility study (3 PPA bids)
+- [ ] Town hall #1 — introduction and listening session
+- [ ] Governance committee formed
+- [ ] Formal proposal to current management company
+- [ ] Vote: self-management transition
+
+---
+
+## Primary Contacts
+
+| Role | Name | Contact |
+|---|---|---|
+| Project Lead | — | — |
+| City of Raleigh R3 Program | Stormwater Division | rainwaterrewards@raleighnc.gov |
+| Duke Energy PowerPair | Duke Energy | PowerPair@duke-energy.com |
+| Raleigh Office of Sustainability | — | raleighnc.gov/climate-action-and-sustainability |
+
+---
+
+*Last updated: 2026-04-06*`
+      },
+
+      'budget-current': {
+        path: 'budget/current-budget-template.md',
+        content: `# Current Budget Analysis
+### Baseline Document — Fill In From Current HOA Financials
+
+This template maps the current budget structure and flags every line item where green initiatives or self-management could generate savings. Complete this before presenting any proposal to the community.
+
+---
+
+## Section 1: Revenue
+
+| Source | Annual Amount | Notes |
+|---|---|---|
+| HOA dues (79 units x $___/mo) | $__________ | |
+| Special assessments | $__________ | |
+| Late fees / fines | $__________ | |
+| Reserve fund interest | $__________ | |
+| Other income | $__________ | |
+| **TOTAL REVENUE** | **$__________** | |
+
+---
+
+## Section 2: Operating Expenses
+
+### Management
+
+| Line Item | Annual Cost | Reduction Potential |
+|---|---|---|
+| Property management fee | $__________ | HIGH — eliminated under self-management |
+| Management company overhead / markups | $__________ | HIGH — markups on vendor work often 10-20% |
+| Administrative fees | $__________ | HIGH |
+| **Management Subtotal** | **$__________** | |
+
+> **Note:** Management companies typically charge 8-12% of annual dues collected. On a 79-unit HOA at even $200/unit/month, that is $15,120-$22,680/year in management fees alone, before markups on vendor invoices.
+
+---
+
+### Utilities
+
+| Line Item | Annual Cost | Reduction Potential |
+|---|---|---|
+| Common area electricity | $__________ | HIGH — solar offsets this directly |
+| Common area water / irrigation | $__________ | MEDIUM — rain gardens reduce irrigation demand |
+| Trash / waste disposal | $__________ | MEDIUM — waste reduction program |
+| **Utilities Subtotal** | **$__________** | |
+
+---
+
+### Landscaping and Grounds
+
+| Line Item | Annual Cost | Reduction Potential |
+|---|---|---|
+| Lawn care contract | $__________ | MEDIUM — rain gardens replace some turf |
+| Irrigation system maintenance | $__________ | LOW-MEDIUM |
+| Tree trimming / removal | $__________ | LOW |
+| Seasonal plantings / mulch | $__________ | MEDIUM — native plants reduce long-term cost |
+| **Landscaping Subtotal** | **$__________** | |
+
+---
+
+### Maintenance and Repairs
+
+| Line Item | Annual Cost | Reduction Potential |
+|---|---|---|
+| General repairs (vendor contracted) | $__________ | MEDIUM — vendor markups removed under self-mgmt |
+| Parking lot / pavement | $__________ | LOW |
+| Exterior building maintenance | $__________ | LOW |
+| Pool / amenity maintenance | $__________ | LOW |
+| **Maintenance Subtotal** | **$__________** | |
+
+---
+
+### Insurance
+
+| Line Item | Annual Cost | Notes |
+|---|---|---|
+| Property insurance | $__________ | Solar may affect; review policy |
+| General liability | $__________ | |
+| D&O (directors and officers) | $__________ | Required for self-managed HOA board |
+| **Insurance Subtotal** | **$__________** | |
+
+> **Important:** When transitioning to self-management, add D&O (Directors and Officers) liability coverage. Cost is typically $500-$2,000/year for a community this size. This is non-negotiable.
+
+---
+
+### Professional Services
+
+| Line Item | Annual Cost | Notes |
+|---|---|---|
+| Legal / attorney fees | $__________ | |
+| Accounting / audit | $__________ | |
+| Reserve study (amortized) | $__________ | Required every 3-5 years |
+| **Professional Services Subtotal** | **$__________** | |
+
+---
+
+## Section 3: Reserve Fund
+
+| Item | Current Balance | Target Balance | Annual Contribution |
+|---|---|---|---|
+| Reserve fund | $__________ | $__________ | $__________ |
+
+> **Note:** A fully funded reserve is typically 70-100% of the calculated reserve requirement. If your reserve study is more than 3 years old, commission a new one before any major capital expenditure decisions.
+
+---
+
+## Section 4: Total Summary
+
+| Category | Current Annual Cost |
+|---|---|
+| Management | $__________ |
+| Utilities | $__________ |
+| Landscaping | $__________ |
+| Maintenance | $__________ |
+| Insurance | $__________ |
+| Professional Services | $__________ |
+| Reserve Contribution | $__________ |
+| **TOTAL OPERATING EXPENSES** | **$__________** |
+| **NET (Revenue minus Expenses)** | **$__________** |
+
+---
+
+## Section 5: Red Flags to Document
+
+Before presenting this budget to the community, flag any of the following:
+
+- [ ] Management fees above 10% of total dues collected
+- [ ] Vendor invoices with management company markup above 15%
+- [ ] Reserve fund below 50% funded
+- [ ] No reserve study in the last 3 years
+- [ ] Utility costs above market rate (request itemized bills)
+- [ ] Landscaping contract not competitively bid in last 2 years
+- [ ] No line item for capital improvement planning
+
+---
+
+*Fill this in from your current HOA financial statements. Use the proposed budget (proposed-green-budget.md) side-by-side to show what changes.*`
+      },
+
+      'budget-proposed': {
+        path: 'budget/proposed-green-budget.md',
+        content: `# Proposed Green + Self-Managed Budget
+### Year 1 Transition Budget — 79 Units, Raleigh NC
+
+This document presents a side-by-side comparison of current costs versus projected costs under the self-managed, green-infrastructure model. Numbers in the "Projected" column are estimates based on industry benchmarks and Raleigh-specific program data. Replace with actuals once bids and quotes are collected.
+
+---
+
+## Assumptions
+
+- HOA dues: $___/unit/month (fill in)
+- Annual dues revenue: $_____ (fill in)
+- Management company fee: ~10% of dues collected (estimate if unknown)
+- Rain garden program: Raleigh R3 at 90% city cost-share
+- Solar: Power Purchase Agreement (PPA) model, no upfront capital
+- Self-management model: Elected board + part-time community manager or volunteer coordinator
+
+---
+
+## Revenue (Unchanged Year 1)
+
+| Source | Current | Year 1 Projected | Change |
+|---|---|---|---|
+| HOA dues | $________ | $________ | — |
+| Solar PPA savings (credited) | — | TBD after PPA bids | + |
+| City R3 grant (one-time capital offset) | — | 90% of rain garden cost | + |
+| **Total Revenue** | **$________** | **$________** | |
+
+---
+
+## Expense Comparison
+
+### Management
+
+| Line Item | Current | Projected | Savings |
+|---|---|---|---|
+| Management company fee | $________ | $0 | Full amount |
+| Vendor markup (estimated 15%) | $________ | $0 | Full amount |
+| Admin / coordination overhead | $________ | $8,000-$12,000* | Partial |
+| **Management Total** | **$________** | **~$10,000** | **$________** |
+
+> *Replace management company with a part-time community manager ($8-12K/year for 5-10 hrs/week) or a rotating volunteer coordinator. Many communities this size operate with a board + one part-time bookkeeper + professional reserve management.
+
+---
+
+### Utilities
+
+| Line Item | Current | Projected | Savings |
+|---|---|---|---|
+| Common area electricity | $________ | $________ - PPA credit | 20-40% reduction |
+| Common area water | $________ | $________ | 10-20% via rain garden irrigation reduction |
+| Trash / waste | $________ | $________ | 5-15% via waste program |
+| **Utilities Total** | **$________** | **$________** | **~$________** |
+
+---
+
+### Green Infrastructure (New Line Items)
+
+| Item | Capital Cost | City R3 Offset | Net HOA Cost | Annual O&M |
+|---|---|---|---|---|
+| Rain garden installation (Phase 1) | $________ | 90% | ~10% of cost | ~$500-1,500/year |
+| Solar PPA (no upfront cost) | $0 | N/A | $0 | $0 (PPA covers O&M) |
+| Native plant conversion | $________ | Partial (via R3 eligible landscaping) | $________ | Lower than turf long-term |
+| Waste reduction program setup | ~$500-1,000 | None | ~$500-1,000 | Minimal |
+
+---
+
+### Landscaping
+
+| Line Item | Current | Projected | Notes |
+|---|---|---|---|
+| Lawn care | $________ | $________ | Reduced turf area from rain gardens |
+| Irrigation | $________ | $________ | Rain gardens reduce irrigation need |
+| Native plant maintenance | — | $________ | Lower than traditional landscaping over time |
+| **Landscaping Total** | **$________** | **$________** | |
+
+---
+
+### Insurance
+
+| Line Item | Current | Projected | Notes |
+|---|---|---|---|
+| Property insurance | $________ | $________ | Review for solar additions |
+| General liability | $________ | $________ | |
+| D&O (new) | — | $1,000-$2,000 | Required for self-managed board |
+| **Insurance Total** | **$________** | **$________** | |
+
+---
+
+### Professional Services
+
+| Line Item | Current | Projected | Notes |
+|---|---|---|---|
+| Legal | $________ | $________ | Slight increase during transition year |
+| Accounting | $________ | $________ | |
+| Reserve study (if due) | — | $2,000-$4,500 | Commission before transition |
+| **Professional Services Total** | **$________** | **$________** | |
+
+---
+
+## Five-Year Projection Summary
+
+| Year | Management Savings | Utility Savings | Green Incentives Captured | Net Change vs. Current |
+|---|---|---|---|---|
+| Year 1 | $________ | $________ | R3 grant (one-time) | +$________ |
+| Year 2 | $________ | $________ | PPA savings ongoing | +$________ |
+| Year 3 | $________ | $________ | PPA savings ongoing | +$________ |
+| Year 4 | $________ | $________ | PPA savings ongoing | +$________ |
+| Year 5 | $________ | $________ | PPA savings ongoing | +$________ |
+| **5-Year Total** | | | | **+$________** |
+
+> **Rule of thumb:** A community this size eliminating a 10% management fee and capturing the R3 program for 3-4 rain gardens should realistically recover $15,000-$35,000 in Year 1 alone, depending on current dues and management structure.
+
+---
+
+## What to Do With the Savings
+
+Present a concrete plan for how recovered dollars will be used. Options:
+
+1. **Reduce dues** — most popular but least strategic long-term
+2. **Fund the reserve** — most responsible; show residents the reserve percentage before and after
+3. **Phase 2 green improvements** — use savings to fund next round of upgrades
+4. **Community amenity fund** — pool, park, common area improvements
+
+A combination of all four, with percentages, tends to build the broadest coalition.
+
+---
+
+*This document is a planning template. All projected figures must be validated with actual vendor bids, current management contract terms, and HOA attorney review before presenting to the full community.*`
+      },
+
+      'budget-savings': {
+        path: 'budget/cost-savings-projections.md',
+        content: `# Cost Savings Projections
+### Conservative, Moderate, and Optimistic Scenarios
+
+This document models three scenarios for a 79-unit HOA in Raleigh, NC transitioning to self-management and implementing green infrastructure. All figures are estimates grounded in industry benchmarks and available Raleigh-specific program data.
+
+---
+
+## Baseline Assumptions
+
+- **Units:** 79
+- **Average dues:** $250/unit/month (adjust to your actual figure)
+- **Annual dues revenue:** ~$237,000/year
+- **Current management fee:** 10% of dues collected = ~$23,700/year
+- **Current utility spend:** $18,000-$28,000/year (estimate; verify from bills)
+- **Current landscaping:** $15,000-$25,000/year (estimate)
+
+---
+
+## Scenario 1: Conservative
+
+Assumes cautious pace, partial measures, resistance in the community. Only self-management transition completed in Year 1. Green initiatives phased over 3-5 years.
+
+| Category | Annual Savings |
+|---|---|
+| Management fee eliminated | $23,700 |
+| Vendor markup reduction (est. 10%) | $3,000-$5,000 |
+| Rain garden Phase 1 (utility reduction) | $500-$1,500 |
+| Waste reduction program | $500-$1,000 |
+| **Annual savings total** | **~$27,700-$31,200** |
+| Less: new D&O insurance | -$1,500 |
+| Less: part-time coordinator | -$10,000 |
+| **Net Year 1 savings** | **~$16,200-$19,700** |
+| R3 grant (one-time capital offset) | +90% of rain garden install cost |
+
+---
+
+## Scenario 2: Moderate (Most Likely)
+
+Assumes community support, 2-3 rain garden installations in Year 1-2, solar PPA signed in Year 2.
+
+| Category | Year 1 | Year 2 | Year 3 |
+|---|---|---|---|
+| Management fee eliminated | $23,700 | $23,700 | $23,700 |
+| Vendor markup reduction | $4,000 | $4,000 | $4,000 |
+| R3 grant (applied in Year 1) | +90% of install cost | — | — |
+| Rain garden utility reduction | $1,000 | $2,500 | $2,500 |
+| Solar PPA savings (common areas) | — | $3,000-$6,000 | $3,000-$6,000 |
+| Landscaping reduction (less turf) | — | $1,500 | $2,500 |
+| Waste program savings | $500 | $1,000 | $1,000 |
+| **Gross savings** | **~$29,200** | **~$35,700** | **~$38,700** |
+| Less: new expenses (D&O, coordinator) | -$11,500 | -$11,500 | -$11,500 |
+| **Net savings** | **~$17,700** | **~$24,200** | **~$27,200** |
+
+**3-Year cumulative net savings: ~$69,100**
+
+---
+
+## Scenario 3: Optimistic
+
+Assumes strong community buy-in, successful R3 applications for 4+ installations, competitive solar PPA, and a motivated volunteer board reducing coordinator costs.
+
+| Category | 5-Year Total |
+|---|---|
+| Management fee eliminated (5 yrs) | $118,500 |
+| Vendor markup elimination | $20,000-$25,000 |
+| R3 grants (3-4 installations) | 90% of $40,000-$80,000 install costs |
+| Solar PPA common area savings | $15,000-$30,000 |
+| Landscaping / irrigation reduction | $10,000-$15,000 |
+| Waste reduction | $3,000-$5,000 |
+| **Gross 5-Year Savings** | **~$166,500-$193,500** |
+| Less: 5 years of new expenses | -$57,500 |
+| **Net 5-Year Savings** | **~$109,000-$136,000** |
+
+**Per-unit 5-year savings: ~$1,380-$1,722 per unit (or equivalent dues reduction)**
+
+---
+
+## What This Means Per Unit Per Month
+
+| Scenario | Annual Net Savings | Per Unit / Month |
+|---|---|---|
+| Conservative | $16,200-$19,700 | $17-$21 |
+| Moderate (Year 3) | $27,200 | $29 |
+| Optimistic (Year 5 avg) | $21,800-$27,200 | $23-$29 |
+
+> **The pitch:** "We can put $20-$29 back in every household's pocket every month — or reinvest that money in the community — without cutting any services."
+
+---
+
+## Return on Investment: Rain Gardens
+
+| Item | Cost | R3 Offset (90%) | Net HOA Cost | Annual Utility/Landscaping Savings | Payback Period |
+|---|---|---|---|---|---|
+| Single rain garden (mid-size) | $8,000-$12,000 | $7,200-$10,800 | $800-$1,200 | $800-$1,500 | 1 year or less |
+| 3-garden Phase 1 | $24,000-$36,000 | $21,600-$32,400 | $2,400-$3,600 | $2,400-$4,500 | 1 year |
+
+> The R3 program makes rain gardens essentially free with a payback period under 12 months on the net cost. This is the single strongest financial argument in the green initiative.
+
+---
+
+## Return on Investment: Solar PPA
+
+Under a Power Purchase Agreement, the HOA signs a 15-25 year contract with a solar provider who installs panels at no upfront cost. The HOA pays a below-market rate per kWh for the electricity generated.
+
+| Item | Estimate |
+|---|---|
+| Upfront cost to HOA | $0 |
+| Rate per kWh under PPA | 10-20% below current utility rate |
+| Annual savings on common area electricity | $3,000-$8,000 (varies by system size) |
+| Contract length | 15-25 years |
+| HOA O&M obligation | None (PPA provider covers maintenance) |
+
+> **Key risk:** PPAs include escalator clauses (typically 1-3% per year). Read the contract carefully. Hire an attorney for review.
+
+---
+
+## Notes on Inflation and Reserve Sensitivity
+
+- Utility costs historically rise 2-4% per year. Solar PPA locks in a below-market rate, meaning savings compound over time.
+- Management company fees often escalate annually. Eliminating this removes inflationary exposure on your largest operating cost.
+- Maintaining a healthy reserve fund is the financial backstop that makes all of this possible. Do not raid the reserve to fund green projects. Use grants, PPAs, and operating savings instead.
+
+---
+
+*These projections are planning estimates, not guarantees. Commission a certified reserve study and have a CPA review the transition budget before presenting to the community.*`
+      },
+
+      'green-rain': {
+        path: 'green-initiatives/rain-gardens.md',
+        content: `# Rain Gardens: Design, Placement, and Strategy
+### 79-Unit HOA, Raleigh, North Carolina
+
+Rain gardens are shallow, planted depressions that capture stormwater runoff, filter pollutants, and allow water to slowly infiltrate into the ground. They are the highest-ROI green improvement available to your HOA, given the City of Raleigh's R3 program covering 90% of installation costs.
+
+---
+
+## Why Rain Gardens for This Community
+
+- **Near-free installation.** R3 covers 90% of costs up to $10K staff approval. Net HOA cost is often under $1,000 per garden.
+- **Immediate utility and landscaping savings.** Reduced irrigation demand; reduced stormwater utility fees in some structures.
+- **Raleigh's climate is ideal.** High rainfall (46"/year average), hot summers, clay-heavy soils benefit enormously from managed infiltration.
+- **Strong visual impact.** Native plant rain gardens are beautiful, not ugly utility infrastructure. They become community focal points.
+- **Low long-term maintenance.** After establishment (typically 2 years), native plant rain gardens require minimal upkeep compared to turf.
+
+---
+
+## Where Rain Gardens Do the Most Good
+
+### Priority Placement Zones
+
+**1. Parking lot islands and edges**
+- Parking lots generate high-pollutant runoff (oil, heavy metals, sediment)
+- Grading parking lot edges to drain toward rain garden islands captures the most volume
+- Often the lowest-cost installation because grading is already partially done by lot edges
+- Best for: front of property, visitor parking, any large paved surface
+
+**2. Downspout areas (building ends and gutters)**
+- Redirecting roof downspouts from common buildings into a rain garden captures concentrated high-volume flows
+- Each 1,000 sq ft of roof can generate 600+ gallons per inch of rainfall
+- Place 6-10 feet from building foundation to prevent basement/foundation moisture issues
+- Best for: clubhouse, community center, pool building, multi-unit building ends
+
+**3. Low-lying common areas that already collect water**
+- If there is a spot in the community that stays wet or shows standing water after rain, this is a natural candidate
+- The site already has the hydrology; a rain garden formalizes and beautifies it
+- Best for: anywhere residents already complain about drainage
+
+**4. Street frontage and entry areas**
+- High-visibility placement builds community pride and signals the HOA's commitment to sustainability
+- Street runoff contains road pollutants; capturing it before it enters storm drains is exactly what R3 was designed for
+- Best for: community entrance, along perimeter roads, near storm drain inlets
+
+**5. Common area lawn edges adjacent to slopes**
+- Runoff from slopes accelerates, causing erosion and carrying sediment
+- A rain garden at the base of a slope intercepts this water before it leaves the property
+- Best for: any natural grade change in common areas
+
+---
+
+## Placement Rules of Thumb
+
+| Rule | Why It Matters |
+|---|---|
+| At least 10 feet from building foundations | Prevents moisture intrusion |
+| At least 25 feet from septic systems (if applicable) | Prevents contamination of drain field |
+| Not in existing wet areas (wetlands, perennially saturated zones) | Water must be able to infiltrate; saturated soil won't drain |
+| On gentle slopes (1-5% grade) | Steeper slopes require more complex engineering |
+| Visible to residents | Social proof; people maintain what they see and care about |
+| Near existing downspouts or drainage paths | Minimizes piping cost |
+
+---
+
+## Rain Garden Sizing
+
+A simple rule: the rain garden should be approximately **20-30% of the area of the contributing impervious surface** it is designed to capture.
+
+| Contributing Area | Rain Garden Size |
+|---|---|
+| Small parking lot (10 spaces) | 200-400 sq ft |
+| Large parking lot (40 spaces) | 1,000-2,000 sq ft |
+| Single building roof (2,000 sq ft) | 400-600 sq ft |
+| Large clubhouse roof (5,000 sq ft) | 1,000-1,500 sq ft |
+
+Raleigh Stormwater staff will help size installations as part of the R3 pre-application process. Do not finalize sizing without their input.
+
+---
+
+## Plant Selection for Raleigh, NC
+
+Native plants are required for R3 eligibility and are the smart choice regardless. They are adapted to Raleigh's rainfall patterns, require no fertilizer after establishment, and support local pollinators.
+
+### Recommended Rain Garden Plants for Raleigh
+
+**Perennials (backbone plants)**
+| Plant | Notes |
+|---|---|
+| Blue Wild Indigo (*Baptisia australis*) | Drought-tolerant once established; deer-resistant |
+| Cardinal Flower (*Lobelia cardinalis*) | Loves wet conditions; attracts hummingbirds |
+| Swamp Milkweed (*Asclepias incarnata*) | Monarch habitat; tolerates seasonal flooding |
+| Joe-Pye Weed (*Eutrochium purpureum*) | Tall; excellent for back of garden; pollinators love it |
+| Black-Eyed Susan (*Rudbeckia hirta*) | Low maintenance; excellent visual impact |
+| Ironweed (*Vernonia noveboracensis*) | Deep purple flowers; very wet-tolerant |
+
+**Grasses and sedges (structural plants)**
+| Plant | Notes |
+|---|---|
+| River Oats (*Chasmanthium latifolium*) | Spreads naturally; good for slopes |
+| Switchgrass (*Panicum virgatum*) | Drought and flood tolerant; fall color |
+| Blue-eyed Grass (*Sisyrinchium angustifolium*) | Low; works as groundcover at edges |
+| Pennsylvania Sedge (*Carex pensylvanica*) | Excellent lawn alternative in shadier areas |
+
+**Shrubs (anchor plants for larger gardens)**
+| Plant | Notes |
+|---|---|
+| Buttonbush (*Cephalanthus occidentalis*) | Loves wet areas; excellent pollinator plant |
+| Inkberry Holly (*Ilex glabra*) | Evergreen; birds love the berries |
+| Sweetbay Magnolia (*Magnolia virginiana*) | Semi-evergreen; fragrant; handles wet soil |
+| Virginia Sweetspire (*Itea virginica*) | Fall color; tolerates flooding |
+
+> **Source for plants:** NC Botanical Garden (Chapel Hill), Cure Nursery (Raleigh), Going Native Garden Center (Raleigh). Specify "rain garden appropriate" when purchasing.
+
+---
+
+## Phased Implementation Plan
+
+### Phase 1 (Year 1): Two Priority Installations
+
+Select the two highest-impact sites from the placement zones above. Submit two separate R3 applications. This captures up to $18,000 in city reimbursement while giving the community visible results quickly.
+
+**Goals:**
+- Both applications submitted within 60 days of project approval
+- Installation complete within the growing season (April-October)
+- Community signage installed explaining what rain gardens are and what R3 funded
+
+### Phase 2 (Year 2): Two Additional Installations
+
+With Phase 1 complete and community seeing results, propose Phase 2 installations. By Year 2 you have photos, maintenance data, and community pride to support the next applications.
+
+### Phase 3 (Year 3+): Maintenance Optimization and Expansion
+
+After establishment (2 years), evaluate plant health, infiltration rates, and community satisfaction. Propose additional installations where runoff issues persist.
+
+---
+
+## Maintenance Requirements
+
+The R3 program requires a maintenance agreement (5 or 10 years) and an annual maintenance report. Maintenance is minimal after establishment:
+
+| Task | Frequency | Season |
+|---|---|---|
+| Weed removal (critical first 2 years) | Monthly | Spring-Fall |
+| Mulch top-up | Annually | Spring |
+| Plant replacement (if needed) | As needed | Spring or Fall |
+| Inlet/outlet inspection | After major rain events | Year-round |
+| Annual photo documentation | Annually | Summer |
+| Annual report submission to R3 | Annually | December-January |
+
+Assign this responsibility to a standing Grounds Committee with 2-3 volunteer members. A $500-$1,000/year maintenance budget is adequate for a small installation after establishment.
+
+---
+
+## Community Engagement Value
+
+Rain gardens are not just infrastructure; they are a community identity tool.
+
+- Install interpretive signs at each garden explaining what it does, what plants are in it, and that the City of Raleigh funded 90% of it
+- Host a volunteer planting day to create community ownership (coordinate with the community engagement plan)
+- Create a simple maintenance sign-up that lets residents "adopt" a garden section
+- Submit photos to the City of Raleigh Stormwater newsletter; communities that participate in R3 are often featured
+
+---
+
+*Contact the R3 program early. They provide free site assessments as part of the pre-application process. This is one of the few cases where the city's interest and the HOA's interest are perfectly aligned.*`
+      },
+
+      'green-solar': {
+        path: 'green-initiatives/solar-panels.md',
+        content: `# Solar Panels: Feasibility, Placement, and Strategy
+### 79-Unit HOA, Raleigh, North Carolina (2026)
+
+Solar for HOAs is more complex than for single-family homes, but it is absolutely achievable. This document covers where solar does the most good, the right financial structure for 2026, and how to run the process.
+
+---
+
+## The 2026 Solar Landscape for HOAs
+
+**Critical context:** The federal residential solar tax credit (ITC Section 25D) was eliminated for systems installed after December 31, 2025. This changes the calculus for HOA solar significantly.
+
+**What still works:**
+- Power Purchase Agreements (PPAs) backed by the commercial ITC (Section 48/48E, active through ~2027)
+- Net metering with Duke Energy (credits for excess generation)
+- NC's 80% property tax exemption on added solar value (applies to individual unit owners)
+- NC law prohibiting HOAs from blocking individual residents from installing solar
+
+**The recommended model for common areas: PPA**
+
+A PPA is not a purchase. The HOA does not buy the panels. Instead:
+- A solar company installs panels at no cost
+- The solar company owns the system and claims the commercial ITC
+- The HOA buys the electricity generated at a below-market rate (locked in for 15-25 years)
+- The HOA pays nothing upfront, does zero maintenance, and saves money from day one
+
+This is the financially sound path for a community that does not want to issue a special assessment, drain reserves, or navigate the complexity of owning a commercial solar asset.
+
+---
+
+## Where Solar Does the Most Good
+
+### Priority Placement Zones
+
+**1. Clubhouse / Community Center Roof**
+- Highest single-site impact: large, flat or low-slope roof with consistent use
+- Electricity generated directly offsets common area bills
+- Typically 10-50 kW system capacity depending on roof size
+- Ground-mount alternative if roof is unsuitable (shaded, old, complex)
+
+**2. Pool Facility and Mechanicals Building**
+- Pool pumps, filtration, lighting are major electricity consumers
+- Solar dedicated to pool infrastructure can offset significant seasonal electricity costs
+- Often overlooked but one of the highest-consumption common areas
+
+**3. Common Area Lighting Infrastructure**
+- Solar-powered parking lot lights and pathway lights eliminate wiring costs for new installations
+- Retrofit existing fixtures with solar-integrated LED units for parking lots and walkways
+- No PPA needed for this tier; individual solar-powered light fixtures are a direct capital purchase
+
+**4. Carport/Parking Shade Structures (Future Phase)**
+- Ground-mounted solar canopies over parking areas provide shade + energy generation
+- Higher capital cost but maximum kWh output per dollar due to south-facing orientation
+- Under a PPA model, the provider installs and owns the carport structure
+
+**5. Individual Unit Rooftops (Resident-Led, Not HOA)**
+- NC law (22B-20) ensures the HOA cannot block residents from installing solar on their own units
+- Individual residents benefit from net metering and the NC property tax exemption (80% of added value exempt)
+
+---
+
+## System Sizing Guide
+
+| Application | Typical System Size | Est. Annual Generation | Est. Annual Savings (PPA) |
+|---|---|---|---|
+| Small clubhouse (1,500 sq ft roof) | 10-15 kW | 12,000-18,000 kWh | $1,200-$2,700 |
+| Medium clubhouse (3,000 sq ft roof) | 20-30 kW | 24,000-36,000 kWh | $2,400-$5,400 |
+| Pool facility + lights | 15-25 kW | 18,000-30,000 kWh | $1,800-$4,500 |
+| Full community common area load | 40-80 kW | 48,000-96,000 kWh | $4,800-$14,400 |
+
+> Raleigh averages ~4.8 peak sun hours per day. Use this for any back-of-envelope calculations: system kW x 4.8 x 365 = estimated annual kWh.
+
+---
+
+## How to Run the Solar Process
+
+### Step 1: Audit Common Area Electricity Bills (2 weeks)
+Pull 12 months of electricity bills for every common area meter. Total the kWh consumed and the dollar cost.
+
+### Step 2: Identify Candidate Rooftops (2 weeks)
+Walk the property with a tape measure and compass app. Map every common-area roof, noting orientation, shading, age, and material.
+
+### Step 3: Request PPA Bids (4-6 weeks)
+Contact at least 3 reputable solar companies active in the Raleigh NC market:
+- **Southern Energy Management** (Morrisville, NC) — Duke Energy Trade Ally, PPA experience
+- **Hannah Solar** (regional) — multi-site commercial and HOA experience
+- **Sunrun, Sunnova, or SunPower** — national PPA providers with NC presence
+- **Renu Energy Solutions** (Apex, NC) — Duke Energy Trade Ally
+
+### Step 4: Legal Review (2-3 weeks, parallel with bids)
+Before signing any PPA, engage an HOA or renewable energy attorney. Key review items: escalator clause, termination provisions, transfer provisions, insurance obligations, roof replacement provisions.
+
+### Step 5: Board Vote + Community Communication
+PPA contracts are long-term financial commitments. Most HOAs require a board vote and possibly a community vote depending on your bylaws.
+
+---
+
+## Solar + Rain Garden: The Combined Message
+
+These two initiatives reinforce each other powerfully:
+
+- Both are green
+- Both save money
+- Rain gardens have near-zero HOA cost (R3 pays 90%)
+- Solar has zero upfront cost (PPA model)
+- Together they visibly transform the community
+- Together they position the HOA for City grant programs that favor multi-pronged sustainability plans
+
+Present them as a package, not as separate proposals. "Raleigh's Greenest Community" is a brand the whole neighborhood can buy into.
+
+---
+
+*Next step: Schedule the common area electricity audit and begin roof mapping before soliciting PPA bids. The audit data makes the bids accurate and comparable.*`
+      },
+
+      'green-tax': {
+        path: 'green-initiatives/tax-incentives-raleigh-nc.md',
+        content: `# Tax Incentives and Grant Programs
+### Raleigh, NC — HOA Green Infrastructure Reference (2025-2026)
+
+This document summarizes every relevant incentive available to a 79-unit HOA in Raleigh, NC pursuing solar and stormwater improvements. Research current as of April 2026.
+
+> **Important:** The federal residential solar tax credit (ITC Section 25D) was eliminated effective January 1, 2026 under the One Big Beautiful Bill signed July 4, 2025. This significantly changes the solar calculus. The analysis below reflects the current landscape.
+
+---
+
+## Rain Gardens and Stormwater
+
+### Raleigh Rainwater Rewards (R3) Program
+
+**This is the best incentive available to your HOA. Start here.**
+
+| Detail | Info |
+|---|---|
+| Program | Raleigh Rainwater Rewards (R3) |
+| Administrator | City of Raleigh, Stormwater Division |
+| Contact | rainwaterrewards@raleighnc.gov |
+| HOA eligible? | **Yes — multi-unit residential explicitly included** |
+| Reimbursement rate | **90% of project cost** |
+| Project cap (staff-approved) | **$10,000** |
+| Eligible project types | Rain gardens, bioretention, bioswales, cisterns, green roofs, permeable pavement |
+| Maintenance requirement | 5 or 10-year maintenance agreement + annual maintenance report |
+| Program history | 200+ completed projects over 12 years; actively expanding |
+
+**Strategy:** The $10,000 staff-approval cap means you can run multiple separate applications for different areas of the property. Stack multiple R3 applications to maximize total reimbursement.
+
+---
+
+## Solar
+
+### Federal Solar Incentives (2026 Status)
+
+| Incentive | Status | Notes |
+|---|---|---|
+| Residential ITC (Section 25D) | **ELIMINATED** as of Jan 1, 2026 | Does not apply to HOA common areas regardless. |
+| Commercial ITC (Section 48/48E) | **Active through ~2027** | PPA providers can claim this and pass savings to HOA through lower rates. |
+
+**The HOA solar path in 2026:** Power Purchase Agreement (PPA) with a commercial solar provider. The solar company installs panels at no cost, owns the system, claims the commercial ITC, and the HOA buys the electricity generated at a below-market rate for 15-25 years.
+
+### Duke Energy Rebates
+
+| Program | Status | Notes |
+|---|---|---|
+| PowerPair (Solar + Battery) | DEP waitlist closed; DEC limited capacity | Up to $9,000 max per installation. Contact PowerPair@duke-energy.com to confirm HOA eligibility. |
+
+### North Carolina State Solar Incentives
+
+| Incentive | Status | Notes |
+|---|---|---|
+| NC state solar income tax credit | **Repealed** | Do not rely on this in any proposal. |
+| NC property tax exemption for solar | **Active, permanent** | 80% of the value solar adds to a property is exempt from property taxes. |
+| NC solar access law | **Active** | N.C. Gen. Stat. 22B-20: HOAs cannot prohibit solar installations. |
+
+---
+
+## City of Raleigh Community Grants
+
+### Neighborhood Initiative Funds (NIF)
+- Up to $15,000
+- Geographic restriction: New Bern BRT corridor or Dix Park area only
+- HOA eligible: Yes
+- First step: verify whether your HOA falls within the eligible zone
+
+### Community Enhancement Grant (CEG)
+A separate grant for neighborhood physical improvements. Check current cycle at raleighnc.gov.
+
+### Raleigh Climate Action Fund
+- Focused on equity, resilience, and emissions reduction
+- No standing open application cycle; competitive and discretionary
+- Contact Raleigh's Office of Sustainability directly
+- A 79-unit community with a documented green plan is exactly the kind of pilot project this fund was designed to support
+
+---
+
+## Incentive Stack Priority List
+
+Apply in this order, from most certain to least:
+
+1. **R3 (Rain Garden)** — Apply immediately. Highest certainty, highest value. Contact rainwaterrewards@raleighnc.gov.
+2. **Solar PPA bids** — Get 3 competitive bids from NC-experienced PPA providers.
+3. **NIF (if in zone)** — Check geographic eligibility. If you qualify, $15K is meaningful.
+4. **CEG** — Check current cycle.
+5. **Climate Action Fund** — Longer lead time, competitive. Build the relationship now.
+6. **Duke Energy PowerPair** — Confirm HOA eligibility; if DEC has capacity, pursue in parallel with solar bids.
+7. **NC property tax exemption** — Communicate to individual residents who want to install rooftop solar on their own units.
+
+---
+
+*Sources: Raleigh Rainwater Rewards program materials, Duke Energy PowerPair documentation, NC EnergySage, IRS OBBB FAQ (July 2025), Wake County Water Partnership. Last updated April 2026.*`
+      },
+
+      'green-waste': {
+        path: 'green-initiatives/waste-reduction.md',
+        content: `# Waste Reduction Program
+### 79-Unit HOA, Raleigh, North Carolina
+
+Waste reduction is the lowest-cost, highest-visibility green initiative available to your community. No grants required. No construction. Just coordination, communication, and the right bins.
+
+---
+
+## Goals
+
+1. Reduce solid waste disposal costs (direct HOA savings)
+2. Increase recycling participation across all 79 units
+3. Establish composting for common area organic waste
+4. Reduce landscaping waste through mulch-in-place and native plant conversion
+5. Build community identity around sustainability
+
+---
+
+## Quick Wins (First 90 Days)
+
+### 1. Recycling Audit
+- Request a report from your current waste hauler: contamination rate?
+- Walk the community on recycling day: Are bins contaminated?
+- Post clear, photo-based recycling guides at every bin station (Wake County free materials)
+
+### 2. Right-Size the Waste Contract
+- Many HOAs pay for more pickups than they need
+- Request data from hauler on actual tonnage per pickup
+- Right-sizing can reduce hauling costs 10-25% with no service reduction
+
+### 3. Common Area LED + Occupancy Sensor Conversion
+- Common area lighting often over-lit 24/7
+- LED retrofit + motion sensors: 60-80% reduction in lighting energy consumption
+- Typical payback: 18-36 months
+
+---
+
+## Composting: Common Area Focus
+
+### Implementation Options
+
+**Option A: Community Compost Station**
+- 3-bin compost system in a screened corner of the property
+- After 3-6 months, compost applied to rain gardens and landscaping
+- Cost: $300-$800 for bins and hardware
+
+**Option B: Contractor Handles It**
+- Require landscape contractor to haul and compost all organic material
+- Add to next contract renewal; often negotiable at no extra cost
+
+**Option C: Mulch-in-Place Policy**
+- Instruct landscape contractor to mulch grass clippings in place rather than bagging
+- Returns nitrogen to soil, eliminates disposal cost
+- Cost: $0
+
+---
+
+## Landscaping Waste Reduction
+
+The strategic fix is reducing the turf area that generates clippings:
+- Rain gardens replace turf with native plantings that require no mowing
+- Native ground covers replace grass in shaded areas
+- A 10% turf reduction meaningfully reduces mowing frequency and clipping volume
+- Every acre of conventional turf requires 200-400 gallons of water per week during summer
+
+---
+
+## Bulk Waste and Dump Run Program
+
+**Solution:** Organize 2 annual bulk waste collection days
+- Coordinate with Wake County Solid Waste for a free or low-cost drop-off event
+- For furniture and working appliances: Habitat for Humanity ReStore (Raleigh)
+- For electronics: Best Buy, Staples, and Wake County Convenience Centers accept e-waste for free
+- Cost: Coordination time only
+
+---
+
+## Communication and Tracking
+
+### Monthly Green Metric
+Pick one metric to track and share publicly each month:
+- Pounds of recycling collected
+- Gallons of stormwater captured by rain gardens
+- kWh generated by solar
+- Number of composting participants
+
+### Annual Green Report
+Produce a one-page "Greenleaf Community Report" showing year-over-year waste reduction, grant money captured, utility savings, and community green participation.
+
+---
+
+## Raleigh Resources
+
+| Resource | What They Offer |
+|---|---|
+| Wake County Solid Waste | Free recycling education materials, bulk waste events |
+| City of Raleigh Stormwater | R3 program, technical assistance |
+| NC State Extension (Wake County) | Composting workshops, native plant guidance, soil testing |
+| Raleigh Office of Sustainability | Sustainable Neighborhood Toolkit, Climate Action Fund |
+
+---
+
+*Waste reduction costs almost nothing, shows results quickly, and gives the community something to point to while the bigger solar and rain garden projects are being planned. Start here.*`
+      },
+
+      'sm-transition': {
+        path: 'self-management/transition-plan.md',
+        content: `# Transition Plan: Self-Management
+### Moving from Third-Party Management to Community Self-Management
+
+This document outlines the step-by-step process for transitioning a 79-unit HOA in Raleigh, NC from a third-party property management company to a self-managed structure. This is a 9-12 month process when done correctly.
+
+---
+
+## Why Transition to Self-Management
+
+1. **Cost.** Management companies typically charge 8-12% of annual dues collected. On 79 units at $250/month, that is $18,960-$28,440 per year in fees before vendor markups.
+2. **Control.** A remote management company makes decisions for your community from a distance.
+3. **Transparency.** Residents can see every dollar, every vendor invoice, every decision.
+4. **Responsiveness.** Local volunteers respond faster than a company with hundreds of properties.
+5. **Alignment.** The people making decisions live with the consequences.
+
+---
+
+## Governance Structures for Self-Managed HOAs
+
+### Option A: Full Volunteer Board
+Board members take on roles: President, Vice President, Treasurer, Secretary, Member(s)-at-large.
+**Best for:** Smaller communities with highly engaged residents. Works at 79 units with the right people.
+
+### Option B: Board + Part-Time Community Manager *(Recommended)*
+Volunteer board sets policy. Part-time paid community manager handles administrative tasks for 5-15 hours/week.
+**Cost:** $8,000-$15,000/year. **Still saves $5,000-$20,000/year vs. full-service management.**
+
+### Option C: Board + Professional HOA Management Software
+Platforms like Buildium, AppFolio, or TOPS Pro automate dues collection, violation tracking, communication.
+**Cost:** $300-$1,200/year for software.
+
+---
+
+## Step-by-Step Transition Timeline
+
+### Phase 1: Preparation (Months 1-3)
+
+**Month 1**
+- [ ] Review current management contract: termination clause, required notice (typically 30-90 days)
+- [ ] Pull all HOA governing documents from management company
+- [ ] Audit current financial state: reserve fund balance, delinquency rate, outstanding vendor contracts
+- [ ] Identify 5-7 potential board members
+
+**Month 2**
+- [ ] Hold initial informational meeting with interested residents
+- [ ] Form a Transition Committee
+- [ ] Commission a reserve study if current one is more than 3 years old ($2,000-$4,500)
+- [ ] Engage an HOA attorney to review governing documents
+
+**Month 3**
+- [ ] Present the financial case to the community
+- [ ] Hold a community vote on whether to pursue self-management transition
+- [ ] If approved: serve formal notice to management company per contract terms
+- [ ] Begin recruiting part-time community manager if going with Option B
+
+---
+
+### Phase 2: Transition (Months 4-6)
+
+**Month 4**
+- [ ] Open a new HOA bank account
+- [ ] Establish a new HOA accounting system (QuickBooks, Wave, or HOA-specific software)
+- [ ] Transfer dues payment processing to the new system
+- [ ] Request all vendor contracts and relationships from management company
+- [ ] Set up HOA communications platform
+
+**Month 5**
+- [ ] Meet with each major vendor to confirm contract terms and establish direct relationship
+- [ ] Bid any vendor contracts due for renewal
+- [ ] Transfer all physical HOA assets: keys, codes, manuals, equipment
+- [ ] Transfer all digital assets: email addresses, website, documents, permits
+- [ ] Obtain D&O (Directors and Officers) insurance policy
+
+**Month 6**
+- [ ] Final handoff meeting with outgoing management company
+- [ ] First full month of self-managed operation
+- [ ] Hold first formal board meeting under new structure
+- [ ] Issue community update on transition status
+
+---
+
+### Phase 3: Stabilization (Months 7-12)
+
+- [ ] Establish monthly board meeting cadence
+- [ ] Issue first self-managed financial report to community
+- [ ] Conduct resident satisfaction survey at Month 9
+- [ ] Fine-tune processes based on first 6 months of experience
+- [ ] Begin green initiative applications (R3, solar bids) now that governance is stable
+
+---
+
+## What the Management Company Must Transfer
+
+| Document / Asset | Status |
+|---|---|
+| All financial statements (5 years) | |
+| Current dues ledger / delinquency list | |
+| Reserve fund account and balance | |
+| All vendor contracts | |
+| Insurance policies (copies and contacts) | |
+| All governing documents (originals or certified copies) | |
+| Property plans, site maps, utility maps | |
+| All keys, access codes, and gate remotes | |
+| Maintenance history records | |
+| Open violation notices and their status | |
+| Any active legal matters | |
+| Community contact list | |
+| Website credentials and hosting info | |
+| Bank account details (to transfer signature authority) | |
+
+**Do not finalize the management termination until every item on this list is in your possession.**
+
+---
+
+## Common Pitfalls and How to Avoid Them
+
+| Pitfall | Prevention |
+|---|---|
+| Moving too fast before the vote | Secure community approval first |
+| Inadequate transition notice | Read your contract; serve notice exactly as required |
+| No D&O insurance | Get this before Month 1 of self-management |
+| Volunteers burning out | Distribute responsibilities; never let one person hold all the keys |
+| Reserve fund neglect | Set reserve contributions before anything else in the first budget |
+| Poor dues collection | Use autopay/ACH from day one |
+| Losing vendor relationships | Introduce yourself to every vendor before the transition |
+
+---
+
+*The transition is not difficult, but it requires planning. Done correctly, it frees up tens of thousands of dollars per year and puts the community in control of its own future.*`
+      },
+
+      'sm-governance': {
+        path: 'self-management/governance-structure.md',
+        content: `# Governance Structure
+### Self-Managed HOA — Roles, Committees, and Operating Procedures
+
+---
+
+## Board of Directors
+
+### Composition (Recommended for 79-Unit HOA)
+
+| Role | Responsibilities | Time Commitment |
+|---|---|---|
+| **President** | Runs meetings, external communication, final escalation point, signs contracts | 5-10 hrs/month |
+| **Vice President** | Backup to president, leads special projects, committee oversight | 3-5 hrs/month |
+| **Treasurer** | Budget management, financial reporting, dues oversight, reserve fund tracking | 8-12 hrs/month |
+| **Secretary** | Meeting minutes, record-keeping, official correspondence, election administration | 3-5 hrs/month |
+| **Member-at-Large (1-2)** | Specific portfolio (green initiatives, maintenance, community events) | 3-5 hrs/month |
+
+**Term lengths:** Recommend 2-year staggered terms. This ensures institutional knowledge is never entirely lost at a single election.
+
+---
+
+## Standing Committees
+
+### Grounds and Green Committee
+**Mission:** Oversee landscaping, rain garden maintenance, and all green initiatives.
+
+| Responsibility | Notes |
+|---|---|
+| Landscape contractor oversight | Review work quality; approve invoices |
+| Rain garden maintenance coordination | Annual R3 maintenance report; monthly volunteer coordination |
+| Solar project liaison | Coordinate with PPA provider; track generation data |
+| Native plant program | Species selection, procurement, volunteer planting events |
+| Annual community garden report | Compile data for grant applications and newsletter |
+
+### Finance Committee
+**Mission:** Support the Treasurer and ensure fiscal transparency.
+
+| Responsibility | Notes |
+|---|---|
+| Monthly financial review | Review statements before board meeting |
+| Annual budget preparation | Draft with Treasurer; present to full board by November |
+| Reserve fund oversight | Track reserve study recommendations; flag underfunding early |
+| Dues delinquency review | Monthly; escalate to board at 60 days past due |
+
+### Communications Committee
+**Mission:** Keep the community informed and engaged.
+
+| Responsibility | Notes |
+|---|---|
+| Monthly newsletter | 1-2 pages; key metrics, upcoming events, board updates |
+| Community website / portal | Keep current; post meeting minutes, financial reports |
+| Social media (if applicable) | Neighborhood Facebook group, Nextdoor |
+| Town hall coordination | Logistics, materials, notice |
+
+### Maintenance Committee
+**Mission:** Coordinate repairs, vendor relationships, and capital improvement planning.
+
+| Responsibility | Notes |
+|---|---|
+| Vendor coordination | Primary contact for maintenance vendors |
+| Work order tracking | Log and follow up all repair requests |
+| Annual property inspection | Walk the property; document deferred maintenance |
+| Capital improvement input | Feed findings into reserve study and budget process |
+
+---
+
+## Decision Authority Matrix
+
+| Decision Type | Who Decides |
+|---|---|
+| Routine vendor invoice under $500 | Community manager or Treasurer |
+| Vendor invoice $500-$2,500 | Any two board officers |
+| Vendor invoice or contract $2,500-$10,000 | Full board vote at meeting |
+| Contract over $10,000 | Full board vote + community notice |
+| Special assessment | Community vote (check bylaws for threshold) |
+| Amendment to governing documents | Community vote (typically 2/3 majority) |
+| Grant application submission | Board vote |
+| PPA or long-term solar contract | Board vote + community notice (recommended) |
+
+---
+
+## Records and Transparency
+
+**What should always be public (accessible to all residents):**
+- Monthly financial statements
+- Board meeting minutes
+- Current budget vs. actuals
+- Vendor contract list
+- Reserve fund balance and reserve study
+- Green initiative project status
+
+**Recommended tools:**
+- Google Drive (free) shared with all residents
+- Community website or platform like HOA Express, Wix, or Nabr Network
+- Email list for meeting notices and newsletters
+
+---
+
+## North Carolina Legal Requirements for HOAs
+
+| Requirement | Notes |
+|---|---|
+| Annual meeting | Required; notice requirements in bylaws |
+| Financial records availability | NC HOA owners have a right to inspect records |
+| D&O insurance | Not mandated but essential — purchase before self-managing |
+| Lien for unpaid dues | NC allows HOA liens; follow proper legal process |
+
+**Consult an NC HOA attorney** before finalizing the self-management structure. CAI-NC can provide referrals.
+
+---
+
+*A clear governance structure prevents the most common self-management failures: burnout, mission creep, and financial opacity. Set this up before taking over, not after.*`
+      },
+
+      'sm-comparison': {
+        path: 'self-management/management-company-comparison.md',
+        content: `# Management Company vs. Self-Management
+### Side-by-Side Comparison for Community Presentations
+
+Use this document as the factual backbone for town hall presentations. It is designed to be honest and fair, not one-sided. Communities will trust a balanced analysis more than propaganda.
+
+---
+
+## Financial Comparison
+
+| Cost Category | Third-Party Management | Self-Management | Typical Savings |
+|---|---|---|---|
+| Management fee | 8-12% of dues collected (~$19K-$28K/year at $250/unit) | Part-time coordinator: $8K-$12K/year | **$7K-$20K/year** |
+| Vendor markup | 10-20% added to vendor invoices | $0 (direct vendor relationships) | **$3K-$8K/year** |
+| Software/tools | Included in fee | $300-$1,200/year | Slight increase |
+| D&O insurance | Often included | $1,000-$2,000/year | Slight increase |
+| Legal (transition year) | — | +$1,500-$3,000 one-time | One-time cost |
+| **Net annual savings** | | | **~$9K-$25K/year** |
+
+---
+
+## Service Comparison
+
+| Service | Third-Party Management | Self-Management |
+|---|---|---|
+| Dues collection | Automated | Automated (HOA software) |
+| Vendor coordination | Managed (with markup) | Direct (no markup) |
+| Maintenance requests | Routed through management | Routed through community manager or board |
+| Financial reporting | Monthly statements | Monthly statements (more granular) |
+| Legal compliance | Managed | Board responsibility + attorney on retainer |
+| Emergency response | After-hours line | Designated board member + vendor contacts |
+
+---
+
+## Accountability Comparison
+
+| Factor | Third-Party Management | Self-Management |
+|---|---|---|
+| Who makes decisions? | Management company, with board input | Board, directly |
+| Who is physically present? | Visiting manager (remote company) | Board members live here |
+| Transparency | Reports provided; full access may be limited | Full transparency; all residents can view records |
+| Responsiveness | Business hours, portfolio of many properties | Board members are neighbors |
+| Accountability when something goes wrong | Contractual; may require legal action | Direct; residents can vote out board members |
+
+---
+
+## What Self-Management Cannot Easily Replace
+
+1. **Professional expertise on complex legal and financial matters.** The mitigation: retaining an HOA attorney for complex matters (~$150-$300/hour as needed).
+
+2. **24/7 professional emergency response.** The mitigation: clear emergency contact list and relationship with 24-hour vendors.
+
+3. **Established vendor network.** Management companies negotiate volume discounts. A single HOA has less leverage. This is real but often overstated.
+
+4. **Institutional knowledge during transitions.** The mitigation: documentation, redundancy, and software systems.
+
+---
+
+## The Decision Framework
+
+**Question 1: Do we have the people?**
+Can you identify 4-5 committed residents willing to serve on the board? Is there someone with finance, accounting, or business management experience?
+
+**Question 2: Are we financially stable enough to transition?**
+Is the reserve fund reasonably healthy? Is the delinquency rate low (under 5%)? Are there no major active legal matters?
+
+**Question 3: What would we do with the savings?**
+"We save $15,000/year, $5,000 goes to rain gardens, $5,000 goes to the reserve, and $5,000 reduces dues by $5.28/unit/month" is a vote-winner.
+
+---
+
+## Honest Recommendation
+
+Self-management is the right choice when a community has engaged residents and stable finances. The financial case is unambiguous: a well-run self-managed HOA at 79 units will save $9,000-$25,000 per year compared to professional management, with equal or better service quality.
+
+The failure mode is not incompetence. It is volunteer burnout. The protection is:
+- Part-time paid coordinator
+- Clear role boundaries
+- Strong software systems
+- A governance structure that distributes load
+
+---
+
+*Present this comparison in Town Hall #1 with real numbers plugged in from your actual current management contract.*`
+      },
+
+      'ce-persuasion': {
+        path: 'community-engagement/persuasion-playbook.md',
+        content: `# Persuasion Playbook
+### Evidence-Based Techniques for Selling Community Change
+
+This document is a candid, academically grounded guide to persuasion for anyone leading a community change initiative. These techniques come from social psychology, behavioral economics, and community organizing. Use them ethically.
+
+---
+
+## Foundational Principle: People Support What They Help Build
+
+The single most powerful persuasion technique for a community initiative is co-creation. When residents feel ownership over a plan, they defend it. When a plan is handed to them, they resist it.
+
+**Practical application:** Before you have a finished proposal, hold a listening session. Ask what residents value, what they worry about, what they wish the community did better. Then build the proposal to reflect what you heard.
+
+---
+
+## The Core Persuasion Techniques
+
+### 1. Social Proof
+People follow the crowd, especially in uncertain situations.
+
+- Share how many communities in Raleigh have already joined the R3 program (200+ projects)
+- Name comparable HOA communities that have self-managed successfully
+- Display a "who's on board" list that grows over time
+
+> "200 Raleigh property owners have already participated in the Rainwater Rewards program."
+
+### 2. Authority
+People trust credible experts. Cite and invite them.
+
+- Cite the City of Raleigh directly: confirmed program eligibility
+- Invite a City representative to speak at Town Hall #2
+- Bring in a local HOA attorney to answer governance questions
+
+### 3. Scarcity and Urgency (Ethical Use)
+Use only when the scarcity is real.
+
+- Duke Energy PowerPair rebate program: capacity is genuinely limited
+- The residential ITC is genuinely gone as of 2026
+- R3 program: no fixed deadline, but earlier = faster city processing
+
+### 4. Loss Aversion (Prospect Theory)
+People feel losses more intensely than equivalent gains.
+
+**Gain framing (less powerful):** "We could save $20,000 a year."
+
+**Loss framing (more powerful):** "We are currently sending $20,000 a year to a company headquartered 40 miles away that has no stake in our community."
+
+### 5. Commitment and Consistency
+Small "yes"s lead to big "yes"s.
+
+**Ladder of commitment:**
+1. "Would you attend an informational meeting?" (lowest bar)
+2. "Would you sign this interest form?"
+3. "Would you join our email list for updates?"
+4. "Would you attend a volunteer planting day?" (action)
+5. "Would you serve on the Green Committee?" (leadership)
+
+### 6. Liking
+People say yes to people they like.
+
+- Have the most well-liked, trusted residents present the proposal
+- Host an informal social event before the first town hall
+- Use humor thoughtfully; self-deprecating humor builds rapport
+
+### 7. Reciprocity
+At every meeting, provide something: food and drinks, a useful takeaway handout, genuinely useful information. Give before you ask.
+
+### 8. Framing the Narrative
+**The frame you want:** *This is a community investing in itself.*
+
+**Language guide:**
+| Instead of | Use |
+|---|---|
+| "firing the management company" | "bringing management home" |
+| "experimental green initiatives" | "proven Raleigh programs" |
+| "self-managed" (implies amateur) | "community-managed" or "resident-led" |
+| "solar panels" (generic) | "community energy independence" |
+| "rain gardens" (unfamiliar) | "Raleigh's water program" or "city-funded green spaces" |
+
+### 9. Inoculation Theory
+If you expect objections, raise them yourself before opponents do.
+
+**Objections to inoculate against:**
+- "Self-management is too much work" → show the governance structure and part-time coordinator role
+- "Solar panels are expensive" → explain the PPA model (zero upfront cost)
+- "Rain gardens will look messy" → bring photos of R3 program installations in Raleigh
+- "What if we vote to do this and it doesn't work?" → explain the 12-month transition plan and the off-ramp
+
+### 10. The Yes Ladder Closing Sequence
+
+1. "Does everyone agree that we'd like lower dues over time?" (near-universal yes)
+2. "Does everyone agree that free grants from the city for improvements are a good idea?" (near-universal yes)
+3. "Does everyone agree that our community should have a say in how it's managed?" (near-universal yes)
+4. "Then what we're asking you to consider is a plan that delivers all three..."
+
+---
+
+## The Opponent Map
+
+| Opponent Type | Core Fear | What Moves Them |
+|---|---|---|
+| The Skeptic | "This sounds too good to be true" | Specific numbers, third-party citations, the reserve study |
+| The Status Quo Defender | "Things are fine as they are" | Loss framing ("we're already losing $X/year") |
+| The Risk-Averse | "What if something goes wrong?" | Detailed transition plan, insurance, off-ramps |
+| The Uninvolved | "This doesn't affect me much" | Personal benefit framing: dues reduction per unit per month |
+| The Management Company Loyalist | "They've been fine to us" | Acknowledge positive history; focus on financial math |
+| The Free Rider | Wants benefits without engagement | Make participation easy; they often come around once they see results |
+
+---
+
+## Ethical Guardrails
+
+- **Only claim what you can prove.** Numbers must be verifiable.
+- **Acknowledge uncertainty.** Projections are estimates, not guarantees.
+- **Respect the "no."** Some residents will oppose this. Process concerns fairly.
+- **Follow your governing documents.** Whatever the community decides, the process must follow your bylaws.
+
+---
+
+*Pair this with the communication-strategy.md document for the tactical implementation plan.*`
+      },
+
+      'ce-communication': {
+        path: 'community-engagement/communication-strategy.md',
+        content: `# Communication Strategy
+### Town Halls, Messaging, and the Road to a Community Vote
+
+---
+
+## Overview
+
+This strategy covers the full arc from first conversation to community vote. It is designed for a 6-9 month campaign across three phases: Listening, Informing, and Deciding.
+
+The campaign does not push a predetermined outcome. It creates the conditions for informed, autonomous community decision-making.
+
+---
+
+## Phase 1: Listening (Months 1-2)
+
+**Goal:** Understand what residents actually care about before presenting any proposal.
+
+### Resident Survey (7 questions)
+1. What do you like most about living in this community?
+2. What is your biggest frustration with how the community is currently managed?
+3. What would make you proud to live here?
+4. How do you feel about the current monthly dues relative to what you receive?
+5. How interested would you be in a community that was more environmentally friendly?
+6. How interested would you be in having more resident control over HOA decisions?
+7. Would you consider volunteering for a community committee?
+
+**Goal response rate:** 30-40% of units (25-32 households).
+
+### Informal Conversations
+Before any formal meeting, have 1:1 conversations with the residents you know best. Identify natural community connectors. Aim for 15-20 conversations.
+
+---
+
+## Phase 2: Informing (Months 3-5)
+
+### Town Hall #1: The Problem
+**Title:** "Our Community's Future: A Listening Session"
+**Format:** 75-90 minutes, open to all residents
+
+**Agenda:**
+1. Welcome and ground rules (5 min)
+2. Survey results presentation (15 min)
+3. Current state of the HOA (20 min)
+4. Three questions for the community (10 min)
+5. Open discussion (30 min)
+6. Close with small ask: sign-up list (5 min)
+
+**Tone:** Curious, not declarative. This meeting is not a proposal.
+
+---
+
+### Town Hall #2: The Opportunity
+**Title:** "What's Possible: Green Infrastructure and Community Management"
+**Format:** 90 minutes
+
+**Agenda:**
+1. Recap of Town Hall #1 (10 min)
+2. Green initiative presentation (30 min) — rain gardens, solar PPA, waste reduction
+3. Self-management presentation (20 min) — financial comparison, governance, timeline
+4. Guest speaker (optional, 15 min): City R3 rep or HOA attorney
+5. Q&A (25 min)
+6. Close with commitment ask: "Who would serve on an exploratory committee?" (5 min)
+
+---
+
+## Phase 3: Deciding (Months 6-9)
+
+### Town Hall #3: The Proposal
+**Title:** "The Plan — And How We Decide"
+**Format:** 90 minutes; formal proposal presentation
+
+**Agenda:**
+1. Full proposal presentation (30 min)
+2. Formal Q&A (30 min)
+3. Process explanation (15 min) — what is being voted on, when, how, what threshold
+4. Next steps (15 min) — timeline to vote
+
+---
+
+### The Vote
+
+**Threshold:** Most major HOA decisions require a simple majority of quorum (50%+1) or a supermajority (2/3) for amendments to governing documents.
+
+**If the vote passes:** Thank the community, publish the final vote count, begin Phase 1 of the transition plan immediately.
+
+**If the vote fails:** Respect the outcome publicly. A failed vote is not a permanent no; it is a "not yet."
+
+---
+
+## The Messaging Architecture
+
+**Message 1: We can do this ourselves.**
+Our community has the people and the capability to manage itself.
+
+**Message 2: The city will pay for most of the green infrastructure.**
+The R3 program covers 90% of rain garden installation costs. The solar PPA has no upfront cost.
+
+**Message 3: This is about the community's future.**
+Not just lower dues. This is about who decides how our neighborhood looks, feels, and functions.
+
+---
+
+## FAQ: Pre-Written Answers
+
+**Q: What happens if the board doesn't do a good job?**
+A: Residents vote board members out at the annual election. You have direct democratic recourse.
+
+**Q: Will my dues go down?**
+A: The plan calls for specific savings from management fees. We will not make promises we can't keep, but the math is clear.
+
+**Q: Who is going to do all this volunteer work?**
+A: Part-time paid coordinator for administrative work. Board focuses on decisions. Committees distribute the rest.
+
+**Q: Can we go back to professional management if this doesn't work?**
+A: Yes. Nothing about this is irreversible.
+
+---
+
+## Communication Channels and Cadence
+
+| Channel | Audience | Cadence | Owner |
+|---|---|---|---|
+| Email newsletter | Opted-in residents | Monthly | Communications Committee |
+| Physical posting | All residents (no email) | Monthly + event-specific | Communications Committee |
+| Community website | All residents | Updated after each town hall | Communications Committee |
+| Town halls | All residents | 3 formal sessions over 6 months | Board |
+| Coffee sessions | Engaged residents | Monthly between town halls | Board + committee leads |
+| Social media (Nextdoor, FB) | Community adjacent | As needed | Communications Committee |
+
+---
+
+*This communication strategy is most effective when it is visible that the proposers genuinely want input and are willing to modify the plan based on what they hear.*`
+      },
+
+      'ce-stakeholder': {
+        path: 'community-engagement/stakeholder-map.md',
+        content: `# Stakeholder Map
+### Know Your Audience Before You Walk In
+
+Every community change initiative succeeds or fails based on who is for it, who is against it, and who is persuadable. Map this before your first town hall.
+
+---
+
+## Internal Stakeholders (Residents and Board)
+
+### Segment 1: Champions
+Already aligned. Will speak up, volunteer, and recruit others.
+
+| Name / Unit | Concerns / Interests | How to Engage | Notes |
+|---|---|---|---|
+| (fill in) | | Ask to speak at Town Hall #1 | |
+| (fill in) | | Ask to serve on Transition Committee | |
+
+**Strategy:** Activate early. Give them specific roles.
+
+---
+
+### Segment 2: Supportive but Passive
+Like the idea; won't lead. Will vote yes if asked properly.
+
+**Likely characteristics:** Busy residents, newer to the community, generally happy but not deeply engaged.
+
+**Strategy:** Reduce friction. Make it easy to say yes.
+
+---
+
+### Segment 3: Undecided / Unengaged
+May not vote at all unless specifically approached.
+
+**Likely characteristics:** Long-term residents comfortable with the status quo; or residents who distrust HOA processes.
+
+**Strategy:** One-to-one outreach from a neighbor they know and trust. Use the commitment ladder (small asks first).
+
+---
+
+### Segment 4: Skeptical but Persuadable
+Have real concerns. Will move to yes with adequate information.
+
+**Common concerns:**
+- "Will dues actually go down?"
+- "Who's going to do all this work?"
+- "What if it doesn't work?"
+
+**Strategy:** Direct, honest engagement. Bring evidence. Never dismiss a concern.
+
+---
+
+### Segment 5: Active Opposition
+Have a principled objection or a personal stake in the status quo.
+
+**Strategy:** Do not try to convert them at a town hall. Have private conversations. If not persuadable, ensure the process is fair enough that their opposition does not derail a genuine majority.
+
+---
+
+## External Stakeholders
+
+### City of Raleigh — Stormwater Division (R3 Program)
+**Role:** Grant partner for rain garden installations
+**Interest:** Successful program participation; good community outcomes
+**How to engage:** Pre-application call at rainwaterrewards@raleighnc.gov
+
+### City of Raleigh — Office of Sustainability
+**Role:** Climate Action Fund, Sustainable Neighborhood Toolkit
+**Interest:** Communities implementing the Community Climate Action Plan
+**How to engage:** Contact through raleighnc.gov/climate-action-and-sustainability
+
+### Current Management Company
+**Role:** Incumbent service provider; party to transition agreement
+**How to engage:** Professionally, with advance notice. Review contract terms before any communication. Do not make enemies of them.
+
+### HOA Attorney
+**Role:** Legal advisor for the transition; governing document review
+**How to engage:** Retain before the process goes public
+**Referral source:** CAI-NC
+
+### PPA Solar Providers
+**Role:** Potential solar partner
+**Interest:** Long-term contract; community as a flagship installation
+**How to engage:** Request bids from 3+ providers
+
+### Duke Energy
+**Role:** Utility provider; PowerPair rebate program
+**How to engage:** PowerPair@duke-energy.com; confirm HOA eligibility
+
+---
+
+## Stakeholder Tracking Template
+
+| Name | Unit | Segment | Last Contact | Position | Next Action |
+|---|---|---|---|---|---|
+| | | Champion / Supportive / Undecided / Skeptical / Opposed | | | |
+
+---
+
+*Update this map after every town hall and every significant conversation. The landscape changes.*`
+      },
+
+      'cal-project': {
+        path: 'calendar/project-calendar.md',
+        content: `# Project Calendar
+### HOA Greenleaf Initiative — Phase Timeline
+
+This calendar maps the full initiative from pre-launch through stabilization. Dates are relative to a Q2 2026 start (adjust by shifting all entries proportionally to your actual launch date).
+
+---
+
+## Phase Overview
+
+| Phase | Months | Focus |
+|---|---|---|
+| 0: Pre-Launch | Weeks 1-4 | Internal preparation, legal review, survey design |
+| 1: Listening | Months 1-2 | Resident survey, 1:1 conversations, data collection |
+| 2: Informing | Months 3-5 | Town Halls #1 and #2, green initiative research, vendor bids |
+| 3: Deciding | Months 6-8 | Town Hall #3, formal vote, management notice |
+| 4: Transition | Months 9-12 | Management handoff, governance setup, green initiative launch |
+| 5: Stabilization | Year 2 | Self-management baseline, Phase 1 green implementation |
+
+---
+
+## Detailed Calendar
+
+### April 2026 — Pre-Launch
+
+| Week | Activity | Owner | Notes |
+|---|---|---|---|
+| April 6-12 | Internal kick-off meeting; recruit Transition Committee | Project lead | 4-6 people |
+| April 6-12 | Review current management contract (termination notice requirements) | HOA attorney | Critical path item |
+| April 6-12 | Pull all HOA financials from management company | Treasurer | Need 3 years minimum |
+| April 13-19 | Draft resident survey | Communications lead | 7-8 questions max |
+| April 13-19 | Contact rainwaterrewards@raleighnc.gov for pre-application conversation | Grounds lead | Non-binding; just introduction |
+| April 20-30 | Commission reserve study if not current | Treasurer | $2,000-$4,500; 4-6 week turnaround |
+
+---
+
+### May 2026 — Month 1: Listening
+
+| Date | Activity | Owner | Notes |
+|---|---|---|---|
+| May 1-7 | Deploy resident survey (email + physical) | Communications | Set 3-week response window |
+| May 1-21 | 1:1 conversations with 15-20 residents | Transition Committee | Identify champions and concerns |
+| May 15 | First reminder on survey | Communications | |
+| May 28 | Survey closes | | |
+| May 28-31 | Compile survey results | Project lead | |
+
+---
+
+### June 2026 — Month 2: Listening Continues + Prep
+
+| Date | Activity | Owner | Notes |
+|---|---|---|---|
+| June 1-7 | Analyze survey results; identify top concerns | Project lead | |
+| June 1-14 | Walk property to map rain garden candidate sites | Grounds Committee | Document with photos |
+| June 1-14 | Pull 12 months of common area electricity bills | Treasurer | For solar feasibility |
+| June 15 | **TOWN HALL #1: Listening Session** | All | Book community room; notice 2 weeks ahead |
+| June 16-30 | Collect Town Hall #1 feedback; send follow-up email | Communications | |
+| June 15-30 | Contact 3 solar PPA providers for preliminary conversations | Grounds/Finance | |
+
+---
+
+### July 2026 — Month 3: Informing Begins
+
+| Date | Activity | Owner | Notes |
+|---|---|---|---|
+| July 1-15 | Request formal PPA bids from 3 solar providers | Treasurer | 4-6 week response window |
+| July 1-15 | Contact R3 for formal pre-application site assessment | Grounds | Schedule for August |
+| July 1-15 | Engage HOA attorney to review governing documents for transition | Project lead | |
+| July 15-31 | Research self-management governance structure; adapt to your bylaws | Project lead + attorney | |
+| July 15-31 | Identify and interview potential part-time community managers | Project lead | Post on CAI-NC, LinkedIn |
+
+---
+
+### August 2026 — Month 4: Proposals Take Shape
+
+| Date | Activity | Owner | Notes |
+|---|---|---|---|
+| August 1-14 | R3 site assessment with City of Raleigh Stormwater | Grounds Committee | |
+| August 1-14 | Review incoming solar PPA bids | Treasurer | |
+| August 1-14 | Draft proposed self-management budget | Treasurer | |
+| August 20 | **TOWN HALL #2: Opportunity Presentation** | All | Invite City R3 speaker |
+
+---
+
+### September 2026 — Month 5: Decision Prep
+
+| Date | Activity | Owner | Notes |
+|---|---|---|---|
+| September 1-14 | Incorporate Town Hall #2 feedback into final proposal | Project lead | |
+| September 1-14 | Select preferred solar PPA provider (pending attorney review) | Board | |
+| September 1-14 | Finalize rain garden Phase 1 design with R3 pre-approval | Grounds | |
+| September 1-14 | Draft full transition proposal document | Project lead | |
+| September 15-30 | Legal review of PPA contract, transition documents | HOA attorney | |
+
+---
+
+### October 2026 — Month 6: Decision
+
+| Date | Activity | Owner | Notes |
+|---|---|---|---|
+| October 15 | **TOWN HALL #3: The Proposal and the Vote Process** | All | |
+| October 16-31 | Open absentee voting period (if authorized by bylaws) | Secretary | |
+| October 30 | **COMMUNITY VOTE** (Special Meeting) | All eligible residents | Notice per bylaws |
+
+---
+
+### November-December 2026 — Notice and Transition Prep
+
+| Date | Activity | Owner | Notes |
+|---|---|---|---|
+| November 1 | Serve formal notice of termination to management company | President + attorney | Per contract terms |
+| November 1-15 | Open new HOA bank account | Treasurer | |
+| November 1-15 | Set up accounting software | Treasurer | |
+| November-December | Request all documents and assets from management company | Secretary | |
+| December 1 | Hire part-time community manager (if going Option B) | Project lead | |
+| December 15 | Submit R3 grant application for Phase 1 rain garden | Grounds | |
+
+---
+
+### January 2027 — Self-Management Begins
+
+| Date | Activity | Owner | Notes |
+|---|---|---|---|
+| January 1 | **MANAGEMENT TRANSITION DATE** | | Confirm with attorney |
+| January 15 | **First board meeting under self-management** | Board | |
+| January 15 | Issue first self-managed financial report to community | Treasurer | |
+| January 31 | Community update: "We're live" newsletter | Communications | Celebrate the milestone |
+
+---
+
+### March-April 2027 — Stabilization
+
+| Date | Activity | Owner | Notes |
+|---|---|---|---|
+| February-March | R3 application processing; design approvals | Grounds | |
+| March | **Rain garden Phase 1 installation begins** | Grounds + contractor | Spring is ideal planting season |
+| April | **Annual Community Meeting: Year 1 Report** | All | |
+| April | Publish first "Greenleaf Community Annual Report" | Communications | |
+
+---
+
+## Key Grant and Program Deadlines
+
+| Program | Application Timing | Notes |
+|---|---|---|
+| Raleigh R3 (Rain Garden) | Year-round | No fixed deadline; apply when ready |
+| Raleigh Neighborhood Initiative Fund | Annual cycle; check raleighnc.gov | Geographic eligibility prerequisite |
+| Community Enhancement Grant | Annual cycle; check raleighnc.gov | |
+| Raleigh Climate Action Fund | Competitive; no fixed cycle | Contact Office of Sustainability directly |
+| Duke Energy PowerPair | Check capacity before applying | Waitlist may apply |
+
+---
+
+## Recurring Calendar Items (Once Self-Managed)
+
+| Item | Frequency | Timing |
+|---|---|---|
+| Board meeting | Monthly | 3rd Tuesday of each month (example) |
+| Financial report to community | Monthly | 1st of each month |
+| Annual meeting | Annual | March-April |
+| Reserve study review | Every 3-5 years | Commission when 2+ years old |
+| Vendor contract reviews | Annual | October (budget season) |
+| R3 maintenance report | Annual | December |
+| Community survey | Annual | January |
+| Annual green report | Annual | April |
+
+---
+
+*This calendar is a living document. Update it after each town hall and milestone.*`
+      },
+
+      'res-vendors': {
+        path: 'resources/vendors-and-contacts.md',
+        content: `# Vendors and Contacts
+### Reference Directory for the HOA Greenleaf Initiative
+
+---
+
+## City of Raleigh — Programs
+
+| Contact | Role | Info |
+|---|---|---|
+| Raleigh Rainwater Rewards (R3) | Rain garden grants (90% cost-share) | rainwaterrewards@raleighnc.gov |
+| Office of Sustainability | Climate Action Fund, Sustainable Neighborhood Toolkit | raleighnc.gov/climate-action-and-sustainability |
+| Community Enhancement Grant | Neighborhood physical improvement grants | raleighnc.gov/grants-funding-and-relief/services/community-enhancement-grant-ceg |
+| Neighborhood Initiative Funds | Up to $15K for eligible neighborhoods | raleighnc.gov/community/services/neighborhood-initiative-funds |
+
+---
+
+## Wake County
+
+| Contact | Role | Info |
+|---|---|---|
+| Wake County Solid Waste | Recycling education, bulk waste events | wakegov.com/departments-government/solid-waste-management |
+| Wake County Water Quality | GSI coordination, regional stormwater | wakegov.com/departments-government/water-quality-division |
+| NC State Extension (Wake County) | Composting, native plants, soil testing | wake.ces.ncsu.edu |
+
+---
+
+## Utilities
+
+| Contact | Role | Info |
+|---|---|---|
+| Duke Energy PowerPair | Solar + battery rebate program | PowerPair@duke-energy.com |
+| Duke Energy Trade Ally Finder | Find eligible installers | duke-energy.com/home/products/powerpair |
+
+---
+
+## Solar PPA Providers (Request Bids From All Three)
+
+| Company | Type | Notes |
+|---|---|---|
+| Southern Energy Management | Local NC provider; Duke Trade Ally | Morrisville, NC; PPA experience |
+| Renu Energy Solutions | Local NC provider; Duke Trade Ally | Apex, NC |
+| Hannah Solar | Regional; commercial and HOA | Multi-site experience |
+| Sunrun / Sunnova / SunPower | National PPA providers | NC presence; compare to local |
+
+**When requesting bids, provide:**
+- 12 months of common area electricity bills
+- Address and roof area measurements
+- Preferred contact and decision timeline
+- Request: PPA rate, escalator, 20-year projection, contract terms, buyout options
+
+---
+
+## Rain Garden Designers and Contractors
+
+| Resource | Notes |
+|---|---|
+| Raleigh Stormwater Staff | Free design guidance through R3 pre-application process |
+| NC State Extension Master Gardeners | Free native plant consultation |
+| Local landscape architects familiar with R3 | Ask R3 program for referrals; they know who designs to spec |
+
+**Native plant nurseries in Raleigh:**
+- Going Native Garden Center (Raleigh)
+- Cure Nursery (Raleigh)
+- NC Botanical Garden Plant Shop (Chapel Hill)
+
+---
+
+## HOA Professional Services
+
+| Resource | Role | Notes |
+|---|---|---|
+| CAI-NC (Community Associations Institute NC) | Education, attorney referrals, networking | cai-nc.org; membership recommended |
+| HOA Attorney | Governing document review, transition process | Get referral from CAI-NC; HOA-specialist, not general practice |
+| Reserve Study Professional | Reserve fund analysis | Commission before any major capital decisions |
+| HOA CPA / Accountant | Annual audit or review; budget preparation | Prefer one with HOA client experience |
+
+---
+
+## HOA Management Software Options
+
+| Platform | Best For | Cost (est.) |
+|---|---|---|
+| Buildium | Small-to-mid HOAs; comprehensive | $50-$160/month |
+| AppFolio | Similar to Buildium; strong mobile | $1.10-$1.50/unit/month |
+| TOPS Pro | HOA-specific; full suite | Custom pricing |
+| HOA Express | Simple sites + communication | $20-$50/month |
+| QuickBooks Simple Start | Accounting only (pair with above) | $15-$25/month |
+
+---
+
+## Community Communication Platforms
+
+| Platform | Use | Cost |
+|---|---|---|
+| Mailchimp / Constant Contact | Newsletter distribution | Free tier available |
+| Nextdoor | Neighborhood social; announcements | Free |
+| Google Groups | Email list for board/committee | Free |
+| Google Drive / Workspace | Document storage, sharing | Free / $6/user/month |
+| Zoom | Virtual meetings | Free (40-min limit); $15/month paid |
+
+---
+
+*Update this file as you establish vendor relationships. Add actual names, phone numbers, and notes from your conversations.*`
+      },
+
+      'res-references': {
+        path: 'resources/references.md',
+        content: `# References and Further Reading
+
+---
+
+## Rain Gardens and Stormwater
+
+- **Raleigh Rainwater Rewards (R3) Program:** raleighnc.gov/stormwater/services/apply-raleigh-rainwater-rewards
+- **NC State Extension Rain Garden Guide:** extension.ncsu.edu (search "rain garden NC")
+- **NC Cooperative Extension — Native Plants for Stormwater Management:** ncsu.edu
+- **EPA Rain Garden Guide:** epa.gov (search "rain garden bioretention")
+- **Wake County Water Partnership — GSI Resources:** wakegov.com/departments-government/water-quality-division/wake-county-water-partnership
+
+---
+
+## Solar
+
+- **EnergySage NC Solar Guide (2026):** energysage.com/local-data/solar-rebates-incentives/nc — comprehensive, updated regularly
+- **Duke Energy PowerPair:** duke-energy.com/home/products/powerpair
+- **Renu Energy Solutions (NC Solar):** renuenergysolutions.com
+- **Southern Energy Management:** southern-energy.com
+- **NC Solar Law (22B-20):** northcarolinastatesolar.org/laws
+- **IRS OBBB FAQ (2025 ITC changes):** irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-25e
+- **Commercial ITC Section 48/48E (current):** irs.gov
+
+---
+
+## HOA Self-Management
+
+- **Community Associations Institute (national):** caionline.org — the definitive professional organization
+- **CAI-NC Chapter:** cai-nc.org — NC-specific resources, attorney referrals
+- **NC HOA Law Summary:** ncleg.gov (search "planned community act" and "condominium act")
+- **HOA management software comparison:** getapp.com and capterra.com (search "HOA management software")
+- **Reserve study professionals:** CAI-certified reserve specialists at caionline.org
+
+---
+
+## Community Organizing and Persuasion
+
+- **"Influence: The Psychology of Persuasion" — Robert Cialdini:** the foundational text on the persuasion techniques referenced in this project
+- **"Switch: How to Change Things When Change Is Hard" — Chip and Dan Heath:** practical framework for leading change in resistant environments
+- **"The Art of Community" — Jono Bacon:** community building and volunteer management
+- **Inoculation Theory (academic):** Compton & Pfau (2005)
+- **Loss aversion / Prospect Theory:** Kahneman & Tversky (1979)
+
+---
+
+## Raleigh Sustainability Context
+
+- **City of Raleigh Community Climate Action Plan:** raleighnc.gov/climate-action-and-sustainability
+- **Raleigh Sustainable Neighborhood Toolkit:** raleighnc.gov/climate-action-and-sustainability/services/sustainable-neighborhood-toolkit
+- **Raleigh 2030 Comprehensive Plan:** raleighnc.gov
+- **Wake County Environmental Services:** wakegov.com/departments-government/environmental-services
+
+---
+
+## Financial and Legal
+
+- **NC General Statutes — Planned Community Act:** ncleg.gov/EnactedLegislation/Statutes/PDF/ByChapter/Chapter_47F.pdf
+- **NC General Statutes — Condominium Act:** ncleg.gov/EnactedLegislation/Statutes/PDF/ByChapter/Chapter_47C.pdf
+- **NC Property Tax Solar Exemption (Form AV-10):** ncdor.gov
+- **Reserve Study standards (NACRI):** nacri.org
+
+---
+
+*As you build vendor and program relationships, add actual contacts, meeting notes, and follow-up commitments here.*`
+      }
+
+    };
+
+    // ─── BREADCRUMB LABELS ───────────────────────────────────────────────────────
+
+    const folderNames = {
+      'budget': 'budget',
+      'green': 'green-initiatives',
+      'selfmgmt': 'self-management',
+      'community': 'community-engagement',
+      'calendar': 'calendar',
+      'resources': 'resources'
+    };
+
+    // ─── OPEN FILE ────────────────────────────────────────────────────────────────
+
+    function openFile(key) {
+      const file = files[key];
+      if (!file) return;
+
+      // Update active state
+      document.querySelectorAll('.file-item, .root-file').forEach(el => {
+        el.classList.remove('active');
+      });
+      const clicked = document.querySelector(`[data-key="${key}"]`);
+      if (clicked) clicked.classList.add('active');
+
+      // Update breadcrumb
+      const parts = file.path.split('/');
+      let crumbHtml = '<span>hoa-greenleaf</span>';
+      for (let i = 0; i < parts.length; i++) {
+        crumbHtml += '<span class="crumb-sep">/</span>';
+        if (i === parts.length - 1) {
+          crumbHtml += `<span class="crumb-file">${parts[i]}</span>`;
+        } else {
+          crumbHtml += `<span>${parts[i]}</span>`;
+        }
+      }
+      document.getElementById('breadcrumb').innerHTML = crumbHtml;
+
+      // Render markdown
+      const rendered = marked.parse(file.content);
+      document.getElementById('md-content').innerHTML = rendered;
+
+      // Scroll content pane to top
+      document.querySelector('.content-pane').scrollTop = 0;
+    }
+
+    // ─── TOGGLE FOLDER ────────────────────────────────────────────────────────────
+
+    function toggleFolder(label, folderId) {
+      label.classList.toggle('open');
+      const children = document.getElementById('folder-' + folderId);
+      if (children) children.classList.toggle('open');
+    }
+
+    // ─── INIT ────────────────────────────────────────────────────────────────────
+
+    window.addEventListener('DOMContentLoaded', () => {
+      marked.setOptions({
+        breaks: true,
+        gfm: true
+      });
+      openFile('readme');
+    });
+  </script>
+
+</body>
+</html>
