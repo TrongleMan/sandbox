@@ -1,0 +1,1157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Relay Relay — A Full Band Punch in a Tiny Duo Package</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;700;900&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ─── Reset & Base ─── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --black: #0D0D0D;
+      --cyan:  #00E5D4;
+      --coral: #FF5C57;
+      --off-white: #F0EFEA;
+      --dim: rgba(13,13,13,0.85);
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--black);
+      color: var(--off-white);
+      font-family: 'Inter', sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    img { display: block; width: 100%; height: 100%; object-fit: cover; }
+
+    a { color: inherit; text-decoration: none; }
+
+    /* ─── Nav ─── */
+    nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1rem 2rem;
+      background: rgba(13,13,13,0.7);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(0,229,212,0.12);
+    }
+
+    .nav-logo {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: 1.4rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--cyan);
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 2rem;
+      list-style: none;
+    }
+
+    .nav-links a {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 700;
+      font-size: 0.85rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--off-white);
+      transition: color 0.2s;
+    }
+
+    .nav-links a:hover { color: var(--cyan); }
+
+    /* Hamburger */
+    .hamburger {
+      display: none;
+      flex-direction: column;
+      gap: 5px;
+      cursor: pointer;
+      background: none;
+      border: none;
+      padding: 4px;
+    }
+
+    .hamburger span {
+      display: block;
+      width: 24px;
+      height: 2px;
+      background: var(--off-white);
+      transition: all 0.3s;
+    }
+
+    .hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; }
+    .hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+    .mobile-menu {
+      display: none;
+      position: fixed;
+      top: 60px; left: 0; right: 0;
+      background: rgba(13,13,13,0.97);
+      backdrop-filter: blur(10px);
+      z-index: 99;
+      padding: 2rem;
+      border-bottom: 1px solid rgba(0,229,212,0.15);
+    }
+
+    .mobile-menu.open { display: block; }
+
+    .mobile-menu ul {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .mobile-menu a {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: 1.8rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--off-white);
+      transition: color 0.2s;
+    }
+
+    .mobile-menu a:hover { color: var(--cyan); }
+
+    /* ─── Section Labels ─── */
+    .section-label {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: clamp(0.65rem, 1.2vw, 0.85rem);
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--cyan);
+      margin-bottom: 1.2rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .section-label::after {
+      content: '';
+      display: block;
+      flex: 1;
+      max-width: 60px;
+      height: 1px;
+      background: var(--cyan);
+      opacity: 0.4;
+    }
+
+    /* ─── Hero ─── */
+    #hero {
+      position: relative;
+      min-height: 100svh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      overflow: hidden;
+      padding: 6rem 1.5rem 4rem;
+    }
+
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      background-image: url('https://images.squarespace-cdn.com/content/v1/6296548623979504598d3dac/a004dc0f-4547-411f-95b2-08eae3875829/BV-Stray+Local-9.jpg');
+      background-size: cover;
+      background-position: center 30%;
+    }
+
+    .hero-bg::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(13,13,13,0.62);
+    }
+
+    /* Grain texture */
+    .hero-grain {
+      position: absolute;
+      inset: 0;
+      z-index: 1;
+      pointer-events: none;
+      opacity: 0.35;
+      filter: url(#grain);
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      max-width: 900px;
+    }
+
+    .hero-eyebrow {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 700;
+      font-size: clamp(0.7rem, 1.5vw, 0.9rem);
+      letter-spacing: 0.3em;
+      text-transform: uppercase;
+      color: var(--cyan);
+      margin-bottom: 0.75rem;
+      opacity: 0.85;
+    }
+
+    .hero-name {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: clamp(4.5rem, 13vw, 14rem);
+      line-height: 0.88;
+      text-transform: uppercase;
+      color: var(--cyan);
+      letter-spacing: -0.01em;
+      text-shadow: 0 0 80px rgba(0,229,212,0.25);
+    }
+
+    .hero-name span {
+      display: block;
+    }
+
+    .hero-name .name-line-2 {
+      color: var(--off-white);
+      -webkit-text-stroke: 1px var(--cyan);
+    }
+
+    .genre-badges {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin: 1.5rem 0;
+    }
+
+    .badge {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: clamp(0.6rem, 1.3vw, 0.8rem);
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--black);
+      background: var(--coral);
+      padding: 0.35rem 0.9rem;
+      border-radius: 2px;
+    }
+
+    .hero-tagline {
+      font-size: clamp(1rem, 2.2vw, 1.4rem);
+      font-weight: 300;
+      color: var(--off-white);
+      max-width: 480px;
+      margin: 0 auto 2rem;
+      opacity: 0.9;
+      letter-spacing: 0.01em;
+    }
+
+    .btn-cyan {
+      display: inline-block;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: 1rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--black);
+      background: var(--cyan);
+      padding: 0.8rem 2.2rem;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: box-shadow 0.2s, transform 0.15s;
+    }
+
+    .btn-cyan:hover {
+      box-shadow: 0 0 28px rgba(0,229,212,0.55), 0 0 60px rgba(0,229,212,0.2);
+      transform: translateY(-2px);
+    }
+
+    .hero-scroll-hint {
+      position: absolute;
+      bottom: 1.5rem;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.4rem;
+      opacity: 0.4;
+    }
+
+    .hero-scroll-hint span {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 700;
+      font-size: 0.65rem;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+    }
+
+    .scroll-arrow {
+      width: 1px;
+      height: 32px;
+      background: linear-gradient(to bottom, var(--cyan), transparent);
+      animation: scrollPulse 2s ease-in-out infinite;
+    }
+
+    @keyframes scrollPulse {
+      0%, 100% { opacity: 0.4; transform: scaleY(1); }
+      50% { opacity: 0.9; transform: scaleY(1.3); transform-origin: top; }
+    }
+
+    /* ─── Sections ─── */
+    section {
+      padding: clamp(4rem, 8vw, 7rem) clamp(1.5rem, 5vw, 4rem);
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .section-title {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: clamp(2.8rem, 7vw, 6rem);
+      text-transform: uppercase;
+      line-height: 0.92;
+      letter-spacing: -0.01em;
+      margin-bottom: 2.5rem;
+    }
+
+    /* ─── About ─── */
+    #about {
+      background: var(--black);
+      border-top: 1px solid rgba(0,229,212,0.1);
+    }
+
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 3rem;
+      align-items: center;
+    }
+
+    @media (min-width: 768px) {
+      .about-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    .about-text .section-title {
+      color: var(--off-white);
+    }
+
+    .about-text .section-title span {
+      color: var(--cyan);
+      -webkit-text-stroke: 0;
+    }
+
+    .about-bio {
+      font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+      color: rgba(240,239,234,0.78);
+      line-height: 1.75;
+      max-width: 520px;
+    }
+
+    .about-accent {
+      display: inline-block;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: 1.1rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--coral);
+      margin-top: 1.5rem;
+    }
+
+    .about-portrait {
+      position: relative;
+      border-radius: 4px;
+      overflow: hidden;
+      aspect-ratio: 3/4;
+      max-height: 560px;
+    }
+
+    .about-portrait::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border: 2px solid rgba(0,229,212,0.2);
+      border-radius: 4px;
+      pointer-events: none;
+    }
+
+    .about-portrait img {
+      object-position: top center;
+    }
+
+    /* ─── What We Play ─── */
+    #the-set {
+      background: #0a0a0a;
+      border-top: 1px solid rgba(0,229,212,0.1);
+    }
+
+    .set-title-row {
+      display: flex;
+      align-items: baseline;
+      gap: 1rem;
+      margin-bottom: 3rem;
+    }
+
+    .genres-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    @media (min-width: 600px) {
+      .genres-grid { grid-template-columns: repeat(3, 1fr); }
+    }
+
+    .genre-card {
+      position: relative;
+      padding: 2rem 1.5rem;
+      border: 1px solid rgba(240,239,234,0.08);
+      border-radius: 4px;
+      background: rgba(255,255,255,0.025);
+      overflow: hidden;
+      transition: border-color 0.25s;
+    }
+
+    .genre-card:hover { border-color: rgba(0,229,212,0.3); }
+
+    .genre-faded {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: clamp(3.5rem, 7vw, 6rem);
+      text-transform: uppercase;
+      color: rgba(0,229,212,0.05);
+      letter-spacing: -0.02em;
+      white-space: nowrap;
+      pointer-events: none;
+      line-height: 1;
+    }
+
+    .genre-card-content {
+      position: relative;
+      z-index: 1;
+    }
+
+    .genre-card-icon {
+      font-size: 1.8rem;
+      margin-bottom: 0.75rem;
+      line-height: 1;
+    }
+
+    .genre-card-label {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: 1.3rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--cyan);
+      margin-bottom: 0.4rem;
+    }
+
+    .genre-card-desc {
+      font-size: 0.88rem;
+      color: rgba(240,239,234,0.6);
+      line-height: 1.55;
+    }
+
+    /* ─── Gallery ─── */
+    #gallery {
+      background: var(--black);
+      border-top: 1px solid rgba(0,229,212,0.1);
+    }
+
+    .gallery-grid {
+      columns: 1;
+      gap: 0.75rem;
+    }
+
+    @media (min-width: 500px) {
+      .gallery-grid { columns: 2; }
+    }
+
+    @media (min-width: 900px) {
+      .gallery-grid { columns: 3; }
+    }
+
+    .gallery-item {
+      break-inside: avoid;
+      margin-bottom: 0.75rem;
+      position: relative;
+      overflow: hidden;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+
+    .gallery-item img {
+      width: 100%;
+      height: auto;
+      display: block;
+      transition: transform 0.4s ease;
+    }
+
+    .gallery-item::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border: 2px solid transparent;
+      border-radius: 3px;
+      transition: border-color 0.25s, box-shadow 0.25s;
+    }
+
+    .gallery-item:hover img { transform: scale(1.03); }
+
+    .gallery-item:hover::after {
+      border-color: var(--cyan);
+      box-shadow: 0 0 20px rgba(0,229,212,0.2) inset;
+    }
+
+    /* ─── Shows ─── */
+    #shows {
+      background: #0a0a0a;
+      border-top: 1px solid rgba(0,229,212,0.1);
+    }
+
+    .shows-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 2rem;
+    }
+
+    .shows-table thead th {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: 0.75rem;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--cyan);
+      text-align: left;
+      padding: 0.6rem 1rem;
+      border-bottom: 1px solid rgba(0,229,212,0.25);
+    }
+
+    .shows-table tbody tr {
+      border-bottom: 1px solid rgba(240,239,234,0.06);
+      transition: background 0.2s;
+    }
+
+    .shows-table tbody tr:hover { background: rgba(0,229,212,0.04); }
+
+    .shows-table tbody td {
+      padding: 1rem 1rem;
+      font-size: 0.95rem;
+      color: rgba(240,239,234,0.8);
+      vertical-align: middle;
+    }
+
+    .shows-table .td-date {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: 1.1rem;
+      color: var(--off-white);
+      white-space: nowrap;
+    }
+
+    .shows-table .td-venue {
+      font-weight: 500;
+    }
+
+    .show-ticket-btn {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: 0.75rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--cyan);
+      background: none;
+      border: 1px solid rgba(0,229,212,0.35);
+      border-radius: 2px;
+      padding: 0.3rem 0.8rem;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.2s, box-shadow 0.2s;
+    }
+
+    .show-ticket-btn:hover {
+      background: rgba(0,229,212,0.1);
+      box-shadow: 0 0 12px rgba(0,229,212,0.2);
+    }
+
+    .shows-note {
+      margin-top: 2rem;
+      font-size: 0.85rem;
+      color: rgba(240,239,234,0.4);
+      font-style: italic;
+    }
+
+    /* ─── Book ─── */
+    #book {
+      background: var(--coral);
+      border-top: 1px solid rgba(0,0,0,0.15);
+      padding: clamp(4rem, 8vw, 7rem) clamp(1.5rem, 5vw, 4rem);
+    }
+
+    #book .section-label { color: rgba(13,13,13,0.6); }
+    #book .section-label::after { background: rgba(13,13,13,0.3); }
+
+    #book .section-title {
+      color: var(--black);
+    }
+
+    .book-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 3rem;
+    }
+
+    @media (min-width: 768px) {
+      .book-grid { grid-template-columns: 1fr 1.4fr; }
+    }
+
+    .book-intro {
+      color: rgba(13,13,13,0.75);
+      font-size: clamp(1rem, 1.8vw, 1.1rem);
+      line-height: 1.7;
+    }
+
+    .book-intro strong {
+      color: var(--black);
+      font-weight: 600;
+    }
+
+    .book-contact-list {
+      list-style: none;
+      margin-top: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+    }
+
+    .book-contact-list li {
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+      font-size: 0.95rem;
+      color: rgba(13,13,13,0.7);
+    }
+
+    .book-contact-list .ci {
+      font-size: 1.1rem;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
+
+    @media (max-width: 520px) {
+      .form-row { grid-template-columns: 1fr; }
+    }
+
+    input, select, textarea {
+      width: 100%;
+      background: rgba(13,13,13,0.08);
+      border: 1.5px solid rgba(13,13,13,0.2);
+      border-radius: 3px;
+      padding: 0.75rem 1rem;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.9rem;
+      color: var(--black);
+      transition: border-color 0.2s, box-shadow 0.2s;
+      -webkit-appearance: none;
+    }
+
+    input::placeholder, textarea::placeholder {
+      color: rgba(13,13,13,0.4);
+    }
+
+    input:focus, select:focus, textarea:focus {
+      outline: none;
+      border-color: var(--black);
+      box-shadow: 0 0 0 3px rgba(13,13,13,0.1);
+    }
+
+    textarea { resize: vertical; min-height: 100px; }
+
+    select { cursor: pointer; }
+    select option { background: #1a1a1a; color: var(--off-white); }
+
+    .btn-dark {
+      display: inline-block;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: 1rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--off-white);
+      background: var(--black);
+      padding: 0.9rem 2.4rem;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+      align-self: flex-start;
+      transition: box-shadow 0.2s, transform 0.15s;
+    }
+
+    .btn-dark:hover {
+      box-shadow: 0 0 24px rgba(13,13,13,0.5);
+      transform: translateY(-2px);
+    }
+
+    /* ─── Footer ─── */
+    footer {
+      background: var(--black);
+      border-top: 1px solid rgba(0,229,212,0.1);
+      padding: 3rem clamp(1.5rem, 5vw, 4rem);
+    }
+
+    .footer-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+      text-align: center;
+    }
+
+    .footer-logo {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 900;
+      font-size: 2rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--cyan);
+    }
+
+    .footer-tagline {
+      font-size: 0.8rem;
+      color: rgba(240,239,234,0.35);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-top: 0.25rem;
+    }
+
+    .social-links {
+      display: flex;
+      gap: 1.5rem;
+      align-items: center;
+    }
+
+    .social-link {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.3rem;
+      color: rgba(240,239,234,0.5);
+      transition: color 0.2s;
+    }
+
+    .social-link:hover { color: var(--cyan); }
+
+    .social-icon {
+      font-size: 1.4rem;
+      line-height: 1;
+    }
+
+    .social-label {
+      font-family: 'Barlow Condensed', sans-serif;
+      font-weight: 700;
+      font-size: 0.6rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+    }
+
+    .footer-copy {
+      font-size: 0.75rem;
+      color: rgba(240,239,234,0.2);
+    }
+
+    /* ─── Responsive Nav ─── */
+    @media (max-width: 700px) {
+      .nav-links { display: none; }
+      .hamburger { display: flex; }
+    }
+
+    /* ─── Scroll fade-in animation ─── */
+    .fade-up {
+      opacity: 0;
+      transform: translateY(28px);
+      transition: opacity 0.65s ease, transform 0.65s ease;
+    }
+
+    .fade-up.visible {
+      opacity: 1;
+      transform: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- SVG grain filter -->
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" result="noise"/>
+      <feColorMatrix type="saturate" values="0" in="noise" result="grayNoise"/>
+      <feBlend in="SourceGraphic" in2="grayNoise" mode="multiply" result="blend"/>
+      <feComposite in="blend" in2="SourceGraphic" operator="in"/>
+    </filter>
+  </svg>
+
+  <!-- Nav -->
+  <nav>
+    <span class="nav-logo">Relay Relay</span>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#the-set">The Set</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#shows">Shows</a></li>
+      <li><a href="#book">Book Us</a></li>
+    </ul>
+    <button class="hamburger" id="hamburger" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <div class="mobile-menu" id="mobile-menu">
+    <ul>
+      <li><a href="#about" class="mobile-nav-link">About</a></li>
+      <li><a href="#the-set" class="mobile-nav-link">The Set</a></li>
+      <li><a href="#gallery" class="mobile-nav-link">Gallery</a></li>
+      <li><a href="#shows" class="mobile-nav-link">Shows</a></li>
+      <li><a href="#book" class="mobile-nav-link">Book Us</a></li>
+    </ul>
+  </div>
+
+  <!-- ── HERO ── -->
+  <section id="hero">
+    <div class="hero-bg"></div>
+    <div class="hero-grain"></div>
+
+    <div class="hero-content">
+      <p class="hero-eyebrow">Hannah &amp; Jamie</p>
+
+      <h1 class="hero-name">
+        <span>Relay</span>
+        <span class="name-line-2">Relay</span>
+      </h1>
+
+      <div class="genre-badges">
+        <span class="badge">Motown</span>
+        <span class="badge">90s Indie</span>
+        <span class="badge">Pop Hits</span>
+      </div>
+
+      <p class="hero-tagline">A full band punch in a tiny duo package.</p>
+
+      <a href="#book" class="btn-cyan">Book Us</a>
+    </div>
+
+    <div class="hero-scroll-hint">
+      <span>Scroll</span>
+      <div class="scroll-arrow"></div>
+    </div>
+  </section>
+
+  <!-- ── ABOUT ── -->
+  <section id="about">
+    <div class="container">
+      <div class="about-grid">
+
+        <div class="about-text fade-up">
+          <p class="section-label">01 / About</p>
+          <h2 class="section-title">Built on<br><span style="color:var(--cyan)">10 years</span><br>together.</h2>
+          <p class="about-bio">
+            Relay Relay packs a full band punch into a tiny duo package. Hannah and Jamie have been
+            performing professionally together for over 10 years, intertwining their own distinct
+            sound throughout a super fun set of all bops and bangers — from Motown, nostalgic 90s,
+            and 2000s Indie Rock to the Pop hits of today. They met while pursuing Bachelor of Music
+            degrees at UNC Greensboro.
+          </p>
+          <span class="about-accent">Greensboro, NC based &mdash; Available nationwide</span>
+        </div>
+
+        <div class="about-portrait fade-up" style="transition-delay:0.15s">
+          <img
+            src="https://images.squarespace-cdn.com/content/v1/6296548623979504598d3dac/1740091196948-DRGKVN3DV1KLAEU3HW3T/RR+-+Bradley+Pearce+3+copy.JPG"
+            alt="Relay Relay portrait"
+            loading="lazy"
+          />
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── THE SET ── -->
+  <section id="the-set">
+    <div class="container">
+      <p class="section-label fade-up">02 / The Set</p>
+      <h2 class="section-title fade-up" style="transition-delay:0.05s">All bops.<br>All bangers.</h2>
+
+      <div class="genres-grid">
+
+        <div class="genre-card fade-up" style="transition-delay:0.1s">
+          <span class="genre-faded">Motown</span>
+          <div class="genre-card-content">
+            <div class="genre-card-icon">🎙</div>
+            <div class="genre-card-label">Motown Soul</div>
+            <p class="genre-card-desc">Classic grooves, infectious hooks, and the timeless feel of the golden era. The crowd always knows the words.</p>
+          </div>
+        </div>
+
+        <div class="genre-card fade-up" style="transition-delay:0.18s">
+          <span class="genre-faded">Indie</span>
+          <div class="genre-card-content">
+            <div class="genre-card-icon">🎸</div>
+            <div class="genre-card-label">90s/00s Indie</div>
+            <p class="genre-card-desc">The songs that defined a generation. Nostalgic energy that hits different when you're in the room.</p>
+          </div>
+        </div>
+
+        <div class="genre-card fade-up" style="transition-delay:0.26s">
+          <span class="genre-faded">Pop</span>
+          <div class="genre-card-content">
+            <div class="genre-card-icon">🎤</div>
+            <div class="genre-card-label">Pop Hits</div>
+            <p class="genre-card-desc">Today's biggest anthems delivered with a live warmth that streaming can't replicate.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── GALLERY ── -->
+  <section id="gallery">
+    <div class="container">
+      <p class="section-label fade-up">03 / Gallery</p>
+      <h2 class="section-title fade-up" style="transition-delay:0.05s">Live and<br>in the moment.</h2>
+
+      <div class="gallery-grid">
+        <div class="gallery-item fade-up" style="transition-delay:0.08s">
+          <img
+            src="https://images.squarespace-cdn.com/content/v1/6296548623979504598d3dac/1740090756844-H2SAB6Q9B7EKBKPM81DQ/Relay+Relay+11.JPEG"
+            alt="Relay Relay performing"
+            loading="lazy"
+          />
+        </div>
+        <div class="gallery-item fade-up" style="transition-delay:0.14s">
+          <img
+            src="https://images.squarespace-cdn.com/content/v1/6296548623979504598d3dac/1740090849075-3G7M6NPJBK2799ZBU1PD/Sofar+RDU+2019+vertical.jpg"
+            alt="Relay Relay at Sofar RDU"
+            loading="lazy"
+          />
+        </div>
+        <div class="gallery-item fade-up" style="transition-delay:0.2s">
+          <img
+            src="https://images.squarespace-cdn.com/content/v1/6296548623979504598d3dac/1740090797396-55QHKX4Z3J8I68E89A4I/RR-+Brooks+Party+5.JPG"
+            alt="Relay Relay at Brooks Party"
+            loading="lazy"
+          />
+        </div>
+        <div class="gallery-item fade-up" style="transition-delay:0.26s">
+          <img
+            src="https://images.squarespace-cdn.com/content/v1/6296548623979504598d3dac/1740090825294-U0B0UQZDGEJQTRJBG8UY/cgj00567+copy+2.JPG"
+            alt="Relay Relay live"
+            loading="lazy"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── SHOWS ── -->
+  <section id="shows">
+    <div class="container">
+      <p class="section-label fade-up">04 / Shows</p>
+      <h2 class="section-title fade-up" style="transition-delay:0.05s">Catch us<br>live.</h2>
+
+      <table class="shows-table fade-up" style="transition-delay:0.1s">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Venue</th>
+            <th>City</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-date">Apr 19, 2025</td>
+            <td class="td-venue">Stray Local</td>
+            <td>Burlington, NC</td>
+            <td><button class="show-ticket-btn">Tickets</button></td>
+          </tr>
+          <tr>
+            <td class="td-date">May 3, 2025</td>
+            <td class="td-venue">The Depot</td>
+            <td>Greensboro, NC</td>
+            <td><button class="show-ticket-btn">Tickets</button></td>
+          </tr>
+          <tr>
+            <td class="td-date">May 17, 2025</td>
+            <td class="td-venue">Haw River Ballroom</td>
+            <td>Saxapahaw, NC</td>
+            <td><button class="show-ticket-btn">Tickets</button></td>
+          </tr>
+          <tr>
+            <td class="td-date">Jun 7, 2025</td>
+            <td class="td-venue">Private Event</td>
+            <td>Chapel Hill, NC</td>
+            <td><span style="font-size:0.8rem;color:rgba(240,239,234,0.3);font-style:italic;">Private</span></td>
+          </tr>
+          <tr>
+            <td class="td-date">Jun 28, 2025</td>
+            <td class="td-venue">Sofar Sounds RDU</td>
+            <td>Durham, NC</td>
+            <td><button class="show-ticket-btn">Tickets</button></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p class="shows-note fade-up" style="transition-delay:0.2s">* Dates subject to change. Check back for updates.</p>
+    </div>
+  </section>
+
+  <!-- ── BOOK ── -->
+  <section id="book">
+    <div class="container">
+      <div class="book-grid">
+
+        <div class="fade-up">
+          <p class="section-label">05 / Book Us</p>
+          <h2 class="section-title">Let's make<br>something<br>happen.</h2>
+          <p class="book-intro">
+            Available for <strong>weddings</strong>, <strong>corporate events</strong>,
+            <strong>festivals</strong>, <strong>private parties</strong>, and more.
+            We travel. We set up fast. We read the room.
+          </p>
+          <ul class="book-contact-list">
+            <li><span class="ci">📧</span> booking@relayrelaymusic.com</li>
+            <li><span class="ci">📍</span> Greensboro, NC — Available Nationwide</li>
+          </ul>
+        </div>
+
+        <form class="fade-up" style="transition-delay:0.12s" onsubmit="return false;">
+          <div class="form-row">
+            <input type="text" placeholder="Your name" required />
+            <input type="email" placeholder="Email address" required />
+          </div>
+          <div class="form-row">
+            <input type="date" placeholder="Event date" />
+            <select>
+              <option value="" disabled selected>Event type</option>
+              <option>Wedding / Reception</option>
+              <option>Corporate Event</option>
+              <option>Festival / Concert</option>
+              <option>Private Party</option>
+              <option>Bar / Venue</option>
+              <option>Other</option>
+            </select>
+          </div>
+          <textarea placeholder="Tell us about your event — location, guest count, vibe…"></textarea>
+          <button type="submit" class="btn-dark">Send Inquiry</button>
+        </form>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── FOOTER ── -->
+  <footer>
+    <div class="footer-inner">
+      <div>
+        <div class="footer-logo">Relay Relay</div>
+        <div class="footer-tagline">A full band punch in a tiny duo package.</div>
+      </div>
+
+      <div class="social-links">
+        <a href="#" class="social-link" aria-label="Spotify">
+          <span class="social-icon">🎵</span>
+          <span class="social-label">Spotify</span>
+        </a>
+        <a href="#" class="social-link" aria-label="Instagram">
+          <span class="social-icon">📸</span>
+          <span class="social-label">Instagram</span>
+        </a>
+        <a href="#" class="social-link" aria-label="Facebook">
+          <span class="social-icon">👥</span>
+          <span class="social-label">Facebook</span>
+        </a>
+        <a href="#" class="social-link" aria-label="YouTube">
+          <span class="social-icon">▶️</span>
+          <span class="social-label">YouTube</span>
+        </a>
+        <a href="mailto:booking@relayrelaymusic.com" class="social-link" aria-label="Email">
+          <span class="social-icon">✉️</span>
+          <span class="social-label">Email</span>
+        </a>
+      </div>
+
+      <p class="footer-copy">&copy; 2025 Relay Relay. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script>
+    // Hamburger menu
+    const hamburger = document.getElementById('hamburger');
+    const mobileMenu = document.getElementById('mobile-menu');
+    hamburger.addEventListener('click', () => {
+      hamburger.classList.toggle('open');
+      mobileMenu.classList.toggle('open');
+    });
+    document.querySelectorAll('.mobile-nav-link').forEach(link => {
+      link.addEventListener('click', () => {
+        hamburger.classList.remove('open');
+        mobileMenu.classList.remove('open');
+      });
+    });
+
+    // Scroll fade-in
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12 });
+
+    document.querySelectorAll('.fade-up').forEach(el => observer.observe(el));
+  </script>
+
+</body>
+</html>
