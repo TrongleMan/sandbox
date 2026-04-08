@@ -1,0 +1,1200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Relay Relay — A Full Band Punch in a Tiny Duo Package</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    /* ── Reset & Base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: #1A1A1A;
+      color: #F5EFE0;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+    }
+    img { display: block; max-width: 100%; }
+    a { color: inherit; text-decoration: none; }
+    button { cursor: pointer; font-family: inherit; }
+
+    /* ── Layout ── */
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 2.5rem;
+    }
+
+    /* ── Shared ── */
+    .section-label {
+      font-size: 0.68rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #D4915A;
+      font-weight: 600;
+      display: block;
+      margin-bottom: 0.75rem;
+    }
+    .amber-rule {
+      width: 52px;
+      height: 2px;
+      background: #D4915A;
+    }
+    .section-header {
+      text-align: center;
+      margin-bottom: 4rem;
+    }
+    .section-header .amber-rule {
+      margin: 0 auto 1.25rem;
+    }
+    .section-header h2 {
+      font-size: clamp(2rem, 4.5vw, 2.75rem);
+    }
+    .section-header p {
+      margin-top: 0.85rem;
+      color: rgba(245,239,224,0.55);
+      font-size: 1rem;
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    h2 {
+      font-family: 'Playfair Display', serif;
+      color: #F5EFE0;
+    }
+
+    /* ── Buttons ── */
+    .btn {
+      display: inline-block;
+      padding: 0.95rem 2.4rem;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+      border: none;
+      transition: all 0.25s ease;
+    }
+    .btn-primary {
+      background: #D4915A;
+      color: #1A1A1A;
+      border: 2px solid #D4915A;
+    }
+    .btn-primary:hover {
+      background: transparent;
+      color: #D4915A;
+    }
+    .btn-outline {
+      background: transparent;
+      color: #F5EFE0;
+      border: 2px solid rgba(245,239,224,0.35);
+    }
+    .btn-outline:hover {
+      border-color: #D4915A;
+      color: #D4915A;
+    }
+
+    /* ════════════════════════════════
+       NAV
+    ════════════════════════════════ */
+    nav {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 100;
+      padding: 1.25rem 2.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: rgba(26, 10, 14, 0.88);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(212,145,90,0.18);
+      transition: background 0.3s ease;
+    }
+    .nav-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.35rem;
+      font-style: italic;
+      color: #D4915A;
+      letter-spacing: 0.015em;
+    }
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+      list-style: none;
+    }
+    .nav-links a {
+      font-size: 0.8rem;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      color: rgba(245,239,224,0.75);
+      transition: color 0.2s;
+    }
+    .nav-links a:hover { color: #D4915A; }
+    .nav-book {
+      background: #D4915A;
+      color: #1A1A1A !important;
+      padding: 0.5rem 1.25rem;
+      font-weight: 600;
+      transition: background 0.2s !important;
+    }
+    .nav-book:hover { background: #c07840 !important; color: #1A1A1A !important; }
+
+    .nav-toggle {
+      display: none;
+      flex-direction: column;
+      gap: 5px;
+      background: none;
+      border: none;
+      padding: 4px;
+    }
+    .nav-toggle span {
+      display: block;
+      width: 23px;
+      height: 2px;
+      background: #F5EFE0;
+      border-radius: 2px;
+      transition: all 0.3s;
+    }
+
+    /* ════════════════════════════════
+       HERO
+    ════════════════════════════════ */
+    #hero {
+      position: relative;
+      height: 100vh;
+      min-height: 620px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      overflow: hidden;
+    }
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      background-color: #2C1A1D;
+      background-image:
+        radial-gradient(ellipse at 25% 65%, #4d2230 0%, transparent 55%),
+        radial-gradient(ellipse at 75% 35%, #3a1e2a 0%, transparent 55%),
+        radial-gradient(ellipse at 50% 50%, #2C1A1D 0%, #140d10 100%);
+    }
+    /* Swap this src for a real photo */
+    .hero-photo {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 0.3;
+    }
+    .hero-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        160deg,
+        rgba(20, 8, 12, 0.45) 0%,
+        rgba(20, 8, 12, 0.65) 50%,
+        rgba(20, 8, 12, 0.88) 100%
+      );
+    }
+    /* SVG noise grain */
+    .hero-grain {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      opacity: 0.09;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='250' height='250'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='250' height='250' filter='url(%23n)'/%3E%3C/svg%3E");
+      background-repeat: repeat;
+    }
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      padding: 0 1.5rem;
+      max-width: 860px;
+    }
+    .hero-eyebrow {
+      display: inline-block;
+      font-size: 0.7rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #D4915A;
+      margin-bottom: 1.4rem;
+      font-weight: 500;
+    }
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(5rem, 14vw, 10rem);
+      font-weight: 900;
+      line-height: 0.9;
+      letter-spacing: -0.025em;
+      color: #F5EFE0;
+      text-shadow: 0 4px 60px rgba(0,0,0,0.6);
+      margin-bottom: 1.75rem;
+    }
+    .hero-title em {
+      display: block;
+      font-style: italic;
+      color: #D4915A;
+    }
+    .hero-tagline {
+      font-size: clamp(1rem, 2.2vw, 1.2rem);
+      color: rgba(245,239,224,0.68);
+      margin-bottom: 2.75rem;
+      font-weight: 300;
+      letter-spacing: 0.02em;
+    }
+    .hero-actions {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .hero-scroll {
+      position: absolute;
+      bottom: 2.25rem;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .hero-scroll span {
+      font-size: 0.62rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: rgba(245,239,224,0.3);
+    }
+    .scroll-line {
+      width: 1px;
+      height: 44px;
+      background: linear-gradient(to bottom, rgba(212,145,90,0.7), transparent);
+      animation: pulse-line 2.2s ease-in-out infinite;
+    }
+    @keyframes pulse-line {
+      0%, 100% { opacity: 0.35; transform: scaleY(1); }
+      50%       { opacity: 1;    transform: scaleY(1.15); }
+    }
+
+    /* ════════════════════════════════
+       ABOUT
+    ════════════════════════════════ */
+    #about {
+      background: #2C1A1D;
+      padding: 8rem 0;
+    }
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 5.5rem;
+      align-items: center;
+    }
+    .about-photo-wrap {
+      position: relative;
+    }
+    .photo-placeholder {
+      width: 100%;
+      aspect-ratio: 4/5;
+      background: linear-gradient(145deg, #3a1c22, #1f1015);
+      border-radius: 2px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.75rem;
+      color: rgba(245,239,224,0.18);
+    }
+    .photo-placeholder svg {
+      opacity: 0.4;
+    }
+    .photo-placeholder span {
+      font-size: 0.7rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+    }
+    .photo-frame {
+      position: absolute;
+      top: -14px;
+      left: -14px;
+      right: -14px;
+      bottom: -14px;
+      border: 1px solid rgba(212,145,90,0.28);
+      border-radius: 2px;
+      pointer-events: none;
+    }
+    .about-text .amber-rule { margin-bottom: 1.5rem; }
+    .about-text h2 {
+      font-size: clamp(2rem, 4vw, 2.75rem);
+      margin-bottom: 1.5rem;
+    }
+    .about-divider {
+      width: 100%;
+      height: 1px;
+      background: linear-gradient(to right, #D4915A 0%, rgba(212,145,90,0.3) 40%, transparent 100%);
+      margin: 2rem 0;
+    }
+    .about-bio {
+      color: rgba(245,239,224,0.75);
+      line-height: 1.85;
+      margin-bottom: 1.1rem;
+      font-size: 0.975rem;
+    }
+    .member-row {
+      display: flex;
+      gap: 2.5rem;
+      margin-top: 2.25rem;
+    }
+    .member-name {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.05rem;
+      font-style: italic;
+      color: #D4915A;
+    }
+    .member-role {
+      font-size: 0.72rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: rgba(245,239,224,0.4);
+      margin-top: 0.2rem;
+    }
+
+    /* ════════════════════════════════
+       WHAT WE PLAY
+    ════════════════════════════════ */
+    #what-we-play {
+      background: #1A1A1A;
+      padding: 8rem 0;
+    }
+    .genre-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+    }
+    .genre-card {
+      position: relative;
+      padding: 2.75rem 2rem 2.25rem;
+      border: 2px solid;
+      border-radius: 3px;
+      text-align: center;
+      overflow: hidden;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .genre-card::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .genre-card:hover {
+      transform: translateY(-5px) rotate(-0.4deg);
+      box-shadow: 0 24px 64px rgba(0,0,0,0.45);
+    }
+    .genre-card:hover::after { opacity: 1; }
+
+    .genre-card.motown {
+      border-color: #D4915A;
+      background: rgba(212,145,90,0.06);
+    }
+    .genre-card.motown::after {
+      background: radial-gradient(ellipse at 50% 0%, rgba(212,145,90,0.12), transparent 70%);
+    }
+    .genre-card.indie {
+      border-color: #7fa695;
+      background: rgba(127,166,149,0.06);
+    }
+    .genre-card.indie::after {
+      background: radial-gradient(ellipse at 50% 0%, rgba(127,166,149,0.12), transparent 70%);
+    }
+    .genre-card.pop {
+      border-color: #c47ba0;
+      background: rgba(196,123,160,0.06);
+    }
+    .genre-card.pop::after {
+      background: radial-gradient(ellipse at 50% 0%, rgba(196,123,160,0.12), transparent 70%);
+    }
+    .genre-emoji {
+      display: block;
+      font-size: 2.75rem;
+      margin-bottom: 1.1rem;
+      position: relative;
+      z-index: 1;
+    }
+    .genre-name {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.6rem;
+      font-weight: 700;
+      margin-bottom: 0.9rem;
+      position: relative;
+      z-index: 1;
+    }
+    .genre-card.motown .genre-name { color: #D4915A; }
+    .genre-card.indie  .genre-name { color: #7fa695; }
+    .genre-card.pop    .genre-name { color: #c47ba0; }
+    .genre-desc {
+      font-size: 0.88rem;
+      color: rgba(245,239,224,0.6);
+      line-height: 1.75;
+      position: relative;
+      z-index: 1;
+    }
+    .genre-tag {
+      display: inline-block;
+      margin-top: 1.25rem;
+      padding: 0.22rem 0.7rem;
+      border-radius: 20px;
+      font-size: 0.62rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      font-weight: 600;
+      position: relative;
+      z-index: 1;
+    }
+    .genre-card.motown .genre-tag {
+      background: rgba(212,145,90,0.15);
+      color: #D4915A;
+      border: 1px solid rgba(212,145,90,0.35);
+    }
+    .genre-card.indie .genre-tag {
+      background: rgba(127,166,149,0.15);
+      color: #7fa695;
+      border: 1px solid rgba(127,166,149,0.35);
+    }
+    .genre-card.pop .genre-tag {
+      background: rgba(196,123,160,0.15);
+      color: #c47ba0;
+      border: 1px solid rgba(196,123,160,0.35);
+    }
+
+    /* ════════════════════════════════
+       VIDEOS
+    ════════════════════════════════ */
+    #videos {
+      background: #2C1A1D;
+      padding: 8rem 0;
+    }
+    .video-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+    }
+    .video-wrap {
+      position: relative;
+      padding-bottom: 56.25%;
+      background: #1A1A1A;
+      border-radius: 2px;
+      overflow: hidden;
+      cursor: pointer;
+    }
+    .video-wrap iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+    .video-placeholder {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      background: linear-gradient(145deg, #2c1720, #1A1A1A);
+      transition: background 0.2s;
+    }
+    .video-wrap:hover .video-placeholder {
+      background: linear-gradient(145deg, #361c27, #1A1A1A);
+    }
+    .play-btn {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      border: 2px solid rgba(212,145,90,0.45);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: rgba(212,145,90,0.65);
+      transition: all 0.25s;
+    }
+    .video-wrap:hover .play-btn {
+      border-color: #D4915A;
+      color: #D4915A;
+      background: rgba(212,145,90,0.1);
+      transform: scale(1.08);
+    }
+    .video-label {
+      font-size: 0.7rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: rgba(245,239,224,0.25);
+    }
+
+    /* ════════════════════════════════
+       SHOWS
+    ════════════════════════════════ */
+    #shows {
+      background: #1A1A1A;
+      padding: 8rem 0;
+    }
+    .show-list {
+      border-top: 1px solid rgba(245,239,224,0.08);
+    }
+    .show-row {
+      display: grid;
+      grid-template-columns: 88px 1fr auto;
+      align-items: center;
+      gap: 2rem;
+      padding: 1.85rem 0;
+      border-bottom: 1px solid rgba(245,239,224,0.08);
+      transition: padding 0.2s, background 0.2s;
+    }
+    .show-row:hover {
+      padding-left: 1.25rem;
+      padding-right: 1.25rem;
+      margin: 0 -1.25rem;
+      background: rgba(212,145,90,0.04);
+    }
+    .show-date {
+      text-align: center;
+    }
+    .show-month {
+      font-size: 0.62rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: #D4915A;
+      font-weight: 600;
+    }
+    .show-day {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.25rem;
+      font-weight: 700;
+      line-height: 1;
+      color: #F5EFE0;
+    }
+    .show-year {
+      font-size: 0.62rem;
+      color: rgba(245,239,224,0.35);
+    }
+    .show-details {
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+    }
+    .show-venue {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.15rem;
+      color: #F5EFE0;
+    }
+    .show-meta {
+      font-size: 0.82rem;
+      color: rgba(245,239,224,0.45);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .show-meta::before {
+      content: '';
+      display: inline-block;
+      width: 4px;
+      height: 4px;
+      background: #D4915A;
+      border-radius: 50%;
+    }
+    .ticket-btn {
+      display: inline-block;
+      padding: 0.58rem 1.4rem;
+      font-size: 0.72rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      font-weight: 600;
+      color: #D4915A;
+      border: 1px solid rgba(212,145,90,0.45);
+      border-radius: 1px;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+    .ticket-btn:hover {
+      background: #D4915A;
+      color: #1A1A1A;
+      border-color: #D4915A;
+    }
+    .shows-footer {
+      text-align: center;
+      margin-top: 3.5rem;
+    }
+
+    /* ════════════════════════════════
+       BOOK US
+    ════════════════════════════════ */
+    #book-us {
+      background: #2C1A1D;
+      padding: 8rem 0;
+    }
+    .booking-card {
+      max-width: 700px;
+      margin: 0 auto;
+      background: #1A1A1A;
+      border: 1px solid rgba(212,145,90,0.22);
+      border-radius: 3px;
+      padding: 3.5rem 3.5rem 3rem;
+      position: relative;
+    }
+    /* Stamped label */
+    .booking-card::before {
+      content: 'VENUE RESERVATION';
+      position: absolute;
+      top: -0.65rem;
+      left: 3.5rem;
+      background: #1A1A1A;
+      padding: 0 0.85rem;
+      font-size: 0.58rem;
+      letter-spacing: 0.22em;
+      color: #D4915A;
+      font-weight: 600;
+    }
+    .booking-head {
+      text-align: center;
+      padding-bottom: 2.25rem;
+      border-bottom: 1px solid rgba(212,145,90,0.18);
+      margin-bottom: 2.25rem;
+    }
+    .booking-head h2 {
+      font-size: 1.85rem;
+      margin-bottom: 0.5rem;
+    }
+    .booking-head p {
+      font-size: 0.88rem;
+      color: rgba(245,239,224,0.5);
+    }
+    .form-group { margin-bottom: 1.4rem; }
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25rem;
+    }
+    label {
+      display: block;
+      font-size: 0.66rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: rgba(245,239,224,0.45);
+      font-weight: 500;
+      margin-bottom: 0.45rem;
+    }
+    input, select, textarea {
+      width: 100%;
+      padding: 0.85rem 1rem;
+      background: rgba(245,239,224,0.04);
+      border: 1px solid rgba(245,239,224,0.14);
+      border-radius: 2px;
+      color: #F5EFE0;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.95rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    input:focus, select:focus, textarea:focus {
+      border-color: rgba(212,145,90,0.7);
+    }
+    input::placeholder, textarea::placeholder {
+      color: rgba(245,239,224,0.2);
+    }
+    select {
+      -webkit-appearance: none;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='7' viewBox='0 0 12 7'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23D4915A' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 1rem center;
+      cursor: pointer;
+    }
+    select option { background: #1e1010; }
+    textarea {
+      resize: vertical;
+      min-height: 130px;
+      line-height: 1.65;
+    }
+    input[type="date"] { color-scheme: dark; }
+    .btn-submit {
+      width: 100%;
+      padding: 1.1rem;
+      margin-top: 0.5rem;
+      font-size: 0.82rem;
+    }
+    .form-note {
+      text-align: center;
+      margin-top: 1.1rem;
+      font-size: 0.78rem;
+      color: rgba(245,239,224,0.25);
+    }
+
+    /* ════════════════════════════════
+       FOOTER
+    ════════════════════════════════ */
+    footer {
+      background: #1A1A1A;
+      border-top: 1px solid rgba(212,145,90,0.12);
+      padding: 4rem 0 3rem;
+      text-align: center;
+    }
+    .footer-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.7rem;
+      font-style: italic;
+      color: #D4915A;
+      margin-bottom: 0.4rem;
+    }
+    .footer-sub {
+      font-size: 0.72rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: rgba(245,239,224,0.25);
+      margin-bottom: 2.25rem;
+    }
+    .social-row {
+      display: flex;
+      justify-content: center;
+      gap: 0.85rem;
+      margin-bottom: 2.5rem;
+    }
+    .social-btn {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      border: 1px solid rgba(245,239,224,0.15);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: rgba(245,239,224,0.45);
+      transition: all 0.22s;
+    }
+    .social-btn:hover {
+      border-color: #D4915A;
+      color: #D4915A;
+      background: rgba(212,145,90,0.1);
+      transform: translateY(-3px);
+    }
+    .footer-copy {
+      font-size: 0.78rem;
+      color: rgba(245,239,224,0.2);
+      letter-spacing: 0.04em;
+    }
+    .footer-copy .heart { color: rgba(212,145,90,0.55); }
+    .footer-copy .sep {
+      display: inline-block;
+      margin: 0 0.5rem;
+      opacity: 0.4;
+    }
+
+    /* ════════════════════════════════
+       RESPONSIVE
+    ════════════════════════════════ */
+    @media (max-width: 900px) {
+      .genre-grid { grid-template-columns: 1fr; max-width: 480px; margin: 0 auto; }
+    }
+    @media (max-width: 768px) {
+      .nav-links { display: none; }
+      .nav-toggle { display: flex; }
+      .nav-links.open {
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        top: 66px;
+        left: 0;
+        right: 0;
+        background: rgba(20, 8, 12, 0.98);
+        padding: 2rem 2.5rem;
+        gap: 1.5rem;
+        border-bottom: 1px solid rgba(212,145,90,0.18);
+      }
+      .nav-links.open a { font-size: 0.95rem; }
+      .wrap { padding: 0 1.5rem; }
+      #hero .wrap { padding: 0 1.5rem; }
+      .about-grid { grid-template-columns: 1fr; gap: 3rem; }
+      .about-photo-wrap { max-width: 380px; margin: 0 auto; }
+      .video-grid { grid-template-columns: 1fr; }
+      .show-row { grid-template-columns: 72px 1fr; gap: 1.25rem; }
+      .ticket-btn { display: none; }
+      .form-row { grid-template-columns: 1fr; }
+      .booking-card { padding: 2rem 1.5rem 2rem; }
+      .booking-card::before { left: 1.5rem; }
+    }
+    @media (max-width: 480px) {
+      .hero-title { font-size: 4.5rem; }
+      .hero-actions { flex-direction: column; align-items: center; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ══ NAV ══════════════════════════════════════════ -->
+  <nav id="nav">
+    <div class="nav-logo">Relay Relay</div>
+    <ul class="nav-links" id="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#what-we-play">Repertoire</a></li>
+      <li><a href="#videos">Videos</a></li>
+      <li><a href="#shows">Shows</a></li>
+      <li><a href="#book-us" class="nav-book">Book Us</a></li>
+    </ul>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <!-- ══ HERO ═════════════════════════════════════════ -->
+  <section id="hero">
+    <div class="hero-bg"></div>
+    <!-- Replace with a real band photo: -->
+    <img class="hero-photo" src="https://placehold.co/1920x1080/2C1A1D/2C1A1D" alt="Relay Relay — band photo">
+    <div class="hero-overlay"></div>
+    <div class="hero-grain"></div>
+
+    <div class="hero-content">
+      <span class="hero-eyebrow">Husband &amp; Wife &nbsp;◆&nbsp; Live Music Duo &nbsp;◆&nbsp; North Carolina</span>
+      <h1 class="hero-title">
+        Relay
+        <em>Relay</em>
+      </h1>
+      <p class="hero-tagline">A full band punch in a tiny duo package.</p>
+      <div class="hero-actions">
+        <a href="#book-us" class="btn btn-primary">Book Us</a>
+        <a href="#videos" class="btn btn-outline">Watch Us Play</a>
+      </div>
+    </div>
+
+    <div class="hero-scroll">
+      <span>Scroll</span>
+      <div class="scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- ══ ABOUT ═════════════════════════════════════════ -->
+  <section id="about">
+    <div class="wrap">
+      <div class="about-grid">
+
+        <div class="about-photo-wrap">
+          <div class="photo-placeholder">
+            <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="10" width="40" height="30" rx="2" stroke="currentColor" stroke-width="2"/>
+              <circle cx="18" cy="22" r="5" stroke="currentColor" stroke-width="2"/>
+              <path d="M4 34l10-8 8 6 8-10 14 12" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+            </svg>
+            <span>Band Photo</span>
+          </div>
+          <div class="photo-frame"></div>
+        </div>
+
+        <div class="about-text">
+          <span class="section-label">Our Story</span>
+          <div class="amber-rule" style="margin-bottom:1.5rem;"></div>
+          <h2>Two voices,<br>one sound.</h2>
+          <div class="about-divider"></div>
+          <p class="about-bio">
+            We're a husband and wife duo from North Carolina who fell in love over late-night jam sessions and never stopped playing. Relay Relay brings big-venue energy to every performance — from backyard weddings to packed club stages.
+          </p>
+          <p class="about-bio">
+            With a deep catalog spanning Motown soul, 90s indie anthems, and modern pop hits, we read the room and play what feels right. No rigid set list. Just music, connection, and a whole lot of heart.
+          </p>
+          <div class="about-divider"></div>
+          <div class="member-row">
+            <div>
+              <div class="member-name">— [Name]</div>
+              <div class="member-role">Vocals &amp; Guitar</div>
+            </div>
+            <div>
+              <div class="member-name">— [Name]</div>
+              <div class="member-role">Vocals &amp; Keys</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ WHAT WE PLAY ══════════════════════════════════ -->
+  <section id="what-we-play">
+    <div class="wrap">
+      <div class="section-header">
+        <div class="amber-rule"></div>
+        <h2>What We Play</h2>
+        <p>We keep the dance floor moving and the vibes immaculate.</p>
+      </div>
+      <div class="genre-grid">
+        <div class="genre-card motown">
+          <span class="genre-emoji">🎷</span>
+          <h3 class="genre-name">Motown</h3>
+          <p class="genre-desc">The classics that never get old. We channel the soul of Detroit — rich harmonies, deep grooves, and songs that everybody knows every word to.</p>
+          <span class="genre-tag">Soul &amp; R&amp;B</span>
+        </div>
+        <div class="genre-card indie">
+          <span class="genre-emoji">🎸</span>
+          <h3 class="genre-name">90s Indie</h3>
+          <p class="genre-desc">Hum along to your favorite decade. We strip back the anthems of the 90s to their emotional core — raw, honest, and absolutely electric.</p>
+          <span class="genre-tag">Alternative</span>
+        </div>
+        <div class="genre-card pop">
+          <span class="genre-emoji">✨</span>
+          <h3 class="genre-name">Pop Hits</h3>
+          <p class="genre-desc">From the floor-fillers to the slow jams. We cover the moments that defined eras and make rooms full of strangers feel like old friends.</p>
+          <span class="genre-tag">Contemporary Pop</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ VIDEOS ════════════════════════════════════════ -->
+  <section id="videos">
+    <div class="wrap">
+      <div class="section-header">
+        <div class="amber-rule"></div>
+        <h2>See Us Live</h2>
+        <p>Watch what happens when the two of us get on stage.</p>
+      </div>
+      <div class="video-grid">
+        <!-- Replace the placeholder divs with iframes using real YouTube embed URLs:
+             <iframe src="https://www.youtube.com/embed/VIDEO_ID" allowfullscreen></iframe>
+        -->
+        <div class="video-wrap">
+          <div class="video-placeholder">
+            <div class="play-btn">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            </div>
+            <span class="video-label">Live Performance</span>
+          </div>
+        </div>
+        <div class="video-wrap">
+          <div class="video-placeholder">
+            <div class="play-btn">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            </div>
+            <span class="video-label">Live Performance</span>
+          </div>
+        </div>
+        <div class="video-wrap">
+          <div class="video-placeholder">
+            <div class="play-btn">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            </div>
+            <span class="video-label">Live Performance</span>
+          </div>
+        </div>
+        <div class="video-wrap">
+          <div class="video-placeholder">
+            <div class="play-btn">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            </div>
+            <span class="video-label">Live Performance</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ SHOWS ═════════════════════════════════════════ -->
+  <section id="shows">
+    <div class="wrap">
+      <div class="section-header">
+        <div class="amber-rule"></div>
+        <h2>Upcoming Shows</h2>
+        <p>Come find us live. We'd love to see your face in the crowd.</p>
+      </div>
+      <div class="show-list">
+        <div class="show-row">
+          <div class="show-date">
+            <div class="show-month">Apr</div>
+            <div class="show-day">19</div>
+            <div class="show-year">2026</div>
+          </div>
+          <div class="show-details">
+            <div class="show-venue">The Venue at Mosaic</div>
+            <div class="show-meta">Raleigh, NC &nbsp;&middot;&nbsp; Doors at 7pm</div>
+          </div>
+          <a href="#" class="ticket-btn">Get Tickets</a>
+        </div>
+        <div class="show-row">
+          <div class="show-date">
+            <div class="show-month">May</div>
+            <div class="show-day">03</div>
+            <div class="show-year">2026</div>
+          </div>
+          <div class="show-details">
+            <div class="show-venue">Cardinal Brewing Co.</div>
+            <div class="show-meta">Durham, NC &nbsp;&middot;&nbsp; 6pm &mdash; Free Show</div>
+          </div>
+          <a href="#" class="ticket-btn">Free Entry</a>
+        </div>
+        <div class="show-row">
+          <div class="show-date">
+            <div class="show-month">May</div>
+            <div class="show-day">17</div>
+            <div class="show-year">2026</div>
+          </div>
+          <div class="show-details">
+            <div class="show-venue">Haw River Ballroom</div>
+            <div class="show-meta">Saxapahaw, NC &nbsp;&middot;&nbsp; 8pm</div>
+          </div>
+          <a href="#" class="ticket-btn">Get Tickets</a>
+        </div>
+        <div class="show-row">
+          <div class="show-date">
+            <div class="show-month">Jun</div>
+            <div class="show-day">07</div>
+            <div class="show-year">2026</div>
+          </div>
+          <div class="show-details">
+            <div class="show-venue">Southern Village Festival Stage</div>
+            <div class="show-meta">Chapel Hill, NC &nbsp;&middot;&nbsp; 5pm Outdoor</div>
+          </div>
+          <a href="#" class="ticket-btn">Free Entry</a>
+        </div>
+      </div>
+      <div class="shows-footer">
+        <a href="#book-us" class="btn btn-outline">Book a Private Event</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ BOOK US ════════════════════════════════════════ -->
+  <section id="book-us">
+    <div class="wrap">
+      <div class="section-header">
+        <div class="amber-rule"></div>
+        <h2>Book Us</h2>
+        <p>Weddings, corporate events, private parties &mdash; wherever the music matters.</p>
+      </div>
+      <div class="booking-card">
+        <div class="booking-head">
+          <h2>Send a Booking Inquiry</h2>
+          <p>We typically respond within 24&ndash;48 hours.</p>
+        </div>
+        <form onsubmit="handleSubmit(event)">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="name">Your Name</label>
+              <input type="text" id="name" name="name" placeholder="Jane Smith" required autocomplete="name">
+            </div>
+            <div class="form-group">
+              <label for="email">Email Address</label>
+              <input type="email" id="email" name="email" placeholder="you@example.com" required autocomplete="email">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="event-date">Event Date</label>
+              <input type="date" id="event-date" name="event-date">
+            </div>
+            <div class="form-group">
+              <label for="event-type">Event Type</label>
+              <select id="event-type" name="event-type">
+                <option value="" disabled selected>Select a type&hellip;</option>
+                <option value="wedding">Wedding</option>
+                <option value="private">Private Party</option>
+                <option value="corporate">Corporate Event</option>
+                <option value="festival">Festival / Outdoor</option>
+                <option value="bar-venue">Bar / Venue Night</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="message">Tell Us About Your Event</label>
+            <textarea id="message" name="message" placeholder="Venue, expected guest count, what you're envisioning&hellip;"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary btn-submit">Send Inquiry</button>
+          <p class="form-note">We look forward to bringing the music to your night.</p>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ FOOTER ════════════════════════════════════════ -->
+  <footer>
+    <div class="wrap">
+      <div class="footer-logo">Relay Relay</div>
+      <p class="footer-sub">Live Music Duo</p>
+      <div class="social-row">
+        <!-- Spotify -->
+        <a href="#" class="social-btn" aria-label="Spotify" title="Spotify">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
+          </svg>
+        </a>
+        <!-- Instagram -->
+        <a href="#" class="social-btn" aria-label="Instagram" title="Instagram">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/>
+          </svg>
+        </a>
+        <!-- Facebook -->
+        <a href="#" class="social-btn" aria-label="Facebook" title="Facebook">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+          </svg>
+        </a>
+        <!-- YouTube -->
+        <a href="#" class="social-btn" aria-label="YouTube" title="YouTube">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M23.498 6.186a3.016 3.016 0 00-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 00.502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 002.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 002.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+          </svg>
+        </a>
+        <!-- Email -->
+        <a href="mailto:hello@relayrelaymusic.com" class="social-btn" aria-label="Email" title="Email">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+          </svg>
+        </a>
+      </div>
+      <p class="footer-copy">
+        Made with <span class="heart">&#9829;</span> in North Carolina
+        <span class="sep">&middot;</span>
+        &copy; 2026 Relay Relay
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    // ── Mobile nav ──────────────────────────────────────
+    const toggle   = document.getElementById('nav-toggle');
+    const navLinks = document.getElementById('nav-links');
+
+    toggle.addEventListener('click', () => {
+      const isOpen = navLinks.classList.toggle('open');
+      toggle.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
+    });
+    navLinks.querySelectorAll('a').forEach(a => {
+      a.addEventListener('click', () => navLinks.classList.remove('open'));
+    });
+
+    // ── Nav opacity on scroll ───────────────────────────
+    const nav = document.getElementById('nav');
+    window.addEventListener('scroll', () => {
+      nav.style.background = window.scrollY > 60
+        ? 'rgba(16, 6, 10, 0.97)'
+        : 'rgba(26, 10, 14, 0.88)';
+    }, { passive: true });
+
+    // ── Form submission stub ────────────────────────────
+    function handleSubmit(e) {
+      e.preventDefault();
+      const btn = e.target.querySelector('button[type="submit"]');
+      btn.textContent = 'Inquiry Sent!';
+      btn.style.background = '#4a7c5e';
+      btn.style.borderColor = '#4a7c5e';
+      btn.disabled = true;
+    }
+  </script>
+
+</body>
+</html>
