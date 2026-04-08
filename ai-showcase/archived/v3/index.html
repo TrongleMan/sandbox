@@ -947,115 +947,6 @@
       line-height: 1.5;
     }
 
-    /* ── FROM PHILLIP CALLOUT ── */
-    .from-phillip {
-      background: color-mix(in srgb, var(--accent-2) 7%, var(--surface));
-      border: 1px solid color-mix(in srgb, var(--accent-2) 30%, var(--border));
-      border-radius: 12px;
-      padding: 24px 28px;
-      margin-bottom: 64px;
-      display: flex;
-      flex-direction: column;
-      gap: 14px;
-    }
-
-    .from-phillip-label {
-      font-size: 10px;
-      font-weight: 700;
-      letter-spacing: .12em;
-      text-transform: uppercase;
-      color: var(--accent-2);
-    }
-
-    .from-phillip h3 {
-      font-size: 15px;
-      font-weight: 600;
-      color: var(--text);
-      margin: 0;
-    }
-
-    .from-phillip p {
-      font-size: 13px;
-      color: var(--text-dim);
-      line-height: 1.65;
-      margin: 0;
-    }
-
-    .from-phillip .fp-row {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-      margin-top: 4px;
-    }
-
-    .fp-item {
-      background: var(--surface-2);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 12px 14px;
-      font-size: 12px;
-      color: var(--text-dim);
-      line-height: 1.55;
-    }
-
-    .fp-item strong { color: var(--text); font-size: 13px; display: block; margin-bottom: 3px; }
-
-    /* ── SAFETY CALLOUT ── */
-    .safety-callout {
-      background: color-mix(in srgb, var(--accent-3) 6%, var(--surface));
-      border: 1px solid color-mix(in srgb, var(--accent-3) 30%, var(--border));
-      border-left: 3px solid var(--accent-3);
-      border-radius: 8px;
-      padding: 16px 20px;
-      margin-top: 12px;
-      font-size: 13px;
-      color: var(--text-dim);
-      line-height: 1.65;
-    }
-
-    .safety-callout strong { color: var(--accent-3); }
-
-    /* ── CLOUD VS LOCAL ── */
-    .cloud-vs-local {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-      margin-bottom: 28px;
-    }
-
-    .cvl-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 18px 20px;
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-    }
-
-    .cvl-card h4 {
-      font-size: 13px;
-      font-weight: 600;
-      color: var(--text);
-      margin: 0;
-    }
-
-    .cvl-card .cvl-when {
-      font-size: 11px;
-      font-weight: 600;
-      letter-spacing: .08em;
-      text-transform: uppercase;
-      color: var(--text-dimmer);
-    }
-
-    .cvl-card ul {
-      font-size: 12px;
-      color: var(--text-dim);
-      padding-left: 16px;
-      line-height: 1.7;
-      margin: 0;
-    }
-
     /* ── TOOLBOX INTRO NOTE ── */
     .toolbox-note {
       background: var(--surface-2);
@@ -1196,7 +1087,6 @@
   <div class="logo">AI Cheatsheet</div>
 
   <span class="nav-section">Start Here</span>
-  <a href="#from-phillip">From Phillip</a>
   <a href="#not-coding">Not Just Coding</a>
   <a href="#limitations">Honest Limitations</a>
   <a href="#atomic">The Atomic Principle</a>
@@ -1245,27 +1135,6 @@
     <div class="hero-tag">&#x2728; Jamie's Tour</div>
     <h1>AI<br/>Cheatsheet</h1>
     <p>A tour of how AI works as an actual part of your life, not just a chatbot to ask questions. Real examples, real tools, and a path for exploring on your own.</p>
-  </div>
-
-  <!-- FROM PHILLIP -->
-  <div id="from-phillip" class="from-phillip">
-    <div class="from-phillip-label">Personal note</div>
-    <h3>Hey Jamie, here's what you have access to.</h3>
-    <p>I shared an iCloud Drive folder with you called <strong style="color:var(--text)">Vibe coding resources</strong>. That's where I'll drop files, project examples, reference docs, and anything else worth having. The HOA Greenleaf project we worked on together is already in there. Check it when you're ready, and I'll keep adding to it over time.</p>
-
-    <div class="fp-row">
-
-      <div class="fp-item">
-        <strong>Create a GitHub account</strong>
-        github.com — free, takes 2 minutes. This is where code lives on the internet. Claude Code can read from and write to GitHub repos, and you'll want one once you start saving projects. It's the version control layer behind everything.
-      </div>
-
-      <div class="fp-item">
-        <strong>Get Claude on all your devices</strong>
-        Claude.ai has a desktop app (Mac and Windows) and an iOS app. The same account works everywhere. The desktop app has voice input and can see your screen. The mobile app is good for quick questions on the go.
-      </div>
-
-    </div>
   </div>
 
   <!-- SECTION: NOT JUST CODING -->
@@ -1581,33 +1450,7 @@
       This is reference material, not required reading. Nothing here is homework. Browse when you're ready — come back when you're curious about a specific capability. The sections above this one are the real starting point.
     </div>
 
-    <div style="margin-top: 28px; margin-bottom: 16px;">
-      <div style="font-size: 13px; font-weight: 600; color: var(--text-dimmer); text-transform: uppercase; letter-spacing: .08em; margin-bottom: 12px;">Cloud Claude vs. Running AI Locally</div>
-      <div class="cloud-vs-local">
-        <div class="cvl-card">
-          <div class="cvl-when">Use Cloud Claude when&hellip;</div>
-          <h4>Claude.ai / Claude Code</h4>
-          <ul>
-            <li>You want the best results without any setup</li>
-            <li>You're working with non-sensitive content</li>
-            <li>You need file editing, web browsing, or long context</li>
-            <li>This covers 90% of use cases</li>
-          </ul>
-        </div>
-        <div class="cvl-card">
-          <div class="cvl-when">Use Local AI when&hellip;</div>
-          <h4>Ollama + LM Studio</h4>
-          <ul>
-            <li>The document contains sensitive or private information</li>
-            <li>You want zero data leaving your machine</li>
-            <li>You're offline or want no API costs</li>
-            <li>Good enough, but not as capable as Claude yet</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-
-    <div style="font-size: 18px; font-weight: 700; letter-spacing: -.01em; margin-bottom: 8px;">Local AI Infrastructure</div>
+    <div style="margin-top: 32px; font-size: 18px; font-weight: 700; letter-spacing: -.01em; margin-bottom: 8px;">Local AI Infrastructure</div>
     <p class="section-desc">Run models on your own hardware. Nothing leaves the device.</p>
 
     <div class="tool-category">
@@ -1661,11 +1504,7 @@
           <span class="tool-badge badge-new">Primary</span>
         </div>
         <div class="tool-desc">Terminal-first AI coding agent. Reads the whole codebase, writes and edits files, runs commands, works across multiple files simultaneously. Not a chat with copy-paste — an agent with real file access.</div>
-        <div class="tool-desc" style="margin-top: 8px;"><strong style="color:var(--text)">How Phillip uses it:</strong> Primarily in VS Code with the Claude Code extension — the side panel stays open, and you can see diffs of every change before approving. Also works in Cursor, JetBrains IDEs, or directly in the terminal if you prefer that.</div>
         <div class="tool-showcase"><strong>Showcase angle:</strong> Use the prompts in Part 4. Point it at a messy folder. Watch it restructure everything.</div>
-        <div class="safety-callout">
-          <strong>Before you click Accept All:</strong> Claude Code has real file access. It can delete files, move things, rewrite code. It's powerful precisely because it's not just a chat. That also means it's worth reading what it plans to do before letting it go. Most of the time it's fine. Occasionally it'll misunderstand the scope and do more than you meant. The habit to build: ask it to show you a plan first, review it, then say go. Never just accept changes to files you haven't looked at.
-        </div>
       </div>
 
       <div class="tool-card">
