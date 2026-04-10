@@ -52,7 +52,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 38: Iran Rejects Islamabad Accord, Markets Freefall, Maduro Captured, PNW Heat Dome Record",
       "generated_at": "2026-04-07T20:00:00-07:00"
+    },
+    {
+      "id": "2026-04-10-evening",
+      "date": "2026-04-10",
+      "session": "evening",
+      "file": "reports/2026-04-10-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 41: Ceasefire Agreed but Contested, Strait Still Closed, Vance to Pakistan Saturday",
+      "generated_at": "2026-04-10T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-04-07T20:00:00-07:00"
+  "last_updated": "2026-04-10T20:00:00-07:00"
 }
