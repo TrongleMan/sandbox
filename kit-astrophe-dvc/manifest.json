@@ -54,6 +54,16 @@
       "generated_at": "2026-04-07T20:00:00-07:00"
     },
     {
+      "id": "2026-04-10-morning",
+      "date": "2026-04-10",
+      "session": "morning",
+      "file": "reports/2026-04-10-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Vance Airborne to Islamabad; Trump Attacks Iran's 'Dishonorable' Hormuz Non-Compliance; Day 41",
+      "generated_at": "2026-04-10T07:00:00-07:00"
+    },
+    {
       "id": "2026-04-10-evening",
       "date": "2026-04-10",
       "session": "evening",
@@ -64,5 +74,5 @@
       "generated_at": "2026-04-10T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-04-10T20:00:00-07:00"
+  "last_updated": "2026-04-10T07:00:00-07:00"
 }
