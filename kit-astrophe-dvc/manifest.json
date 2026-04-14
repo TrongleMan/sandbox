@@ -72,7 +72,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 41: Ceasefire Agreed but Contested, Strait Still Closed, Vance to Pakistan Saturday",
       "generated_at": "2026-04-10T20:00:00-07:00"
+    },
+    {
+      "id": "2026-04-14-evening",
+      "date": "2026-04-14",
+      "session": "evening",
+      "file": "reports/2026-04-14-evening.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 45: Ceasefire Dead, Naval Blockade Active, Oil at $99, Strikes Under Review",
+      "generated_at": "2026-04-14T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-04-10T07:00:00-07:00"
+  "last_updated": "2026-04-14T20:00:00-07:00"
 }

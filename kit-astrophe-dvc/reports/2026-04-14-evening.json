@@ -1,0 +1,182 @@
+{
+  "report_id": "2026-04-14-evening",
+  "generated_at": "2026-04-14T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "The ceasefire is gone. After four days of contested limbo, the Islamabad talks collapsed Saturday April 12 — Vance couldn't move Iran off its refusal to commit on nuclear red lines, Hormuz tolls, or militant funding. Sunday April 13, the US naval blockade of Iranian ports took effect. Oil crossed $99/barrel. The White House is reviewing options for limited strikes. The one flicker tonight: Trump told reporters he was 'called by the right people' in Iran, and stocks bounced sharply late Monday on that alone. It is a thin reed. Day 45 of the Hormuz closure. The DHS partial shutdown hit Day 53 before the House returned April 13 and voted on the Senate's partial deal — resolution not yet finalized. DOGE clock is at 81 days to July 4. PNW snowpack is the lowest ever recorded statewide in Oregon; Washington is in its fourth consecutive drought year. The naval blockade is a structural escalation from the failed ceasefire: it forecloses easy diplomatic off-ramps and puts the US and Iran into active maritime confrontation. Vibe is 2.",
+  "vibe": {
+    "score": 2,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Hard downgrade from April 10's vibe-3. The ceasefire architecture that justified a 3 has collapsed. Both conditions that could sustain a 3 — a functioning ceasefire framework and Vance talks as a diplomatic pivot — have failed. The US naval blockade of Iranian ports took effect April 13, placing US and Iranian forces in active maritime confrontation for the first time. Oil is at $99/barrel. The White House is reviewing limited strike options. The sole upside signal is Trump's April 14 statement that he was 'called by the right people' in Iran and late-session equity bounce — insufficient to move above 2 without a concrete diplomatic resumption. Hormuz Day 45 with no pathway to reopening currently in sight."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "The US-Iran ceasefire is dead. The Islamabad talks collapsed April 12 after Iran refused US red lines: end all uranium enrichment, dismantle major enrichment facilities, surrender highly enriched uranium stockpiles, cut off funding to regional militant groups, and fully re-open the Strait of Hormuz without tolls. The US naval blockade of Iranian ports took effect Monday April 13. Trump is reviewing options for limited military strikes to 'break the stalemate.' The sole diplomatic signal tonight is Trump telling reporters he was 'called by the right people in Iran' — markets bounced on this alone. Day 45 of the Hormuz closure. The Lebanon-Israel dimension remains active and was cited by Iran as a justification for walking from the table.",
+      "items": [
+        {
+          "headline": "Islamabad Talks Collapse April 12; Vance Says Iran Refused All Nuclear and Hormuz Red Lines",
+          "summary": "Vice President Vance's delegation in Islamabad failed to reach agreement after a full day of negotiations. US red lines that Iran would not accept: cessation of all uranium enrichment; dismantlement of major enrichment facilities; surrender of highly enriched uranium stockpiles; end to funding for Hezbollah, Houthi, and other regional proxies; and full re-opening of the Strait of Hormuz without passage tolls. Vance announced the collapse Sunday and said Iran failed to provide 'an affirmative commitment that they will not seek a nuclear weapon.' Iran's foreign ministry characterized US demands as maximalist and incompatible with Iranian sovereignty.",
+          "significance": "CRITICAL",
+          "actors": ["JD Vance", "Iran FM Abbas Araghchi", "Pakistan", "Trump administration", "US Fifth Fleet"]
+        },
+        {
+          "headline": "US Naval Blockade of Iranian Ports Takes Effect April 13 — Hormuz Day 44/45; Strikes Under Review",
+          "summary": "Following the Islamabad collapse, Trump authorized a US naval blockade of Iranian ports in the Strait of Hormuz and Persian Gulf, which took effect Monday April 13. The blockade positions US naval assets to interdict Iranian-flagged and Iranian-destined commercial traffic — escalating from a passive posture during the 44-day standoff to active maritime confrontation. The White House confirmed Trump is reviewing options for limited military strikes on Iran to 'break the stalemate in peace talks.' This is the first formal US offensive posture in the 45-day crisis. Trump on April 14 told reporters he was 'called by the right people in Iran' — stoking market optimism and talk of a third round of talks, but no formal diplomatic channel has been confirmed.",
+          "significance": "CRITICAL",
+          "actors": ["US Fifth Fleet", "Donald Trump", "Iran IRGC Navy", "JD Vance", "US National Security Council", "international shipping operators"]
+        },
+        {
+          "headline": "Lebanon-Israel Strikes: Persistent Fault Line in Any Future Negotiation",
+          "summary": "Israel's continued airstrikes on Lebanon were cited by Iranian negotiators at Islamabad as evidence of bad faith and as a justification for walking away from US red lines. The US has maintained that Lebanon operations are outside the scope of any US-Iran framework; Iran disputes this. The Lebanon dimension was the primary technical fault line in the ceasefire from April 8 onward and remains unresolved. Any new negotiating round will need to address this explicitly or the same collapse dynamic will repeat.",
+          "significance": "HIGH",
+          "actors": ["Israel", "Hezbollah", "Iran", "US State Department", "Pakistan", "UN Security Council"]
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Oil prices are near $100/barrel — Brent at $99.36, WTI at $99.08 — driven by the talk collapse and naval blockade announcement. Markets wobbled sharply Monday before partially recovering late session on Trump's 'called by the right people' Iran signal. The broader tariff-inflation complex is deepening: Fed Governor Waller argued April 14 that tariff-driven inflation may be transitory; Powell has acknowledged stagflation risk publicly. Businesses are beginning to pass tariff costs to consumers — the share absorbed by producers may fall from ~80% to ~20% — with a 2.7% inflation reading now the baseline forecast for 2026. A $100 oil environment compounds this: energy feeds directly into CPI and supply-chain costs across all goods sectors.",
+      "items": [
+        {
+          "headline": "Oil Near $100: Brent $99.36, WTI $99.08 as Naval Blockade Takes Effect; Energy Analysts Warn of Worsened Global Crisis",
+          "summary": "Crude oil surged to near-$100 levels Monday as the US announced and then implemented a naval blockade of Iranian ports. Brent for June delivery settled at $99.36/barrel (up ~4% on the session); WTI for May delivery settled at $99.08 (up ~2%). Wholesale gasoline added 2%; heating oil (jet fuel proxy) jumped 4%. Al Jazeera and Bloomberg analysis cited by energy market participants warns the blockade compounds rather than resolves the Hormuz supply disruption: Iran produces roughly 3–4 million barrels per day and the closure of the Strait has already idled 150+ tankers. A sustained $100 oil environment would add 0.3–0.5 percentage points to US core PCE, per Fed internal estimates.",
+          "significance": "CRITICAL",
+          "actors": ["Brent crude", "WTI crude", "IEA", "OPEC+", "Fed", "US consumers", "global supply chains"],
+          "metrics": {
+            "brent_price_usd": 99.36,
+            "wti_price_usd": 99.08,
+            "brent_daily_change_pct": 4.0,
+            "wti_daily_change_pct": 2.0,
+            "hormuz_tankers_anchored_offshore": "150+"
+          }
+        },
+        {
+          "headline": "Fed Divides on Tariff Inflation: Waller Says Transitory, Powell Flags Stagflation Risk; Consumer Pass-Through Accelerating",
+          "summary": "Federal Reserve Governor Christopher Waller said April 14 that tariff-driven inflation may prove transitory — consistent with his longstanding view that one-time price level adjustments need not become entrenched. Chairman Powell's recent public comments have been notably more cautious, flagging 'growing stagflation risk' and his obligation to keep long-run inflation expectations anchored. The practical concern: businesses are accelerating the pass-through of tariff costs to consumers — the share of tariff burden absorbed by producers may fall from ~80% currently to ~20% by year-end. The 2026 inflation baseline forecast has moved to 2.7%. A $100 oil environment on top of tariff pass-through creates a compounding price shock.",
+          "significance": "HIGH",
+          "actors": ["Jerome Powell", "Fed Governor Waller", "Federal Reserve Board", "US consumers", "US manufacturers"],
+          "metrics": {
+            "inflation_forecast_2026_pct": 2.7,
+            "us_recession_probability_pct_goldman": 45,
+            "global_recession_probability_pct_jpm": 60,
+            "producer_tariff_absorption_current_pct": 80,
+            "producer_tariff_absorption_projected_yearend_pct": 20
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "The US naval blockade of Iranian ports, combined with continued Hormuz closure, is being assessed by energy analysts as a worsening of the global energy crisis rather than a resolution — prolonging supply chain uncertainty for fuel-dependent infrastructure and logistics. The SPARK program ($1.9B grid reconductoring) has its full-application deadline May 20; FERC's major grid interconnection rulemaking is due April 30. The structural demand-supply gap for electricity — 22–30 GW of data center demand against 6–12 GW of new supply — continues to drive deferred plant retirements and transmission bottleneck debates. The $578B infrastructure investment gap by 2033 is being cited in congressional budget deliberations.",
+      "items": [
+        {
+          "headline": "Naval Blockade Worsens Global Energy Supply Outlook; Fuel Price Shock Feeds Infrastructure and Logistics Costs",
+          "summary": "Energy market analysts at Al Jazeera, Bloomberg, and S&P Global warn that the US naval blockade of Iranian ports is likely to worsen rather than resolve the global energy crisis. The Hormuz closure has already disrupted roughly 20% of global oil shipments for 45 days; the blockade adds legal and operational uncertainty to tanker operations in the entire Persian Gulf region. Brent near $100 directly inflates fuel costs across road, rail, and aviation logistics — compressing construction and materials transport margins and making grid and infrastructure buildout more expensive in real terms.",
+          "significance": "HIGH",
+          "actors": ["IEA", "OPEC+", "US Navy", "global tanker operators", "infrastructure contractors", "DOE"]
+        },
+        {
+          "headline": "SPARK Grid Program: Full Applications Due May 20; FERC Rulemaking Deadline April 30",
+          "summary": "The DOE SPARK program ($1.9B for grid reconductoring and advanced transmission) has concept papers submitted April 2; full applications due May 20. FERC's grid interconnection rulemaking deadline is April 30 — a two-week window with Congress also wrestling with Iran war authorization and DHS shutdown resolution. Industry stakeholders have flagged the 2,600 GW interconnection backlog and the structural timing mismatch: data centers can be built in 2–3 years; new transmission takes 7+ years. The projected $578B investment gap by 2033 is moving into congressional appropriations deliberations, though near-term bandwidth is consumed by the Iran crisis.",
+          "significance": "MEDIUM",
+          "actors": ["DOE Office of Electricity", "FERC", "utilities", "AI/data center developers", "Congress"],
+          "metrics": {
+            "spark_program_funding_billions": 1.9,
+            "spark_full_application_deadline": "2026-05-20",
+            "ferc_rulemaking_deadline": "2026-04-30",
+            "interconnection_queue_gw": 2600,
+            "infrastructure_investment_gap_billions_by_2033": 578,
+            "data_center_new_demand_gw_low": 22,
+            "data_center_new_demand_gw_high": 30,
+            "expected_new_supply_gw_low": 6,
+            "expected_new_supply_gw_high": 12
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "The DHS partial shutdown reached Day 53 before the House returned April 13. The Senate passed a bipartisan partial deal funding all DHS agencies except ICE and CBP; the House voted April 13 as part of Congress's packed return agenda — also including Iran war authorization debates and expulsion votes for Reps. Swalwell and Gonzales. Final resolution is pending presidential signature. DOGE expiration is 81 days out (July 4). Trump's review of military strike options against Iran is dominating the domestic political environment — Iran war authorization, War Powers Act compliance, and congressional oversight are all live.",
+      "items": [
+        {
+          "headline": "DHS Shutdown Day 53: House Voted April 13 on Senate Deal; Resolution Pending Signature; Iran War Powers Looms",
+          "summary": "The DHS partial shutdown reached Day 53 as the House returned from spring break April 13. The Senate previously passed a bipartisan compromise providing full-year FY2026 appropriations for all DHS agencies except ICE and CBP — leaving those negotiations to future legislation while authorizing back pay for shutdown-affected workers. The House voted April 13 on the deal; final resolution is pending reconciliation and presidential signature. Congress returned simultaneously to a packed agenda: Iran war authorization and War Powers Act compliance have become an immediate constitutional confrontation now that a US naval blockade is active.",
+          "significance": "HIGH",
+          "actors": ["DHS", "Congress", "Trump administration", "CBP", "TSA", "USCG", "ICE", "federal workforce"],
+          "metrics": {
+            "shutdown_duration_days": 53,
+            "record_status": "longest partial shutdown on record",
+            "senate_deal_scope": "all DHS agencies except ICE/CBP"
+          }
+        },
+        {
+          "headline": "Iran War Powers Confrontation Now Live; Trump Reviews Limited Strike Options; DOGE at 81 Days to Expiration",
+          "summary": "Trump's confirmation that he is reviewing options for limited military strikes on Iran — following the Islamabad collapse and naval blockade activation — has triggered War Powers Act compliance questions in Congress. House leadership has not yet indicated whether it will seek a formal Authorization for Use of Military Force (AUMF) or invoke the War Powers clock. DOGE expiration remains July 4, 2026 — 81 days from today — with no reconstitution plan in place for the ~300,000 eliminated positions. The FY2027 budget's $1.5 trillion defense request, already controversial, gains new political salience in a near-war environment.",
+          "significance": "HIGH",
+          "actors": ["Trump administration", "Congress", "War Powers Act", "DOGE", "OMB", "US military", "Senate Armed Services Committee"],
+          "metrics": {
+            "doge_days_to_expiration": 81,
+            "doge_expiration_date": "2026-07-04",
+            "estimated_positions_cut": 300000,
+            "proposed_fy2027_defense_budget_trillions": 1.5
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Oregon's snowpack is now the lowest ever recorded statewide. Washington is in its fourth consecutive year of drought declaration. A cool, wet system in early April provided temporary relief and supported spring green-up, but soil moisture deficits and streamflow levels remain critically below baseline. NIFC's April 1 monthly fire outlook projects elevated wildfire risk for the PNW in July. The University of Washington's Climate Lab is actively assessing compound drought impacts. Energy cost pass-through from $100 oil adds economic stress to agricultural operations already managing water scarcity.",
+      "items": [
+        {
+          "headline": "Oregon Snowpack Lowest Ever Recorded Statewide; Washington in Fourth Consecutive Drought Year",
+          "summary": "Oregon's snowpack has fallen to its lowest level ever recorded statewide — dropping below the previous record set in 2015. Washington and Idaho snowpack readings are also far below average. This is Washington's fourth consecutive year with a drought declaration in at least some part of the state. The percentage of the US landscape facing the worst drought conditions increased from 2% to 15% between January and March 2026 — a system-wide signal. Eastern Oregon water managers in the Klamath, Deschutes, and Grande Ronde basins are operating under emergency water management protocols declared March 31.",
+          "significance": "HIGH",
+          "actors": ["Governor Tina Kotek", "Oregon Water Resources Department", "NOAA", "Washington Dept of Ecology", "Klamath/Deschutes/Grande Ronde water managers"]
+        },
+        {
+          "headline": "NIFC April Fire Outlook: Elevated PNW Risk in July; Short-Term Cool/Wet Relief Now Fading",
+          "summary": "NIFC's April 1 monthly and seasonal fire outlook projects elevated wildfire risk in the Pacific Northwest for July 2026, consistent with NOAA's April climate outlook. A cool and slow-moving wet system in early April provided short-term relief and supported spring green-up — buying time but not altering the structural deficit. As that system exits, soil moisture deficits, low streamflow, and parched vegetation will reassert. The 2015 analog remains the dominant reference frame among fire ecologists: that year produced over 1 million acres burned in Oregon. Agricultural operations also face compounding stress from water scarcity layered on top of $100 oil-driven fuel and input cost increases.",
+          "significance": "HIGH",
+          "actors": ["NIFC/NWCC", "ODF", "USFS", "BLM", "OR/WA emergency management", "NOAA", "UW Climate Lab"]
+        }
+      ]
+    }
+  },
+  "analyst_summary": "April 14, 2026: The ceasefire scaffolding that earned April 10 a vibe-3 is gone. Four days after that brief, the Islamabad talks collapsed (April 12), a US naval blockade of Iranian ports took effect (April 13), and the White House confirmed it is reviewing options for limited military strikes. Oil is at $99/barrel. The situation has structurally deteriorated: the ceasefire was contested but it was a framework; the blockade is an active confrontation with no equivalent diplomatic architecture. The one signal preventing a vibe-1 is Trump's April 14 statement that he was 'called by the right people in Iran' — markets bounced sharply on this alone, suggesting the diplomatic window has not fully closed, but no formal channel is confirmed. Day 45 of the Hormuz closure. The domestic stack continues to compound: DHS shutdown at Day 53 with a resolution vote April 13 that is pending final signature, War Powers confrontation now live as Trump reviews strike options, DOGE expiration at 81 days, and the FY2027 $1.5T defense budget fight now politically supercharged. The PNW is in genuine structural drought — Oregon snowpack lowest ever recorded, fourth consecutive drought year in Washington — with a cool April buying temporary reprieve on wildfire risk but not altering the July outlook. Vibe is 2: a naval blockade is active, oil is near $100, limited strikes are under review, and the diplomatic path that existed a week ago is not currently present.",
+  "watch_items": [
+    "Iran back-channel: who called Trump, and will a third round of talks be confirmed before the naval blockade produces an incident",
+    "US limited strikes decision: any authorized kinetic action against Iran would immediately trigger a vibe-1 reassessment",
+    "Oil price crossing $100/barrel: a sustained breach would add material pressure to inflation and Fed policy",
+    "War Powers Act clock: has Congress been formally notified; 60-day clock implications",
+    "DHS shutdown final resolution: presidential signature on House-Senate deal; or does the Iran crisis scramble floor priorities",
+    "FERC grid interconnection rulemaking: April 30 deadline; will Iran bandwidth displace regulatory calendar",
+    "PNW April precipitation: remaining April rain events are the last meaningful opportunity to reduce July wildfire risk trajectory"
+  ],
+  "sources": [
+    "Time - U.S. and Iran Fail To Reach Deal on Ending War After Marathon Talks (Apr 11 2026)",
+    "NPR - The U.S. military says it will blockade Iranian ports as Iran peace talks collapse (Apr 12 2026)",
+    "CBS News Live Updates - Trump warns Iran as US military blockade on Iranian ports takes effect (Apr 13 2026)",
+    "CNN Live - Trump warns Iran as US military blockade on Iranian ports takes effect (Apr 13 2026)",
+    "Bloomberg - Trump Begins Hormuz Blockade Even as US, Iran Eye More Talks (Apr 13 2026)",
+    "CNBC - Oil prices near $100 as U.S. Navy blockades Iran's ports after peace talks fail (Apr 12 2026)",
+    "NBC News - Oil prices surge after Trump says U.S. will blockade the Strait of Hormuz (Apr 13 2026)",
+    "CNN Business - Oil prices jump on US plans to blockade Iranian ports in Strait of Hormuz (Apr 13 2026)",
+    "The Hill - Oil prices surge above $100 as US Navy to blockade Iran's ports after peace talks fail",
+    "Axios - Oil prices surge on Trump's blockade vow, failed U.S.-Iran talks (Apr 12 2026)",
+    "Bloomberg - Oil Rallies as US Vow to Blockade Iran Heightens Supply Risks (Apr 12 2026)",
+    "Al Jazeera - US blockade of Iran would worsen global energy crisis, analysts say (Apr 13 2026)",
+    "CNN Business - Why Trump is threatening to blockade a strait that Iran is already blockading (Apr 12 2026)",
+    "Wikipedia - 2026 Iran war ceasefire",
+    "Wikipedia - 2026 Iran war",
+    "JP Morgan Global Research - US Tariffs: What's the Impact?",
+    "San Francisco Fed - Effects of Tariffs on the Components of Inflation (Mar 2026)",
+    "Deloitte - US Economic Forecast Q1 2026",
+    "CBS News - DHS funding bill passes House, but shutdown drags on as Senate approves its own plan",
+    "NPR - Republicans in Congress say they have a deal to end the record-long shutdown at DHS (Apr 1 2026)",
+    "CBS News - Congress returns to grapple with Iran war, DHS shutdown, expulsion votes (Apr 13 2026)",
+    "DOE - Energy Department Announces $1.9B Investment in Critical Grid Infrastructure (SPARK program)",
+    "Mintz - Washington Update: Sustainable Energy & Infrastructure April 2026 (Apr 2 2026)",
+    "MONDAQ / Sustainable Energy & Infrastructure Connections - April 2026",
+    "OPB - Forecasters predict, prepare for increased drought and wildfire risk in Oregon (Apr 9 2026)",
+    "Oregon Capital Chronicle - Forecasters predict, prepare for increased drought and wildfire risk (Apr 6 2026)",
+    "NIFC - National Drought Status, Seasonal Drought Outlook, and Significant Fire Outlook (Apr 1 2026)",
+    "USFS PNW - Seasonal Drought Outlook April 2026",
+    "UW Climate Lab - Climate Matters: Assessing Drought Impacts (Apr 8 2026)",
+    "PNWAG - Drought Conditions Spark Fears Of Severe Wildfires This Summer In The Northwest 2026"
+  ]
+}
