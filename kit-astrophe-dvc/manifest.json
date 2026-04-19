@@ -82,7 +82,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 45: Ceasefire Dead, Naval Blockade Active, Oil at $99, Strikes Under Review",
       "generated_at": "2026-04-14T20:00:00-07:00"
+    },
+    {
+      "id": "2026-04-19-evening",
+      "date": "2026-04-19",
+      "session": "evening",
+      "file": "reports/2026-04-19-evening.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 50: Iran Cyber Attacks Active on US Infrastructure, Ukraine May Financing Cliff, Forest Service Cuts PNW Fire Science",
+      "generated_at": "2026-04-19T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-04-14T20:00:00-07:00"
+  "last_updated": "2026-04-19T20:00:00-07:00"
 }
