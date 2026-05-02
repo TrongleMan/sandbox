@@ -1,0 +1,239 @@
+{
+  "report_id": "2026-05-02-morning",
+  "generated_at": "2026-05-02T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 63; Naval Blockade Day 20. Three developments sharpen the picture heading into a consequential week. First: Iran's new Supreme Leader Mojtaba Khamenei — installed following the February strikes — has hardened publicly, vowing not to relinquish nuclear or missile programs and signaling Tehran will retain Hormuz control regardless of negotiations. This constrains Iranian negotiators' flexibility precisely while a Strait-for-blockade proposal sits on the table; a new leader consolidating domestic standing by signaling toughness is not the same as rejecting diplomacy outright, but it narrows the deal space and extends the timeline. Trump has publicly declared dissatisfaction: 'They want to make a deal but I'm not satisfied with it.' The UAE — a critical Gulf stakeholder — said publicly that Iran cannot be trusted over the Strait, adding Arab skepticism to the mix. Second: the FOMC held at 3.5–3.75% in an 8-4 decision on April 29, the highest FOMC dissent in more than 30 years, and Jerome Powell confirmed this as his final press conference as Chair. His term expires May 15. Kevin Warsh's Senate confirmation vote is expected the week of May 11. The Fed is navigating a chairman transition with fractured committee cohesion and PCE at 3.5% as the incoming benchmark — an institutional handoff under duress. Third: Reconciliation 2.0, targeting $140B for ICE/CBP enforcement, is on a floor-vote-May-11, desk-by-June-1 timeline — compressing directly against the Warsh confirmation in the same legislative window. The week ahead (Senate returns May 11) is structurally dense. Vibe moves to 3 from 2 on no new kinetics and a living diplomatic channel — not because underlying conditions improved.",
+  "vibe": {
+    "score": 3,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 3, up one from 2 at yesterday's evening brief. The morning gets 3 rather than 2 on three narrow grounds: no new kinetics overnight, the Iran diplomatic channel is structurally intact (proposal on the table, US evaluating), and this week's calendar — Warsh confirmation, Reconciliation 2.0 floor vote, DOGE expiration countdown — represents process-normal legislative activity rather than escalation. However, the underlying structural deterioration is unchanged and in some respects sharpening: new supreme leader Khamenei hardening publicly limits negotiating flexibility; the FOMC's 8-4 dissent and Powell handoff to Warsh create institutional uncertainty at the Fed just as inflation is accelerating; PCE at 3.5% with GDP at 2.0% is stagflation in concurrent data; the War Powers breach is constitutional, not transient. A resumption of hostilities, a Warsh confirmation failure, or a May CPI/PCE surprise would push this to 2 or below immediately."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 63; Naval Blockade Day 20. Iran's new Supreme Leader Mojtaba Khamenei hardened his public posture overnight, vowing no concessions on nuclear or missile programs and signaling Tehran will retain control of the Strait. Trump publicly expressed dissatisfaction with Iran's proposal ('They want to make a deal but I'm not satisfied with it'). The UAE stated Iran cannot be trusted over the Strait. The diplomatic channel remains technically active — Iran's Strait-for-blockade proposal is under US evaluation — but the sequencing deadlock and Khamenei's consolidation posture extend any resolution timeline. The War Powers 60-day clock expired May 1 with no congressional check.",
+      "items": [
+        {
+          "headline": "Iran's New Supreme Leader Khamenei Hardens: No Nuclear or Missile Concessions, Hormuz Stays Closed",
+          "summary": "Mojtaba Khamenei, Iran's new Supreme Leader installed following the February US-Israel strikes, issued his clearest public statement to date: Iran will not relinquish its nuclear or missile technologies, and Tehran will retain control of the Strait of Hormuz. The statement complicates the active diplomatic channel — Iran submitted a Strait-for-blockade proposal to the US around May 1, currently under US evaluation — because a new leader signaling domestic toughness publicly narrows the flexibility of Iranian negotiators. Trump responded by expressing public dissatisfaction with the proposal: 'They want to make a deal but I'm not satisfied with it.' The administration's core objection remains unchanged: Iran's proposal defers nuclear negotiations, and Trump will not lift the blockade without a nuclear commitment. The deadlock is structural on both sides.",
+          "significance": "HIGH",
+          "actors": ["Mojtaba Khamenei", "Donald Trump", "Iran Foreign Ministry", "Marco Rubio", "Oman back-channel", "Pakistan mediator"]
+        },
+        {
+          "headline": "UAE Declares Iran Cannot Be Trusted Over Hormuz; Trump Signals Troop Withdrawal from Spain and Italy",
+          "summary": "The United Arab Emirates stated publicly that Iran cannot be trusted to honor any Strait of Hormuz reopening commitment — a significant signal from a Gulf Arab stakeholder whose own port infrastructure depends on Hormuz traffic. UAE skepticism adds a regional stakeholder dimension to the diplomatic impasse: even states with aligned interests in Hormuz reopening are not lobbying for a quick deal that benefits Tehran. Separately, Trump signaled he may withdraw US troops stationed in Spain and Italy, per Irish Times May 1 live reporting — a transatlantic friction signal that has not yet been formally confirmed by the Defense Department but reflects continued pressure on NATO posture amid the Iran operation's resource demands.",
+          "significance": "MEDIUM",
+          "actors": ["UAE", "Donald Trump", "NATO", "Spain", "Italy", "US Fifth Fleet"],
+          "context": "UAE public skepticism on Iranian reliability raises the political cost for any US administration that accepts a Strait-first deal without nuclear components, even if the economics of Hormuz reopening favor movement."
+        },
+        {
+          "headline": "War Powers 60-Day Clock Expired May 1; Administration Claims 'Ceasefire Pauses Clock'; Sixth Senate Resolution Failed 47-50",
+          "summary": "The War Powers Resolution 60-day limit expired May 1 with no AUMF, no withdrawal, and the Senate failing a war powers resolution for the sixth time (47-50). Defense Secretary Hegseth's 'ceasefire pauses the clock' legal claim has no statutory basis and is expected to face judicial challenge. Senator Collins (R-ME) crossed party lines for the first time; Rand Paul also voted yes; Senator Fetterman (D-PA) remained the lone Democratic no. The administration is operating military hostilities against Iran past the statutory deadline. See yesterday's evening brief for full detail.",
+          "significance": "CRITICAL",
+          "actors": ["Trump administration", "Pete Hegseth", "Susan Collins", "Rand Paul", "John Fetterman", "Senate"],
+          "metrics": {
+            "war_powers_vote": "47-50",
+            "war_powers_resolution_attempts": 6,
+            "days_of_iran_hostilities": 63
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "The April 29 FOMC meeting produced a 3.5–3.75% hold with a historically unusual 8-4 dissent vote — and Jerome Powell confirmed it was his final press conference as Fed Chair. His term expires May 15; Warsh confirmation expected the week of May 11. The Fed transition is occurring against stagflation data: Q1 GDP at 2.0% below consensus, March PCE at 3.5%, gas at $4.30/gallon. Tariff transmission into goods prices is documented by the San Francisco Fed (core goods PCE up 3.1% through February). The IEEPA tariff constitutionality case at SCOTUS is pending, with a ruling expected in coming weeks.",
+      "items": [
+        {
+          "headline": "FOMC April 29: 8-4 Hold at 3.5–3.75%; Powell Confirms Final Press Conference; Warsh Confirmation Week of May 11",
+          "summary": "The Federal Reserve held its benchmark rate at 3.5–3.75% in a 4-1 split on April 29 — the actual split produces an 8-4 decision by total committee representation, the highest level of dissent in more than 30 years. Fed Governor Stephen Miran dissented in favor of a rate cut; other dissenters are reported to have favored holding or tightening given the accelerating PCE print. Jerome Powell confirmed this was his final press conference as Federal Reserve Chair; his term expires May 15, 2026. The full Senate is expected to vote on Kevin Warsh's confirmation the week of May 11, after the Senate returns from recess. Warsh inherits a Fed with a fractured committee, PCE at 3.5%, and GDP at 2.0% — a stagflation combination with no clean policy response. A rate cut would validate inflation hawks' criticism; a rate hike would further suppress already-below-consensus growth.",
+          "significance": "HIGH",
+          "actors": ["Jerome Powell", "Kevin Warsh", "Stephen Miran", "FOMC", "US Senate", "Trump administration"],
+          "metrics": {
+            "fomc_vote": "8-4",
+            "fed_funds_rate_range": "3.50-3.75",
+            "powell_term_end": "2026-05-15",
+            "warsh_confirmation_target_week": "2026-05-11",
+            "fomc_dissent_note": "highest dissent count in 30+ years"
+          }
+        },
+        {
+          "headline": "Tariff Transmission Documented: Core Goods PCE Up 3.1% Through February; SCOTUS IEEPA Case Pending",
+          "summary": "San Francisco Fed research published in April 2026 quantifies the tariff-to-price transmission: tariffs implemented through November 2025 have raised core goods PCE prices by 3.1% through February 2026, explaining the entirety of excess inflation in core goods relative to pre-pandemic rates and contributing 0.8 percentage points to core PCE overall. This establishes a documented causal pathway from the 22.5% effective tariff rate to the 3.5% March PCE headline. Separately, the US Supreme Court is evaluating the constitutionality of Trump's IEEPA tariff authority — a ruling is expected in the coming weeks that could structurally alter the tariff architecture. A ruling invalidating IEEPA tariff authority would trigger immediate market and policy uncertainty.",
+          "significance": "HIGH",
+          "actors": ["San Francisco Fed", "BEA", "SCOTUS", "Trump administration", "US importers", "US consumers"],
+          "metrics": {
+            "core_goods_pce_increase_from_tariffs_pct": 3.1,
+            "core_pce_contribution_from_tariffs_pct": 0.8,
+            "effective_tariff_rate_pct": 22.5,
+            "march_pce_pct": 3.5,
+            "gas_price_national_avg_usd": 4.30,
+            "brent_crude_approx_usd": 99
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "Grid capacity stress is structural and worsening on multiple axes: interconnection queues at historic highs with gigawatts of shovel-ready projects waiting years for grid connection studies; 83% of planned 219 GW of grid storage could lose IRA tax credits under FEOC rules taking effect in 2026 due to Chinese battery supply chain dominance (70% of US lithium-ion batteries from China in 2024); AI data center load growth driving a once-in-a-century infrastructure buildout demand on a grid system with aging infrastructure at end-of-lifecycle. Iran cyber threat posture from the April 8 CISA/FBI advisory remains in place with no confirmed new incidents but no stand-down.",
+      "items": [
+        {
+          "headline": "83% of Planned US Grid Storage at Risk of Losing IRA Credits Under FEOC Rules; Battery Supply Chain Exposed",
+          "summary": "Over 83% of the planned 219 GW of US grid battery storage could lose Inflation Reduction Act tax credits under Foreign Entity of Concern (FEOC) rules taking effect in 2026. China supplied 70% of lithium-ion batteries to the United States in 2024, creating deep supply chain exposure that the FEOC rules are designed to address but that the US domestic battery manufacturing base cannot yet fill. Combined with new tariffs on steel, aluminum, and battery components, the planned grid storage buildout faces a financing and supply chain crunch precisely when AI data center demand and electrification are requiring unprecedented new capacity additions. The interconnection queue already has gigawatts of ready-to-build projects waiting years for grid connection approval.",
+          "significance": "HIGH",
+          "actors": ["DOE", "FERC", "electric utilities", "battery manufacturers", "Chinese supply chain", "AI data center operators", "IRA implementers"],
+          "metrics": {
+            "planned_grid_storage_at_feoc_risk_pct": 83,
+            "planned_grid_storage_gw": 219,
+            "us_battery_supply_from_china_2024_pct": 70
+          }
+        },
+        {
+          "headline": "Grid Interconnection Queues at Historic Highs; Transmission Buildout Decade-Long Pipeline vs. Months-Long Generation Build",
+          "summary": "The fundamental bottleneck constraining US grid expansion is the transmission and distribution infrastructure: interconnection queues have swelled to historic levels, with gigawatts of ready-to-build solar, wind, and storage projects waiting years for grid connection studies and upgrades. Solar farms and battery facilities can be constructed in months; the transmission lines needed to deliver their power require a decade or more of planning, permitting, and construction. A growing portion of the US power grid is simultaneously at end-of-lifecycle at the exact moment load curves are skyrocketing from AI, electrification, and reshoring. This structural mismatch — fast generation, slow transmission — is the central constraint on US energy transition and grid resilience over the next decade.",
+          "significance": "HIGH",
+          "actors": ["FERC", "NERC", "DOE", "electric utilities", "transmission developers", "state regulators"],
+          "metrics": {
+            "grid_investment_decade_projection_trillions": 1.0,
+            "global_grid_investment_2026_2035_trillions": 5.8
+          }
+        },
+        {
+          "headline": "Iran Cyber Threat Environment Unchanged; NERC Active Monitoring Posture Maintained",
+          "summary": "No new CISA or FBI advisories issued overnight. The April 8 joint CISA/FBI warning establishing Iran-linked PLC disruption capability against US water and energy infrastructure remains the operative threat benchmark. NERC's active monitoring posture has not been stood down. Absence of new confirmed incidents does not represent de-escalation in an active military confrontation.",
+          "significance": "MEDIUM",
+          "actors": ["CISA", "FBI", "NERC", "Iran IRGC cyber", "US water utilities", "US energy operators"]
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "The legislative week of May 11 is the focal point: Senate returns from recess, Warsh confirmation vote expected, Reconciliation 2.0 floor vote targeting $140B in ICE/CBP enforcement spending — all converging in a single week. DOGE expires July 4, 63 days out, with no reconstitution plan announced. The bipartisan DIGNITY Act (31 co-sponsors, pathway to legal status for undocumented immigrants) is gaining traction as immigration politics shift toward a more complex alignment. The War Powers breach and Hegseth's legally novel 'ceasefire pauses clock' interpretation are expected to face judicial challenge.",
+      "items": [
+        {
+          "headline": "Week of May 11 Convergence: Warsh Confirmation + Reconciliation 2.0 Floor Vote + Senate Return from Recess",
+          "summary": "Three major institutional events converge the week of May 11, when the Senate returns from recess. Kevin Warsh's full Senate confirmation vote as Federal Reserve Chair is expected that week, filling a vacancy created by Powell's May 15 term expiration. Simultaneously, Reconciliation 2.0 — the Senate Republicans' second reconciliation bill of the 119th Congress — is targeting a floor vote that week, with Senate Homeland/Judiciary committees instructed to draft $70B each in spending language by May 15 and the goal of having a final bill to the President's desk by June 1. The bill is narrowly focused: $140B total for ICE, CBP, and immigration enforcement. The compression of a Fed Chair confirmation, a major reconciliation vote, and legislative sessions in a single week creates structural risk of delays in at least one track.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Senate Republicans", "Senate Democrats", "DHS", "ICE", "CBP", "Senate Judiciary Committee", "Senate Homeland Security Committee"],
+          "metrics": {
+            "reconciliation_homeland_judiciary_allocation_each_billions": 70,
+            "reconciliation_total_allocation_billions": 140,
+            "reconciliation_target_desk_date": "2026-06-01",
+            "warsh_confirmation_target_week": "2026-05-11",
+            "powell_term_end": "2026-05-15"
+          }
+        },
+        {
+          "headline": "DIGNITY Act Reaches 31 Co-Sponsors; Immigration Politics Shifting Toward Bipartisan Reform Window",
+          "summary": "The bipartisan DIGNITY Act — which would create a pathway to legal status for many undocumented immigrants — has reached 31 co-sponsors, a notable milestone for bipartisan immigration legislation in the current Congress. Brookings analysis indicates that net migration turned negative in 2025 for the first time since the 1930s, reducing consumer spending by approximately $50 billion and suppressing GDP growth. The political alignment is shifting: Democrats face pressure to demonstrate competence on border security; Republicans face economic and demographic arguments about labor supply and population growth. A comprehensive deal remains structurally difficult while the Iran war, the Reconciliation 2.0 enforcement bill, and the 2026 midterms are active political frames.",
+          "significance": "MEDIUM",
+          "actors": ["DIGNITY Act sponsors", "Senate Democrats", "Senate Republicans", "Brookings Institution", "immigration advocacy groups"],
+          "metrics": {
+            "dignity_act_cosponsors": 31,
+            "net_migration_turned_negative_year": 2025,
+            "immigration_policy_consumer_spending_reduction_billions": 50
+          }
+        },
+        {
+          "headline": "DOGE Expiration: 63 Days to July 4; No Reconstitution Plan; ~300,000 Federal Positions Eliminated",
+          "summary": "The Department of Government Efficiency expires July 4, 2026 — 63 days from today — with its functions absorbed by OPM and no formal reconstitution plan announced. Approximately 300,000 federal positions have been eliminated in DOGE-related reductions. The statutory expiration is approaching during a period when several DOGE-eliminated agency functions are creating implementation gaps in agencies like USAID and the Forest Service (the latter affecting PNW fire science capacity). The White House has asked Congress to codify certain DOGE cuts — particularly to USAID and public broadcasting — but no omnibus codification legislation is on the current calendar.",
+          "significance": "LOW",
+          "actors": ["OPM", "Trump administration", "DOGE", "Congress", "USAID", "Forest Service"],
+          "metrics": {
+            "doge_days_to_expiration": 63,
+            "doge_expiration_date": "2026-07-04",
+            "estimated_positions_cut": 300000
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Washington State's measles outbreak is accelerating: 40 confirmed cases in 2026 (more than triple all of 2025), a Kittitas County outbreak formally declared, national US cases at 1,814 as of April 30, and three WA cases with no known source of transmission — flagging possible undetected community spread. Portland is in the immediate aftermath of May Day ICE facility protests; the federal appeals court ruling authorizing chemical munitions at the ICE facility (April 27) sets a live legal frame for any repeat confrontations. Heat wave incoming this weekend across Oregon and Washington. WA AG Nick Brown is contesting a legal challenge to the state's new millionaires tax; a judge has separately blocked Washington's new sheriff standards law.",
+      "items": [
+        {
+          "headline": "WA Measles Outbreak Accelerating: 40 Cases in 2026, Triple 2025; Kittitas County Outbreak Declared; Undetected Spread Possible",
+          "summary": "Washington State has confirmed 40 measles cases in 2026 — more than triple the 12 cases reported in all of 2025 — across eight counties. Kittitas County has been formally declared an outbreak (three or more related cases). Three of Washington's 2026 cases have no known source of transmission, including two in Kittitas County and one in Spokane County, raising public health concern about undetected community spread beyond the confirmed cluster. National US measles cases reached 1,814 confirmed cases as of April 30. The Washington State Department of Health and Tacoma-Pierce County Health Department have issued active health advisories. The acceleration mirrors a national trend of measles resurgence linked to vaccination rate erosion. MMR vaccine remains 93% effective at one dose, 97% at two doses.",
+          "significance": "HIGH",
+          "actors": ["WA State Department of Health", "Tacoma-Pierce County Health Department", "CDC", "Kittitas County health officials", "Spokane County health officials"],
+          "metrics": {
+            "wa_measles_cases_2026": 40,
+            "wa_measles_cases_2025_full_year": 12,
+            "wa_counties_affected": 8,
+            "us_national_measles_cases_2026": 1814,
+            "wa_cases_no_known_source": 3
+          }
+        },
+        {
+          "headline": "Portland May Day Aftermath: ICE Facility Protest Posture Under Court-Authorized Chemical Munitions Framework",
+          "summary": "Portland is in the 24-hour aftermath of May Day marches that included an evening protest at the South Portland ICE facility. The April 27 federal appeals court ruling authorizing federal officers to use tear gas and chemical munitions on protesters outside the ICE facility sets the operative legal frame for any follow-on demonstrations. No major confrontations were confirmed at press time, but the court ruling represents a permanent escalation in the legal posture for Portland ICE facility protests, not a one-time authorization. Operation Black Rose — a months-long Portland immigration enforcement operation documented by OPB involving approximately 100 ICE agents — continues as the operational context.",
+          "significance": "MEDIUM",
+          "actors": ["Portland protesters", "ICE", "PCUN", "Portland Police Bureau", "federal appeals court", "OPB", "Freedom Road Socialist Organization"]
+        },
+        {
+          "headline": "WA Millionaires Tax Legal Challenge; Sheriff Standards Law Blocked; Heat Wave Incoming This Weekend",
+          "summary": "Washington Attorney General Nick Brown is actively contesting a legal challenge to the state's new millionaires tax — a high-stakes state fiscal fight that will determine whether WA can maintain a revenue stream in a period of significant budget pressure. A separate state judge has blocked Washington's new sheriff standards law, creating a legal gap in the state's law enforcement accountability framework. Across Oregon and Washington, a heat wave is forecast for this weekend — an early-season warming event relevant to soil moisture and fire pre-season risk as June's elevated fire-danger window approaches. Portland's Cinco de Mayo Fiesta at Tom McCall Waterfront Park runs May 1-3.",
+          "significance": "MEDIUM",
+          "actors": ["WA AG Nick Brown", "WA state courts", "WA legislature", "NWS Portland", "Oregon Emergency Management"],
+          "context": "Early-season heat events in the PNW compound soil moisture deficits that set fire pre-season risk; Forest Service science capacity in the region remains degraded from DOGE cuts."
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 2, 2026 morning — Hormuz Day 63, Naval Blockade Day 20. The week ahead is the critical near-term pressure point. Three institutional events converge the week of May 11: the Senate returns from recess, Kevin Warsh's Fed Chair confirmation comes to a floor vote, and Reconciliation 2.0 (up to $140B in ICE/CBP enforcement spending) is targeting a floor vote and June 1 presidential desk. The compression of a Fed leadership transition, a major enforcement spending bill, and the operative Iran war diplomacy in a single legislative window creates structural risk of slippage on at least one track. The Iran channel is technically alive — the Strait-for-blockade proposal is under evaluation — but new Supreme Leader Khamenei's public hardening overnight is not a constructive signal. A new leader consolidating domestic standing through toughness on nuclear and Hormuz is not the posture of a regime preparing to close a deal; it's the posture of one managing internal legitimacy while keeping a back-channel open. The UAE calling Iran untrustworthy adds Arab skepticism to the already-stalled sequencing argument. On the economic side, the FOMC's 8-4 dissent and Powell's departure on May 15 hand a fractured committee to Warsh at the worst possible moment: PCE at 3.5%, GDP at 2.0%, and the SF Fed documenting that tariffs have already lifted core goods PCE by 3.1% since implementation. There is no clean Fed policy response in stagflation — cuts validate inflation concerns, holds or hikes constrain already-below-consensus growth. The SCOTUS IEEPA tariff case adds a wild card: a ruling invalidating IEEPA tariff authority would create immediate market disruption and force administration repricing of the entire trade architecture. In the PNW, the WA measles outbreak is the morning's sharpest local development — 40 cases, triple 2025, Kittitas County declared, undetected spread possible in three counties. It is not a crisis yet, but 1,814 national cases and vaccination rate erosion mean the trajectory is upward. Vibe 3: the diplomatic channel lives, legislative calendar is process-normal, no new kinetics. But the structural deterioration — War Powers breach, stagflation in concurrent data, new Iranian leadership hardening, PNW public health and civil stress — is unchanged.",
+  "watch_items": [
+    "Warsh confirmation: full Senate floor vote expected week of May 11; watch for any holds, procedural objections, or Democratic blocking attempts that delay the timeline past Powell's May 15 term expiration",
+    "Reconciliation 2.0 floor vote: $140B ICE/CBP bill targeting week of May 11; watch for House-Senate coordination on final language and any Republican defections on the spending levels",
+    "Khamenei hardening vs. back-channel: does new supreme leader's public posture reflect final position or domestic legitimacy signaling? Watch Oman/Pakistan channel for any movement that contradicts the public stance",
+    "SCOTUS IEEPA tariff ruling: pending ruling on constitutionality of IEEPA-based tariff authority; a ruling striking down IEEPA tariffs would be a major economic shock requiring immediate administration response",
+    "May CPI/PCE: next prints will confirm or complicate the 3.5% PCE March surge — incoming data critical for Warsh's first FOMC meeting on June 16-17",
+    "Shadow fleet enforcement response: US has not publicly responded to Al Jazeera's documentation of blockade bypass at scale; any secondary sanctions on Chinese refiners or expanded interdiction would escalate economic pressure track",
+    "WA measles outbreak: trajectory watch — three cases with no known source suggests community transmission; watch for case count doubling and any school or congregate facility exposure events",
+    "Portland ICE facility: court-authorized chemical munitions framework is now standing law for the facility; watch for follow-on protest activity and any federal deployment under new authority",
+    "PNW fire pre-season: incoming heat wave this weekend — watch soil moisture and streamflow data as June elevated-risk window approaches with degraded Forest Service science capacity"
+  ],
+  "sources": [
+    "Wikipedia - 2026 Strait of Hormuz crisis",
+    "Wikipedia - 2026 Iran–United States negotiations",
+    "Wikipedia - 2026 Iran war ceasefire",
+    "Axios - Iran offers US deal to reopen Hormuz strait, postpone nuclear talks (Apr 27 2026)",
+    "Claims Journal - Iran Delivers New Proposal to US as Hormuz Remains Shut (May 1 2026)",
+    "Al Jazeera - What's in Iran's latest proposal – and how has the US responded? (Apr 28 2026)",
+    "Al Jazeera - Iran offers Hormuz deal without nuclear talks, as it seeks broader buy-in (Apr 27 2026)",
+    "NPR - Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts (Apr 28 2026)",
+    "Washington Post - US weighs Iranian proposal that would open Strait of Hormuz but delay nuclear talks (Apr 27 2026)",
+    "PBS NewsHour - US-Iran talks at impasse over nuclear program and Strait of Hormuz",
+    "The Hill - Iran offers US deal to reopen strait without nuclear deal",
+    "Irish Times - UAE says Iran cannot be trusted over Hormuz strait; Trump threatens to withdraw troops from Spain and Italy (May 1 2026)",
+    "CNBC - Trump discussed Iran's Hormuz Strait proposal with top aides, White House says (Apr 27 2026)",
+    "House of Commons Library - Israel/US-Iran conflict 2026: Reopening the Strait of Hormuz",
+    "CNBC - Fed meeting recap: Powell to stay on board – Trump's legal attacks have 'left me no choice' (Apr 29 2026)",
+    "Yahoo Finance - Fed live updates: Trump says 'I don't care' that Chair Powell is staying at the Fed (Apr 29 2026)",
+    "CoinGabbar - FOMC Meeting 2026 Highlights: Fed Interest Rates Stays 3.75%",
+    "Federal Reserve - FOMC Minutes, March 17-18, 2026",
+    "San Francisco Fed - The Effects of Tariffs on the Components of Inflation (Mar 2026)",
+    "Federal Reserve - Detecting Tariff Effects on Consumer Prices in Real Time Part II (Apr 8 2026)",
+    "PIIE - The risk of higher US inflation in 2026",
+    "Tax Foundation - Tariff Tracker: 2026 Trump Tariffs & Trade War by the Numbers",
+    "Utility Dive - 2026 US power sector outlook",
+    "Utility Dive - Utilities under pressure: 6 power sector trends to watch in 2026",
+    "Deloitte - 2026 Power and Utilities Industry Outlook",
+    "TRC Companies - 2026 Megatrends Powering the Shift in the Utility Landscape",
+    "NBC News - White House asks Congress to codify DOGE cuts to USAID and public broadcasting",
+    "Wikipedia - Department of Government Efficiency",
+    "Brookings - How 2026's divisive immigration politics could lead to a solution down the road",
+    "Brookings - What will 2026 bring for US migration policy?",
+    "Freedom House - United States: Freedom in the World 2026 Country Report",
+    "NLIHC - Senate Republicans Pass Budget Resolution Laying Groundwork for Reconciliation Bill to Fund ICE and CBP",
+    "Federal Budget IQ - Trump Signs 'One Big Beautiful Bill' Reconciliation Bill into Law",
+    "Wikipedia - One Big Beautiful Bill Act",
+    "ASCB - The 'Big Beautiful Bill' is Not the Budget",
+    "WA DOH - Measles remains a growing concern in Washington as US surpasses 1,100 cases in 2026",
+    "WA DOH - Recent measles cases in Washington raise concern about undetected community spread",
+    "KIRO 7 - WA reports 40 measles cases in 2026, more than triple all of 2025",
+    "King County DPH - Two measles cases identified in King County connected to international travel",
+    "Tacoma-Pierce County Health Department - Health Advisory: Prepare for measles as cases increase across Washington",
+    "Lincoln Health Department - 04/20/26 Provider Alert: Measles continues to spread in Washington",
+    "OPB - May Day protests have long history in the Pacific Northwest (May 1 2026)",
+    "OPB - May Day rallies take place across the Pacific Northwest (May 1 2026)",
+    "OPB - Federal appeals court grants unrestricted use of crowd control weapons at Portland ICE building (Apr 27 2026)",
+    "OPB - Portland immigration operation spanned months, included 100 ICE agents (Apr 15 2026)",
+    "Northwest Knowledge - Oregon & SW Washington Weekend Planner: May 1-3, 2026",
+    "Congress.gov - H.R.1, 119th Congress (One Big Beautiful Bill Act)",
+    "Congress.gov - S.J.Res.59, 119th Congress"
+  ]
+}

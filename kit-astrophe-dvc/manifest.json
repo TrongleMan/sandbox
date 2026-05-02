@@ -102,7 +102,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 63: War Powers Clock Expired; Iran Proposes Strait-for-Blockade Trade; Shadow Fleet Confirmed; PCE Inflation Surges to 3.5%; Portland ICE Protests",
       "generated_at": "2026-05-02T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-02-morning",
+      "date": "2026-05-02",
+      "session": "morning",
+      "file": "reports/2026-05-02-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 63: Khamenei Hardens; FOMC 8-4 Hold, Powell's Last Meeting, Warsh Vote May 11; WA Measles 40 Cases; Reconciliation 2.0 Floor Vote Week of May 11",
+      "generated_at": "2026-05-02T07:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-02T20:00:00-07:00"
+  "last_updated": "2026-05-02T07:00:00-07:00"
 }
