@@ -1,0 +1,212 @@
+{
+  "report_id": "2026-05-02-evening",
+  "generated_at": "2026-05-02T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 63; Naval Blockade Day 20. The War Powers Resolution 60-day clock expired May 1 — and Congress could not stop it, failing for the sixth consecutive time (47-50 on April 30). The Trump administration is now operating military hostilities against Iran with no congressional authorization and past the statutory deadline, with Defense Secretary Hegseth claiming a ceasefire pauses the clock — a legal position with no precedent. On the diplomatic side, Iran submitted a new proposal to the US on May 1: open the Strait if the US lifts the naval blockade, defer nuclear negotiations to a later stage. Trump said he will maintain the blockade until a nuclear deal; Tehran refuses to reopen the Strait until the Navy leaves. The standoff has a formal diplomatic channel but zero convergence on sequencing — Iran wants the blockade off first, the US wants the nuclear deal first. Complicating the US pressure campaign: Al Jazeera investigation published April 30 confirms Iran's shadow fleet is bypassing the blockade at scale — oil and condensate loadings collapsed from 2.1M bpd to 567K bpd, but the shadow fleet is sustaining partial export flows. US leverage is eroding, not building. The economic picture sharpened: Q1 2026 GDP came in at +2.0% annual rate (below the +2.3% consensus), and March PCE inflation surged to 3.5% from 2.8% — a stagflation signal in real data, not just forecast. Gas sits at $4.30/gallon, a four-year high. The PNW had a politically charged May Day: large ICE-focused protests in Portland and Seattle, with the marches occurring days after a federal appeals court ruled federal officers may use tear gas and chemical munitions on protesters outside the Portland ICE facility. Portland Mayor Wilson is simultaneously proposing $172M in city budget cuts. Vibe holds at 2.",
+  "vibe": {
+    "score": 2,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 2, held. The War Powers 60-day deadline has now been breached with no congressional check — a structural constitutional deterioration, not a transient event. The Iran diplomatic channel is active (new proposal in, May 1), which prevents a move to 1, but the sequencing gap (Iran wants blockade lifted before nuclear talks; US wants nuclear deal before lifting blockade) is not a near-term bridgeable difference. The shadow fleet finding confirms US economic pressure on Iran is less severe than the administration's posture implies, weakening the coercive leverage that's supposed to accelerate a deal. Economic data turned concrete: PCE inflation at 3.5% and GDP at 2.0% below consensus is stagflation in the data, not the forecast. The PNW May Day protests with a court-authorized chemical munitions posture adds a domestic civil liberties vector. Nothing today moves this above 2, and the WPA clock expiration makes a structural regression to 1 easier if kinetics resume."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 63; Naval Blockade Day 20. Iran submitted a new proposal May 1 offering to reopen the Strait if the US lifts the naval blockade, while deferring nuclear negotiations — a sequencing Iran knows is unacceptable to Washington. Trump publicly committed to holding the blockade until a nuclear deal. Simultaneously, a detailed Al Jazeera investigation published April 30 confirmed Iran's shadow fleet is bypassing the blockade at scale, partially neutralizing the economic pressure strategy. The War Powers 60-day statutory deadline expired May 1 with no resolution.",
+      "items": [
+        {
+          "headline": "Iran Submits New Proposal: Strait for Blockade, Nuclear Talks Deferred — US Rejects Sequencing",
+          "summary": "Iran delivered a new proposal to the US on or around May 1: Tehran will reopen the Strait of Hormuz in exchange for the US lifting its naval blockade, with nuclear negotiations to be addressed separately in a later stage. Trump publicly responded by vowing to maintain the blockade until Iran agrees to a nuclear deal. Tehran simultaneously refused to reopen the Strait until the US Navy withdraws. The behind-the-scenes diplomatic channel is confirmed active — but the sequencing deadlock (Iran: blockade first, then maybe nukes; US: nukes first, then blockade lifted) has no visible bridge. Negotiations remain deadlocked per NPR reporting from April 28.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Iran Foreign Ministry", "US State Department", "Marco Rubio", "Oman back-channel"]
+        },
+        {
+          "headline": "Shadow Fleet Bypassing US Naval Blockade at Scale; Iran Oil Exports Partially Sustained",
+          "summary": "An Al Jazeera investigation published April 30 documents that Iran's shadow fleet — vessels using fake flags, shell companies, and disabled AIS tracking — is bypassing the US naval blockade in the Strait of Hormuz. Iran's oil and condensate loadings at its ports collapsed from 2.1 million barrels per day before the blockade to 567,000 bpd after April 13 — a sharp reduction, but not a total cutoff. Tehran is losing an estimated $500 million per day due to the blockade, but the partial bypass is sustaining some export revenue and blunting the maximum-pressure scenario. This directly undermines the administration's declared goal of making Iran's oil industry 'explode.'",
+          "significance": "HIGH",
+          "actors": ["Iran IRGC Navy", "shadow fleet operators", "US Fifth Fleet", "UAE port operators", "Chinese refiners"],
+          "metrics": {
+            "iran_oil_loadings_pre_blockade_mbpd": 2.1,
+            "iran_oil_loadings_post_blockade_mbpd": 0.567,
+            "iran_estimated_daily_revenue_loss_millions": 500
+          }
+        },
+        {
+          "headline": "War Powers 60-Day Statutory Deadline Expired May 1; Hegseth Claims Ceasefire Pauses Clock",
+          "summary": "The War Powers Resolution 60-day limit on unauthorized military action against Iran expired May 1, 2026 — 63 days after the US-Israel air campaign launched February 28 without congressional authorization. The Trump administration has not withdrawn forces or sought an AUMF. Defense Secretary Hegseth told lawmakers that the administration's legal interpretation is that the 60-day clock 'pauses or stops in a ceasefire' — a novel legal claim with no statutory basis or prior precedent. The Senate voted 47-50 on April 30 to reject the sixth war powers resolution, with only Senators Collins (R-ME) and Paul (R-KY) crossing party lines among Republicans and Fetterman (D-PA) the lone Democratic no vote. Collins's vote was the first by any Republican since the war began.",
+          "significance": "CRITICAL",
+          "actors": ["Trump administration", "Pete Hegseth", "Susan Collins", "Rand Paul", "John Fetterman", "Senate Democrats", "War Powers Resolution"],
+          "metrics": {
+            "war_powers_vote": "47-50",
+            "war_powers_resolution_attempts": 6,
+            "days_past_60_day_clock": 3
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Q1 2026 GDP advance estimate: +2.0% annual rate, below +2.3% consensus, up from Q4 2025's 0.5%. March PCE inflation surged to 3.5% from 2.8% — the sharpest single-month acceleration since the tariff shock began. Gas at $4.30/gallon, a four-year high. The Fed is holding at 3.5-3.75%. Stagflation is no longer a forecast risk; it is appearing in concurrent data: below-expected growth and accelerating inflation in the same quarter. The tariff effective rate remains at 22.5%, highest since 1909.",
+      "items": [
+        {
+          "headline": "Q1 2026 GDP: +2.0% Annual Rate, Below Consensus; PCE Inflation Surges to 3.5% in March",
+          "summary": "The BEA's advance Q1 2026 GDP estimate came in at +2.0% annual rate — below the +2.3% consensus and a mixed signal. Growth was driven by equipment investment (AI-related computers, software), exports, and a defense spending boost from Iran operations; federal nondefense compensation snapped back as the late-2025 government shutdown reversed. Simultaneously, the March PCE price index surged to 3.5%, up from 2.8% in February — the sharpest monthly acceleration since tariff implementation. With GDP below expectations and inflation accelerating above the Fed's target in the same quarter, the stagflation scenario has moved from forecast to concurrent data. The Fed is holding benchmark rates at 3.5-3.75% with no rate cut on the near-term calendar.",
+          "significance": "HIGH",
+          "actors": ["BEA", "Federal Reserve", "Jerome Powell", "US consumers", "US manufacturers"],
+          "metrics": {
+            "q1_2026_gdp_advance_pct": 2.0,
+            "q1_2026_gdp_consensus_pct": 2.3,
+            "q4_2025_gdp_final_pct": 0.5,
+            "pce_inflation_march_pct": 3.5,
+            "pce_inflation_prior_month_pct": 2.8,
+            "fed_funds_rate_range": "3.50-3.75",
+            "gas_price_national_avg_usd": 4.30
+          }
+        },
+        {
+          "headline": "Gas at $4.30/Gallon — Four-Year High; Hormuz Blockade Sustaining Energy Price Floor",
+          "summary": "National average gasoline price hit $4.30/gallon as of May 1, the highest level in four years, driven by the sustained Hormuz closure and naval blockade. Brent crude remains near $99/barrel. Trump's April 30 CNBC interview acknowledged the blockade has not yet caused Iran's oil industry to 'explode' — an implicit acknowledgment that the shadow fleet is sustaining partial Iranian exports and the energy price floor reflects constrained global supply, not the total Iranian cutoff the blockade was designed to achieve. The energy price impact is compounding directly into the PCE inflation figure.",
+          "significance": "HIGH",
+          "actors": ["OPEC+", "Iran shadow fleet", "US energy consumers", "Trump administration", "Federal Reserve"],
+          "metrics": {
+            "gas_price_national_avg_usd": 4.30,
+            "brent_crude_approx_usd": 99
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "Electric utility supply chains remain severely stressed: transformer lead times, conductor delays, and steel/aluminum cost surges driven by tariffs and demand compression. AI data center power demand is creating a structural grid capacity crunch projected to hit critical spare capacity limits by 2030. Iran cyber operations against US critical infrastructure remain in the threat environment established by the April 8 CISA/FBI warning; no new active-disruption incidents confirmed this week but NERC's active grid monitoring posture is unchanged. Global grid investment forecast at $5.8 trillion through 2035.",
+      "items": [
+        {
+          "headline": "Utility Supply Chain Under Compounding Stress: Transformer Delays, Tariff-Driven Cost Surges, AI Demand Spike",
+          "summary": "Electric utilities across the US are experiencing sharp cost increases and significant delivery delays for critical infrastructure components — poles, transformers, conductors, crossarms, and substation equipment. Wooden utility pole prices have climbed due to lumber shortages and labor constraints; steel and aluminum prices are up steeply from tariff-driven cost increases and global demand. Goldman Sachs warned in January that almost all US power grids will lack critical spare capacity by 2030, as AI data center demand is projected to drive a 10-50% increase in facility power requirements over five years. With transformer lead times already extended, a supply chain stress event during high-demand conditions would have limited buffer.",
+          "significance": "HIGH",
+          "actors": ["NERC", "DOE", "electric utilities", "transformer manufacturers", "AI data center operators", "Goldman Sachs"],
+          "metrics": {
+            "exec_survey_power_req_increase_range_pct": "10-50",
+            "global_grid_investment_2026_2035_trillions": 5.8,
+            "us_grid_investment_decade_trillions": 1.0
+          }
+        },
+        {
+          "headline": "Iran Cyber Posture Unchanged; NERC Grid Watch Active; No New Confirmed Disruptions This Week",
+          "summary": "No new CISA or FBI advisories confirming additional Iran-linked PLC disruptions were issued this week. The structural threat environment established by the April 8 joint warning remains in place: Iran-linked hackers have demonstrated capability and willingness to actively disrupt US water and energy PLCs, and NERC's active grid monitoring posture has not been stood down. The absence of a confirmed new incident does not represent de-escalation — it reflects an unchanged adversary posture in an active confrontation. The grid continues gaining approximately 60 new vulnerable connection points per day from DER expansion.",
+          "significance": "MEDIUM",
+          "actors": ["CISA", "FBI", "NERC", "Iran IRGC cyber", "US water utilities", "US energy operators"],
+          "metrics": {
+            "grid_new_vulnerable_points_per_day": 60
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "The War Powers 60-day clock expired May 1 with the Senate unable to pass a restraining resolution for the sixth time — Collins's first-ever Republican crossover vote is notable but insufficient. Hegseth's 'ceasefire pauses the clock' interpretation is a novel and untested legal claim that will likely face judicial challenge. The Senate's 47-50 vote reflects a hardened partisan alignment around the Iran war with no immediate prospect of changing. The Maine Senate primary shifted: Mills suspended, Platner vs. Collins shaping up. TrumpIRA.gov launched.",
+      "items": [
+        {
+          "headline": "War Powers 60-Day Deadline Breached; Sixth Senate Resolution Fails 47-50; Collins Crosses Aisle for First Time",
+          "summary": "The War Powers Resolution 60-day statutory deadline for the Iran military campaign expired May 1 with no congressional authorization and no executive withdrawal. The Senate voted 47-50 on April 30 to reject S.J.Res.59 — the sixth consecutive rejection of a war powers resolution since the Iran campaign began February 28. Senator Susan Collins (R-ME) voted yes for the first time, making her the first Republican to do so since the war began; Rand Paul (R-KY) also voted yes; Senator John Fetterman (D-PA) remained the lone Democratic no. Defense Secretary Hegseth told lawmakers the administration believes the 60-day clock 'pauses or stops in a ceasefire' — an invented legal interpretation with no statutory basis. The administration is now in open constitutional conflict with the War Powers Resolution.",
+          "significance": "CRITICAL",
+          "actors": ["Trump administration", "Pete Hegseth", "Senate Democrats", "Susan Collins", "Rand Paul", "John Fetterman", "Congress.gov S.J.Res.59"],
+          "metrics": {
+            "war_powers_vote_yes": 47,
+            "war_powers_vote_no": 50,
+            "war_powers_resolution_attempts": 6,
+            "days_of_iran_hostilities": 63
+          }
+        },
+        {
+          "headline": "Maine Senate Primary Clears: Mills Suspends, Platner Consolidates as Collins Challenger",
+          "summary": "Maine Governor Janet Mills suspended her Democratic primary campaign for US Senate after polling showed her losing badly to Graham Platner, a progressive populist backed by labor unions, Senators Elizabeth Warren and Bernie Sanders. Platner now consolidates as the likely Democratic nominee to challenge incumbent Republican Susan Collins in November 2026. Collins's first-ever war powers vote in favor of restraining Trump on Iran gives the race an immediate policy contrast. The Maine Senate race is a high-profile midterm test for both the Iran war's political durability and the Collins brand.",
+          "significance": "MEDIUM",
+          "actors": ["Janet Mills", "Graham Platner", "Susan Collins", "Elizabeth Warren", "Bernie Sanders", "Maine Democrats"]
+        },
+        {
+          "headline": "Trump Launches TrumpIRA.gov; Administration Continues Post-DOGE Policy Implementation",
+          "summary": "President Trump directed the Treasury Department to launch TrumpIRA.gov, a platform allowing workers to compare private-sector retirement plans — part of the administration's post-DOGE restructuring of federal benefit and workforce policy. DOGE's formal statutory expiration remains July 4, 2026 (63 days out), with its functions absorbed by OPM. No reconstitution plan has been publicly announced for the approximately 300,000 eliminated federal positions.",
+          "significance": "LOW",
+          "actors": ["Trump administration", "Treasury Department", "OPM", "DOGE"],
+          "metrics": {
+            "doge_days_to_expiration": 63,
+            "doge_expiration_date": "2026-07-04",
+            "estimated_positions_cut": 300000
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Major May Day demonstrations in Portland and Seattle on May 1, with Portland marches targeting the South Portland ICE facility — occurring days after a federal appeals court ruled federal officers may use tear gas and chemical munitions on ICE facility protesters (April 27). Operation Black Rose, a months-long Portland immigration enforcement operation involving 100 ICE agents, was detailed in mid-April OPB reporting. Portland Mayor Wilson proposed $172M in city budget cuts. Regional heat wave incoming. Chris Dudley signaling interest in another Oregon governor run.",
+      "items": [
+        {
+          "headline": "Portland ICE Facility Protests on May Day; Court Authorized Chemical Munitions Days Prior",
+          "summary": "Thousands demonstrated in Portland on May 1 — a South Park Blocks labor and immigrant rights rally followed by an evening march to the South Portland ICE facility. The marches occurred days after a federal appeals court ruled on April 27 that federal officers are permitted to use tear gas and chemical munitions on protesters outside the ICE facility — a ruling that escalates the legal framework around Portland's ongoing immigration enforcement standoff. Operation Black Rose, detailed in OPB's April 15 report, documented a months-long Portland immigration enforcement operation involving approximately 100 ICE agents. PCUN and Freedom Road Socialist Organization co-led regional mobilizations demanding ICE removal from Oregon and a pathway to citizenship.",
+          "significance": "HIGH",
+          "actors": ["Portland protesters", "ICE", "PCUN", "Freedom Road Socialist Organization", "Portland Police Bureau", "federal appeals court", "OPB"],
+          "context": "Federal appeals court ruling April 27 authorizing chemical munitions on ICE protesters directly preceded the May Day marches, creating a constitutional and civil liberties flashpoint."
+        },
+        {
+          "headline": "Seattle May Day: Thousands Rally Against ICE, Trump Administration; Regional Mobilization in Tacoma, Olympia, Lynnwood",
+          "summary": "Thousands of demonstrators gathered in Seattle on May 1 for May Day 2026 rallies, with protesters voicing specific opposition to ICE and the Trump administration's immigration enforcement posture. Parallel rallies were held in Tacoma, Lynnwood, and Olympia, reflecting a regional coordination pattern. The Seattle events echoed the Portland immigration focus, with both metro areas serving as organizing hubs for the broader Pacific Northwest immigrant rights mobilization.",
+          "significance": "MEDIUM",
+          "actors": ["Seattle protesters", "ICE", "Washington immigrant rights groups", "FOX 13 Seattle"]
+        },
+        {
+          "headline": "Portland Mayor Wilson Proposes $172M Budget Cuts; Heat Wave Approaching Region",
+          "summary": "Portland Mayor Keith Wilson proposed a slew of city budget cuts to address a $172 million budget shortfall — a fiscal stress event compounding the city's ongoing challenges with homelessness, public safety, and federal immigration enforcement tensions. The cuts will require difficult trade-offs in city services during a period of elevated protest activity and federal-local friction. Separately, Portland, Eugene, and other Oregon cities are preparing for a heat wave this weekend, continuing the early-season warming pattern flagged in prior reports as an accelerant of fire risk heading into summer.",
+          "significance": "MEDIUM",
+          "actors": ["Portland Mayor Keith Wilson", "Portland City Council", "Portland residents", "NWS"],
+          "metrics": {
+            "portland_budget_shortfall_millions": 172
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 2, 2026 — Hormuz Day 63, Naval Blockade Day 20. The week's most structurally significant development is the breach of the War Powers Resolution 60-day clock: the Trump administration is now operating offensive military hostilities against Iran past the statutory deadline with no AUMF, no congressional authorization, and a legally novel claim from Hegseth that 'ceasefire pauses the clock.' The Senate voted 47-50 for the sixth time on April 30, unable to restrain executive war-making. Collins's crossover is politically significant but insufficient — and it sets up a direct contrast in the Maine Senate race against Platner. The Iran diplomatic channel is alive: Tehran submitted a new proposal May 1 offering the Strait in exchange for the blockade being lifted, nuclear talks deferred. But the sequencing gap is fundamental, not cosmetic, and the shadow fleet investigation published April 30 reveals the pressure campaign is eroding at the margins — Iran is sustaining 567K bpd in exports through evasion, limiting the 'maximum pressure' scenario the administration is trying to run. Economic data turned concrete: Q1 GDP at +2.0% missed consensus and March PCE jumped to 3.5% from 2.8% in a single month — that's stagflation in the data, not the projection. Gas at $4.30 is a four-year high that is compressing household budgets in real time. The PNW May Day picture is politically sharp: Portland and Seattle saw major ICE-focused protests, with the marches occurring days after a federal appeals court authorized chemical munitions outside Portland's ICE facility. Operation Black Rose documentation added institutional detail to the months-long enforcement operation. Portland's $172M budget shortfall creates local fiscal pressure during an already elevated federal-local friction period. Vibe holds at 2: WPA clock breached, stagflation in concurrent data, Iran shadow fleet undermining leverage, and PNW civil unrest on a rising trajectory. The Iran proposal is the only new positive signal, and it resolves nothing on current sequencing.",
+  "watch_items": [
+    "Iran nuclear sequencing: will US consider any form of Strait-first proposal or is the current sequencing absolute — watch for Rubio/Oman channel signals",
+    "Shadow fleet enforcement: US response to Al Jazeera shadow fleet documentation — expanded interdiction, secondary sanctions on Chinese refiners, or acceptance of partial bypass",
+    "War Powers legal challenge: will any senator or advocacy organization file suit challenging Hegseth's 'ceasefire pauses clock' interpretation; judicial calendar",
+    "PCE/CPI May prints: confirmation or reversal of 3.5% March PCE surge will determine whether the Fed is forced to respond or hold",
+    "Collins-Platner Maine Senate race: how the first Republican war powers vote plays in a competitive 2026 Senate contest",
+    "Portland ICE facility: post-May Day federal response; court ruling on chemical munitions sets legal frame for ongoing confrontation",
+    "Portland $172M budget cuts: which services are cut and how the cuts interact with the city's public safety and homelessness posture",
+    "PNW fire pre-season: soil moisture and streamflow data as June elevated-risk window approaches; Forest Service capacity remains degraded"
+  ],
+  "sources": [
+    "Claims Journal - Iran Delivers New Proposal to US as Hormuz Remains Shut (May 1 2026)",
+    "CNBC - Trump said his blockade would cause Iran's oil industry to 'explode' this week. Why that won't happen (Apr 30 2026)",
+    "Al Jazeera - Tracking the shadow fleet: How Iran evaded the US naval blockade in Hormuz (Apr 30 2026)",
+    "NPR - Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts (Apr 28 2026)",
+    "CNBC - Trump discussed Iran's Hormuz Strait proposal with top aides, White House says (Apr 27 2026)",
+    "Time - Senate Rejects Measure to Restrict Iran War Hours Before Key Legal Deadline (Apr 30 2026)",
+    "Democracy Now - Senate Republicans Block Iran War Powers Resolution for Sixth Time Ahead of 60-Day Deadline (May 1 2026)",
+    "The Hill - Senate Republicans defeat war powers resolution to halt military operations against Iran",
+    "CNN - The law sets a 60-day limit on unauthorized wars. The US is blowing past it in Iran (Apr 25 2026)",
+    "Al Jazeera - Trump's May 1 deadline: Can he continue war on Iran after that? (Apr 24 2026)",
+    "BEA - GDP Advance Estimate, 1st Quarter 2026 (Apr 30 2026)",
+    "Advisor Perspectives - Q1 GDP Advance Estimate: Real GDP at 2.0%, Lower Than Expected (Apr 30 2026)",
+    "Fox Business - US economy grows 2% in Q1, missing economist expectations of 2.3%",
+    "HeyGoTrade - US Q1 2026 GDP Rebounds 2.0% as Shutdown Drag Reverses",
+    "OKL/QGDigital - Global supply chain disruptions, surging demand creating pressure for utilities (May 2026)",
+    "Utility Dive - Utilities under pressure: 6 power sector trends to watch in 2026",
+    "Generator Source - 2026 U.S. Power Grid Vulnerability",
+    "Goldman Sachs / Insurance Journal - Goldman Sachs Warns US Grids Face Power Crunch by 2030 (Jan 2026)",
+    "Pew Charitable Trusts - Distributed Energy Can Unleash the Resilient, Affordable Grid of the Future (Apr 2026)",
+    "Pew Research Center - Trump Approval May 2026 Appendix (May 1 2026)",
+    "Democracy Now - Headlines for May 01, 2026",
+    "OPB - May Day protests have long history in the Pacific Northwest (May 1 2026)",
+    "OPB - May Day rallies take place across the Pacific Northwest (May 1 2026)",
+    "FOX 13 Seattle - Thousands rally in Seattle for May Day 2026",
+    "KATU - Thousands expected at Portland May Day rallies downtown and near ICE facility",
+    "KATU - Portland May Day rallies include march and evening protest at ICE facility",
+    "OPB - Federal appeals court grants unrestricted use of crowd control weapons at Portland ICE building (Apr 27 2026)",
+    "OPB - Portland immigration operation spanned months, included 100 ICE agents (Apr 15 2026)",
+    "OPB - Newly-released records detail federal response to Portland ICE protests (Apr 17 2026)",
+    "Portland Tribune - Portland May Day 2026: Marches, rallies and events to know (Apr 28 2026)",
+    "Fox News - May Day protests merge labor and geopolitical anger across the globe",
+    "Wikipedia - 2026 Strait of Hormuz crisis",
+    "Wikipedia - 2026 United States naval blockade of Iran",
+    "Wikipedia - 2026 U.S. immigration enforcement protests",
+    "House of Commons Library - Israel/US-Iran conflict 2026: Reopening the Strait of Hormuz",
+    "Congress.gov - S.J.Res.59, 119th Congress",
+    "Congress.gov - H.Con.Res.38, 119th Congress"
+  ]
+}

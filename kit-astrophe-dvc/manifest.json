@@ -92,7 +92,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 50: Iran Cyber Attacks Active on US Infrastructure, Ukraine May Financing Cliff, Forest Service Cuts PNW Fire Science",
       "generated_at": "2026-04-19T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-02-evening",
+      "date": "2026-05-02",
+      "session": "evening",
+      "file": "reports/2026-05-02-evening.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 63: War Powers Clock Expired; Iran Proposes Strait-for-Blockade Trade; Shadow Fleet Confirmed; PCE Inflation Surges to 3.5%; Portland ICE Protests",
+      "generated_at": "2026-05-02T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-04-19T20:00:00-07:00"
+  "last_updated": "2026-05-02T20:00:00-07:00"
 }
