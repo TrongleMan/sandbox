@@ -114,6 +114,16 @@
       "generated_at": "2026-05-02T07:00:00-07:00"
     },
     {
+      "id": "2026-05-03-morning",
+      "date": "2026-05-03",
+      "session": "morning",
+      "file": "reports/2026-05-03-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 64: Iran 14-Point Proposal; Trump 'Not Paid Big Enough Price'; OFAC Toll Sanctions Warning; Portland 92°F Heat Wave Today",
+      "generated_at": "2026-05-03T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-03-evening",
       "date": "2026-05-03",
       "session": "evening",
