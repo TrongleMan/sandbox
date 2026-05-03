@@ -112,7 +112,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 63: Khamenei Hardens; FOMC 8-4 Hold, Powell's Last Meeting, Warsh Vote May 11; WA Measles 40 Cases; Reconciliation 2.0 Floor Vote Week of May 11",
       "generated_at": "2026-05-02T07:00:00-07:00"
+    },
+    {
+      "id": "2026-05-03-evening",
+      "date": "2026-05-03",
+      "session": "evening",
+      "file": "reports/2026-05-03-evening.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 64: NATO-Germany Fracture; SCOTUS Guts VRA Section 2; Iran War at $25B/$50B, No Exit; DHS Shutdown Ends Day 76; PNW Heat Wave Incoming",
+      "generated_at": "2026-05-03T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-02T07:00:00-07:00"
+  "last_updated": "2026-05-03T20:00:00-07:00"
 }
