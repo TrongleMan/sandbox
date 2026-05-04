@@ -132,7 +132,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 64: NATO-Germany Fracture; SCOTUS Guts VRA Section 2; Iran War at $25B/$50B, No Exit; DHS Shutdown Ends Day 76; PNW Heat Wave Incoming",
       "generated_at": "2026-05-03T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-04-evening",
+      "date": "2026-05-04",
+      "session": "evening",
+      "file": "reports/2026-05-04-evening.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 65: Project Freedom Launches — 15,000 Troops, Destroyers, 100+ Aircraft Begin Hormuz Escorts; Iran 'Will Not Back Down'; NATO Drawdown 'Only Just Begun'",
+      "generated_at": "2026-05-04T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-03T20:00:00-07:00"
+  "last_updated": "2026-05-04T20:00:00-07:00"
 }
