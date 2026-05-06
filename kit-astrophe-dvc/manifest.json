@@ -162,7 +162,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Project Freedom Day 2: 6 Iranian Boats Destroyed, No US Ships Struck; ADP Hiring Decelerates; DOJ Drops Powell Probe, Warsh Path Clear; 459 PNW Communities Upgraded Wildfire Risk",
       "generated_at": "2026-05-05T07:00:00-07:00"
+    },
+    {
+      "id": "2026-05-06-evening",
+      "date": "2026-05-06",
+      "session": "evening",
+      "file": "reports/2026-05-06-evening.json",
+      "vibe": 4,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Project Freedom PAUSED Day 3: Trump Cites 'Great Progress' Toward Iran Deal; UAE Attacked Day 2; CISA CI Fortify Launches; Jobs Report Eve; Vibe 4",
+      "generated_at": "2026-05-06T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-05T07:00:00-07:00"
+  "last_updated": "2026-05-06T20:00:00-07:00"
 }
