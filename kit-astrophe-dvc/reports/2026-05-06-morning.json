@@ -1,0 +1,352 @@
+{
+  "report_id": "2026-05-06-morning",
+  "generated_at": "2026-05-06T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 67; Naval Blockade Day 24; Project Freedom Day 3 (PAUSED — 19 hours); WPA Day 7 Past Statutory Deadline. The morning opens on the most consequential diplomatic signal of the 67-day crisis: Axios published an exclusive May 6 confirming that the United States and Iran are closing in on a one-page, 14-point memorandum of understanding to end the war — the closest the parties have been to a deal since hostilities began February 28. The framework would declare an end to the war and start a 30-day period of negotiations on nuclear limits, sanctions relief, release of frozen Iranian assets, and long-term Hormuz transit arrangements. Iran's response on key points is expected within 48 hours. Negotiators are Steve Witkoff and Jared Kushner on the US side, working through Pakistan and Oman intermediaries. The deal has genuine structural substance: Iran would commit to a moratorium on nuclear enrichment, removal of highly enriched uranium from the country, enhanced IAEA snap inspections, and prohibition on underground nuclear facilities — all positions Tehran has previously rejected. The financial market's verdict is unambiguous: Brent crude fell approximately 6% to $103.23/barrel, WTI fell approximately 7% to $95.22 — the largest single-day oil price drop of the conflict — while US equities rallied (Dow +509 points, S&P 500 +0.6%) and Asia-Pacific markets followed overnight. The market is pricing a credible deal probability for the first time. Alongside the MOU signal: on the morning of May 6, Trump issued his sharpest public ultimatum of the conflict — 'the bombing starts' again if Iran rejects the deal, at 'much higher level and intensity than it was before' — functioning simultaneously as deal leverage and as a defined failure-mode statement. The IRGC simultaneously announced that ships can transit the Strait of Hormuz under 'new procedures' — IRGC-designated routes with transit instructions issued via email from info@PGSA.ir — framing their channel as the 'only safe way' and threatening 'firm action' against vessels using other routes. This is Iran asserting de facto transit sovereignty while the US military escort operation is paused — a precedent and deal sticking point of the first order. One material complication: the CMA CGM San Antonio, a Maltese-flagged container vessel operated by French shipping giant CMA CGM, was struck in the strait at approximately 18:30 GMT on May 5 by what US officials described as a land-based cruise missile. Crew members were injured and evacuated; UKMTO issued a formal advisory. The attack during the pause window demonstrates that Iranian land-based missile units are not fully coordinated with the diplomatic track operating in Muscat and Islamabad. On the economic front, the ADP full April report releases tomorrow (Wednesday May 7) ahead of Friday's BLS Employment Situation (8:30am ET, consensus 133K); the weekly ADP deceleration signal biases the tail toward downside risk. Initial claims also release Thursday. CI Fortify (launched May 5) enters its first full operational day; the 72-hour peak Iranian cyber retaliation window closes approximately May 7. PNW: burn bans are going into effect as the region remains dry through today; Oregon's measles outbreak continues to show wastewater detection in counties with no confirmed cases; super El Niño signal builds; June 1 east Cascades fire season onset is 26 days away. Vibe 4.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4. The highest score of any morning brief in the active conflict period, anchored on the convergence of the most substantive diplomatic signal of the 67-day crisis against a set of simultaneous escalatory complications that prevent a higher score. The positive case for upgrading toward 5: the Axios exclusive is the most operationally specific deal reporting of the conflict — a named 14-point framework, concrete terms (enrichment moratorium, HEU removal, snap inspections, sanctions relief, Hormuz normalization), named principals (Witkoff, Kushner), and a defined 48-hour Iranian response window. The financial market's response (Brent -6%, Dow +509) is a real-world probability-weighted validation of deal credibility, not sentiment. The IRGC's 'new procedures' announcement — however politically fraught — signals that Iran is operationalizing some form of commercial passage resumption, which is the material outcome blocked for 67 days. The vibe is 4 rather than 5 because: (1) the MOU is not signed — the 48-hour Iranian response window means a deal could collapse before tomorrow's brief; (2) the CMA CGM San Antonio was struck by a land-based cruise missile on May 5 during the pause window — Iranian field forces are not in a coordinated stand-down posture, which structurally threatens the ceasefire architecture on which any deal depends; (3) the IRGC's 'new procedures' assert sovereign transit control — vessels must register with the IRGC for permission, which conflicts with international freedom-of-navigation law and will be a central deal sticking point; (4) Trump's 'bombing starts' threat, while functioning as deal leverage, explicitly defines the failure mode — a collapsed MOU returns Project Freedom to a higher-hostility environment with Iran having observed US operational doctrine for 36 hours; (5) the cyber retaliation window remains open through May 7; (6) 23,000 sailors from 87 nations remain stranded with the blockade 'in full force and effect'; (7) the ADP/BLS labor market data through Friday carries downside tail risk that compounds any diplomatic setback. The 4 is the correct equilibrium: the best realistic near-term scenario is a signed MOU within 48 hours that begins a 30-day negotiation period — not an immediate Hormuz reopening — which would justify a 5-6 upgrade. The worst realistic scenario is an Iranian rejection, Project Freedom resumes in a higher-hostility environment, and the oil decline reverses to WTI $110+. The probability distribution is more favorable than any prior morning of this conflict."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 67; Naval Blockade Day 24; Project Freedom Day 3 (PAUSED). Axios published an exclusive May 6 reporting that the US and Iran are closing in on a one-page, 14-point memorandum of understanding to end the war — the closest the parties have been since hostilities began February 28. The MOU would declare an end to the war and open a 30-day detailed negotiation period on nuclear limits (enrichment moratorium, HEU removal from Iran, IAEA snap inspections), sanctions relief, frozen asset release, and Hormuz normalization. Witkoff and Kushner are the named US negotiators; Iran's response is expected within 48 hours. Trump issued his sharpest public ultimatum this morning — 'the bombing starts' at 'much higher level and intensity' if Iran rejects the deal. The IRGC announced 'new procedures' for Hormuz transit, asserting IRGC-designated routes as the only safe passage and issuing instructions via info@PGSA.ir. CMA CGM San Antonio was struck by a land-based cruise missile on May 5 during the pause window — crew injured and evacuated, UKMTO advisory issued.",
+      "items": [
+        {
+          "headline": "Axios Exclusive: US-Iran Closing In on 14-Point One-Page MOU to End War; 30-Day Nuclear/Sanctions/Hormuz Negotiation to Follow; 48-Hour Iranian Response Window",
+          "summary": "Axios published an exclusive on May 6 reporting that the United States and Iran are 'closing in' on a one-page, 14-point memorandum of understanding to end the war — characterized by US officials as the closest the parties have been to a deal since hostilities began February 28. The MOU in its current form would declare an end to the war and open a 30-day period of detailed negotiations on the unresolved sticking points. The framework's key terms: Iran commits to a moratorium on nuclear enrichment; Iran removes its highly enriched uranium from the country — a US priority Tehran has previously rejected; Iran agrees to enhanced IAEA snap inspections and prohibition on operating underground nuclear facilities; the US agrees to lift sanctions and release billions in frozen Iranian funds; both sides lift restrictions around Hormuz transit. The MOU is being negotiated by Trump's envoys Steve Witkoff and Jared Kushner working directly with Iranian officials and through Pakistan and Oman as intermediaries. The US expects Iranian responses on key points within 48 hours. Nothing has been agreed, but sources characterized this as the closest to an agreement since the war began. The document's 14-point structure incorporates elements of Iran's original 14-point proposal delivered via Pakistan on May 2, raising the possibility that the negotiating gap between the two sides' frameworks has narrowed enough to produce a signing-ready document within the pause window.",
+          "significance": "CRITICAL",
+          "actors": ["Steve Witkoff", "Jared Kushner", "Iran Supreme Leader Khamenei", "Iran Foreign Minister Abbas Araghchi", "Pakistan back-channel", "Oman intermediaries", "Donald Trump", "Marco Rubio"],
+          "metrics": {
+            "mou_points": 14,
+            "mou_pages": 1,
+            "iran_response_expected_within_hours": 48,
+            "deal_assessment": "closest to agreement since war began (US official characterization)",
+            "iran_heu_removal_commitment": "pending",
+            "nuclear_enrichment_moratorium": "pending",
+            "snap_inspections_commitment": "pending",
+            "underground_nuclear_facility_ban": "pending",
+            "us_sanctions_relief_commitment": "pending",
+            "frozen_assets_release": "pending",
+            "post_mou_negotiation_period_days": 30,
+            "hormuz_closed_days": 67,
+            "naval_blockade_active_days": 24
+          }
+        },
+        {
+          "headline": "Trump: 'The Bombing Starts' at 'Much Higher Level and Intensity' If Iran Rejects Deal; Pakistan PM Publicly Thanks Trump for Pause",
+          "summary": "On the morning of May 6, President Trump issued his sharpest public ultimatum of the conflict: if Iran does not 'give what has been agreed to,' the 'bombing starts' again — at 'a higher level and intensity than it was before.' Bloomberg headlined the statement as 'Trump Threatens Renewed Bombing if Iran Blocks Strait of Hormuz.' This is Trump's first public threat naming renewed kinetic operations by explicit reference to 'bombing' since the Project Freedom pause on May 5. The statement simultaneously functions as deal leverage — raising the cost of Iranian rejection — and as a timeline signal: the pause has a defined failure condition. Pakistan Prime Minister Shehbaz Sharif publicly thanked Trump for the pause, crediting Pakistan, Saudi Arabia, and 'other brotherly countries' for facilitating the diplomatic window — a rare public acknowledgment of the back-channel's active role. The dual-track dynamic — Trump offering a deal while threatening devastating consequence for rejection — is the administration's core negotiating posture. The 48-hour Iranian response window on the MOU terms is the operative decision horizon; Trump's morning statement ensures Iran's leadership understands the consequences of either silence or refusal.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Pakistan PM Shehbaz Sharif", "Iran Supreme National Security Council", "CENTCOM", "Iran Foreign Ministry"],
+          "metrics": {
+            "trump_bombing_threat_issued": true,
+            "trump_threat_characterization": "higher level and intensity than before",
+            "pakistan_pm_public_thanks": true,
+            "countries_credited_for_pause": ["Pakistan", "Saudi Arabia", "other brotherly countries"],
+            "pause_failure_mode": "Project Freedom resumes in higher-hostility environment"
+          }
+        },
+        {
+          "headline": "IRGC 'New Procedures': IRGC-Only Transit Corridors via info@PGSA.ir; CMA CGM San Antonio Hit by Land-Based Cruise Missile During Pause Window",
+          "summary": "The IRGC Navy announced that ships can transit the Strait of Hormuz under 'new procedures' — asserting that only IRGC-designated routes are safe and that vessels must receive transit instructions from Tehran via email at info@PGSA.ir (the Persian Gulf Shipping Authority). The IRGC warned it will take 'firm action' against vessels routing outside designated IRGC corridors. This represents Iran asserting de facto sovereignty over Hormuz transit — a direct challenge to international freedom-of-navigation law and a structural complication for any deal framework normalizing passage. Operators accepting IRGC routing instructions implicitly acknowledge IRGC authority to control the strait; operators refusing face Iranian threat of force. This sovereignty claim will be a central deal sticking point: the US-backed UNSC freedom-of-navigation resolution and the MOU's Hormuz normalization clause require a different transit framework than IRGC-controlled email registration. Simultaneously, the CMA CGM San Antonio — a Maltese-flagged container vessel (2,824 TEU) operated by French shipping giant CMA CGM Group — was struck in the strait at approximately 18:30 GMT on May 5 by what US officials assessed as a land-based cruise missile. UKMTO issued a formal advisory; crew members were injured and evacuated. The attack on a French commercial vessel during the pause window demonstrates that Iranian land-based missile units are operating independently of the ceasefire diplomatic track, adding France to the conflict's injured-party roster and pressuring maritime insurers to revise war-risk ratings.",
+          "significance": "HIGH",
+          "actors": ["IRGC Navy", "IRGC land-based missile units", "CMA CGM Group", "UKMTO", "US CENTCOM", "France", "Persian Gulf Shipping Authority (PGSA)", "commercial shipping operators", "maritime war risk insurers"],
+          "metrics": {
+            "irgc_new_procedures_announced": true,
+            "irgc_transit_email": "info@PGSA.ir",
+            "irgc_warning_type": "firm action against non-designated routes",
+            "cma_cgm_vessel": "CMA CGM San Antonio",
+            "vessel_flag": "Malta",
+            "operator_nationality": "France",
+            "vessel_teu_capacity": 2824,
+            "attack_time_gmt": "2026-05-05T18:30:00Z",
+            "weapon_assessment": "land-based cruise missile (US official assessment)",
+            "crew_status": "injured, evacuated",
+            "ukmto_advisory_issued": true,
+            "attack_during_pause_window": true
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Oil markets staged the largest single-day decline of the crisis: Brent crude fell approximately 6% to $103.23/barrel, WTI fell approximately 7% to $95.22 — the market pricing a credible MOU probability. US equities rallied (Dow +509 points +1.1%, S&P 500 +0.6%); Asia-Pacific markets broadly higher overnight. Deal optimism reduces but does not eliminate the economic structural stress — oil remains ~38-45% above pre-war levels; gas nationally at $4.46/gallon. The ADP full April employment report releases tomorrow (Wednesday May 7), followed by initial claims (Thursday May 7) and the BLS April jobs report (Friday May 8, 8:30am ET, consensus 133K). The ADP weekly deceleration (39,250/week average for the April 11 period, down 28% from prior period) biases the tail risk toward the downside. Kevin Warsh's Senate confirmation remains targeted for the week of May 11; Powell confirmed he will remain as Chair until Warsh is confirmed.",
+      "items": [
+        {
+          "headline": "Oil Stages Largest Single-Day Drop of Crisis: Brent -6% to $103.23, WTI -7% to $95.22; Dow +509, S&P 500 +0.6%; Asia-Pacific Broadly Higher Overnight",
+          "summary": "Financial markets staged the most significant risk-relief rally of the Hormuz conflict on May 5-6, driven by the Project Freedom pause, Trump's 'Great Progress' statement, and the Axios MOU exclusive. Brent crude fell approximately 6% to $103.23/barrel; WTI fell approximately 7% to $95.22, extending a 3.9% decline from the prior session and moving WTI toward $93 in extended trading per Bloomberg. This is the largest single-day oil price decline since the crisis began February 28 and the first time Brent has approached the $100 threshold from above since early April. US equities on May 5: Dow Jones Industrial Average +509 points (+1.1%), S&P 500 +0.6%, Nasdaq Composite up. Asia-Pacific markets overnight: South Korea Kospi at a record close; broad Asia-Pacific rally tracking Wall Street gains. The financial market is directly pricing deal probability — if the MOU closes within the 48-hour Iranian response window, markets will price additional oil declines toward the $80-85/barrel range representing partial normalization; if the deal collapses and Project Freedom resumes, the decline will reverse rapidly. Oil remains approximately 38-45% above pre-war baseline even after today's decline; national average gas at $4.46/gallon (AAA) is a 50% premium over pre-war $2.98 that will not reset until sustained post-deal supply restoration. CNBC analysts cautioned against 'misplaced euphoria' on Monday; that warning is partially validated by today's larger-than-expected oil move — the market is re-rating deal probability upward from Monday's cautious pricing.",
+          "significance": "HIGH",
+          "actors": ["global commodity traders", "AAA", "CNBC", "Bloomberg", "S&P 500", "Dow Jones", "Asia-Pacific equity markets", "IEA", "OPEC+"],
+          "metrics": {
+            "brent_price_usd": 103.23,
+            "brent_daily_change_pct": -6,
+            "wti_price_usd": 95.22,
+            "wti_daily_change_pct": -7,
+            "dow_may5_change_points": 509,
+            "dow_may5_change_pct": 1.1,
+            "sp500_may5_change_pct": 0.6,
+            "asia_pacific_overnight": "broadly higher",
+            "korea_kospi": "record close",
+            "gas_national_avg_usd": 4.46,
+            "gas_pre_war_usd": 2.98,
+            "gas_premium_over_pre_war_pct": 50,
+            "oil_above_pre_war_est_pct": 40
+          }
+        },
+        {
+          "headline": "ADP Full April Report Tomorrow (May 7); Initial Claims Thursday; BLS Friday May 8 at 8:30am ET — Consensus 133K, Unemployment 4.3%; Downside Tail Risk Elevated",
+          "summary": "The final approach to Friday's April BLS Employment Situation begins today. The ADP full April employment report releases Wednesday May 7; consensus is approximately 130-133K. Initial jobless claims also release Thursday May 7 — the final pre-BLS leading indicator. The BLS April jobs report releases Friday May 8 at 8:30am ET; consensus among economists is approximately 133K new nonfarm payrolls, unemployment holding at 4.3%, average hourly earnings +0.3% month-over-month. The plausible range is wide: 125-165K with significant uncertainty from the Hormuz disruption, tariff pass-through dynamics, and federal workforce contraction. The leading-indicator signal from ADP's weekly pulse data carries a downside bias: the four-week period ending April 11 averaged 39,250 jobs per week — down 28% from the prior four-week period's 54,750/week average. The Fed's own internal assessment that BLS payrolls overstate job growth by approximately 60K per month introduces the possibility that the real April gain is at or below 100K. Sectoral divergence is expected: healthcare, transportation, and construction hiring should offset high-salary tech layoffs and federal workforce contraction from DOGE. A result below 120K would materially shift the policy calculus Kevin Warsh inherits at his June 16-17 debut FOMC meeting. If the Hormuz MOU signs within 48 hours and oil prices continue declining, the inflation trajectory Warsh faces will look materially different by June — but the BLS survey period predates the pause and reflects hiring decisions made before the diplomatic window opened.",
+          "significance": "HIGH",
+          "actors": ["BLS", "ADP", "Federal Reserve", "Kevin Warsh", "US labor market", "tariff-exposed goods sectors", "federal government workforce", "healthcare sector", "technology sector", "construction"],
+          "metrics": {
+            "adp_release_date": "2026-05-07",
+            "initial_claims_release_date": "2026-05-07",
+            "bls_release_date": "2026-05-08",
+            "bls_release_time_et": "08:30",
+            "consensus_nfp_k": 133,
+            "consensus_unemployment_pct": 4.3,
+            "consensus_range_k": "125-165",
+            "adp_weekly_avg_apr11_period_jobs": 39250,
+            "adp_deceleration_pct": 28,
+            "fed_payroll_overstatement_estimate_k": 60,
+            "warsh_first_fomc": "2026-06-16"
+          }
+        },
+        {
+          "headline": "Powell Confirms He Stays Until Warsh Is Confirmed: No Fed Leadership Gap Risk; Warsh Vote Week of May 11 Unchanged",
+          "summary": "Jerome Powell confirmed he will remain as Federal Reserve Chairman until Kevin Warsh is confirmed by the full Senate — a crucial institutional clarification that eliminates the risk of a chairless Fed if the confirmation vote slips past Powell's May 15 nominal term expiry. All structural obstacles to Warsh's confirmation are cleared: the DOJ investigation of Powell was dropped, Senator Tillis dropped his hold, the Senate Banking Committee advanced Warsh's nomination 13-11 on April 29 (the first fully partisan Fed chair committee vote in US history), and the 53-seat Republican caucus plus Senator Fetterman's signaled yes provides comfortable margin absent defections. The full Senate floor vote is targeted for the week of May 11. The week of May 11 is a triple institutional convergence: Warsh Senate floor vote, Reconciliation 2.0 committee submission deadline (May 15), and Powell's nominal term expiry (May 15). Warsh's first FOMC meeting is June 16-17. The inflation trajectory he inherits will be shaped by Friday's BLS result, the Hormuz MOU outcome, and the oil price path — if the strait reopens on a signed MOU timetable, the energy shock driving PCE from 3.5% will begin to reverse ahead of his debut meeting.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Jerome Powell", "Senate Banking Committee", "John Fetterman", "Thom Tillis", "John Thune", "Mike Johnson", "Federal Reserve"],
+          "metrics": {
+            "powell_staying_until_warsh_confirmed": true,
+            "warsh_senate_vote_target_week": "2026-05-11",
+            "powell_nominal_term_expiry": "2026-05-15",
+            "senate_banking_vote": "13-11",
+            "senate_banking_vote_type": "first fully partisan Fed chair committee vote in history",
+            "tillis_hold_dropped": true,
+            "doj_powell_investigation_dropped": true,
+            "warsh_first_fomc": "2026-06-16",
+            "reconciliation_2_committee_deadline": "2026-05-15",
+            "pce_march_pct": 3.5
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CI Fortify (launched May 5) enters its first full operational day as CISA conducts targeted technical assessments of defense-critical infrastructure. The 72-hour peak Iranian cyber retaliation window for Project Freedom closes approximately May 7. The CMA CGM San Antonio strike on May 5 — land-based cruise missile, crew injured, UKMTO advisory — confirms Iranian field forces are not fully coordinated with the diplomatic track. PNW power grid: super El Niño signal building; Columbia River hydro compression continues under below-normal snowpack; burn bans going into effect as above-normal temperatures persist. NERC elevated West risk classification for summer 2026 remains operative.",
+      "items": [
+        {
+          "headline": "CI Fortify Day 2: CISA Begins Targeted Defense-Critical Infrastructure Assessments; Cyber Retaliation Window Closes ~May 7; No Updated Advisory Beyond AA26-097A",
+          "summary": "CISA's CI Fortify initiative — launched May 5 to direct critical infrastructure entities across all sectors to develop isolation and recovery capabilities for weeks-to-months operation during a cyberattack — enters its first full operational day. CISA is conducting targeted technical assessments of defense-critical infrastructure, prioritizing dams, radars, weapon systems, and satellite communications. The 72-hour peak Iranian cyber retaliation window for Project Freedom (launched May 4) closes approximately May 7. The Project Freedom pause reduces but does not eliminate IRGC cyber retaliation motivation: the destruction of 13 Iranian small boats during Days 1-2 remains a kinetic provocation that IRGC cyber doctrine treats as justifying parallel civilian infrastructure attacks. No updated CISA advisory has been issued since AA26-097A (April 7), which documented Iranian-affiliated APT exploitation of PLCs across US water, energy, and government OT/ICS systems. FINRA's financial sector alert remains active. The Stryker/Handala wiper benchmark (200,000+ devices wiped across 79 countries, March 2026) remains the destructive capability reference for the window's closing 48 hours. CI operators in water, energy, financial, healthcare, and defense-adjacent sectors should maintain elevated readiness posture through Thursday May 7. CISA's CI Fortify framing — 'prepare to operate through a cyber outage, not just harden against one' — represents a qualitative shift in federal resilience expectations that operators should be operationalizing now.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI", "IRGC Cyber Command", "Handala", "FINRA", "US energy sector OT operators", "US water sector", "US financial sector", "defense critical infrastructure operators"],
+          "metrics": {
+            "ci_fortify_launch_date": "2026-05-05",
+            "ci_fortify_day": 2,
+            "ci_fortify_target_isolation_duration": "weeks to months",
+            "cyber_retaliation_window_closes": "2026-05-07",
+            "updated_cisa_advisory_issued": false,
+            "cisa_advisory_reference": "AA26-097A (2026-04-07)",
+            "finra_alert_active": true,
+            "stryker_handala_benchmark_devices_wiped": 200000,
+            "stryker_countries_affected": 79,
+            "iranian_boats_destroyed_total_days1_2": 13
+          }
+        },
+        {
+          "headline": "CMA CGM San Antonio Struck by Land-Based Cruise Missile May 5: French Commercial Vessel Hit During Pause Window; UKMTO Advisory; Iranian Field Forces Not Coordinated with Diplomatic Track",
+          "summary": "The CMA CGM San Antonio — a Maltese-flagged container vessel (2,824 TEU) operated by French shipping giant CMA CGM Group, one of the world's largest container carriers — was struck in the Strait of Hormuz at approximately 18:30 GMT on May 5 by what US officials assessed as a land-based cruise missile. UKMTO issued a formal advisory describing the projectile as 'of unknown origin.' Crew members were injured and have been evacuated; CMA CGM confirmed the incident and stated it is 'closely monitoring the situation.' The attack has three significant implications: (1) Iranian land-based missile units are operating independently of the diplomatic track being pursued in Muscat and Islamabad — the pause's ceasefire architecture does not appear to cover land-based IRGC missile forces, which is a critical gap that must be addressed in any MOU framework; (2) a French-operated vessel is now a direct casualty of the conflict, injecting France into the crisis as an injured party and potentially activating French government engagement in the diplomatic track or in pressure on European partners; (3) the attack on a non-US commercial vessel during the pause window demonstrates that Iran's de facto maritime control posture — even with its 'new procedures' announcement — does not guarantee safe passage for third-party commercial operators not traveling under IRGC-designated routes. Maritime war risk premiums for Hormuz transit are unlikely to decrease until the MOU framework explicitly addresses land-based missile threat withdrawal.",
+          "significance": "HIGH",
+          "actors": ["IRGC land-based missile units", "CMA CGM Group", "UKMTO", "US CENTCOM", "France", "Malta", "maritime war risk insurers", "Lloyd's of London"],
+          "metrics": {
+            "vessel_name": "CMA CGM San Antonio",
+            "operator": "CMA CGM Group (France)",
+            "vessel_flag": "Malta",
+            "vessel_teu_capacity": 2824,
+            "attack_time_gmt": "2026-05-05T18:30:00Z",
+            "weapon_assessment": "land-based cruise missile (US official assessment)",
+            "crew_status": "injured, evacuated",
+            "ukmto_advisory_issued": true,
+            "attack_during_pause_window": true,
+            "french_commercial_operator_involvement": true,
+            "irgc_land_based_forces_not_coordinated": true
+          }
+        },
+        {
+          "headline": "PNW Grid: Burn Bans Going Into Effect; Dry Through Today; Super El Niño Builds; June 1 East Cascades Fire Season Onset 26 Days Out",
+          "summary": "The Pacific Northwest power grid and fire weather picture for May 6: burn bans are going into effect across Oregon and Washington as the region enters what is now effectively a pre-fire-season drying regime. The PNW forecast remains dry through at least today with above-normal temperatures projected through the week of May 11. The super El Niño signal — NOAA projects El Niño conditions favored to emerge May-July, with potential super-El Niño intensity — continues to build, with implications for amplified summer drought and wildfire conditions above and beyond the already-record-low snowpack baseline. Washington State's statewide snowpack sits at 53% of April median — 5th percentile of all years on record — and seven of eleven Western states are at near-zero snowpack. NIFC projects above-normal fire potential east of the Cascades beginning June 1 — 26 days from today. The Bonneville Power Administration Columbia River hydro generation remains constrained by compressed snowmelt pulse; above-normal temperatures sustain above-seasonal cooling load demand on a system with diminished hydro headroom. NERC's elevated West risk classification for summer 2026 remains operative. CISA CI Fortify explicitly includes dam infrastructure as a defense-critical assessment priority, encompassing federal Columbia River hydroelectric dams — adding an active cyber threat dimension to the physical grid stress picture.",
+          "significance": "MEDIUM",
+          "actors": ["NOAA", "NIFC", "Bonneville Power Administration", "NWS Portland", "NWS Seattle", "NERC", "Oregon Department of Forestry", "Washington DNR", "Forest Service Region 6", "BLM"],
+          "metrics": {
+            "burn_bans_in_effect": true,
+            "pnw_dry_forecast_through": "2026-05-06",
+            "above_normal_temp_forecast_through": "week of 2026-05-11",
+            "super_el_nino_signal": "building",
+            "el_nino_emergence_forecast_window": "May-July 2026",
+            "wa_snowpack_pct_median": 53,
+            "wa_snowpack_historical_percentile": 5,
+            "western_states_near_zero_snowpack": 7,
+            "nifc_above_normal_onset_east_cascades": "2026-06-01",
+            "days_to_fire_season_onset": 26,
+            "nerc_west_classification": "elevated",
+            "cisa_dam_assessment_priority": true
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA Day 7 past statutory deadline; Project Freedom conducted active offensive combat operations — destroying 13 Iranian boats and intercepting missiles and drones — for 36 hours without congressional authorization before being paused. If the Axios-reported MOU is signed, it would formally declare 'an end to the war' and alter the ongoing WPA framing — but would not retroactively authorize Days 1-2 combat operations. Kevin Warsh's Senate confirmation remains targeted for the week of May 11; Powell will remain as Chair until confirmed. Alabama and Tennessee governors called special legislative sessions for redistricting under the post-Louisiana v. Callais VRA standard; Trump forecast 'more than 20 House Seats' for Republicans in 2026. ACLU and NAACP LDF counter-litigation is filing.",
+      "items": [
+        {
+          "headline": "WPA Day 7: Project Freedom Paused But 36 Hours of Unauthorized Combat Operations Already Conducted; MOU Signing Would Not Retroactively Cure Constitutional Gap",
+          "summary": "As of the morning of May 6, the War Powers Resolution statutory 60-day clock has expired for 7 days. Project Freedom conducted active offensive military operations — destroying 13 Iranian small boats and intercepting Iranian cruise missiles and drones — for approximately 36 hours without any congressional authorization before being paused. The pause suspends further military escalation but does not resolve the constitutional accountability gap for operations already conducted. If the Axios-reported MOU is signed, it would formally declare 'an end to the war' — creating a new legal posture for any subsequent operations — but it would not retroactively authorize the combat operations conducted under Project Freedom Days 1 and 2. Congressional Democrats continue to object; Republican leadership has not moved to force a floor vote; the six Senate war-powers resolutions have all failed (most recently 47-50). The critical constitutional distinction: Project Freedom Days 1-2 involved offensive use of military force — destroying foreign military assets in a contested maritime zone — that goes beyond any presence, deterrence, or economic-pressure characterization available to the administration. A signed MOU changes the legal landscape going forward; the accounting for Days 1 and 2 remains unresolved regardless of the deal outcome.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "CENTCOM", "Mike Johnson", "John Thune", "Congressional Democrats", "Senate Armed Services Committee", "ACLU"],
+          "metrics": {
+            "wpa_deadline_date": "2026-04-29",
+            "days_past_wpa_deadline": 7,
+            "project_freedom_status": "paused",
+            "project_freedom_offensive_ops_duration_hours": 36,
+            "iranian_assets_destroyed_without_authorization": 13,
+            "congressional_authorization_obtained": false,
+            "senate_war_powers_resolutions_failed": 6,
+            "last_senate_vote": "47-50",
+            "mou_signing_wpa_retroactive_cure": false
+          }
+        },
+        {
+          "headline": "Alabama, Tennessee Special Sessions Convening for Redistricting; Trump Forecasts '20+ House Seats'; ACLU/NAACP LDF Counter-Litigation Race Underway",
+          "summary": "Alabama and Tennessee governors have called special legislative sessions to draw new congressional district maps in response to the Supreme Court's April 29 ruling in Louisiana v. Callais (6-3, Alito), which restricted Voting Rights Act Section 2 to intentional discrimination and struck Louisiana's majority-Black second congressional district. Trump publicly endorsed the redistricting push, stating it will deliver 'more than 20 House Seats' for Republicans in the November 2026 midterms. NPR analysis identified at least 15 current Black House members whose seats are vulnerable to GOP redistricting under the new standard. The first-mover advantage is the governing strategic logic: states filing new maps before follow-on litigation clarifies the ruling's scope may lock in electoral gains before the November 2026 ballot-printing deadlines. Alabama and Tennessee are the first movers; Georgia, Texas, and North Carolina are reported to be preparing redistricting challenges. ACLU and NAACP Legal Defense Fund are filing counter-litigation, but the judicial timeline for a stay before November 2026 is extremely narrow given filing and briefing requirements. This is the fastest state-level operationalization of a major SCOTUS voting rights ruling in recent memory.",
+          "significance": "HIGH",
+          "actors": ["Alabama Governor", "Tennessee Governor", "Donald Trump", "ACLU", "NAACP Legal Defense Fund", "Congressional Black Caucus", "Samuel Alito", "Georgia", "Texas", "North Carolina"],
+          "metrics": {
+            "ruling": "Louisiana v. Callais",
+            "ruling_date": "2026-04-29",
+            "decision_vote": "6-3",
+            "states_calling_special_sessions": ["Alabama", "Tennessee"],
+            "states_preparing_redistricting": ["Alabama", "Tennessee", "Georgia", "Texas", "North Carolina"],
+            "trump_house_seat_forecast": "more than 20",
+            "black_house_seats_vulnerable_estimate": 15,
+            "aclu_naacp_counter_litigation_status": "filing"
+          }
+        },
+        {
+          "headline": "Week of May 11 Triple Convergence: Warsh Floor Vote, Reconciliation 2.0 Deadline, Powell Nominal Expiry — All Tracks Confirmed Active",
+          "summary": "The week of May 11, 2026 remains the convergence point for three major institutional and legislative tracks: Kevin Warsh's full Senate floor confirmation vote for Federal Reserve Chair; the Reconciliation 2.0 committee submission deadline (May 15); and Jerome Powell's nominal May 15 term expiry. Powell's confirmation that he will remain as Chair until Warsh is confirmed eliminates the Fed leadership gap risk. Warsh's confirmation math is intact: 53-seat Republican caucus plus Senator Fetterman's signaled yes, with no known late-emerging holds. Reconciliation 2.0 — $70B, three-year ICE/CBP funding bill — faces its own coalition management pressure; the House's 215-211-1 budget resolution vote previewed the narrow-majority dynamics that will govern Reconciliation floor management. Trump's June 1 deadline for the broader 'Big Beautiful Bill' looms over the May 15 committee submissions as the next compression point. The Hormuz MOU outcome materially affects the economic picture Warsh walks into: a signed MOU and declining oil prices could significantly alter PCE trajectory by the June 16-17 FOMC, reducing the stagflationary pressure that currently constrains rate-cut options.",
+          "significance": "MEDIUM",
+          "actors": ["Kevin Warsh", "Jerome Powell", "John Thune", "Mike Johnson", "Senate Republicans", "John Fetterman", "House Freedom Caucus", "Midwestern GOP members"],
+          "metrics": {
+            "warsh_senate_vote_target_week": "2026-05-11",
+            "powell_nominal_term_expiry": "2026-05-15",
+            "powell_staying_until_warsh_confirmed": true,
+            "reconciliation_2_committee_deadline": "2026-05-15",
+            "ice_cbp_funding_target_billions": 70,
+            "trump_big_beautiful_bill_deadline": "2026-06-01",
+            "warsh_first_fomc": "2026-06-16"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "PNW remains dry through at least today; burn bans are going into effect across Oregon and Washington. Above-normal temperatures forecast through at least the week of May 11 continue daily soil moisture extraction and fuel drying ahead of June 1 east Cascades fire season onset — 26 days away. Oregon's measles outbreak continues to show wastewater detection in counties without any confirmed cases, the standard leading indicator of confirmed-case acceleration. Washington holds at 40 confirmed cases YTD; Oregon's confirmed count is growing with significant suspected undercounting. National confirmed US measles at 1,814 as of April 30. Super El Niño signal building; June 1 is the projected above-normal fire onset date.",
+      "items": [
+        {
+          "headline": "Burn Bans Going Into Effect Across Oregon and Washington; Dry Through Today; Above-Normal Temps Through Week of May 11; 26 Days to East Cascades Fire Season Onset",
+          "summary": "Burn bans are going into effect across Oregon and Washington as the region enters what is now effectively a pre-fire-season drying regime. The PNW forecast remains dry through at least today, May 6, with no meaningful precipitation in the extended outlook; above-normal temperatures are projected through the week of May 11. The combination of these conditions with Washington State's statewide snowpack at the 5th percentile of all years on record (53% of April median), seven of eleven Western states at near-zero snowpack, and the building super El Niño signal (NOAA projects El Niño emerging May-July) establishes a structurally high-risk fire environment entering the final pre-season window. NIFC projects above-normal fire potential east of the Cascades from June 1 — 26 days from today — with risk expanding westward through summer. Forest Service Region 6 pre-positioning capacity remains below pre-DOGE staffing baselines; the 459-community wildfire risk upgrade published in May 2026 has not yet been fully operationalized in pre-positioning decisions. AccuWeather projects 5.5 million acres burned nationally in 2026; Q1 2026 already recorded 1.6 million acres — more than double the 10-year average. The period from today through June 1 is the last pre-season window for meaningful pre-positioning and community-level preparedness improvement before above-normal fire potential becomes operational reality. Burn ban expansion is a direct indicator of the drying trajectory.",
+          "significance": "HIGH",
+          "actors": ["NWS Portland", "NWS Seattle", "NOAA", "NIFC", "Forest Service Region 6", "Washington DNR", "Oregon Department of Forestry", "BLM", "Oregon OEM"],
+          "metrics": {
+            "burn_bans_in_effect": true,
+            "pnw_dry_forecast_through": "2026-05-06",
+            "above_normal_temp_forecast_through": "week of 2026-05-11",
+            "nifc_above_normal_onset_east_cascades": "2026-06-01",
+            "days_to_fire_season_onset": 26,
+            "pnw_communities_upgraded_wildfire_risk": 459,
+            "wa_snowpack_pct_median": 53,
+            "wa_snowpack_historical_percentile": 5,
+            "western_states_near_zero_snowpack": 7,
+            "super_el_nino_signal": "building",
+            "q1_2026_acres_burned_millions": 1.6,
+            "q1_10yr_avg_multiplier": 2,
+            "accuweather_2026_total_projection_millions_acres": 5.5
+          }
+        },
+        {
+          "headline": "Oregon Measles: Wastewater Detection in Non-Reporting Counties — Confirmed Leading Indicator of Case Acceleration; WA at 40, National at 1,814; School-Year Spread Window Remains Open",
+          "summary": "The Oregon Health Authority's wastewater surveillance dashboard has confirmed measles virus detection in Oregon counties that have not yet reported any confirmed cases — the standard leading indicator of confirmed-case acceleration that typically precedes a surge in officially reported numbers by one to three weeks. OHA's explicit public statement that the disease 'is more widespread than the cases that have been reported' directly characterizes the severity of the undercounting gap. Oregon's confirmed case count is growing beyond the 20 confirmed as of April 22; state officials characterize the true count as 'significantly higher.' Washington State holds at 40 confirmed cases year-to-date — more than triple the full-year 2025 count of 12 — spanning 8 counties, with Kittitas County in formal outbreak status. National confirmed US measles cases reached 1,814 as of April 30, 2026; 93% of confirmed cases are outbreak-associated. The structural drivers are unchanged: below-threshold MMR vaccination coverage in affected communities, DOGE-related CDC surge capacity constraints, and school-year spread dynamics still in play through late May — the remaining school year is approximately six weeks. Bi-state combined confirmed count approaching 65-70 triggers state emergency declaration threshold review and school dismissal protocol consideration. The wastewater leading indicator in Oregon's non-reporting counties means that threshold could arrive faster than the official count currently suggests.",
+          "significance": "MEDIUM",
+          "actors": ["Oregon Health Authority", "WA State Department of Health", "CDC", "Kittitas County health officials", "Benton County health officials", "local school districts"],
+          "metrics": {
+            "wa_measles_2026_ytd": 40,
+            "wa_measles_2025_full_year": 12,
+            "wa_counties_affected": 8,
+            "or_wastewater_detection_non_reporting_counties": true,
+            "or_oha_official_characterization": "more widespread than reported",
+            "or_suspected_underreporting": true,
+            "us_national_confirmed_as_of_apr30": 1814,
+            "outbreak_associated_pct": 93,
+            "bi_state_emergency_threshold_confirmed": 65,
+            "school_year_remaining_weeks": 6
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 6, 2026 morning — Hormuz Day 67, Naval Blockade Day 24, Project Freedom Day 3 (PAUSED — 19 hours), WPA Day 7 Past Statutory Deadline. The operative signal this morning is the Axios exclusive: the US and Iran are 'closing in' on a one-page, 14-point memorandum of understanding to end the war — described by US officials as the closest the parties have been since hostilities began February 28. The MOU framework is the most substantive deal reporting of the conflict: named negotiators (Witkoff, Kushner), concrete terms (nuclear enrichment moratorium, HEU removal from Iran, IAEA snap inspections, sanctions relief, Hormuz normalization), and a 48-hour Iranian response window. The financial market has already priced a credible deal probability: Brent crude fell approximately 6% to $103.23, WTI fell approximately 7% to $95.22 — the largest single-day oil price drop of the conflict — while US equities rallied (Dow +509 points, S&P 500 +0.6%) and Asia-Pacific markets followed overnight. Complicating this signal on multiple vectors: Trump issued his sharpest public ultimatum this morning — 'the bombing starts' at 'much higher level and intensity' if Iran rejects the deal — simultaneously functioning as deal leverage and defining the failure mode; the IRGC announced 'new procedures' for Hormuz transit under IRGC-designated routes (info@PGSA.ir), asserting de facto sovereignty that directly conflicts with the MOU's Hormuz normalization clause; and the CMA CGM San Antonio, a French-operated container vessel, was struck by a land-based cruise missile on May 5 during the pause window — crew injured, UKMTO advisory issued — demonstrating Iranian land-based forces are not coordinated with the diplomatic track. Economically, ADP full April report releases tomorrow (Wednesday May 7), initial claims Thursday, and the BLS April jobs report Friday May 8 at 8:30am ET (consensus 133K, unemployment 4.3%); the ADP weekly deceleration biases the tail downward. Warsh confirmation on track for the week of May 11; Powell confirmed he'll remain until Warsh is confirmed. On infrastructure, CI Fortify Day 2 is active; the 72-hour cyber retaliation window closes approximately May 7; no updated CISA advisory. PNW: burn bans going into effect; region dry through today; above-normal temps through the week of May 11; super El Niño signal building; June 1 east Cascades fire onset is 26 days out; Oregon measles showing wastewater detection in non-reporting counties — the leading indicator of imminent confirmed-case acceleration. Vibe 4 — the highest of any morning brief in the active conflict period. The probability distribution has shifted meaningfully toward resolution. A signed MOU within 48 hours moves this to a 6. An Iranian rejection and Project Freedom resuming in a higher-hostility environment moves it back to 2. The 48 hours are the morning's entire premise.",
+  "watch_items": [
+    "Iranian response to the one-page MOU within 48 hours: the US expects Iran's response on key points by approximately May 8; any public or back-channel Iranian signal on the framework — acceptance, conditional acceptance, or rejection — is the highest-priority signal of the next 48 hours; Iranian Supreme National Security Council meeting statement or Foreign Ministry spokesperson characterization are the likely vehicles; silence by May 8 is itself a data point",
+    "Trump 'bombing starts' operationalization: watch for any CENTCOM readiness posture announcements or leaks indicating Project Freedom force positioning is being maintained for rapid resumption; a public military readiness signal would validate Trump's ultimatum as operationally real rather than rhetorical",
+    "IRGC 'new procedures' commercial uptake: are any non-US commercial vessels attempting Hormuz transit via info@PGSA.ir under IRGC procedures? Any successful non-US commercial transit — even under IRGC terms — would be a structural change in the blockade's commercial impact; any operator announcement of using IRGC procedures legitimizes IRGC transit authority as a deal precedent",
+    "CMA CGM San Antonio incident follow-through: watch for Iran's characterization of the strike, any follow-up UKMTO advisory, France's government response (French foreign minister statement would be significant), and Lloyd's war-risk premium adjustment for Hormuz; the French commercial casualty opens a new diplomatic pressure vector on the MOU negotiation",
+    "ADP full April employment report (Wednesday May 7): consensus approximately 133K; a print below 100K is a significant downside surprise that would reprice June FOMC rate-cut expectations and complicate the economic picture Warsh inherits; a print above 160K would be a positive surprise reducing downside urgency; the weekly deceleration (39,250/week average for April 11 period) biases toward the lower end of the range",
+    "Initial jobless claims (Thursday May 7): any print above 230K would compound the ADP deceleration and establish a downside narrative for Friday's BLS April jobs report; the combination of ADP and initial claims in a 24-hour window creates concentrated pre-BLS volatility risk Thursday morning",
+    "Cyber retaliation window closes ~May 7: the 72-hour post-Project Freedom-launch window closes tomorrow; watch for any IRGC Cyber Command or Handala-affiliated activity claims through Thursday; FINRA alert remains active; CI Fortify targeted assessments are underway — any CISA advisory update would represent a significant escalation signal",
+    "Burn ban expansion and Forest Service Region 6 pre-positioning: watch for expanded burn ban geography through this week and Forest Service Region 6 pre-positioning announcements for the June 1 east Cascades onset — 26 days from today; pre-positioning announcements are the proxy for operational preparedness confidence under below-DOGE staffing baselines",
+    "Oregon measles confirmed case count acceleration: OHA wastewater detection in non-reporting counties is the leading indicator; watch for OHA dashboard update showing new counties and confirmed case count growth; combined bi-state confirmed count approaching 65-70 triggers emergency declaration review and school dismissal protocol thresholds",
+    "Warsh Senate floor vote scheduling: watch for Senate majority leader Thune to announce a floor vote date for the week of May 11; any scheduling announcement eliminates the scheduling-gap risk and locks the timeline; any late-emerging Republican hold or Democratic procedural challenge risks a chair-less gap if Powell's nominal term expires before confirmation — mitigated by Powell's confirmation he will remain until Warsh is confirmed"
+  ],
+  "sources": [
+    "Axios - Exclusive: U.S. and Iran closing in on one-page memo to end war, officials say (May 6 2026)",
+    "Times of Israel - US, Iran said closing in on framework to end war; Trump warns 'bombing starts' if Tehran rejects proposal (May 6 2026)",
+    "CNN - Live updates: Iran war news; Trump warns that 'bombing starts' again if peace deal not reached (May 6 2026)",
+    "Al Jazeera - Iran war live: Trump threatens 'much higher level' attacks if no deal (May 6 2026)",
+    "Bloomberg - Trump Threatens Renewed Bombing if Iran Blocks Strait of Hormuz (May 6 2026)",
+    "Bloomberg - Trump Says US to Pause Guiding Ships While Seeking Iran Deal (May 5 2026)",
+    "ABC News - Iran live updates: Pakistan PM thanks Trump for pausing effort to 'guide' ships through strait (May 5-6 2026)",
+    "NPR - Iran says ships can pass Strait of Hormuz as Trump warns of bombings without a deal (May 6 2026)",
+    "Al Jazeera - Iran says Strait of Hormuz passage to be ensured after US pauses operation (May 6 2026)",
+    "PressTV - IRGC says it will allow 'safe, stable' transit via Hormuz with aggressor threats neutralized (May 6 2026)",
+    "PressTV - Iran activates new Strait of Hormuz transit system (May 5 2026)",
+    "News.az - Iran imposes new Hormuz transit rules as IRGC issues warning (May 2026)",
+    "WorldCargo News - Crew injured as CMA CGM ship comes under attack in Hormuz transit (May 2026)",
+    "Hellenic Shipping News - Cargo ship attacked within Strait of Hormuz on May 5: UKMTO (May 2026)",
+    "Arab News - French shipping firm says container ship hit in Strait of Hormuz, injuring crew (May 2026)",
+    "Newsweek - Cargo Ship Attacked Near Strait of Hormuz: What to Know (May 2026)",
+    "CNBC - Oil prices fall more than 6% as U.S. and Iran appear close to deal to end war (May 6 2026)",
+    "CNBC - Dow rises 400 points as oil retreats on Iran deal progress (May 5 2026)",
+    "Bloomberg - Latest Oil Market News and Analysis for May 6 (May 6 2026)",
+    "Time Magazine - Trump Pauses 'Project Freedom' in Hope of Deal With Iran (May 6 2026)",
+    "NBC News - Trump pauses 'Project Freedom' in Strait of Hormuz, citing progress on an Iran deal (May 5 2026)",
+    "CNBC - Trump pauses U.S. bid to guide ships out of Strait of Hormuz, cites Iran deal progress (May 5 2026)",
+    "CISA - CI Fortify initiative launch (May 5 2026)",
+    "Nextgov/FCW - CISA unveils CI Fortify to help secure critical infrastructure during conflicts (May 5 2026)",
+    "CyberScoop - CISA wants critical infrastructure to operate 'weeks to months' in isolation during conflict (May 5 2026)",
+    "Federal News Network - CISA tells critical organizations to prepare for cyber outages (May 5 2026)",
+    "CISA - AA26-097A: Iranian-Affiliated Cyber Actors Exploit PLCs Across US Critical Infrastructure (Apr 7 2026)",
+    "CISA - Iran Threat Overview and Advisories (2026)",
+    "CNBC - Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote (Apr 29 2026)",
+    "PBS NewsHour - Committee sends Kevin Warsh's nomination for Fed chair to full Senate vote (Apr 29 2026)",
+    "NPR - Jerome Powell to remain on Fed's board after stepping down as chair (Apr 29 2026)",
+    "BLS - Schedule of Releases for the Employment Situation (2026)",
+    "Seeking Alpha - What Surprises Investors Should Expect From April 2026's Jobs Report (May 2026)",
+    "NPR - Supreme Court paves the way for largest-ever drop in Black representation in Congress (Apr 30 2026)",
+    "NIFC - North American Seasonal Fire Assessment and Outlook, May through August 2026",
+    "AccuWeather - Wildfire forecast 2026: Fires likely to burn over 5.5 million acres (2026)",
+    "FOX 13 Seattle - Potential Super El Nino may raise Washington wildfire risk (2026)",
+    "Oregon Health Authority - Oregon reports measles outbreak; new wastewater dashboard tracks measles virus by county (2026)",
+    "Central Oregon Daily - Oregon declares measles outbreak as cases rise and virus detected in wastewater (2026)",
+    "KIRO 7 - WA reports 40 measles cases in 2026, more than triple all of 2025",
+    "CDC - Measles Cases and Outbreaks 2025-2026 dashboard",
+    "Wikipedia - 2026 Strait of Hormuz crisis",
+    "Wikipedia - Operation Project Freedom"
+  ]
+}
