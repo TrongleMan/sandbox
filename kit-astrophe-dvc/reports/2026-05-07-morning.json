@@ -1,0 +1,237 @@
+{
+  "report_id": "2026-05-07-morning",
+  "generated_at": "2026-05-07T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 68. This is the highest-vibe morning brief since before the February 28 air campaign — and the reasoning is narrow. The Strait of Hormuz MOU framework, first reported May 6 by Axios and confirmed by multiple outlets overnight, represents the most structurally concrete diplomatic mechanism since the conflict began. A 14-point, one-page memorandum is in active negotiation between Witkoff/Kushner and Iranian officials; it would declare an end to hostilities and open a 30-day window to finalize nuclear limits, Strait transit rules, and sanction relief. Iran is expected to respond today, May 7. That's not resolution — it's a live deadline in a deal-or-bomb framing Trump himself established ('if they don't agree, the bombing starts, and it will be at a much higher level'). The CMA CGM San Antonio was struck by cruise missile in the Strait on May 5, confirming that kinetics remain active even as diplomacy advances. Pakistan's foreign ministry says it is 'hopeful a deal can happen soon.' Macron called Pezeshkian this week to push for Strait traffic resumption and floated a multinational security mission. Iran established the 'Persian Gulf Strait Authority' May 5 — a formal administrative mechanism that reads either as institutional preparation for a negotiated opening or as a sovereignty-assertion hedge. The ambiguity is the point. On the domestic side: the week of May 11 is still the focal convergence. Warsh's path to Senate confirmation was cleared after Republican holdout Thom Tillis dropped his block when DOJ agreed to suspend a criminal probe into Fed HQ renovation cost overruns — a politically transactional clearance for the most important economic institutional appointment in years. The Senate Banking Committee voted 13-0 Republican, 0-11 Democrat — the first fully partisan Fed chair committee vote on record. Warsh confirmed before Powell's May 15 term expiration is now the base case. Reconciliation 2.0 (the $140B ICE/CBP enforcement bill) is still targeting a floor vote week of May 11, but NPR's May 6 reporting that the bill contains $1B for White House ballroom security has injected a political liability that could complicate Republican unity on final passage. In the PNW: the new seasonal forecast is the sharpest weather signal of the morning — well-below-normal precipitation and well-above-normal temperatures projected May through July across coastal and interior PNW, with the deepest precipitation deficits in the region. Combined with DOGE-degraded Forest Service fire science capacity and a drought baseline already elevated, this forecast materially raises fire pre-season risk. Vibe 4 — the MOU framework earns one point above recent briefs, but the deal-or-bomb deadline, live Strait kinetics, and structural conditions unchanged hold this below any comfort level.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — the highest since before the February 28 air campaign, and earned narrowly. The MOU framework is the most substantive diplomatic mechanism since the conflict began: a 14-point, one-page memorandum covering enrichment moratorium, sanction relief, and Strait reopening, with Iran expected to respond today. Both sides are described as 'moving toward' the memo by US and regional officials. That specificity — named envoys, named terms, named deadline — is categorically different from previous rounds of 'channel alive' signaling. Warsh's Senate confirmation path is cleared after Tillis dropped his hold; a fully confirmed Fed chair by May 15 removes one institutional uncertainty track. Against these positives: the CMA CGM San Antonio was struck by cruise missile May 5 — kinetics remain live even during the diplomatic push; Trump's simultaneous escalation threat ('bombing starts at a much higher level') is a pressure tactic with genuine operational weight; Iran's 'Persian Gulf Strait Authority' gambit could be sovereignty-assertion rather than deal prep; the Rec 2.0 $1B ballroom provision is a political liability emerging at the worst moment; and the PNW drought forecast (May-July, deepest regional deficits) is a slow-burn seasonal emergency building under radar. 4 reflects real diplomatic progress in a narrow window, not underlying stability. A favorable Iranian response today pushes to 5; a rejection or non-response pushes back toward 2."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 68; Naval Blockade Day 25. The diplomatic picture has shifted materially in the past 72 hours. A 14-point, one-page MOU framework covering nuclear enrichment moratorium, Strait of Hormuz reopening, and US sanctions relief is in active negotiation between Witkoff/Kushner and Iranian counterparts through direct and mediated channels. Iran is expected to respond today. Trump simultaneously issued an escalation threat: 'If they don't agree, the bombing starts, and it will be at a much higher level and intensity than it was before.' The May 5 cruise missile strike on the CMA CGM San Antonio confirms Strait kinetics remain active regardless of diplomatic track. France and Pakistan are engaged as secondary diplomatic actors. Iran established the 'Persian Gulf Strait Authority' on May 5, injecting formal administrative ambiguity into the Strait governance question. Approximately 1,600 ships remain stuck in the Strait. The War Powers 60-day clock expired May 1 with no congressional check (six failed votes).",
+      "items": [
+        {
+          "headline": "US-Iran Closing In on One-Page MOU to End War; Iran Response Expected Today May 7",
+          "summary": "Axios reported May 6, confirmed by CNN and Foreign Policy, that US envoys Steve Witkoff and Jared Kushner and Iranian officials are in advanced negotiations on a 14-point one-page memorandum of understanding that would declare an end to the conflict and open a 30-day negotiation window on a detailed agreement. Key MOU terms: Iran commits to a moratorium on nuclear enrichment; US lifts sanctions and releases frozen Iranian funds; both sides lift restrictions on Strait of Hormuz transit. In its current form the MOU would not resolve the nuclear program permanently — it would establish a negotiating framework. Iran's Foreign Ministry spokesperson Esmaeil Baghaei confirmed Iran is reviewing the US proposal and indicated a response is expected on May 7. Pakistan's foreign ministry said it is 'hopeful a deal can happen soon.' The framework is the most structurally concrete diplomatic mechanism since February 28. Whether Iran's response is yes, conditional, or no determines the next 24-72 hours entirely.",
+          "significance": "CRITICAL",
+          "actors": ["Steve Witkoff", "Jared Kushner", "Esmaeil Baghaei", "Masoud Pezeshkian", "Mojtaba Khamenei", "Oman back-channel", "Pakistan mediator", "Emmanuel Macron"],
+          "metrics": {
+            "hormuz_crisis_day": 68,
+            "naval_blockade_day": 25,
+            "ships_stuck_in_strait": 1600,
+            "mou_points": 14,
+            "negotiation_window_days": 30
+          }
+        },
+        {
+          "headline": "Trump: 'Bombing Starts at Much Higher Level' if No Deal; CMA CGM San Antonio Struck by Cruise Missile May 5",
+          "summary": "Trump issued an explicit escalation threat May 6: 'If they don't agree, the bombing starts, and it will be, sadly, at a much higher level and intensity than it was before.' This is a coercive-diplomacy framing designed to pressure Iranian acceptance of the MOU, but carries operational weight — US carrier strike groups and Air Force assets remain positioned in the region and the February air campaign demonstrated reach. The threat is paired with the May 5 cruise missile strike on the MV CMA CGM San Antonio in the Strait, which injured several crew members and confirmed Iran retains active Strait-denial capability even during the diplomatic window. Iran established the 'Persian Gulf Strait Authority' on May 5, a new administrative entity claiming regulatory authority over maritime transit — which reads as either institutional preparation for a negotiated reopening or a sovereignty-assertion hedge ahead of potential concessions.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "US CENTCOM", "Iran IRGC Navy", "CMA CGM", "Iran Foreign Ministry", "Persian Gulf Strait Authority"],
+          "metrics": {
+            "ship_struck_date": "2026-05-05",
+            "vessel_name": "CMA CGM San Antonio"
+          }
+        },
+        {
+          "headline": "Macron Calls Pezeshkian; Proposes Multinational Strait Security Mission; War Powers Breach Unchecked",
+          "summary": "French President Emmanuel Macron called Iranian President Masoud Pezeshkian this week and publicly called for resumption of Hormuz traffic, while floating the concept of a multinational mission to secure shipping in the Strait — a role France has played in similar contexts (Hormuz 2019 EMASOH mission). The French engagement adds a European diplomatic track that could provide face-saving architecture for Iranian acceptance of the MOU without framing it as capitulation to US-Israel military pressure. Separately, the War Powers Resolution 60-day statutory limit expired May 1 with no AUMF, no withdrawal, and six failed Senate resolutions. The administration remains in operating hostilities against Iran past the statutory deadline under the legally contested 'ceasefire pauses the clock' theory. No judicial challenge has yet produced an injunction.",
+          "significance": "MEDIUM",
+          "actors": ["Emmanuel Macron", "Masoud Pezeshkian", "Pete Hegseth", "US Senate", "NATO allies"],
+          "context": "Multinational security architecture for Strait reopening reduces the binary deal-or-bomb framing; gives Tehran cover to accept nuclear moratorium without appearing to capitulate to bilateral US pressure."
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Warsh's path to Senate confirmation was cleared May 4-5 after Republican holdout Thom Tillis dropped his nomination block following DOJ agreement to suspend a criminal probe into Fed HQ renovation cost overruns — a transactional political settlement for an institutional appointment. The Senate Banking Committee advanced Warsh 13-0 on Republican lines, 0-11 Democrat — the most partisan Fed chair committee vote on record. Full Senate floor vote is now expected the week of May 11, before Powell's May 15 term expiration. Warsh's confirmation hearings raised unresolved questions about Fed independence; his commentary on rate policy characterized as 'confusing' by market participants (CNBC May 4). Warsh inherits: PCE at 3.5%, GDP at 2.1%, FOMC 8-4 dissent, tariff-driven goods inflation documented at +3.1% in core goods, and a SCOTUS IEEPA tariff constitutionality ruling pending.",
+      "items": [
+        {
+          "headline": "Tillis Block Dropped; Warsh Senate Confirmation Now Locked for Week of May 11",
+          "summary": "The final Republican obstacle to Kevin Warsh's Senate confirmation was removed when Sen. Thom Tillis (R-NC) dropped his hold after the Department of Justice agreed to suspend, at least temporarily, a criminal investigation into cost overruns in the Federal Reserve's Washington headquarters renovation. The settlement of a DOJ probe as the price of a Senate confirmation is an unprecedented precedent for Fed chair nominations and reinforces the Fortune/Fortune-Sahm critique that the process was not normal. Senate Banking Committee advanced Warsh 13-0 Republican, 0-11 Democrat — the first fully partisan committee vote on a Fed chair nominee in the committee's history. Warren (D-MA) has announced she will vote no on the floor. With 53 Republican Senate seats and no current Republican holds, simple majority confirmation is the base case. Powell's term expires May 15; Warsh confirmation before that date is now expected.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Thom Tillis", "Elizabeth Warren", "Jerome Powell", "DOJ", "Senate Banking Committee", "FOMC"],
+          "metrics": {
+            "senate_banking_committee_vote": "13-0 Republican, 0-11 Democrat",
+            "confirmation_target_week": "2026-05-11",
+            "powell_term_expiration": "2026-05-15",
+            "republican_senate_seats": 53
+          }
+        },
+        {
+          "headline": "Warsh Independence Framing 'Confusing'; Inherits Stagflation with No Clean Policy Path",
+          "summary": "CNBC's May 4 coverage of Warsh's confirmation hearings characterized his articulation of Fed independence as 'met with confusion and some concern' among market participants and economists. Warsh's first FOMC meeting is expected June 16-17; he inherits a committee with an 8-4 dissent split, a PCE at 3.5% and core goods PCE up 3.1% from tariff transmission (per SF Fed documentation), GDP at 2.1%, and gas at approximately $4.30/gallon. There is no clean policy response: a rate cut validates inflation hawks' critique and risks accelerating PCE; a hold or hike suppresses already-below-consensus growth. The next May CPI print is the critical incoming data point. The SCOTUS IEEPA tariff authority case remains pending; a ruling invalidating IEEPA tariff authority would force immediate repricing of the trade architecture and create market disruption that would land on Warsh's desk his first week.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "FOMC", "SCOTUS", "US importers", "US consumers", "Jerome Powell", "Stephen Miran"],
+          "metrics": {
+            "pce_march_pct": 3.5,
+            "gdp_2026_pct": 2.1,
+            "core_goods_pce_tariff_increase_pct": 3.1,
+            "gas_national_avg_usd": 4.30,
+            "fomc_dissent_vote": "8-4",
+            "warsh_first_fomc_meeting": "2026-06-16"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "Iran-linked cyber threat posture from the April 8 CISA/FBI advisory remains active and unresolved; NERC is still in active monitoring mode. The grid's structural vulnerability is documented: approximately 50-80% of US grid control endpoints rely on PLCs — the exact attack vector CISA identified. No new confirmed incidents, but the absence of incidents during an active military confrontation reflects adversary operational choice, not reduced capability. PNW-specific: the Northwest Power Council is in active Ninth Power Plan resource strategy discussions (May-June meetings), with a draft plan targeted for July 2026 and final plan November — a planning cycle occurring against a backdrop of worsening drought forecasts, DOGE-degraded Forest Service capacity, and interconnection queue bottlenecks that limit PNW renewable additions.",
+      "items": [
+        {
+          "headline": "Iran Cyber Threat Unchanged; 50-80% of Grid Control Endpoints Exposed via PLC Attack Vector",
+          "summary": "NERC's active monitoring posture established in response to the April 8 CISA/FBI joint advisory has not been stood down. The advisory warned that Iran-linked hackers have been specifically targeting programmable logic controllers (PLCs) used in critical infrastructure — and PLCs control an estimated 50-80% of US grid substation automation and control endpoints. Q1 2026 recorded 1,305 cyber incidents across US critical infrastructure including 1,138 ransomware attacks, establishing a baseline of sustained adversary activity even before the Iran conflict's escalatory dynamic. No confirmed Iran-attributable PLC incidents have been publicly disclosed; however, absence of disclosure is not absence of activity in the US government's standard posture on critical infrastructure incidents.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI", "NERC", "Iran IRGC cyber", "US water utilities", "US energy operators"],
+          "metrics": {
+            "grid_endpoints_plc_dependent_pct_low": 50,
+            "grid_endpoints_plc_dependent_pct_high": 80,
+            "q1_2026_cyber_incidents": 1305,
+            "q1_2026_ransomware_attacks": 1138
+          }
+        },
+        {
+          "headline": "NW Power Council Ninth Plan Resource Discussions Active; Draft Plan July, Final November 2026",
+          "summary": "The Northwest Power and Conservation Council is conducting May and June meetings focused on resource optimization modeling for its Ninth Power Plan. Draft plan targeted for July 2026 adoption; final plan November. The modeling results are described as showing 'consistent themes across sensitivities' — indicating the key findings are robust to variable assumptions. The planning cycle is occurring during a degraded operating environment for PNW energy planning: DOGE-cut Forest Service fire science reduces input data quality for energy-demand fire risk scenarios; the drought forecast for May-July 2026 is the most severe recorded in years; and the interconnection queue bottleneck limits how quickly NW renewable capacity additions can be brought online to meet AI data center and electrification load growth.",
+          "significance": "MEDIUM",
+          "actors": ["Northwest Power and Conservation Council", "BPA", "Oregon PUC", "Washington UTC", "NW utilities", "AI data center operators"],
+          "context": "The Ninth Plan will set the resource adequacy framework for the Pacific Northwest through the early 2030s — a document of material consequence for grid reliability decisions being shaped during a severe information-environment degradation from DOGE cuts."
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "The week of May 11 remains the primary pressure concentration point. Senate returns from recess; Warsh confirmation floor vote; Reconciliation 2.0 ($140B ICE/CBP) floor vote — but NPR's May 6 reporting disclosed the bill contains $1B earmarked for White House ballroom security, injecting a political liability that complicates Republican unity messaging. The Trump administration filed at SCOTUS requesting approval for the mass federal layoff plan, escalating the DOGE constitutionality track. DOGE expires July 4, now 58 days out, with no reconstitution plan. The One Big Beautiful Bill (OBBBA), signed July 4, 2025, is the operative legislative architecture; Reconciliation 2.0 is the follow-on enforcement spending bill within that framework.",
+      "items": [
+        {
+          "headline": "Reconciliation 2.0 '$1B White House Ballroom' Disclosure Complicates Week-of-May-11 Floor Vote",
+          "summary": "NPR's May 6 reporting revealed that the $72B Senate immigration enforcement bill — the core of Reconciliation 2.0 — contains approximately $1B earmarked for security at Trump's private ballroom venue. Republican aides have characterized the line item as White House security spending, not personal benefit, but the optics land at the worst possible moment: the bill is heading toward a floor vote the week of May 11 with a June 1 presidential-desk target, and the disclosure gives any wavering Republican senator a visibility-cost argument for slowing the timeline. The overall bill structure — $70B each to Senate Homeland Security and Judiciary Committees — is unchanged. Committee chairmen are drafting toward the May 15 language deadline. A one-week delay in floor vote timing would compress hard against the June 1 goal.",
+          "significance": "MEDIUM",
+          "actors": ["Senate Republicans", "Senate Homeland Security Committee", "Senate Judiciary Committee", "ICE", "CBP", "Trump administration", "Senate Democrats"],
+          "metrics": {
+            "reconciliation_total_billions": 140,
+            "reconciliation_homeland_judiciary_each_billions": 70,
+            "ballroom_security_earmark_billions": 1,
+            "reconciliation_target_desk_date": "2026-06-01",
+            "reconciliation_floor_vote_target_week": "2026-05-11",
+            "language_deadline": "2026-05-15"
+          }
+        },
+        {
+          "headline": "Trump Administration Asks SCOTUS to Greenlight Mass Federal Layoff Plan; DOGE Expiration 58 Days Out",
+          "summary": "The Trump administration filed an emergency request at the Supreme Court to authorize the mass federal layoff plan affecting an estimated 300,000 positions, escalating the executive-authority track of the DOGE wind-down to the nation's highest court. The application is notable timing: DOGE expires July 4, 2026 — 58 days from today — with functions to be absorbed by OPM and no formal reconstitution plan announced. The SCOTUS request represents an attempt to establish legal cover for the layoff structure before the July 4 statutory expiration creates a de facto termination of authority. Several DOGE-implemented cuts — particularly to USAID and the Forest Service — are operating without clear statutory authorization pending the court's response.",
+          "significance": "MEDIUM",
+          "actors": ["Trump administration", "SCOTUS", "OPM", "DOGE", "Federal employee unions", "USAID", "Forest Service"],
+          "metrics": {
+            "doge_expiration_date": "2026-07-04",
+            "doge_days_to_expiration": 58,
+            "estimated_positions_eliminated": 300000
+          }
+        },
+        {
+          "headline": "Week of May 11 Structural Convergence: Senate Return, Warsh Vote, Reconciliation 2.0 Floor Vote",
+          "summary": "Three major institutional events remain on converging timelines for the week of May 11: Senate returns from recess; Kevin Warsh's full Senate confirmation vote (with confirmation now expected before Powell's May 15 expiration); and Reconciliation 2.0 floor vote ($140B ICE/CBP). The ballroom earmark disclosure and Warsh's contested independence framing are both live political liabilities entering the most structurally dense legislative week of the 119th Congress's second session. A one-track slip does not block the others, but each has its own whip-count and timing risk. The Powell-to-Warsh handoff is the least flexible: May 15 is a hard statutory date, not a legislative preference.",
+          "significance": "HIGH",
+          "actors": ["Senate Majority Leader", "Kevin Warsh", "Jerome Powell", "Senate Banking Committee", "Senate Republicans", "ICE", "CBP"],
+          "metrics": {
+            "warsh_confirmation_target_week": "2026-05-11",
+            "powell_term_end": "2026-05-15",
+            "reconciliation_floor_vote_target_week": "2026-05-11"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Two sharp local signals this morning. First: NOAA/ECMWF seasonal forecast for May-July 2026 shows well-below-normal precipitation and well-above-normal temperatures across coastal and interior Pacific Northwest, with PNW carrying the deepest precipitation deficits in the lower 48. This is a material fire pre-season risk signal arriving at the intersection of degraded Forest Service fire science capacity (DOGE cuts), elevated drought baseline, and the standard June elevated-fire-risk window. Second: the WA measles outbreak case count remains at 40 as of April 30, but the trajectory — triple 2025 in four months, Kittitas County outbreak declared, three cases with no known source — is not resolved. State Health Officer Kwan-Gett has characterized this as a 'new, more dangerous stage.' The NW Power Council's Ninth Plan process adds a positive planning note amid the threat signals.",
+      "items": [
+        {
+          "headline": "PNW Drought Forecast Severe May-July 2026: Deepest Precipitation Deficits in Region, Well-Above-Normal Temps",
+          "summary": "ECMWF seasonal modeling for May through July 2026 signals well-below-normal precipitation and well-above-normal temperatures across coastal and interior Pacific Northwest, with the deepest precipitation deficits in the lower 48 concentrated in the region. This forecast constitutes a significant fire pre-season risk elevation signal. The structural vulnerability is compounded: DOGE cuts to the Forest Service eliminated regional fire science capacity, degrading the data quality used to pre-position firefighting assets and pre-season risk modeling; soil moisture baselines are already below normal from a below-average 2025-26 winter snowpack; and the June elevated-fire-risk window begins in approximately three weeks. Oregon and Washington emergency management agencies are the lead response infrastructure operating against a degraded federal science-support backdrop.",
+          "significance": "HIGH",
+          "actors": ["NWS Portland", "ECMWF", "NOAA", "Oregon Emergency Management", "Washington Emergency Management Division", "Forest Service", "BLM", "state fire agencies"],
+          "metrics": {
+            "forecast_period": "May-July 2026",
+            "precipitation_outlook": "well-below-normal",
+            "temperature_outlook": "well-above-normal",
+            "regional_deficit_rank": "deepest in lower 48"
+          }
+        },
+        {
+          "headline": "WA Measles Still at 40 Cases, Triple 2025; 'New, More Dangerous Stage' per State Health Officer",
+          "summary": "Washington State's measles case count remains at 40 as of the April 30 reporting date — the last available official figure — with three cases having no known source of transmission, flagging possible undetected community spread. State Health Officer Dr. Tao Sheng Kwan-Gett described current conditions as a 'new, more dangerous stage of measles spread in Washington.' National US measles cases reached 1,814 confirmed as of April 30, with 93% outbreak-associated. Summer travel season and the upcoming FIFA World Cup 2026 (US-hosted) represent transmission amplification events. The Kittitas County outbreak declaration and the three no-known-source cases are the active watch indicators — an increase in either number would mark a clear escalation. No new WA DOH advisory has been issued since the April 30 data update.",
+          "significance": "HIGH",
+          "actors": ["WA State Department of Health", "Dr. Tao Sheng Kwan-Gett", "CDC", "Kittitas County health officials", "Spokane County health officials", "Tacoma-Pierce County Health Department"],
+          "metrics": {
+            "wa_cases_2026": 40,
+            "wa_cases_2025_full_year": 12,
+            "wa_counties_affected": 8,
+            "us_national_cases_2026": 1814,
+            "wa_cases_no_known_source": 3,
+            "outbreak_counties": ["Kittitas"]
+          }
+        },
+        {
+          "headline": "Portland ICE Facility: Court-Authorized Chemical Munitions Frame Still Active; No New Protests Confirmed",
+          "summary": "No new major protest activity at Portland's South Portland ICE facility has been confirmed in the 6 days since May Day. The April 27 federal appeals court ruling authorizing federal officers to deploy tear gas and chemical munitions at the facility remains operative standing law — not a one-time authorization. Operation Black Rose, the multi-month Portland immigration enforcement operation involving approximately 100 ICE agents, continues as the operational backdrop. The absence of protest activity in the immediate May Day aftermath does not represent a permanent reduction in civil tension; the court ruling has changed the legal landscape permanently and any follow-on demonstration will occur under that framework.",
+          "significance": "LOW",
+          "actors": ["ICE", "Portland protesters", "PCUN", "federal appeals court", "Portland Police Bureau", "OPB"],
+          "context": "Watch for any protest resurgence tied to Reconciliation 2.0 floor vote dynamics the week of May 11 — an immigration enforcement spending bill advancing through the Senate is a mobilization trigger for PNW immigration advocacy organizations."
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 7, 2026 morning — Hormuz Day 68, Naval Blockade Day 25. The Strait of Hormuz MOU framework is the lead story and the reason for the highest vibe score in this series since before the February 28 air campaign. Axios confirmed May 6, CNN and Foreign Policy corroborated: a 14-point, one-page memorandum covering nuclear enrichment moratorium, Strait transit restoration, and US sanction relief is in active negotiation through Witkoff/Kushner and Iranian counterparts. Iran is expected to respond today, May 7. If the answer is yes, even conditionally, this opens a 30-day structured negotiation that would materially change the economic and geopolitical picture — oil prices, shipping insurance, Gulf Arab posture, NATO bandwidth, and US domestic political positioning all move. If the answer is no or silent, Trump's 'bombing starts at much higher level' threat has explicit escalation architecture. The May 5 cruise missile strike on the CMA CGM San Antonio — happening simultaneously with MOU discussions — is the adversary communicating that Iran's military posture remains assertive regardless of diplomatic track. Iran's 'Persian Gulf Strait Authority' administrative creation is the same ambiguity: sovereignty-assertion hedge or institutional reopening prep. The watch window on May 7 is tight and consequential. On the domestic side: Warsh's path is cleared via a politically transactional DOJ probe suspension — an unusual precedent that cleared the final Senate obstacle. The 13-0/0-11 committee vote is the starkest institutional polarization marker in Fed history. Warsh inherits stagflation economics (PCE 3.5%, GDP 2.1%) with no clean rate policy response, a fractured FOMC, and a SCOTUS IEEPA tariff ruling that could restructure the trade architecture his first week in the chair. Reconciliation 2.0 is on track for week-of-May-11 floor vote but the $1B ballroom earmark is an avoidable political liability that could slip the timeline. In the PNW, the seasonal drought forecast is the morning's sharpest slow-burn signal: deepest precipitation deficits in the lower 48, May-July, arriving with degraded Forest Service science capacity and three weeks until the standard elevated-fire-risk window opens. The WA measles trajectory is not resolved; 1,814 national cases with summer travel and World Cup 2026 on the horizon is the amplification architecture. Vibe 4: the MOU framework earns the increment, but the deal-or-bomb deadline, structural stagflation, PNW drought conditions, and active Strait kinetics keep this well below stable.",
+  "watch_items": [
+    "Iran MOU response: expected today May 7 — yes, conditional, or rejection determines the next 24-72 hours entirely; watch Esmaeil Baghaei statements, Oman/Pakistan channel signals, and any Trump social media escalation language",
+    "Strait kinetics vs. diplomacy gap: CMA CGM San Antonio was struck May 5 while MOU discussions are active — watch for any additional ship strikes or IRGC actions that would complicate Iranian acceptance",
+    "Warsh Senate floor vote: week of May 11, before Powell May 15 expiration; base case is confirmation, but watch for any new holds or procedural objections given the DOJ probe suspension precedent",
+    "Reconciliation 2.0 ballroom earmark: $1B White House ballroom security line disclosed by NPR May 6 — watch for any Republican defections or calls to strip the provision before floor vote",
+    "SCOTUS IEEPA tariff ruling: still pending; a ruling striking down IEEPA tariff authority would be a market-disrupting economic shock landing directly on Warsh's first days as Fed chair",
+    "May CPI print: next inflation data point critical for framing Warsh's first FOMC (June 16-17); watch for any forward guidance from Fed governors this week",
+    "DOGE mass layoff SCOTUS request: emergency application pending; ruling would establish legal architecture for remaining DOGE-implemented cuts before July 4 expiration",
+    "PNW drought/fire pre-season: ECMWF May-July forecast is the sharpest seasonal signal since winter — watch soil moisture and snowpack runoff data as June risk window opens with degraded Forest Service capacity",
+    "WA measles case count update: next WA DOH update will confirm or complicate the 40-case baseline; watch for any school, congregate facility, or World Cup-related exposure events",
+    "Portland ICE facility: Reconciliation 2.0 floor vote week is a protest mobilization trigger — watch for advocacy organization activity in Portland and Seattle the week of May 11"
+  ],
+  "sources": [
+    "Axios - US, Iran closing in on one-page memo to end war, officials say (May 6 2026)",
+    "CNN - Live updates: Iran reviewing US proposal as source says both sides moving toward memo to end war (May 6 2026)",
+    "CNN - Live updates: US awaits Iran's response to latest proposal to end war (May 7 2026)",
+    "CNN - US and Iran closing in on agreement aimed at ending war, source says (May 6 2026)",
+    "CNBC - Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal (May 6 2026)",
+    "Foreign Policy - US Might Be Close to a Deal Ending War With Iran (May 6 2026)",
+    "WION - US, Iran close to reaching a deal? What we know about one-page memo to end war (May 6 2026)",
+    "NPR - Pakistan says it's hopeful a U.S.-Iran deal can happen soon (May 6 2026)",
+    "CBS News - Trump threatens Iran strikes, says too soon for new direct talks after reporting 'great progress'",
+    "CBS News - U.S. sinks 7 small Iranian boats as Iran launches attacks on UAE and ships in Strait of Hormuz",
+    "Wikipedia - 2026 Strait of Hormuz crisis",
+    "Wikipedia - 2026 Iran war ceasefire",
+    "House of Commons Library - Israel/US-Iran conflict 2026: Reopening the Strait of Hormuz",
+    "CNBC - Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote (Apr 29 2026)",
+    "Al Jazeera - Senate panel advances Kevin Warsh's nomination for US Fed chair (Apr 29 2026)",
+    "Bloomberg - Trump's Fed Chair Nominee Kevin Warsh Wins Key Senate Committee Vote (Apr 29 2026)",
+    "Washington Post - Senate panel advances Trump's pick for Federal Reserve chief (Apr 29 2026)",
+    "Fortune - 'This is not normal': Former Fed economist sounds alarm on Kevin Warsh after one-sided confirmation (Apr 30 2026)",
+    "CNBC - Warsh's take on Fed independence is met with confusion and some concern (May 4 2026)",
+    "NPR - Sen. Warren says she plans to vote no for Kevin Warsh as Fed chairman (Apr 29 2026)",
+    "CFR - A Fed Under Warsh: What the Confirmation Hearing Tells Us",
+    "NBC News - Trump administration asks Supreme Court to greenlight mass layoff plan; Senate looks to take up GOP megabill",
+    "NPR - Immigration enforcement bill contains $1B in White House ballroom security money (May 6 2026)",
+    "NLIHC - Senate Republicans Pass Budget Resolution Laying Groundwork for Reconciliation Bill to Fund ICE and CBP",
+    "Wikipedia - Department of Government Efficiency",
+    "CSIS - Iran Conflict Heightens Cyber Threats to U.S. Energy Infrastructure",
+    "Utility Dive - NERC is 'actively monitoring the grid' following Iran-linked cyber threat",
+    "Cyble - USA Critical Infrastructure Cyberattack Threats In 2026",
+    "PNNL - Grid Cybersecurity",
+    "Northwest Power and Conservation Council - Pacific Northwest electricity grid resource modeling 2026 (Apr 29 2026)",
+    "Cabarrus Weekly / ECMWF - Washington, Oregon, California, and the Pacific Northwest Face Dangerous Heat and Severe Drought From May Through July 2026",
+    "WA DOH - Measles cases Washington State 2026",
+    "WA DOH - Recent measles cases in Washington raise concern about undetected community spread",
+    "WA DOH - Measles remains a growing concern in Washington as US surpasses 1,100 cases in 2026",
+    "KOMO News - Measles exposure alert for Ellensburg school as Kittitas County hits outbreak status",
+    "Axios Seattle - Why Washington measles outbreak is likely to worsen (Mar 11 2026)",
+    "OPB - Federal appeals court grants unrestricted use of crowd control weapons at Portland ICE building (Apr 27 2026)",
+    "OPB - Portland immigration operation spanned months, included 100 ICE agents (Apr 15 2026)",
+    "San Francisco Fed - The Effects of Tariffs on the Components of Inflation (Mar 2026)",
+    "IMF - 2026 Article IV Consultation with the United States (Apr 1 2026)"
+  ]
+}

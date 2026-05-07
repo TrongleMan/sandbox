@@ -184,6 +184,16 @@
       "generated_at": "2026-05-06T20:00:00-07:00"
     },
     {
+      "id": "2026-05-07-morning",
+      "date": "2026-05-07",
+      "session": "morning",
+      "file": "reports/2026-05-07-morning.json",
+      "vibe": 4,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 68: MOU Framework Advancing, Iran Response Imminent; Trump Threatens Escalation if No Deal; Warsh Path Cleared; PNW Drought Forecast Severe May-July",
+      "generated_at": "2026-05-07T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-07-evening",
       "date": "2026-05-07",
       "session": "evening",
