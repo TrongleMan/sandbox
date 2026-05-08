@@ -1,0 +1,242 @@
+{
+  "report_id": "2026-05-08-morning",
+  "generated_at": "2026-05-08T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 69, Naval Blockade Day 26. The overnight picture is worse than last night's vibe-5 close, and the deterioration is specific. Bloomberg confirmed US-Iran clashes near the Strait in the early hours of May 8 — US forces struck Iranian military assets described as responsible for attacks on three US warships; CENTCOM reports no US vessels hit and Trump is still calling the ceasefire intact. But 'ceasefire intact' and 'overnight kinetics including warship-targeting attempts' are not compatible in any operational sense that matters. Iran's parliament simultaneously torched the MOU framing from two directions: Ebrahim Rezaei (Foreign Policy Committee spokesperson) called the Axios-reported proposal 'more of an American wish list than a reality' and said Iran 'will not obtain through a failed war anything they failed to gain in face-to-face negotiations.' Speaker Ghalibaf posted mockingly on social media — 'Operation Trust Me Bro failed' and 'Now back to routine with Operation Fauxios.' This is not the Iranian executive track, which remains in review mode, but it is the parliament signaling institutional resistance at the moment when an executive-track response is due. The divergence between executive channels (still reviewing) and legislative spokesmen (dismissive) is a structural complication, not noise. The MOU has not been formally rejected — but it has not been accepted, and the window is closing. Against this: the April 2026 BLS jobs report dropped at 5:30 AM PDT and it's a genuine beat. 177,000 nonfarm payrolls against a consensus of roughly 130,000; unemployment held at 4.2%. The labor market is not in the recession the April PCE trajectory suggested was imminent. That's a real positive — it gives Warsh cleaner incoming data for his first FOMC than he had any right to expect, and it materially reduces the near-term case for an emergency rate cut. Warsh's Senate confirmation floor vote remains locked for the week of May 11, before Powell's May 15 expiration. On the domestic side: Reconciliation 2.0's $1B ballroom security earmark is still unresolved and the language deadline is May 15 — same day Powell exits. The DOGE mass-layoff SCOTUS request is pending with no ruling timeline. In the PNW: Gov. Kotek's May 5-6 fire season briefing formalized what the ECMWF forecast already said — nine Oregon counties are already under drought emergency declarations, the fire season is projected to run June through October, and the snowpack baseline entering the season is record-low. Washington is in its fourth consecutive drought emergency, snowpack at roughly 50% of normal. CISA's CI Fortify initiative, launched May 5, is now the operative defensive framework for critical infrastructure in an active conflict — the guidance that entities should plan to operate 'weeks to months' in isolation reflects operational planning assumptions that have not previously been public. Vibe 4: the jobs beat is real, but the overnight Hormuz clash, parliament's parliamentary-track MOU dismissal, and the approaching Iran response deadline — still unanswered as of this writing — hold this below last night's close. The deal-or-bomb frame is intact, the kinetics are live, and the parliament's 'wish list' framing is the morning's lead complication.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — a one-point step back from last night's close of 5. The jobs beat (177K NFP, 4.2% UR) is the clearest positive signal of the morning: it exceeds consensus by roughly 47,000, holds the unemployment rate steady, and gives Warsh better incoming data than the stagflation baseline suggested. That earns the brief a point it would not otherwise have. Against it: Bloomberg confirmed overnight US-Iran clashes near Hormuz (warship targeting attempts, no hits per CENTCOM); Iran's parliament via Rezaei called the MOU 'an American wish list' and Ghalibaf mocked it publicly as 'Operation Fauxios'; the formal Iranian executive-track response is still pending and the window is narrowing. The executive-parliament divergence in Tehran is not a new pattern, but when it surfaces at the exact moment a critical diplomatic response is overdue, it is a bearish signal — it either reflects genuine internal discord that could prevent acceptance, or is deliberate pressure-testing of US patience before an eventual conditional yes. Neither reads as clean. The PNW fire season formalization (9 Oregon counties under emergency, WA drought year 4, snowpack 50% of normal) is a slow-burn structural negative that doesn't move the daily vibe but is building toward a June crisis window with degraded federal support. 4 is appropriate: a real economic positive offset by live Strait kinetics, a parliamentary track that is actively hostile to the MOU, and a response clock that is becoming embarrassing for the Iranian executive's credibility."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 69, Naval Blockade Day 26. Overnight US-Iran clashes near the Strait of Hormuz were confirmed by Bloomberg as May 8 opened — US forces struck Iranian military assets characterized as responsible for attacks on three US warships; CENTCOM says no US vessels were hit. Trump declared the ceasefire 'still in effect,' a characterization that coexists uneasily with active warship-targeting kinetics. Iran's parliament issued the sharpest public dismissal yet of the MOU framework: Foreign Policy Committee spokesperson Ebrahim Rezaei called the Axios-reported 14-point proposal 'more of an American wish list than a reality,' while Speaker Ghalibaf posted on social media mocking both the Axios report ('Operation Fauxios') and the diplomatic track ('Operation Trust Me Bro failed'). The Iranian executive channel — represented by Foreign Minister Baghaei and the Oman/Pakistan back-channels — remains in 'reviewing' mode without a formal response. Trump's 'bombing starts at much higher level' escalation threat issued May 6 remains in effect. Approximately 1,600 ships remain stuck in or near the Strait.",
+      "items": [
+        {
+          "headline": "Overnight Hormuz Clash: US Strikes Iranian Assets After Warship Attacks, CENTCOM Says No US Ships Hit",
+          "summary": "Bloomberg confirmed that US and Iranian forces clashed near the Strait of Hormuz overnight into May 8. US forces struck Iranian military assets that CENTCOM characterized as responsible for attacks on three US warships. CENTCOM says no US vessels were hit in the Iranian attack, and the Trump administration continues to characterize the ceasefire as in effect. The simultaneity of active warship-targeting kinetics and an ostensibly intact ceasefire framing is the central operational contradiction of the morning. The Strait remains closed to commercial transit with Project Freedom escort convoys the only authorized passage mechanism. The overnight clash demonstrates that Iranian Strait-denial operations continue on an operational tempo independent of the diplomatic track — consistent with the pattern since the February 28 air campaign began.",
+          "significance": "HIGH",
+          "actors": ["US CENTCOM", "Iran IRGC Navy", "Donald Trump", "US carrier strike group", "Bloomberg"],
+          "metrics": {
+            "hormuz_crisis_day": 69,
+            "naval_blockade_day": 26,
+            "ships_stuck_in_strait": 1600,
+            "us_warships_targeted": 3,
+            "us_vessels_hit": 0
+          }
+        },
+        {
+          "headline": "Iran Parliament: MOU Is 'American Wish List'; Ghalibaf Mocks 'Operation Fauxios'; Executive Track Still Reviewing",
+          "summary": "Iran's parliament issued its sharpest public rejection of the MOU framework to date. Ebrahim Rezaei, spokesperson for the parliament's Foreign Policy and National Security Committee, told media the 14-point proposal is 'more of an American wish list than a reality,' adding 'The Americans will not obtain through a failed war anything that they failed to gain in face-to-face negotiations.' Speaker Mohammad-Bagher Ghalibaf amplified the dismissal on social media, referring to the diplomatic track as 'Operation Trust Me Bro failed' and the Axios scoop as 'Operation Fauxios.' The Iranian parliament does not control foreign policy or final deal authority — that rests with Supreme Leader Khamenei and the executive track managed by Baghaei and the Oman channel. But parliamentary messaging at this volume and this timing, when a formal executive response is overdue, indicates either genuine internal discord or deliberate pressure-signaling ahead of a conditional acceptance. Neither is clean. Pakistan's foreign ministry continues to characterize itself as 'hopeful a deal can happen soon.'",
+          "significance": "HIGH",
+          "actors": ["Ebrahim Rezaei", "Mohammad-Bagher Ghalibaf", "Esmaeil Baghaei", "Ali Khamenei", "Steve Witkoff", "Jared Kushner", "Pakistan foreign ministry"],
+          "metrics": {
+            "mou_points": 14,
+            "formal_response_status": "pending — overdue",
+            "iran_parliament_position": "dismissive",
+            "iran_executive_position": "reviewing"
+          }
+        },
+        {
+          "headline": "MOU Framework Status: Deal-or-Bomb Clock Narrowing; Trump Escalation Threat Still Operative",
+          "summary": "As of the morning of May 8, Iran has not delivered a formal response to the US one-page MOU framework transmitted via Pakistan and Oman channels. The framework's key terms — nuclear enrichment moratorium, Strait of Hormuz reopening, US sanctions relief and frozen fund release — remain the basis of active negotiation per US officials. Trump's May 6 threat ('If they don't agree, the bombing starts, and it will be at a much higher level and intensity than it was before') has not been walked back. The 30-day negotiating window the MOU would open has not begun. France's proposed multinational Strait security architecture (floated by Macron in his call to Pezeshkian) remains on the table as a potential face-saving mechanism for Iranian acceptance. Times of Israel separately reports Saudi Arabia denied the US use of its airspace for potential Hormuz operations — a constraint that may have contributed to Project Freedom's pause on May 6 and that limits US escalation options if Iran rejects the MOU.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "Masoud Pezeshkian", "Ali Khamenei", "Steve Witkoff", "Jared Kushner", "Emmanuel Macron", "Saudi Arabia", "Pakistan mediator", "Oman back-channel"],
+          "context": "Saudi airspace denial is a new operational constraint confirmed by Times of Israel — limits the kinetic escalation architecture available to the US and may explain the Project Freedom pause. It also represents a Gulf Arab hedge against both US escalation and Iranian retaliation."
+        }
+      ]
+    },
+    "economic": {
+      "summary": "The April 2026 BLS jobs report dropped at 8:30 AM ET (5:30 AM PDT) and is a clear beat: 177,000 nonfarm payrolls against a consensus expectation in the 130,000 range; unemployment rate held at 4.2%. The labor market is not deteriorating at the pace the April PCE trajectory and Q1 GDP deceleration suggested. Job gains were led by healthcare, transportation/warehousing, and professional services. The beat is consequential for Warsh's incoming data environment: his first FOMC (June 16-17) now opens with a labor market that is cooling but intact, rather than the recessionary deterioration that would have forced his hand on rate policy. Warsh's Senate floor confirmation vote remains locked for the week of May 11 — before Powell's May 15 expiration — after the Banking Committee's 13-0/0-11 party-line advance. The SCOTUS IEEPA tariff ruling, which could restructure the trade architecture Warsh inherits, remains pending with no ruling timeline.",
+      "items": [
+        {
+          "headline": "April 2026 Jobs Report: 177K NFP Beat, 4.2% UR Holds — Labor Market Intact Despite Tariff Headwinds",
+          "summary": "The Bureau of Labor Statistics released the April 2026 Employment Situation at 8:30 AM ET on May 8. Nonfarm payrolls: 177,000 — meaningfully above consensus expectations and well above the recessionary sub-100K read that some models had flagged given Q1 GDP of 2.1% and PCE at 3.5%. Unemployment rate: 4.2%, unchanged, indicating no labor market slack acceleration. Job gains: healthcare, transportation/warehousing, professional services led. The beat is the strongest labor market signal since before the February 28 air campaign and materially reduces the near-term case for an emergency Fed rate cut. Markets opened on the beat; equity futures were positive pre-open. The data does not resolve the stagflation paradox — PCE at 3.5% and core goods at +3.1% from tariff transmission are not lower — but it removes the worst-case scenario (simultaneous inflation + labor collapse) from the immediate policy table.",
+          "significance": "HIGH",
+          "actors": ["Bureau of Labor Statistics", "Kevin Warsh", "FOMC", "Jerome Powell", "US workers", "US employers"],
+          "metrics": {
+            "april_nfp": 177000,
+            "april_unemployment_rate_pct": 4.2,
+            "pce_march_pct": 3.5,
+            "core_goods_pce_tariff_pct": 3.1,
+            "gdp_q1_2026_pct": 2.1,
+            "warsh_first_fomc": "2026-06-16"
+          }
+        },
+        {
+          "headline": "Warsh Confirmation Floor Vote Week of May 11 Locked; Powell Term Expires May 15",
+          "summary": "Kevin Warsh's Senate Banking Committee 13-0/0-11 advance — the most partisan Fed chair committee vote in history — sets up a full Senate floor confirmation vote the week of May 11, targeting completion before Jerome Powell's May 15 statutory term expiration. The clearance path was transactional: Thom Tillis dropped his hold after DOJ agreed to suspend the Powell HQ renovation probe. With 53 Republican seats and no active holds, simple majority confirmation is the base case. The April jobs beat gives Warsh a marginally cleaner incoming data picture than his confirmation hearings suggested — but he inherits a committee with an 8-4 dissent split, PCE at 3.5%, and a SCOTUS IEEPA ruling pending that could reprice the entire tariff-driven inflation architecture his first week in the chair.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Jerome Powell", "Thom Tillis", "Elizabeth Warren", "FOMC", "DOJ", "Senate Banking Committee"],
+          "metrics": {
+            "senate_banking_vote": "13-0 Republican, 0-11 Democrat",
+            "confirmation_target_week": "2026-05-11",
+            "powell_term_expiration": "2026-05-15",
+            "republican_senate_seats": 53,
+            "fomc_dissent_split": "8-4"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CISA's CI Fortify initiative — launched May 5 and covered in the May 6 evening brief — is now the operative public framework for critical infrastructure conflict-mode operation. The guidance asks water utilities, transportation sector entities, and other critical infrastructure operators to plan to operate in isolation from internet and third-party networks for 'weeks to months' during a geopolitical crisis. This is the most operationally explicit defensive posture guidance CISA has issued since the Iran conflict began. The underlying threat environment driving CI Fortify: Q1 2026 recorded 1,305 cyber incidents including 1,138 ransomware attacks; state-sponsored groups including Salt Typhoon (China), Volt Typhoon (China), and Iran-linked actors continue to target PLCs controlling 50-80% of US grid control endpoints. NERC remains in active monitoring. No confirmed Iran-attributable critical infrastructure incidents have been publicly disclosed — but the overnight Hormuz clash sharpens the potential for retaliatory cyber action.",
+      "items": [
+        {
+          "headline": "CISA CI Fortify Now Operative: 'Weeks to Months' Isolation Planning Required; Overnight Clash Raises Cyber Risk Window",
+          "summary": "CISA's CI Fortify initiative, released May 5, is now the operative public defensive guidance for US critical infrastructure operators. The two-objective framework — 'isolation' (proactive disconnection from third-party and business networks to protect operational technology) and 'recovery' (restoration planning assuming extended outages) — represents a significant escalation in defensive posture expectations for water utilities, energy operators, transportation entities, and local governments. The 'weeks to months' isolation planning horizon is the first public CISA guidance to assume adversary action could sustain infrastructure disruption at that duration. Overnight kinetics in the Strait of Hormuz (warship targeting attempts confirmed May 8) represent the kind of escalatory trigger that historically precedes retaliatory cyber action. Iran-linked actors have been specifically identified in the April 8 CISA/FBI advisory as targeting PLCs — the control endpoints for approximately 50-80% of US grid substation automation. The absence of confirmed incidents is not absence of adversary activity.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI", "NERC", "Iran IRGC cyber", "Salt Typhoon", "Volt Typhoon", "US water utilities", "US energy operators", "US transportation sector"],
+          "metrics": {
+            "q1_2026_cyber_incidents": 1305,
+            "q1_2026_ransomware_attacks": 1138,
+            "grid_plc_dependent_endpoints_pct_low": 50,
+            "grid_plc_dependent_endpoints_pct_high": 80,
+            "ci_fortify_launch_date": "2026-05-05",
+            "isolation_planning_horizon": "weeks to months"
+          }
+        },
+        {
+          "headline": "FBI: Cybercrime Losses Hit $21B; ODNI Flags China, Russia, Iran, North Korea as Escalating Critical Infrastructure Threats",
+          "summary": "The FBI's latest Internet Crime Report puts 2025-26 US cybercrime losses at $21 billion, with the critical infrastructure sector absorbing the highest-severity incident concentration. The ODNI's 2026 threat assessment specifically flags four nation-state actors — China (Salt Typhoon/Volt Typhoon), Russia, Iran, and North Korea — as presenting escalating threats to US critical infrastructure, with particular emphasis on pre-positioning in energy, water, and telecommunications sectors. The Salt Typhoon telecom penetration — documented in the prior year — established persistent access that has not been fully remediated across all carriers. The Iran kinetic-plus-cyber dual-track threat posture is the most operationally integrated adversary pattern CISA has publicly described in the current conflict environment.",
+          "significance": "MEDIUM",
+          "actors": ["FBI", "ODNI", "CISA", "Salt Typhoon", "Volt Typhoon", "Iran IRGC cyber", "US telecoms", "US energy sector"],
+          "metrics": {
+            "us_cybercrime_losses_billions": 21,
+            "nation_state_threats_identified": ["China", "Russia", "Iran", "North Korea"]
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "The week of May 11 is the highest-density convergence point in the 119th Congress's second session. Warsh confirmation vote (before Powell's May 15 expiration), Reconciliation 2.0 floor vote ($140B ICE/CBP), and DOGE SCOTUS mass-layoff request all land in the same week. The $1B White House ballroom security earmark in Reconciliation 2.0, disclosed by NPR May 6, has not been resolved — Republican aides characterize it as legitimate White House security spending but the political liability is live. The CBO posted its score of the Reconciliation 2.0 homeland/judiciary package on May 4. DOGE expiration on July 4 is 57 days out; the SCOTUS emergency request to authorize the mass federal layoff plan is pending with no ruling timeline.",
+      "items": [
+        {
+          "headline": "Week-of-May-11 Structural Convergence: Warsh Vote, Reconciliation 2.0 Floor, DOGE SCOTUS Request",
+          "summary": "Three major institutional events converge the week of May 11: Senate floor confirmation vote for Warsh (Powell expires May 15 — hard deadline); Reconciliation 2.0 floor vote ($140B ICE/CBP enforcement, targeting June 1 Presidential desk); and pending SCOTUS ruling on DOGE mass-layoff plan covering an estimated 300,000 federal positions. The Reconciliation 2.0 $1B ballroom security earmark remains in the bill; the language deadline is May 15 and committee chairmen are still drafting. A one-week slip in the Reconciliation timeline would compress hard against the June 1 Presidential-desk target. The DOGE SCOTUS request is the least time-bound but most legally consequential — authorization would establish legal cover for remaining DOGE-implemented cuts before the July 4 statutory expiration creates de facto termination of authority.",
+          "significance": "HIGH",
+          "actors": ["Senate Majority Leader", "Kevin Warsh", "Jerome Powell", "Trump administration", "SCOTUS", "DOGE", "OPM", "ICE", "CBP", "Senate Homeland Security Committee", "Senate Judiciary Committee"],
+          "metrics": {
+            "warsh_confirmation_target_week": "2026-05-11",
+            "powell_term_expiration": "2026-05-15",
+            "reconciliation_total_billions": 140,
+            "reconciliation_desk_target": "2026-06-01",
+            "reconciliation_language_deadline": "2026-05-15",
+            "ballroom_earmark_billions": 1,
+            "doge_expiration_date": "2026-07-04",
+            "doge_days_to_expiration": 57,
+            "federal_positions_under_layoff_plan": 300000
+          }
+        },
+        {
+          "headline": "April Jobs Beat Changes Week-of-May-11 Political Optics — But Not the Legislative Arithmetic",
+          "summary": "The 177K April payroll beat gives Trump a legitimate labor market data point heading into the most consequential legislative week of the session. It does not change the Reconciliation 2.0 whip count, the Warsh vote arithmetic, or the DOGE legal situation — but it removes the worst-case backdrop (recession-adjacent labor data during a mid-session legislative push) that would have created maximum political vulnerability. Republican senators facing difficult Reconciliation 2.0 votes (ballroom earmark, Medicaid provisions) can no longer point to a deteriorating jobs market as cover for defection. The beat is a net positive for the Trump administration's legislative positioning heading into the week of May 11.",
+          "significance": "MEDIUM",
+          "actors": ["Trump administration", "Senate Republicans", "Bureau of Labor Statistics"],
+          "context": "Jobs data does not change any vote arithmetic, but it removes a political-cover argument for wavering Republican senators at a moment when the administration needs maximum unity on Warsh, Reconciliation 2.0, and the DOGE legal posture simultaneously."
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Oregon's fire season is now formally a warning-level institutional response: Gov. Kotek's May 5-6 briefings confirmed nine counties under drought emergency declarations, a fire season projected to run June through October (versus a typical July through September window), and record-low snowpack entering the season. Washington is in its fourth consecutive drought emergency with snowpack at roughly 50% of normal. The ECMWF May-July 2026 seasonal forecast — well-below-normal precipitation, well-above-normal temperatures, deepest deficits on the Pacific Coast corridor — is the baseline, not a tail risk. Washington measles remains at 40 cases as of April 30 (the last official update), with 3 cases of no known source and 8 counties affected. The upcoming summer travel season and FIFA World Cup 2026 (US-hosted) are amplification risk vectors. No new WA DOH advisory since the April 30 reporting date.",
+      "items": [
+        {
+          "headline": "Oregon Fire Season Formally Elevated: 9 Counties Under Emergency, June-October Duration Projected, Record-Low Snowpack",
+          "summary": "Governor Tina Kotek held a comprehensive wildfire briefing on May 5-6 with Oregon Department of Forestry, OEM, and state fire marshal leadership, formalizing the 2026 fire season threat assessment. Key findings: nine Oregon counties are already under drought emergency declarations; the fire season is projected to begin in June and run through October — a one-to-two-month extension of the typical window on both ends; snowpack entering the season is at record-low levels; and an emerging El Niño pattern could add warmer-drier-wetter thunderstorm dynamics through fall. Oregon has more than 700 ODF crews pre-positioned. The state is operating against a degraded federal fire science support backdrop: DOGE cuts to Forest Service eliminated regional fire science capacity that historically informs asset pre-positioning and risk modeling. Kotek declared May 2026 as Wildfire Awareness Month — a public communications vehicle, not an emergency declaration. The nine-county drought emergency is the operative legal instrument.",
+          "significance": "HIGH",
+          "actors": ["Gov. Tina Kotek", "Oregon Department of Forestry", "Oregon Emergency Management", "Forest Service", "NOAA", "ECMWF", "BLM"],
+          "metrics": {
+            "oregon_counties_drought_emergency": 9,
+            "fire_season_projected_start": "June 2026",
+            "fire_season_projected_end": "October 2026",
+            "odf_crews_prepositioned": 700,
+            "snowpack_vs_normal_pct": "record low",
+            "ecmwf_precip_outlook": "well-below-normal May-July",
+            "ecmwf_temp_outlook": "well-above-normal May-July"
+          }
+        },
+        {
+          "headline": "Washington Drought Year 4: 50% Snowpack, Statewide Emergency Declared; PNW Carries Deepest Precipitation Deficits in Lower 48",
+          "summary": "Washington has declared a statewide drought emergency for the fourth consecutive year. Snowpack is at approximately 50% of normal levels and melting ahead of the historical curve, compressing the runoff window that sustains late-summer streamflows for agriculture, fish, and hydroelectric generation. The ECMWF seasonal modeling for May through July 2026 shows the Pacific Coast corridor — coastal British Columbia, Washington, Oregon — carrying the deepest precipitation deficits in the contiguous United States, with anomalies reaching as deep as -3.98 inches below normal for the three-month period. The four-year consecutive drought emergency is the structural baseline; this year's snowpack deficit amplifies it. BPA hydroelectric output — a critical low-cost power source for the PNW grid — will face generation constraints as reservoir levels decline into late summer, adding pressure to NW Power Council planning assumptions for the Ninth Power Plan.",
+          "significance": "HIGH",
+          "actors": ["Washington Governor", "Washington Emergency Management Division", "ECMWF", "NOAA", "BPA", "Oregon Department of Water Resources", "NW Power Council"],
+          "metrics": {
+            "wa_drought_emergency_consecutive_years": 4,
+            "wa_snowpack_vs_normal_pct": 50,
+            "pnw_precip_deficit_max_inches_below_normal": 3.98,
+            "forecast_period": "May-July 2026",
+            "pnw_deficit_rank_in_lower_48": "deepest"
+          }
+        },
+        {
+          "headline": "WA Measles at 40 Cases, 8 Counties, 3 No-Known-Source; No New DOH Update Since April 30",
+          "summary": "Washington State measles remains at 40 confirmed cases across eight counties as of the April 30 reporting date — the last official WA DOH update. Three cases have no known source of transmission (two in Kittitas County, one in Spokane County), flagging possible undetected community spread. The Kittitas County cluster meets the outbreak definition (three or more related cases). Dr. Tao Sheng Kwan-Gett characterized conditions as a 'new, more dangerous stage' of measles spread in Washington — language that has not been updated or retracted since issuance. National US measles cases reached 1,814 as of April 30, with 93% outbreak-associated. The summer travel season beginning in June and FIFA World Cup 2026 (US-hosted, multiple stadium venues) are the two near-term transmission amplification events. The key watch indicator is whether any new no-known-source case appears outside Kittitas and Spokane counties, which would confirm wider undetected community spread. No new WA DOH advisory has been issued since April 30.",
+          "significance": "MEDIUM",
+          "actors": ["WA State Department of Health", "Dr. Tao Sheng Kwan-Gett", "CDC", "Kittitas County health officials", "Spokane County health officials"],
+          "metrics": {
+            "wa_cases_2026": 40,
+            "wa_cases_2025_full_year": 12,
+            "wa_counties_affected": 8,
+            "wa_cases_no_known_source": 3,
+            "us_national_cases_2026": 1814,
+            "last_wa_doh_update": "2026-04-30",
+            "outbreak_counties": ["Kittitas"]
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 8, 2026 morning — Hormuz Day 69, Naval Blockade Day 26. The morning opens worse than last night's close. Vibe 5 on May 7 evening was driven by the MOU's apparent proximity to an Iranian response. What arrived instead, overnight and into this morning: Bloomberg-confirmed US-Iran clashes near the Strait (warship-targeting attempts, CENTCOM says no hits); Iran's parliament via Rezaei calling the MOU 'an American wish list'; Speaker Ghalibaf publicly dismissing the Axios reporting as 'Operation Fauxios'; and still no formal Iranian executive-track response. The executive-parliament divergence is the structural ambiguity — Khamenei's executive track is technically still reviewing, while the legislative track is mounting institutional resistance. The 30-day negotiating window the MOU would open has not yet begun. Trump's 'bombing starts at much higher level' escalation threat remains operative. Saudi Arabia's airspace denial (Times of Israel) is a new operational constraint that limits US kinetic options if the MOU is rejected. Against this: the April BLS jobs report is a genuine beat. 177,000 nonfarm payrolls — well above consensus — and unemployment holding at 4.2% confirm the labor market is not in the recession trajectory that the PCE and GDP data alone suggested. This matters for Warsh's incoming environment: his first FOMC opens with a cooling-but-intact labor market rather than the stagflation-plus-collapse scenario. Warsh's confirmation floor vote is locked for the week of May 11, before Powell's May 15 expiration. On the domestic side: Reconciliation 2.0 is heading toward a floor vote with the $1B ballroom earmark unresolved and the language deadline coinciding with Powell's exit. The DOGE mass-layoff SCOTUS request is pending. CISA's CI Fortify initiative is now the operative public defensive framework for conflict-mode infrastructure operation — the 'weeks to months' isolation planning horizon reflects assumptions about adversary sustained-attack capability that have not previously been public doctrine. In the PNW: Oregon's fire season is formally elevated with nine counties under emergency declarations, a June-October duration projection, and record-low snowpack. Washington is in drought year four at 50% snowpack. The ECMWF forecast for May through July — deepest precipitation deficits in the lower 48 — is structural reality, not a forecast to discount. Measles holds at 40 cases with no new data since April 30; the summer travel and World Cup amplification architecture is three weeks from activation. Vibe 4: the jobs beat is the morning's only clean positive, partially offsetting overnight Strait kinetics, parliamentary MOU dismissal, a response clock that's now embarrassingly overdue for the Iranian executive, and PNW fire-season conditions that are formalizing faster than the federal support architecture can absorb.",
+  "watch_items": [
+    "Iran MOU formal response: overdue as of this morning — watch Baghaei statements, Oman/Pakistan channel signals, and any Trump social media escalation language indicating the 48-hour window has closed",
+    "Iran parliament vs. executive-track divergence: Rezaei 'wish list' + Ghalibaf 'Fauxios' vs. Baghaei 'reviewing' — watch for any Khamenei-level signal that resolves the public split",
+    "Overnight Hormuz clash fallout: Bloomberg confirmed warship-targeting kinetics — watch CENTCOM for full incident report and any Iranian claims of responsibility or denial",
+    "Saudi Arabia airspace denial: Times of Israel confirms SA denied US airspace use for Hormuz ops — watch for any US diplomatic response or rerouting announcements that reveal operational constraint",
+    "April jobs market interpretation: 177K NFP beat changes Warsh incoming data picture — watch Fed governor commentary and Warsh pre-confirmation statements for any rate guidance signaling",
+    "Warsh Senate floor vote: week of May 11, before Powell May 15 expiration — watch for any procedural holds or Warren-led Democratic floor tactics",
+    "Reconciliation 2.0 $1B ballroom earmark: language deadline May 15 — watch for any Republican senator calls to strip the provision that could complicate floor vote timing",
+    "DOGE mass-layoff SCOTUS request: emergency application pending — a ruling this week would land simultaneously with Warsh vote and Reconciliation floor vote",
+    "SCOTUS IEEPA tariff ruling: still pending; a strike-down would reprice trade architecture and land on Warsh's desk his first week as Fed chair",
+    "Oregon fire season: 9 counties emergency, June season open — watch for any early ignition events in eastern Oregon or Cascades foothills that test the ODF crew pre-positioning",
+    "WA measles next DOH update: watch for any new no-known-source case outside Kittitas/Spokane that confirms wider undetected spread; World Cup venue exposure events a secondary watch",
+    "PNW drought/hydro: BPA reservoir levels through May — declining snowpack melt rate signals late-summer hydroelectric constraint building under radar"
+  ],
+  "sources": [
+    "Bloomberg - Iran, US Involved in Hormuz Clashes With Deal Response Awaited (May 8 2026)",
+    "Times of Israel - Senior Iranian MP dismisses reported proposal to end war as 'American wish list'",
+    "Times of Israel - Trump reportedly paused Hormuz op after Saudis denied use of airspace; US awaits Iran deal response",
+    "Time Magazine - US and Iran Offer Mixed Messages on Deal to End War (May 7 2026)",
+    "Al Jazeera - What are US proposals to end war, and will Iran agree to them? (May 7 2026)",
+    "Al Jazeera - Has the US accepted Iran's demand to settle Hormuz first, nuclear later? (May 6 2026)",
+    "Al Jazeera - Trump says war will be 'over quickly' as Iran reviews US peace proposal (May 6 2026)",
+    "Axios - US, Iran closing in on one-page memo to end war, officials say (May 6 2026)",
+    "CNN - Live updates: US awaits Iran's response to latest proposal to end war (May 7 2026)",
+    "CNBC - Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal (May 6 2026)",
+    "NPR - Pakistan says it's hopeful a U.S.-Iran deal can happen soon (May 6 2026)",
+    "BLS - Employment Situation News Release 2026 M04 Results (May 8 2026)",
+    "CNBC - Jobs report April 2026 (May 8 2026)",
+    "Kiplinger - April Jobs Report Shows Labor Market Remains Steady (May 8 2026)",
+    "Staffing Industry Analysts - April 2026 US Jobs Report (May 8 2026)",
+    "CNBC - Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote (Apr 29 2026)",
+    "Wolf Street - Senate Confirmation of Warsh Gets Unstuck as DOJ Ends Powell Investigation (Apr 24 2026)",
+    "CISA - CI Fortify initiative announcement (May 5 2026)",
+    "CyberScoop - CISA wants critical infrastructure to operate 'weeks to months' in isolation during conflict (May 5 2026)",
+    "AHA News - CISA announces initiative to bolster critical infrastructure against nation-state cyberattacks (May 6 2026)",
+    "Federal News Network - CISA tells critical organizations to prepare for cyber outages (May 2026)",
+    "Industrial Cyber - FBI reports cyber threats to critical infrastructure intensify; cybercrime losses hit $21 billion",
+    "CBO - Reconciliation Legislation Homeland Security/Judiciary as posted May 4 2026",
+    "NBC News - Trump administration asks Supreme Court to greenlight mass layoff plan",
+    "NPR - Immigration enforcement bill contains $1B in White House ballroom security money (May 6 2026)",
+    "The Hill - This week: Senate takes first steps on reconciliation 2.0",
+    "KTVZ - Gov. Tina Kotek warns of potentially severe 2026 wildfire season amid drought, low snowpack (May 5 2026)",
+    "KPTV - Gov. Kotek, fire officials warn of 'challenging' 2026 fire season (May 6 2026)",
+    "Central Oregon Daily - Oregon wildfire season expected to be severe, last into fall (2026)",
+    "OPB - Oregon faces longer fire season due to historic heat, drought, fire experts warn (May 6 2026)",
+    "Cabarrus Weekly / ECMWF - Washington, Oregon, California, and the Pacific Northwest Face Dangerous Heat and Severe Drought From May Through July 2026",
+    "Axios Seattle - Washington drought, El Niño raise wildfire fears (Apr 14 2026)",
+    "NIFC - June 2026 Outlook Period May through August (predictive services monthly outlook)",
+    "WA DOH - Measles cases Washington State 2026",
+    "WA DOH - Recent measles cases in Washington raise concern about undetected community spread",
+    "MyNorthwest - 'We are entering a new, more dangerous stage': WA reports 40 measles cases in 2026",
+    "Wikipedia - 2026 Strait of Hormuz crisis"
+  ]
+}
