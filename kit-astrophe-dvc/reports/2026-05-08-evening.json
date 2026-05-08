@@ -1,0 +1,301 @@
+{
+  "report_id": "2026-05-08-evening",
+  "generated_at": "2026-05-08T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 69; Naval Blockade Day 27; Project Freedom Paused (Pause Day 3); WPA Day 9 Past Statutory Deadline. The evening brief for May 8, 2026 is defined by two simultaneous developments that pull in opposite directions: a decisive labor market beat and a stalled Iranian response. The BLS April Employment Situation (8:30am ET) printed 177,000 net new nonfarm payrolls and an unemployment rate of 4.2% — unchanged from March and one-tenth of a point below the 4.3% consensus. The 177K headline beat the 133K consensus by 44,000, the largest positive surprise since the crisis began. Health care led at +50,600; state and local governments added 19,000. Federal government employment declined. Prior months were revised down 52,000 — a consistent pattern of BLS revisions reducing official monthly gains. Wage growth decelerated; the share of unemployment attributable to voluntary quits fell to 11.8%, unusually low for a 4.2% unemployment rate, suggesting workers are less confident in their ability to find alternative employment. The headline beat signals the April labor market held structural resilience despite the Hormuz oil shock, tariff uncertainty, and federal workforce reductions — it removes the immediate sub-100K downside tail scenario and stabilizes Warsh's incoming policy baseline. On the geopolitical front, the 48-hour Iranian response window that opened May 6 expired today, May 8, without a formal Iranian counter-proposal or acceptance transmitted through the Pakistan back-channel. Mixed signals continue: Iran's Foreign Ministry spokesperson confirmed Iran is still reviewing the US proposal and will relay its position via Pakistan — but Iran's parliament foreign policy spokesman Ebrahim Rezaei publicly dismissed the Axios MOU scoop as 'more of an American wish list than a reality,' and a member of the Expediency Council separately demanded US reparations for damage done to Iran as a precondition for any deal. The US position, per ABC News and Jerusalem Post sourcing, is one of active waiting: 'the US is waiting for Iran's response.' Project Freedom remains paused (Pause Day 3). No new Iranian missile or drone attacks on UAE or third-party vessels were confirmed today. No IRGC or Handala-attributed destructive cyberattack on US critical infrastructure was confirmed. Oregon officially declared its 2026 fire season effective 12:01am PDT today, May 8 — a structural marker triggering statewide fire danger protocols. Burn bans remain in effect across Portland metro, BLM PNW lands, and Central Oregon forest units. Vibe 5.",
+  "vibe": {
+    "score": 5,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 5, held from yesterday. The jobs beat (177K vs 133K consensus, 4.2% unemployment vs 4.3% consensus) is the clearest positive signal of the day and removes the most acute downside macro risk that defined last night's watch list: a sub-100K print would have materially repriced recession risk into a market already stretched by deal optimism. That scenario did not materialize; the economy added jobs at a respectable pace across health care, services, and state/local government despite the compounding pressures of the oil shock, tariff headwinds, and federal workforce cuts. The vibe is not 6 because the dominant variable — Iranian response — worsened marginally today. The 48-hour response window expired without a formal answer transmitted via Pakistan. Iran's domestic messaging is openly skeptical: the parliament's foreign policy spokesman called the Axios MOU framework an 'American wish list,' and the Expediency Council member's reparations demand signals at minimum that Iran's internal consensus process is contested and slow. The US remains in a posture of waiting, which is not the same as a deal being close. The structural deal logic — Iran's nuclear moratorium duration, Hormuz transit, sanctions relief, frozen funds — has not changed; what has changed is the timeline. Project Freedom remains paused, which preserves the diplomatic window but also means the naval blockade (Day 27) is unchanged, 23,000+ sailors remain stranded, and no commercial vessel is moving through Hormuz under US escort. The cyber retaliation window extended past 72 hours without an IRGC destructive attack — a continuing positive that reflects either diplomatic restraint or successful US defensive posture, with the caveat that IRGC timing is not constrained by a strict window. Oregon's formal fire season declaration today (effective 12:01am PDT May 8) is a structural PNW stress marker. Vibe 5: stabilized labor market offsets diplomatic stall; no escalation is the operative condition, but no deal is either."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 69; Naval Blockade Day 27; Project Freedom Paused (Pause Day 3). The 48-hour Iranian response window that opened May 6 expired today without a formal Iranian counter-proposal transmitted via Pakistan. Iran's Foreign Ministry remains in 'review' mode; Iran's parliament foreign affairs spokesman publicly dismissed the Axios MOU framework as an 'American wish list'; an Expediency Council member demanded reparations as a precondition. The US is actively waiting. No new Iranian strikes on UAE or third-party vessels confirmed today. Iran's internal signaling remains divided: negotiating-track officials (Foreign Ministry) speak carefully, hardline institutions (parliament, Expediency Council) publicly undercut. The structural MOU parameters — nuclear moratorium (probable landing 12yr), Hormuz transit restoration, US sanctions lift and frozen funds release — remain unchanged. Pakistan's intermediary role continues.",
+      "items": [
+        {
+          "headline": "48-Hour Iranian Response Window Expires Without Answer; Foreign Ministry Says Still Reviewing; Parliament Calls MOU 'American Wish List'; Expediency Council Demands Reparations",
+          "summary": "The 48-hour window for Iran's formal response to the US MOU proposal, expected by May 8–9 per US officials' statements on May 6, expired today without a formal Iranian counter-proposal or acceptance conveyed through the Pakistan intermediary channel. Iran's Foreign Ministry spokesperson Esmaeil Baqaei confirmed the proposal remains under review: 'After summing up its points of view, Iran will convey its views to the Pakistani side.' However, the Iranian parliament's foreign policy and national security committee spokesman Ebrahim Rezaei publicly dismissed the Axios MOU framework as 'more of an American wish list than a reality,' the strongest on-record Iranian domestic rejection of the deal parameters. Separately, a member of Iran's Expediency Council stated that the US must pay reparations for damage done to Iran as a precondition for any agreement — a demand not present in the original 14-point Iranian proposal transmitted via Pakistan on April 30. The US posture, per ABC News and Jerusalem Post sourcing, is explicitly that of waiting: 'the US is waiting for Iran's response.' The window extending past 48 hours does not necessarily indicate collapse — Iran's internal deliberative process, particularly the need to reconcile Foreign Ministry, IRGC, and Expediency Council positions, is structurally slow — but it confirms that the deal is not imminent. Project Freedom remains paused (Pause Day 3). The naval blockade of Iranian ports remains in full force. No new Iranian strikes on UAE, Saudi Arabia, or third-party vessels were confirmed for May 8.",
+          "significance": "CRITICAL",
+          "actors": ["Esmaeil Baqaei", "Ebrahim Rezaei", "Iran Expediency Council", "Pakistan back-channel", "Donald Trump", "Marco Rubio", "Pete Hegseth", "CENTCOM", "Iran IRGC"],
+          "metrics": {
+            "hormuz_closed_days": 69,
+            "naval_blockade_active_days": 27,
+            "project_freedom_status": "PAUSED",
+            "project_freedom_pause_day": 3,
+            "iran_response_48hr_window_expired": true,
+            "formal_iran_counter_proposal_received": false,
+            "iran_fm_status": "reviewing",
+            "iran_parliament_dismissal": true,
+            "iran_expediency_council_reparations_demand": true,
+            "pakistan_channel_active": true,
+            "new_iranian_strikes_on_uae_may8": false,
+            "sailors_stranded": 23000,
+            "nations_with_stranded_vessels": 87,
+            "mou_nuclear_moratorium_probable_landing_years": "12",
+            "mou_framework_source": "Axios (May 6, 2026)"
+          }
+        },
+        {
+          "headline": "Project Freedom Remains Paused Day 3; No New Naval Incidents; Iran Claims Hormuz Can Be Ensured; US Awaits Answer",
+          "summary": "Project Freedom entered its third consecutive day of pause on May 8. No new US military escort missions were conducted through the Strait of Hormuz. No new confirmed Iranian missile or drone attacks on UAE infrastructure or third-party commercial vessels were reported. Iran's earlier statement that Hormuz passage would be 'ensured' following the US pause has not been tested — no commercial vessel has independently transited the strait under the pause window. The naval blockade of Iranian ports remains in effect per Trump's direct confirmation. The pause preserves the diplomatic window and removes the most immediate trigger for Iranian cyber or kinetic retaliation, but it also means the Strait's closure is now on Day 69 with no vessel movement. The logistical and economic cost of the blockade continues to compound: 23,000+ sailors stranded, 87 nations affected, global fuel and shipping inflation structurally embedded. Any Iranian formal response transmitted via Pakistan — whether counter-proposal or acceptance — would trigger immediate US assessment of whether to continue the pause or resume Project Freedom.",
+          "significance": "HIGH",
+          "actors": ["CENTCOM", "Donald Trump", "Iran", "UAE", "Pakistan", "commercial shipping operators", "Lloyd's of London war risk market"],
+          "metrics": {
+            "project_freedom_pause_day": 3,
+            "new_us_escort_missions": false,
+            "new_iranian_vessel_attacks_may8": false,
+            "hormuz_commercial_transit_independent": false,
+            "naval_blockade_of_iran_ports_active": true,
+            "hormuz_closure_streak_days": 69
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "BLS April 2026 Employment Situation (released May 8, 8:30am ET): 177,000 nonfarm payrolls, 4.2% unemployment (unchanged). Beat on both headline (consensus 133K) and rate (consensus 4.3%). Health care led (+50,600), state/local government +19,000, federal government employment declined. Prior months revised down 52,000. Wage growth decelerated; voluntary quits share fell to 11.8% — an unusually low reading for 4.2% unemployment, signaling worker caution in the current uncertainty environment. Oil: WTI stabilizing ~$93–95, Brent ~$99–101 after the May 6 –7% plunge. Warsh Senate floor vote targets week of May 11; Reconciliation 2.0 committee submission deadline May 15. ADP April private payrolls: 109,000 (also beat).",
+      "items": [
+        {
+          "headline": "BLS April 2026: 177K NFP, 4.2% Unemployment — Decisive Beat; Health Care +50,600; Prior Months –52K Revision; Wage Growth Slows; Quits Share Signals Worker Caution",
+          "summary": "The Bureau of Labor Statistics April 2026 Employment Situation, released at 8:30am ET on May 8, printed 177,000 net new nonfarm payrolls and an unemployment rate of 4.2% — unchanged from March 2026 and one-tenth of a point below the 4.3% consensus. The 177K headline beat the 133K consensus by 44,000. Health care was the dominant sector gainer at +50,600 jobs, consistent with the structural resilience of domestic healthcare hiring through both the Hormuz shock and tariff uncertainty. State and local governments together added 19,000 — reflecting continued fiscal year budget execution and school-year employment. Federal government employment declined, consistent with DOGE-driven headcount reductions that have been a persistent monthly drag. The beat removes the near-term sub-100K downside tail scenario that would have materially repriced recession probability and Warsh's policy inheritance. That said, structural caution signals remain embedded in the report: prior two-month revisions reduced official payrolls by 52,000, continuing the pattern of BLS overstating real-time monthly gains; wage growth decelerated month-over-month; and the share of unemployment attributable to voluntary quits fell to 11.8%, an unusually low reading for a 4.2% unemployment rate. Worker caution at this quit rate level suggests employees do not feel confident in their ability to find alternative employment — a leading indicator of consumer spending restraint. ADP April private payrolls separately printed 109,000, also beating the private consensus. The net assessment: the April labor market held structural floor above recession territory but contains embedded warning signals that the September–October window remains exposed.",
+          "significance": "HIGH",
+          "actors": ["BLS", "ADP", "Federal Reserve", "Kevin Warsh", "healthcare sector employers", "state/local governments", "federal workforce", "JPMorgan", "Goldman Sachs"],
+          "metrics": {
+            "bls_april_nfp_k": 177,
+            "consensus_nfp_k": 133,
+            "beat_vs_consensus_k": 44,
+            "unemployment_rate_pct": 4.2,
+            "consensus_unemployment_rate_pct": 4.3,
+            "healthcare_jobs_added": 50600,
+            "state_local_govt_jobs_added": 19000,
+            "federal_govt_employment_direction": "declined",
+            "prior_months_revision_k": -52,
+            "wage_growth_direction": "decelerated",
+            "voluntary_quits_share_pct": 11.8,
+            "adp_april_private_payrolls_k": 109,
+            "sub_100k_tail_scenario_realized": false,
+            "release_date": "2026-05-08",
+            "release_time_et": "08:30"
+          }
+        },
+        {
+          "headline": "Oil Stabilizes: WTI ~$93–95, Brent ~$99–101; Deal Uncertainty Caps Rebound; Jobs Beat Provides Demand-Side Support; Gas Still Above $4.50",
+          "summary": "Oil prices stabilized on May 8 in the wake of the May 6 plunge (WTI –7%, Brent –7.83%) and the May 7 modest decline (WTI –0.28% to $94.81, Brent –1% to $100.06). Intraday trading on May 8 placed WTI around $93.60 and Brent around $99.70 — the first sustained sub-$100 Brent trading since the crisis began. The Iranian response ambiguity is a bidirectional price signal: formal deal acceptance would likely drive an additional 15–20% decline in oil over 4–6 weeks; a formal rejection or deal collapse would push prices back above $105. The jobs beat provides a modest demand-side support signal — a stronger-than-expected April economy implies higher-than-feared H2 energy demand — but this is secondary to the geopolitical driver. Iranian Expediency Council reparations demands and parliament's dismissal of the MOU framework introduced slight upward pressure on oil intraday, capping the demand-driven rebound. National average gas prices remain above $4.50/gallon (AAA), structurally lagging any crude price relief by 2–4 weeks. Even at $93–95 WTI, the crude price represents approximately 37–40% above the pre-war $67–68 baseline; full consumer price relief requires strait reopening and sustained flow normalization over several weeks.",
+          "significance": "HIGH",
+          "actors": ["oil futures markets", "OPEC+", "IEA", "AAA", "US equity markets", "Federal Reserve", "Kevin Warsh"],
+          "metrics": {
+            "wti_may7_settle_usd": 94.81,
+            "brent_may7_settle_usd": 100.06,
+            "wti_may8_intraday_approx_usd": 93.60,
+            "brent_may8_intraday_approx_usd": 99.70,
+            "brent_below_100_sustained": true,
+            "wti_pre_war_baseline_approx_usd": 68,
+            "oil_above_pre_war_pct_approx": 38,
+            "gas_national_avg_above_usd": 4.50,
+            "deal_acceptance_oil_decline_scenario_pct": "15-20",
+            "deal_rejection_oil_return_target_usd": 105
+          }
+        },
+        {
+          "headline": "Warsh Senate Vote Week of May 11; Reconciliation 2.0 Committee Deadline May 15; Jobs Beat Improves Warsh Inheritance Scenario",
+          "summary": "Kevin Warsh's Senate floor confirmation vote remains targeted for the week of May 11 ahead of Jerome Powell's May 15 term expiry. The 53-vote Republican majority plus Sen. John Fetterman's (D-PA) indicated support provides a clear confirmation path. The May 8 jobs beat materially improves Warsh's policy inheritance: a 177K April print and stable 4.2% unemployment rate reduces the probability that his first FOMC meeting (June 16–17) will face an emergency labor-market deterioration scenario. Warsh enters office, if confirmed as expected, with the labor market above recession territory but with structural warning signals (decelerating wages, low quit rates, prior-month revisions pattern) that will require close monitoring. The oil price path (WTI ~$94, still 38% above pre-war baseline) remains the primary inflation variable he inherits — a variable entirely dependent on the Hormuz resolution timeline, not domestic monetary policy. Reconciliation 2.0 committee text: Senate Homeland Security and Judiciary committees released $72B in ICE and Border Patrol funding legislation on May 4 (scored by CBO); all designated Senate committees must submit their reconciliation measures to the Budget Committee by May 15, with final bill completion targeted by President Trump's June 1 deadline.",
+          "significance": "MEDIUM",
+          "actors": ["Kevin Warsh", "Jerome Powell", "John Thune", "John Fetterman", "Senate Banking Committee", "Federal Reserve", "White House", "House Budget Committee", "Senate Budget Committee"],
+          "metrics": {
+            "warsh_senate_vote_target_week": "2026-05-11",
+            "powell_term_expiry": "2026-05-15",
+            "warsh_first_fomc": "2026-06-16",
+            "senate_majority_warsh_path": 53,
+            "fetterman_indicated_yes": true,
+            "reconciliation_committee_deadline": "2026-05-15",
+            "trump_reconciliation_deadline": "2026-06-01",
+            "dhs_judiciary_reconciliation_text_released": "2026-05-04",
+            "reconciliation_dhs_amount_billions": 72
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "No confirmed IRGC or Handala-attributed destructive cyberattack on US critical infrastructure for Hormuz Day 69. CISA has issued no updated advisory beyond AA26-097A (April 7); CI Fortify remains operative. FINRA alert remains active. Oregon officially declared its 2026 Fire Season effective 12:01am PDT, May 8, 2026 — the formal structural marker that activates statewide ODF fire danger protocols, permitting restrictions, and resource pre-positioning requirements. Burn bans remain in effect across Portland metro, BLM Oregon-Washington public lands, and multiple Central Oregon forest units. Oregon fire conditions east of the Cascades are now under formal fire season status with the June 1 above-normal risk onset 24 days away.",
+      "items": [
+        {
+          "headline": "CISA Day 5 Post-Peak: No Confirmed IRGC Destructive Attack; CI Fortify Operative; No Updated Advisory; FINRA Alert Active; NERC Grid Monitoring Continues",
+          "summary": "Five days after Project Freedom launched (May 4), CISA has confirmed no IRGC-affiliated or Handala-attributed destructive cyberattack on US critical infrastructure during or after the peak 72-hour retaliation window. CISA has issued no updated advisory beyond AA26-097A (April 7, 2026), which warned of Iranian-affiliated APT actors exploiting programmable logic controllers (PLCs) across Government Services and Facilities, Water and Wastewater, and Energy sectors via CyberAv3ngers (aka Shahid Kaveh Group), an IRGC Cyber Electronic Command-affiliated actor. CI Fortify remains the operative resilience framework across all critical infrastructure sectors. FINRA's cybersecurity alert for heightened Iranian threat to the financial sector remains active. NERC confirmed it is 'actively monitoring the grid' following Iran-linked cyber threat assessments. The sustained absence of a destructive attack through May 8 is a material positive but does not eliminate the Iranian cyber threat: the IRGC doctrine links kinetic military options to cyber pressure calibrated against the diplomatic track, and the current deal-pending pause may be the operative reason for restraint. If the MOU process collapses and Project Freedom resumes, the IRGC cyber risk calculus resets immediately.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI", "NSA", "NERC", "IRGC Cyber Electronic Command", "CyberAv3ngers", "Handala", "FINRA", "DHS", "US energy sector OT operators"],
+          "metrics": {
+            "days_since_project_freedom_launch": 5,
+            "confirmed_irgc_destructive_attack_since_may4": false,
+            "updated_cisa_advisory_since_apr7": false,
+            "cisa_advisory_reference": "AA26-097A (2026-04-07)",
+            "ci_fortify_status": "operative",
+            "finra_alert_active": true,
+            "nerc_monitoring_active": true,
+            "cyberav3ngers_group_affiliation": "IRGC Cyber Electronic Command",
+            "peak_window_days_extended_past_72hr": 2
+          }
+        },
+        {
+          "headline": "Oregon 2026 Fire Season Officially Declared: Effective 12:01am PDT May 8; Burn Bans Expand Metro and BLM PNW; 24 Days to Above-Normal East Cascades Onset",
+          "summary": "The Oregon Department of Forestry officially declared the 2026 Fire Season effective 12:01am PDT, May 8, 2026, activating statewide fire danger protocols, ODF permitting restrictions, and resource pre-positioning requirements across all Oregon fire protection districts. This is the formal structural marker that shifts Oregon from 'pre-season' monitoring to active fire season management protocols. Burn restrictions are simultaneously active across Portland metro (recreational campfires, fire pits, yard debris, agricultural burning), Bureau of Land Management public lands throughout Oregon and Washington, and Central Oregon forest units including the Deschutes National Forest. The temperature pattern delivering the 2026 fire season's early declaration: Portland forecast highs in the upper 70s–low 80s this week, with 90°F possible Sunday May 10 — temperatures that advance soil moisture depletion and fine fuel curing east of the Cascades. June 1 above-normal fire risk onset (east Cascades) is now 24 days away. Washington DNR burn restrictions active statewide. The super El Niño emergence window (NOAA, May–July), record-low Western snowpack (7 of 11 states near-zero), and Forest Service Region 6 pre-positioning baseline are unchanged structural amplifiers. No emergency resource surge announcement has been issued.",
+          "significance": "HIGH",
+          "actors": ["Oregon Department of Forestry", "NWS Portland", "BLM Oregon-Washington", "Washington DNR", "Forest Service Region 6", "Oregon State Fire Marshal", "NIFC", "NOAA"],
+          "metrics": {
+            "oregon_fire_season_declared": true,
+            "oregon_fire_season_effective": "2026-05-08T00:01:00-07:00",
+            "portland_burn_ban_active": true,
+            "blm_oregon_washington_restrictions_active": true,
+            "deschutes_national_forest_restrictions_active": true,
+            "washington_dnr_restrictions_active": true,
+            "portland_90f_possible": "2026-05-10",
+            "days_to_above_normal_east_cascades_onset": 24,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "above_normal_statewide_onset": "2026-07-01",
+            "western_states_near_zero_snowpack": 7,
+            "western_states_total": 11,
+            "accuweather_2026_national_projection_millions_acres": 5.5
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA Day 9 past statutory deadline; no congressional action taken. Project Freedom remains paused; the MOU diplomatic track, if successful, renders the WPA gap moot in political terms but cannot retroactively authorize the offensive operations conducted May 4–5. Warsh confirmation vote week of May 11; Reconciliation 2.0 committee submissions deadline May 15; Powell term expiry May 15. Alabama and Tennessee redistricting special sessions continue with no ACLU or NAACP LDF legal challenge filed — the November 2026 map-lock window is narrowing. The April jobs beat (177K, 4.2%) provides a brief political tailwind for the administration's economic narrative ahead of the triple-convergence week.",
+      "items": [
+        {
+          "headline": "WPA Day 9 Past Deadline: Project Freedom Paused But Offensive Operations Remain Unauthorized; MOU Track If Closed Would Render Gap Moot",
+          "summary": "The War Powers Resolution 60-day statutory clock expired April 29; today is Day 9 past that deadline. Project Freedom conducted 36 hours of offensive military operations — destroying 13 Iranian fast attack boats and intercepting Iranian cruise missiles and drones — without congressional authorization before the pause was called May 6. The pause does not retroactively authorize those operations, and the constitutional accountability deficit persists. The MOU diplomatic track, if it reaches a signed agreement, would render the WPA gap politically moot: a deal would make the military operation's legal basis a retrospective question rather than a prospective one. If talks collapse and Project Freedom resumes at the 'much higher level' Trump threatened, the WPA dimension resurfaces with significantly more acute public framing and a Day 9+ gap that would be harder to dismiss. Republican leadership has made no floor scheduling announcement on any war-powers resolution; all six previous Senate war-powers resolutions failed (most recently 47-50). No war authorization has been submitted. The constitutional posture — offensive operations, now paused, without authorization — is anomalous but politically stable while the deal window is open.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "CENTCOM", "Mike Johnson", "John Thune", "Senate Armed Services Committee", "Congressional Democrats", "ACLU", "War Powers Resolution statutory framework"],
+          "metrics": {
+            "wpa_deadline_date": "2026-04-29",
+            "days_past_wpa_deadline": 9,
+            "project_freedom_status": "paused",
+            "project_freedom_offensive_ops_days": "May 4-5",
+            "iranian_assets_destroyed_without_authorization": 13,
+            "congressional_authorization_obtained": false,
+            "senate_war_powers_resolutions_failed": 6,
+            "last_senate_war_powers_vote": "47-50",
+            "mou_deal_would_render_gap_moot": true
+          }
+        },
+        {
+          "headline": "Triple Convergence Week of May 11: Warsh Floor Vote, Reconciliation 2.0 Deadline, Powell Expiry — Jobs Beat Stabilizes Economic Context",
+          "summary": "The week of May 11 remains the highest-density domestic institutional convergence of the year: the Kevin Warsh Senate floor confirmation vote (targeted week of May 11), the Reconciliation 2.0 committee submission deadline (May 15), and Jerome Powell's Federal Reserve term expiry (May 15). The April jobs beat (177K, 4.2%) materially improves the institutional context for all three: it reduces the probability that Warsh's first FOMC meeting (June 16–17) faces an emergency labor-market deterioration, provides a brief political tailwind for the administration's reconciliation messaging ('the economy is strong enough for this fiscal program'), and removes the most acute market-disruption scenario that would have complicated Warsh's confirmation week optics. Reconciliation 2.0 progress: the Senate Homeland Security and Judiciary committees released $72B ICE and Border Patrol funding text on May 4 (CBO scored); all designated Senate committees must submit measures to the Budget Committee by May 15. Redistricting: Alabama and Tennessee special sessions continue; no ACLU or NAACP LDF challenge has been filed. The window for pre-November 2026 map finalization and legal challenge resolution is now approximately 4.5 months — and narrowing.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Jerome Powell", "John Thune", "John Fetterman", "Senate Budget Committee", "Senate Homeland Security Committee", "Senate Judiciary Committee", "White House OMB", "Alabama Governor", "Tennessee Governor", "ACLU", "NAACP Legal Defense Fund"],
+          "metrics": {
+            "warsh_senate_vote_target_week": "2026-05-11",
+            "powell_term_expiry": "2026-05-15",
+            "warsh_first_fomc": "2026-06-16",
+            "reconciliation_committee_deadline": "2026-05-15",
+            "trump_reconciliation_completion_deadline": "2026-06-01",
+            "redistricting_states_in_special_session": ["Alabama", "Tennessee"],
+            "redistricting_challenge_filed": false,
+            "november_2026_map_lock_months_remaining": 4.5,
+            "april_jobs_beat_political_tailwind": true
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Oregon officially declared its 2026 Fire Season effective 12:01am PDT May 8, 2026 — the single most significant PNW infrastructure marker of the day. Burn restrictions active: Portland metro, BLM Oregon-Washington, Deschutes National Forest. Portland forecast: upper 70s–low 80s this week, 90°F possible Sunday May 10 — critical fine-fuel-curing threshold for east Cascades. June 1 above-normal fire risk onset (east Cascades) is 24 days away. Measles: Oregon at 20+ confirmed with acknowledged substantial underreporting; wastewater surveillance continues detecting virus in non-reporting counties; Washington at 40+ confirmed cases. Hormuz oil shock: PNW gas prices remain among the highest in the nation; pump relief from May 6 oil price decline is 2–4 weeks away.",
+      "items": [
+        {
+          "headline": "Oregon Fire Season Declared: 12:01am PDT May 8; Burn Bans Active Metro, BLM, and National Forest; 24 Days to East Cascades Above-Normal Risk Onset",
+          "summary": "The Oregon Department of Forestry declared the 2026 Fire Season effective 12:01am PDT, May 8, 2026. The declaration activates ODF permitting restrictions, fire danger ratings, patrol requirements, and resource pre-positioning protocols across all Oregon fire protection districts. Burn restrictions are simultaneously in effect across the Portland metro area (recreational campfires, fire pits, yard debris, open agricultural burning all prohibited), BLM public lands throughout Oregon and Washington, and Central Oregon forest units including the Deschutes National Forest. NWS Portland forecast calls for temperatures in the upper 70s to low 80s through mid-week, with 90°F possible by Sunday May 10 — a temperature threshold associated with accelerated soil moisture depletion and fine fuel curing in the Columbia Gorge and east of the Cascades. The June 1 above-normal fire risk onset for east Oregon and eastern Washington is 24 days away; above-normal statewide conditions are projected by July 1. Washington DNR's burn restrictions remain active across multiple counties statewide. The structural amplifiers — super El Niño emergence signal (NOAA May–July window), record-low Western snowpack (7 of 11 states at or near zero), and 459 PNW communities newly upgraded to higher wildfire risk (OSU, May 5 release) — are unchanged. AccuWeather projects 5.5 million acres burned nationally in 2026. No Forest Service Region 6 resource surge announcement has been issued.",
+          "significance": "HIGH",
+          "actors": ["Oregon Department of Forestry", "NWS Portland", "BLM Oregon-Washington", "Washington DNR", "Forest Service Region 6", "Oregon State Fire Marshal", "NOAA", "NIFC", "AccuWeather"],
+          "metrics": {
+            "oregon_fire_season_declared": true,
+            "oregon_fire_season_effective": "2026-05-08T00:01:00-07:00",
+            "portland_burn_ban_active": true,
+            "blm_pnw_restrictions_active": true,
+            "deschutes_national_forest_restrictions_active": true,
+            "washington_dnr_restrictions_active": true,
+            "portland_forecast_high_this_week_f": "upper 70s–low 80s",
+            "portland_90f_possible_date": "2026-05-10",
+            "days_to_above_normal_east_cascades": 24,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "above_normal_statewide_onset": "2026-07-01",
+            "pnw_communities_upgraded_wildfire_risk": 459,
+            "super_el_nino_window": "May–July 2026",
+            "western_states_near_zero_snowpack": 7,
+            "western_states_total": 11,
+            "national_acres_burned_projection_millions": 5.5
+          }
+        },
+        {
+          "headline": "PNW Measles: Oregon Wastewater Surveillance Active in Non-Reporting Counties; WA 40+ Confirmed; National Count 1,814+; School Year Vaccination Window Narrowing",
+          "summary": "Oregon's measles wastewater surveillance dashboard continues to detect measles virus in counties with no confirmed cases — a leading indicator of geographically widespread transmission that is outpacing case-finding capacity. Oregon's confirmed case count was 20 as of April 22 (the most recent published figure); state officials have repeatedly acknowledged substantial suspected underreporting. Oregon's first measles hospitalization was confirmed in the April reporting period. Washington State holds at 40+ confirmed cases year-to-date, more than triple the full-year 2025 total of 12, spanning 8 counties with Kittitas County in formal outbreak status. Nationally, 1,814 confirmed measles cases were reported as of April 30, 2026, across 37 jurisdictions. The structural transmission drivers remain unchanged: below-threshold MMR vaccination coverage pockets across both states, DOGE-related CDC response capacity constraints, and active school-year community spread dynamics. The school year ends in most PNW districts in mid-to-late June — the 6–8 week window that remains for structured vaccination catch-up campaigns in the most vulnerable communities is narrowing. The combined bi-state confirmed count approaches 60+ with acknowledged undercounting — the highest bi-state measles burden in the Pacific Northwest in at least a generation.",
+          "significance": "MEDIUM",
+          "actors": ["Oregon Health Authority", "WA State Department of Health", "CDC", "Kittitas County Public Health", "local school districts", "PNW pediatric healthcare providers"],
+          "metrics": {
+            "wa_measles_2026_ytd": 40,
+            "wa_measles_2025_full_year": 12,
+            "wa_counties_affected": 8,
+            "kittitas_county_outbreak_status": true,
+            "or_measles_confirmed_as_of_apr22": 20,
+            "or_first_hospitalization_confirmed": true,
+            "or_wastewater_detection_non_reporting_counties": true,
+            "or_suspected_underreporting": true,
+            "us_national_confirmed_as_of_apr30": 1814,
+            "affected_jurisdictions_national": 37,
+            "school_year_pnw_end": "mid-to-late June 2026",
+            "vaccination_campaign_window_weeks_remaining": "6–8"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 8, 2026 evening — Hormuz Day 69, Naval Blockade Day 27, Project Freedom Paused (Pause Day 3), WPA Day 9 Past Statutory Deadline. Two defining developments shape the May 8 brief: a decisive labor market beat and a stalled Iranian response. The BLS April Employment Situation printed 177,000 nonfarm payrolls and 4.2% unemployment — beating the 133K consensus by 44,000 and the 4.3% unemployment consensus by one-tenth of a point. Health care led (+50,600 jobs), state/local governments added 19,000, and federal employment declined. Prior months were revised down 52,000. Wage growth decelerated; voluntary quits fell to 11.8% of unemployment — a worker caution signal that is unusually low for a 4.2% unemployment rate. The beat removes the most feared downside scenario from last night's watch list: a sub-100K print would have materially repriced recession probability into a market already stretched by deal optimism. That scenario did not materialize. ADP's April private payrolls also beat at 109,000. The April labor market held above recession territory. On the geopolitical front, Iran's 48-hour response window expired today without a formal counter-proposal or acceptance transmitted via Pakistan. Iran's Foreign Ministry says it is still reviewing. Iran's parliament foreign policy spokesman called the Axios MOU framework 'more of an American wish list than a reality.' An Expediency Council member demanded reparations as a precondition. These are hardline institutional signals from Iran's internal deliberative process — they do not necessarily indicate deal collapse, but they confirm the MOU is not imminent. The US is actively waiting. No new Iranian strikes on UAE or commercial vessels were confirmed. No IRGC destructive cyberattack on US critical infrastructure was confirmed for Day 5 post-Project Freedom launch — CISA maintains no updated advisory beyond AA26-097A; CI Fortify and FINRA alert both remain active. Oregon formally declared its 2026 Fire Season effective 12:01am PDT today — the structural marker activating statewide fire protocols. Burn restrictions span Portland metro, BLM Oregon-Washington, and the Deschutes National Forest. June 1 above-normal east Cascades fire onset is 24 days away; Portland could hit 90°F by Sunday. Measles: Oregon wastewater detecting virus in non-reporting counties; Washington at 40+. Triple convergence week of May 11: Warsh Senate floor vote, Reconciliation 2.0 committee submission deadline (May 15), Powell term expiry (May 15). The April jobs beat improves Warsh's policy inheritance and removes the most acute market-disruption scenario from the confirmation week. Vibe 5 — held from yesterday. The jobs beat stabilizes the domestic macro baseline. The Iran diplomatic stall is the dominant variable; no answer is not a 'no,' but it is no longer the 'closest the parties have been since Day 1' either. The next primary signal is Iran's formal response via the Pakistan channel — timing unknown, but the window cannot extend indefinitely without deal credibility degrading.",
+  "watch_items": [
+    "Iran formal response via Pakistan channel: the 48-hour window expired without answer; watch for Iran Foreign Ministry statement, Pakistan diplomatic communiqué, or Axios/Reuters sourcing on whether Iran has transmitted a formal counter-proposal or acceptance — any report of Iran accepting a 12-year nuclear moratorium is the single most consequential signal of the crisis; any explicit rejection or counter-proposal with materially different parameters would reset deal expectations",
+    "Project Freedom pause continuity: does the US maintain the pause through the Iranian response period, or does Trump's 'bombing at a much higher level' threat translate into a resumption announcement? Watch Trump Truth Social and any White House or CENTCOM briefing statement on Project Freedom status",
+    "Oil price direction: WTI ~$93–95 and Brent ~$99–101 are at the lowest levels since the crisis began; any Iranian formal deal signal drives a further 15–20% decline; any deal collapse or Project Freedom resumption drives prices back above $105; the Iran response is the operative variable",
+    "Warsh Senate floor vote scheduling: John Thune has not publicly announced a floor scheduling date for the week of May 11; any whip count update, scheduling confirmation, or Fetterman position reaffirmation before the weekend is a priority signal for the May 15 convergence window",
+    "Oregon fire pre-positioning surge: Forest Service Region 6 and Washington DNR emergency resource announcements ahead of the June 1 east Cascades above-normal onset; watch NIFC daily fire weather monitoring updates, NWS Portland red flag watches, and any county-level emergency preparedness declarations in eastern Oregon and Washington — the 90°F Portland forecast for Sunday May 10 is the most immediate fire behavior threshold indicator",
+    "CISA cyber: CI Fortify operative; no new IRGC destructive attack through Day 5 post-Project Freedom launch; watch for CISA bulletin, FBI/IC3 flash, or private sector incident reports — a deal-track collapse or Project Freedom resumption would immediately reset Iranian cyber risk calculus; NERC continues active grid monitoring",
+    "Oregon measles OHA case count update and wastewater dashboard refresh: combined bi-state confirmed approaching 60+ with acknowledged undercounting; school-year vaccination catch-up window narrowing toward mid-to-late June school year close",
+    "Reconciliation 2.0 committee submissions: Senate committee text and CBO scores due by May 15; watch for any Senate Republican defections from the fiscal framework that would complicate the June 1 Trump deadline or the floor vote sequencing during the already-crowded week of May 11"
+  ],
+  "sources": [
+    "Axios - Exclusive: U.S. and Iran closing in on one-page memo to end war, officials say (May 6, 2026)",
+    "Time - U.S. and Iran Offer Mixed Messages on Deal to End War (May 7, 2026)",
+    "NPR - Pakistan says it's hopeful a U.S.-Iran deal can happen soon (May 6, 2026)",
+    "Al Jazeera - Has the US accepted Iran's demand to settle Hormuz first, nuclear later? (May 6, 2026)",
+    "CBS News - Trump threatens Iran strikes, says too soon for new direct talks (May 6, 2026)",
+    "CNN - Live updates: Iran reviewing US proposal as source says both sides moving toward memo to end war (May 6, 2026)",
+    "The Hill - US, Iran said closing in on framework for permanent deal, as Trump renews bomb threats (May 6-7, 2026)",
+    "ABC News - Iran live updates: US waiting for Iran response to possible MoU, officials say",
+    "Jerusalem Post - US awaits Iran response to proposed ceasefire and nuclear deal",
+    "Wikipedia - 2025-2026 Iran-United States negotiations",
+    "Wikipedia - Islamabad Talks",
+    "CEPR - Unemployment Stays at 4.2 Percent; Economy Adds 177,000 Jobs in April (2026)",
+    "The Hill - US adds 177,000 jobs in April, unemployment rate stable, beating expectations (2026)",
+    "Washington Examiner - Economy added 177,000 jobs in April: The key facts and figures (2026)",
+    "PBS NewsHour - Employers added a surprising 177,000 jobs, unemployment remains low as job market shows resilience (2026)",
+    "CNBC - Private payrolls rose by 109,000 in April, topping expectations, ADP says (May 6, 2026)",
+    "Kiplinger - April Jobs Report Preview: Will a Strong Payrolls Number Reignite Rate-Hike Bets? (2026)",
+    "Yahoo Finance - Jobs data live updates: April jobs report BLS May 8 (2026)",
+    "CNBC - Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote (April 29, 2026)",
+    "CBS News - Senate Banking Committee advances Kevin Warsh's nomination for Fed chair (April 29, 2026)",
+    "The Hill - This week on The Hill: Senate takes first steps on reconciliation 2.0",
+    "CBO - Reconciliation Legislation of the Senate Committee on Homeland Security and Governmental Affairs (May 4, 2026)",
+    "Committee for a Responsible Federal Budget - CBO Scores FY 2026 Reconciliation at $72 Billion",
+    "CISA - Advisory AA26-097A: Iranian-Affiliated Cyber Actors Exploit PLCs Across US Critical Infrastructure (April 7, 2026)",
+    "CISA - CI Fortify initiative",
+    "FINRA - Cybersecurity Alert: Heightened Threats From Iranian Cyber Actors",
+    "Utility Dive - NERC is 'actively monitoring the grid' following Iran-linked cyber threat",
+    "Oregon Department of Forestry - 2026 Fire Season Declaration (May 8, 2026)",
+    "Oregon Department of Forestry - Fire Restrictions (2026)",
+    "Central Oregon Fire Information - Fire Restrictions (2026)",
+    "Central Oregon Daily - Oregon wildfire season expected to be severe, last into fall (2026)",
+    "NIFC - North American Seasonal Fire Assessment and Outlook, May through August 2026",
+    "phys.org - New research reveals increased wildfire risk for more than 400 communities in Northwest (May 5, 2026)",
+    "Oregon Health Authority - Oregon reports measles outbreak; new wastewater dashboard tracks measles virus by county",
+    "OPB - Oregon measles outbreak grows, with more community transmission (April 17, 2026)",
+    "KIRO 7 - WA reports 40 measles cases in 2026, more than triple all of 2025",
+    "CDC - Measles Cases and Outbreaks 2025-2026 dashboard",
+    "CNBC - Oil prices today: Trump, Iran, Strait of Hormuz, US, crude, Brent (May 7, 2026)",
+    "Euronews - Oil drops below $100 while markets rise as US and Iran near a deal (May 7, 2026)"
+  ]
+}

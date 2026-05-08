@@ -202,7 +202,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Axios MOU Scoop: US-Iran Closest to Deal Since Day 1; Oil -7% to $95; Markets at Records; Cyber Window Closes Clean; BLS April Jobs Tomorrow; Vibe 5",
       "generated_at": "2026-05-07T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-08-evening",
+      "date": "2026-05-08",
+      "session": "evening",
+      "file": "reports/2026-05-08-evening.json",
+      "vibe": 5,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Jobs Beat: 177K NFP, 4.2% Unemployment; Iran 48-Hr Window Expires Without Answer; Parliament Calls MOU 'Wish List'; Oregon Fire Season Declared; Vibe 5",
+      "generated_at": "2026-05-08T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-07T20:00:00-07:00"
+  "last_updated": "2026-05-08T20:00:00-07:00"
 }
