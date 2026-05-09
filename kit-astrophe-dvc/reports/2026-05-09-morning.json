@@ -1,0 +1,320 @@
+{
+  "report_id": "2026-05-09-morning",
+  "generated_at": "2026-05-09T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 70, Naval Blockade Day 27, Project Freedom Pause Day 4, WPA Day 10 Past Statutory Deadline. The May 9 morning brief opens on worse footing than last night's vibe-5 jobs-beat close. Two overnight developments drove the degradation: Washington Post confirmed US forces struck two Iranian-flagged tankers in the Strait of Hormuz overnight, marking active kinetics during the Project Freedom pause; and Al Jazeera's May 9 morning liveblog logged Israeli air strikes on Lebanon, opening a new secondary theater in an already extended regional architecture. Iran's formal MOU response enters Saturday morning unanswered at approximately 90+ hours past the 48-hour window that expired Thursday May 8. The US posture remains 'actively awaiting' a serious Iranian offer through the Pakistan back-channel. No indication of a formal Iranian executive-track rejection has emerged — the Foreign Ministry's stated position remains 'reviewing' — but the gap between executive silence and parliament's institutional hostility (Rezaei: 'American wish list'; Ghalibaf: 'Operation Fauxios') is now the operative diplomatic architecture, not an aberration. Against these negatives: the April BLS jobs report from Friday (177K NFP, 4.2% UR) remains the morning's dominant carry-forward positive. The labor market is not deteriorating at the pace the Q1 GDP (2.1%) and PCE (3.5%) readings alone implied. Warsh's Senate floor confirmation vote is confirmed for Monday May 11 — the first formal scheduling datum for triple-convergence week. The Court of International Trade's Section 122 tariff invalidation (ruling issued May 7) is spreading through trade counsel and supply chain networks this morning: the CIT held that the administration's 10% ad valorem surcharge on approximately $1.2T of imports under Section 122 of the Trade Act of 1974 exceeded statutory authority — the court found that the administration's reliance on current account balance and goods trade deficits did not constitute 'balance-of-payments deficits' as Congress understood the term in 1974. The injunction is narrow — plaintiff importers only, not nationwide — but it establishes a legal challenge architecture that could erode the Section 122 tariff base through appellate proceedings before the 150-day window expires July 24. On the infrastructure side: the ShinyHunters cybercrime group's breach of Instructure/Canvas — 3.6 terabytes, ransomware demand, 9,000 affected schools and universities including Western Washington University — is the weekend's dominant cyber headline. This is a criminal incident, not a state-sponsored attack in the CISA AA26-097A threat class, but represents the largest education-sector breach of 2026, landing at finals week across 9,000 institutions. CISA confirms no IRGC-affiliated destructive attack on US critical infrastructure through Day 6 post-Project Freedom launch — a sustained material positive. PNW: Oregon fire season active Day 2; 700 ODF wildland firefighters and 300 fire trucks pre-positioned for 16 million acres. Portland forecast 88°F today (Saturday), 90°F Sunday — approaching fine-fuel curing threshold for Columbia Gorge and east Cascades. A new wildfire community risk assessment identifies 400+ PNW communities at higher risk than previously mapped. FOX 13 Seattle reports potential super El Niño formation raises the upper-tail wildfire scenario for Washington beyond the already-elevated ECMWF May–July baseline. Vibe 4: overnight tanker strikes, new Israel-Lebanon theater, Iran's extended non-response, and CIT tariff legal disruption offset yesterday's jobs beat and Warsh scheduling confirmation.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — one point down from last night's close of 5. The step back is driven by three distinct overnight developments, none of which individually collapses the positive signal from yesterday but together represent a measurable degradation. First: Washington Post confirmed US forces struck two Iranian-flagged tankers in the Strait overnight — active kinetics during the Project Freedom pause. The pause has not produced a kinetic freeze; IRGC naval assets continue operating against US and commercial assets in the Strait. Any US casualty or vessel loss during the pause would immediately trigger pressure for resumption of Project Freedom 'at a much higher level.' Second: Al Jazeera's May 9 morning liveblog logged Israeli air strikes on Lebanon — a new theater that signals regional conflict expansion beyond the Iran-US bilateral frame. Lebanon adds IRGC proxy activation risk, European refugee pressure, and a second NATO-relevant front simultaneously with the Hormuz crisis. Third: Iran's MOU non-response is now 90+ hours past the 48-hour window — each day of non-response consumes diplomatic credibility and narrows the Iranian executive track's ability to claim it is 'reviewing' rather than refusing. The market has already begun pricing this: Brent's rebound to $101.73 on May 8 close confirms deal-delay repricing, not deal-imminent. The CIT Section 122 tariff ruling is a fourth signal: narrow injunction (plaintiff-limited), but it establishes the legal challenge architecture that could erode Warsh's inherited tariff landscape before his first FOMC in June. Against all this: the April jobs beat (177K NFP, 4.2% UR) from Friday gives the economic picture a genuine floor. Warsh's vote is scheduled for Monday. CISA reports no IRGC destructive cyberattack through Day 6 post-Project Freedom. Canvas is criminal, not state-sponsored. Vibe 4 is the right call: structurally worse than yesterday's 5, but not yet at the 3-level degradation that would signal deal collapse or imminent Project Freedom resumption."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 70, Naval Blockade Day 27, Project Freedom Pause Day 4. US forces struck two Iranian-flagged tankers overnight per Washington Post — active kinetics confirmed during the pause window. Iran's formal MOU response remains absent, now 90+ hours past the 48-hour deadline that expired May 8. Executive-parliament divergence in Tehran continues: FM Baqaei still 'reviewing,' parliament calling the MOU an 'American wish list,' Expediency Council demanding reparations. New overnight development: Israeli air strikes on Lebanon per Al Jazeera May 9 morning liveblog — a new secondary theater broadening the regional conflict footprint. Approximately 1,600 ships stranded; ~23,000 sailors. Pakistan back-channel active.",
+      "items": [
+        {
+          "headline": "US Strikes Two Iranian-Flagged Tankers Overnight; Active Kinetics Continue During Project Freedom Pause",
+          "summary": "The Washington Post reported overnight that US forces struck two Iranian-flagged tankers in or near the Strait of Hormuz amid escalating tensions, despite the ostensible Project Freedom pause (Pause Day 4). The strikes are characterized as responsive to Iranian attacks on US naval vessels — consistent with CENTCOM's declared self-defense doctrine. The incident confirms the Project Freedom pause is not a kinetic freeze: IRGC naval assets continue to engage US forces and potentially commercial shipping. The dual-track dynamic — Foreign Ministry 'reviewing' while IRGC units attack — is either deliberate pressure maximization or fragmented IRGC command coherence during a negotiating period. Operationally, the distinction matters less than the fact of sustained attacks during an ostensible pause. Trump has not announced a resumption of Project Freedom. Any Iranian attack resulting in US casualties or a vessel loss during the pause creates immediate domestic and operational pressure for resumption 'at a much higher level.' Commercial transit remains suspended pending escort mission resumption; approximately 1,600 ships and 23,000 sailors remain stranded in or near the Strait.",
+          "significance": "CRITICAL",
+          "actors": ["CENTCOM", "US Navy", "Iran IRGC Navy", "Donald Trump", "Pete Hegseth", "Washington Post"],
+          "metrics": {
+            "hormuz_closed_days": 70,
+            "naval_blockade_day": 27,
+            "project_freedom_status": "PAUSED",
+            "project_freedom_pause_day": 4,
+            "us_tankers_struck_overnight": 2,
+            "us_casualties_reported": false,
+            "us_vessel_destroyed": false,
+            "project_freedom_resumption_announced": false,
+            "ships_stranded_approx": 1600,
+            "sailors_stranded_approx": 23000,
+            "irgc_attacks_during_pause": true,
+            "mou_formal_response_received": false,
+            "hours_past_48hr_window_approx": 90
+          }
+        },
+        {
+          "headline": "Israel Air Strikes Lebanon: New Secondary Theater Opens on Europe Day; IRGC Proxy Dynamics Activated",
+          "summary": "Al Jazeera's May 9 morning liveblog reported Israeli air strikes on Lebanon, adding a new secondary theater to the regional conflict architecture defined since February 28 by the Iran-US Hormuz confrontation. The Israel-Lebanon front introduces compounding variables: IRGC proxy activation risk (Hezbollah is both a Lebanon-resident actor and an IRGC affiliate whose operational status affects the Iran-US negotiating dynamic); European political pressure on a day — May 9, Europe Day — when the EU is simultaneously managing Russia-Ukraine, US-EU trade tensions (Trump threatening EU auto tariffs from 15% to 25%), and China trade friction alongside the Hormuz crisis. The Lebanon front's direct relevance to the MOU timeline is indirect but real: IRGC proxy escalation in Lebanon complicates a deal that asks Iran to accept restraint while its regional proxy architecture is simultaneously being degraded. Hezbollah capacity is reduced from 2024–2025 Israeli degradation campaigns, limiting scale; but the opening of this front is a directional negative for the diplomacy window. No US involvement in Lebanon operations has been confirmed.",
+          "significance": "HIGH",
+          "actors": ["Israel IDF", "Hezbollah", "Lebanon", "Iran IRGC", "US State Department", "EU", "Al Jazeera"],
+          "metrics": {
+            "israel_lebanon_airstrikes_reported": true,
+            "hezbollah_capacity_context": "degraded since 2024-2025 Israeli operations",
+            "us_involvement_confirmed": false,
+            "irgc_proxy_activation_risk": true,
+            "europe_day": "2026-05-09",
+            "eu_managing_concurrent_crises": ["Russia-Ukraine", "US-EU trade", "China trade", "Hormuz"]
+          }
+        },
+        {
+          "headline": "Iran MOU Non-Response 90+ Hours; Executive-Parliament Divergence Structural; Pakistan Channel Active; Expediency Council Demands Reparations",
+          "summary": "Iran's formal response to the 14-point MOU framework transmitted via Pakistan and Oman channels remains absent as of Saturday morning — approximately 90 hours past the 48-hour response window that expired May 8. FM Baqaei's last public statement: 'reviewing.' Parliament's Foreign Policy Committee spokesperson Rezaei called it 'an American wish list'; Speaker Ghalibaf posted 'Operation Fauxios' mockery on social media. Neither the parliament nor Ghalibaf has authority to accept or reject the deal — that remains with Khamenei and the executive track. The Expediency Council has raised a reparations demand as a condition. The structural ambiguity is this: the deal has not been rejected by the authority that would accept or reject it — Khamenei — but the parliament, Expediency Council, and IRGC each have domestic-audience incentives to resist acceptance under conditions that resemble coercion. Pakistan's intermediary channel remains active; no Pakistan Foreign Ministry statement has confirmed receipt of a formal Iranian response. France's multinational Strait security architecture (proposed by Macron) remains a potential face-saving vehicle. Times of Israel earlier confirmed Saudi Arabia denied US airspace for Hormuz operations — a continuing operational constraint that limits US kinetic escalation options if the MOU is rejected.",
+          "significance": "HIGH",
+          "actors": ["Esmaeil Baqaei", "Ebrahim Rezaei", "Mohammad-Bagher Ghalibaf", "Ali Khamenei", "Iran Expediency Council", "Pakistan Foreign Ministry", "Steve Witkoff", "Jared Kushner", "Emmanuel Macron"],
+          "metrics": {
+            "hours_past_48hr_response_window": 90,
+            "iran_formal_response_status": "absent",
+            "iran_fm_position": "reviewing",
+            "iran_parliament_position": "dismissive",
+            "expediency_council_reparations_demand": true,
+            "pakistan_channel_active": true,
+            "mou_points": 14,
+            "saudi_airspace_denial_confirmed": true,
+            "france_multilateral_proposal_active": true
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "The April 2026 jobs report (177K NFP, 4.2% UR) from Friday remains the morning's dominant carry-forward positive. Against it: the Court of International Trade's May 7 ruling striking down Section 122 tariffs as applied to plaintiff importers is spreading through trade counsel networks this morning — injunction is plaintiff-limited, not nationwide, but adds legal uncertainty to the tariff architecture Warsh inherits. Brent closed May 8 at $101.73 (+1.66%) — the brief sub-$100 intraday dip was deal-optimism artifact. WTI ~$95–97 Saturday. National gas average above $4.50 per gallon. Markets closed (Saturday). Warsh Senate vote confirmed Monday May 11 — triple-convergence week opens.",
+      "items": [
+        {
+          "headline": "CIT Strikes Down Section 122 Tariffs: 10% Surcharge on $1.2T of Imports Invalidated as to Plaintiffs; Injunction Not Nationwide; Appeal Architecture Active",
+          "summary": "The US Court of International Trade issued a ruling May 7, 2026 — now spreading through trade counsel networks and supply chain planning teams Saturday morning — invalidating the Trump administration's Section 122 of the Trade Act of 1974 tariff as applied to plaintiff importers. Background: after SCOTUS ruled 6-3 in February 2026 that IEEPA does not authorize tariffs, the administration pivoted to Section 122, imposing a 10% ad valorem surcharge on approximately $1.2T (34%) of annual imports effective February 24, 2026, scheduled to expire after 150 days (July 24, 2026). The CIT held that the administration's metrics — current account balance and goods trade deficits — did not constitute 'balance-of-payments deficits' as Congress defined the term in 1974. The court entered a permanent injunction against collection from plaintiff importers only; it explicitly declined to enter a nationwide injunction. For Warsh's incoming policy environment: the CIT ruling creates legal uncertainty about the durability of the 11.8% average effective US tariff rate. If the Federal Circuit appeal accelerates before his first FOMC (June 16–17), the tariff structure Warsh inherits on Monday may be materially altered by June. Immediate business impact: plaintiff importers may stop duty payment pending appeal; all other importers must continue paying unless they file separately. Moody's Analytics chief economist Zandi assessed tariffs as having done 'significant damage to the US economy' — Canada and Mexico's markets outperformed the S&P 500 by 28.93 and 25.17 percentage points respectively over the past year.",
+          "significance": "HIGH",
+          "actors": ["US Court of International Trade", "Donald Trump", "US Trade Representative", "plaintiff importers", "Learning Resources Inc.", "Federal Circuit", "Kevin Warsh", "FOMC"],
+          "metrics": {
+            "section_122_tariff_rate_pct": 10,
+            "section_122_imports_affected_trillions": 1.2,
+            "section_122_imports_pct_of_annual": 34,
+            "section_122_effective_date": "2026-02-24",
+            "section_122_expiry_date": "2026-07-24",
+            "cit_ruling_date": "2026-05-07",
+            "cit_injunction_scope": "plaintiff importers only",
+            "nationwide_injunction_entered": false,
+            "scotus_ieepa_ruling": "6-3 tariffs not authorized",
+            "scotus_ieepa_ruling_date": "2026-02-20",
+            "us_avg_effective_tariff_rate_april_pct": 11.8,
+            "us_tariff_rate_historical_context": "highest since early 1940s",
+            "canada_market_outperformance_vs_sp500_pct": 28.93,
+            "mexico_market_outperformance_vs_sp500_pct": 25.17
+          }
+        },
+        {
+          "headline": "Brent $101.73 Close May 8; Sub-$100 Was Intraday Only; Oil Repricing Deal Delay; Warsh Vote Monday May 11; Triple-Convergence Week Opens",
+          "summary": "Brent crude's $101.73 close on May 8 (+1.66% from prior day) confirmed the sub-$100 intraday trading of May 7–8 was a deal-optimism artifact, not a sustained level. The overnight tanker strikes add a supply-risk premium to Saturday morning's price baseline. WTI estimated in the $95–97 range. National average gas prices remain above $4.50 per gallon (AAA), with PNW consumers among the highest-paying in the lower 48. Brent is approximately 49% above the pre-war baseline of ~$68. Warsh's Senate floor vote is confirmed for Monday May 11 (5:30 PM ET) — triple-convergence week (Warsh vote, Reconciliation 2.0 committee deadline May 15, Powell expiry May 15) formally opens Monday. Warsh's inherited environment: UR 4.2%, NFP 177K beat (May 8), Brent $101.73, WTI ~$96, PCE 3.5%, core goods inflation +3.1% (tariff-driven), federal funds rate 3.50–3.75% (held January 2026), Section 122 tariff architecture under CIT legal challenge. The April jobs beat gives Warsh a cleaner labor-market baseline than the stagflation trajectory suggested — but does not resolve the Hormuz oil shock, which is not accessible through domestic monetary policy.",
+          "significance": "HIGH",
+          "actors": ["oil futures markets", "Kevin Warsh", "Jerome Powell", "OPEC+", "IEA", "AAA", "FOMC", "Senate"],
+          "metrics": {
+            "brent_may8_close_usd": 101.73,
+            "brent_may8_change_pct": 1.66,
+            "brent_sub_100_sustained": false,
+            "wti_may9_estimated_range_usd": "95-97",
+            "national_gas_avg_above_usd": 4.50,
+            "brent_pre_war_baseline_approx_usd": 68,
+            "brent_above_pre_war_pct_approx": 49,
+            "warsh_senate_vote_date": "2026-05-11",
+            "warsh_senate_vote_time_et": "17:30",
+            "powell_expiry_date": "2026-05-15",
+            "fed_funds_rate_pct": "3.50-3.75",
+            "april_nfp": 177000,
+            "april_ur_pct": 4.2,
+            "pce_march_pct": 3.5,
+            "core_goods_pce_tariff_pct": 3.1,
+            "gdp_q1_2026_pct": 2.1,
+            "warsh_first_fomc": "2026-06-16",
+            "markets_closed_saturday": true
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "ShinyHunters group's Canvas/Instructure breach — 3.6 terabytes, 9,000 schools and universities including Western Washington University, ransomware demand — is the weekend's dominant cyber headline. Criminal incident, not state-sponsored CI attack, but the largest education-sector data breach of 2026 at finals week. CISA CI Fortify operative; Day 6 post-Project Freedom launch confirms no IRGC-affiliated destructive attack on US critical infrastructure. Overnight tanker strikes are a potential IRGC cyber-trigger event — weekend staffing compounds the risk window.",
+      "items": [
+        {
+          "headline": "ShinyHunters Breaches Instructure/Canvas: 3.6TB Data, 9,000 Schools Including WWU, Ransomware Demand; Largest Education Breach of 2026",
+          "summary": "The cybercrime group ShinyHunters claimed responsibility May 7–8, 2026 for a breach of Instructure, the company behind the Canvas learning management system used by approximately 9,000 schools and universities nationwide. The group claims to have extracted 3.6 terabytes of data and issued a ransom demand. Canvas, which serves an estimated 30 million students and educators, was taken offline for portions of the breach period — creating significant disruption to coursework, grade submission, and finals preparation. Western Washington University (Bellingham, WA) was among the confirmed affected PNW institutions. The breach is a criminal extortion incident, not a state-sponsored critical infrastructure attack in the CISA AA26-097A threat class (Iranian-affiliated PLCs, water/energy/government sectors). However, the scale — 3.6TB, 9,000 institutions, likely including financial aid and student records — makes it operationally significant and a potential vector for downstream credential-based attacks. The breach was still unresolved as of May 8 per The Front Online reporting. This is not a CISA advisory-level event but it is the most significant US cyber incident of the week — and its education-sector concentration at finals week represents maximum institutional disruption timing.",
+          "significance": "HIGH",
+          "actors": ["ShinyHunters", "Instructure", "Canvas LMS", "Western Washington University", "FBI Cyber Division", "CISA"],
+          "metrics": {
+            "breach_data_volume_tb": 3.6,
+            "affected_institutions": 9000,
+            "confirmed_affected_pnw_institutions": ["Western Washington University"],
+            "ransom_demand_issued": true,
+            "canvas_offline_period_reported": true,
+            "state_sponsored_attack": false,
+            "criminal_ransomware_classification": true,
+            "students_educators_affected_approx_millions": 30,
+            "breach_dates": "2026-05-07 to 2026-05-08"
+          }
+        },
+        {
+          "headline": "CISA Day 6: No IRGC Destructive Attack Confirmed; Overnight Tanker Strikes Elevate Weekend Risk Window; CI Fortify Operative",
+          "summary": "Six days after Project Freedom launched (May 4), CISA has confirmed no IRGC-affiliated or Handala-attributed destructive cyberattack on US critical infrastructure. The sustained absence is a material positive — every day without a destructive IRGC cyber operation is a day of operational continuity for water utilities, energy operators, and transportation entities already planning 'weeks to months' in isolation mode per CI Fortify guidance. However, the overnight tanker strikes — US forces hitting two Iranian-flagged vessels in the Strait — represent a new IRGC provocation event that could internally justify a calibrated cyber response during the nominal pause. Weekend staffing reductions across IT security teams compound the timing risk: reduced incident response capacity Saturday–Sunday is a structural vulnerability that threat actors have historically exploited. CISA has issued no updated advisory beyond AA26-097A (April 7, 2026). NERC continues active grid monitoring. FINRA financial-sector alert remains in effect. The Canvas/ShinyHunters breach demonstrates that weekend timing of significant cyber operations against major platforms remains a preferred pattern regardless of state affiliation. No confirmed US critical infrastructure disruption has been attributed to Iranian actors through the morning of May 9.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI", "NSA", "NERC", "IRGC Cyber Electronic Command", "CyberAv3ngers", "Handala", "FINRA", "DHS"],
+          "metrics": {
+            "days_since_project_freedom_launch": 6,
+            "confirmed_irgc_destructive_attack_since_may4": false,
+            "updated_cisa_advisory_since_apr7": false,
+            "cisa_advisory_reference": "AA26-097A (2026-04-07)",
+            "ci_fortify_status": "operative",
+            "finra_alert_active": true,
+            "nerc_monitoring_active": true,
+            "weekend_elevated_risk_window": true,
+            "overnight_tanker_strikes_potential_cyber_trigger": true,
+            "canvas_breach_classification": "criminal/ransomware",
+            "q1_2026_cyber_incidents": 1305,
+            "q1_2026_ransomware_attacks": 1138
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "Triple-convergence week opens Monday: Warsh Senate floor vote May 11 (5:30 PM ET), Reconciliation 2.0 committee submission deadline May 15, Powell term expiry May 15. WPA Day 10 past April 29 statutory deadline — no war authorization floor scheduling, no court challenge pending. DOGE 56 days from July 4 expiration; White House formally asked Congress this week to codify DOGE cuts to USAID and CPB. DOGE staff meeting Peace Corps today (Saturday). SCOTUS mass-layoff emergency application still pending with no ruling timeline. CIT Section 122 tariff ruling adds legal variable to Reconciliation 2.0's tax-and-trade architecture debate.",
+      "items": [
+        {
+          "headline": "Triple-Convergence Week Opens Monday: Warsh May 11 5:30 PM Vote, Reconciliation Deadline May 15, Powell Expiry May 15; WPA Day 10 Unresolved",
+          "summary": "Monday May 11 marks the formal opening of the highest-density institutional convergence week of the 119th Congress's second session. The Senate is scheduled to vote on Kevin Warsh's Federal Reserve Chair nomination at 5:30 PM ET — before Jerome Powell's May 15 statutory term expiration. Warsh's confirmation path is solid: 53 Republican Senate seats plus Fetterman's indicated support provides a working margin of approximately 54–46. Warsh's inherited environment as of Monday: UR 4.2%, Brent $101.73, PCE 3.5%, federal funds rate 3.50–3.75%, Section 122 tariff architecture under CIT legal challenge. Reconciliation 2.0: all designated Senate committees must submit measures to the Budget Committee by May 15. The Senate Homeland Security and Judiciary committees' $72B ICE/CBP package was CBO-scored May 4; remaining committees face a 6-day deadline from Monday. The $1B White House ballroom security earmark (disclosed NPR May 6) remains in the bill unresolved. WPA Day 10 past April 29 statutory deadline: the constitutional accountability gap — 36+ hours of offensive operations without congressional authorization — persists and widens. All six Senate war-powers resolutions attempted so far have failed. Project Freedom's pause provides temporary political relief but the WPA issue has not been resolved.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Jerome Powell", "John Thune", "John Fetterman", "Senate Majority Leader", "Senate Budget Committee", "White House OMB", "Senate Armed Services Committee", "Congressional Democrats"],
+          "metrics": {
+            "warsh_senate_vote_date": "2026-05-11",
+            "warsh_senate_vote_time_et": "17:30",
+            "powell_term_expiry": "2026-05-15",
+            "reconciliation_committee_deadline": "2026-05-15",
+            "trump_reconciliation_desk_target": "2026-06-01",
+            "reconciliation_dhs_judiciary_billions": 72,
+            "ballroom_earmark_billions": 1,
+            "wpa_days_past_deadline": 10,
+            "wpa_deadline_date": "2026-04-29",
+            "senate_majority_seats": 53,
+            "fetterman_indicated_yes": true,
+            "expected_warsh_vote_approx": "54-46",
+            "senate_war_powers_resolutions_failed": 6
+          }
+        },
+        {
+          "headline": "DOGE: White House Asks Congress to Codify USAID/CPB Cuts; Peace Corps Meeting Today; July 4 Expiration 56 Days Out; SCOTUS Mass-Layoff Request Pending",
+          "summary": "The White House formally asked Congress this week to codify DOGE-implemented cuts to USAID and the Corporation for Public Broadcasting — a codification request that acknowledges the legal fragility of executive-branch-only DOGE cuts ahead of the July 4 statutory expiration. DOGE staff are scheduled to meet with Peace Corps officials today (Saturday May 9), continuing the department's review of agencies targeted for elimination or restructuring. The DOGE July 4 expiration is now 56 days out. A Brookings Institution budget expert estimated DOGE's total savings at approximately $20 billion — well below stated targets — with the bulk from international funding and minority program cuts rather than structural government reform. A federal judge separately ruled that $100M+ in NEH grant cuts were discriminatory. The SCOTUS emergency application authorizing the mass federal layoff plan (estimated 300,000 positions) remains pending with no ruling timeline. Authorization before July 4 would provide legal cover for remaining DOGE structural cuts before statutory expiration. The CIT's Section 122 tariff invalidation adds a parallel legal-challenge precedent that may energize litigation against other executive-authority-reliant DOGE actions.",
+          "significance": "MEDIUM",
+          "actors": ["DOGE", "White House OMB", "Congress", "USAID", "Corporation for Public Broadcasting", "Peace Corps", "SCOTUS", "OPM"],
+          "metrics": {
+            "doge_expiration_date": "2026-07-04",
+            "doge_days_to_expiration": 56,
+            "doge_estimated_savings_billions": 20,
+            "federal_positions_under_layoff_plan_approx": 300000,
+            "scotus_mass_layoff_ruling_status": "pending",
+            "white_house_codification_request_filed": true,
+            "codification_targets": ["USAID", "CPB"],
+            "peace_corps_doge_meeting_date": "2026-05-09",
+            "neh_grants_ruling_millions_cut": 100
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Oregon fire season active Day 2; Portland 88°F today (Saturday), 90°F Sunday — approaching the fine-fuel curing threshold for Columbia Gorge and east Cascades. 700 ODF wildland firefighters and 300 fire trucks pre-positioned. New wildfire risk assessment identifies 400+ PNW communities at elevated risk, including Cave Junction, La Pine, Selah, White Salmon, and Ellensburg. FOX 13 Seattle reports potential super El Niño formation raising WA upper-tail wildfire risk beyond ECMWF baseline. PNW measles: OHA wastewater active in non-reporting counties; count update expected Monday–Tuesday; WA holds at 40+. Canvas breach may complicate school health communications at affected PNW institutions this weekend. Brent rebound to $101.73 delays any PNW pump price relief 1–2 additional weeks.",
+      "items": [
+        {
+          "headline": "Oregon Fire Season Day 2 Active; Portland 88°F Today, 90°F Sunday; 400+ PNW Communities at Higher-Than-Mapped Risk; Super El Niño Potential; 23 Days to Above-Normal East Cascades Onset",
+          "summary": "Oregon's 2026 fire season, declared effective 12:01 AM PDT May 8, is now active Day 2 with 700 ODF wildland firefighters and 300 fire trucks in protective position for 16 million Oregon acres, supplemented by 300+ local fire departments and federal and tribal wildland fire resources. Portland's weekend forecast: 88°F Saturday, 90°F Sunday May 10. The 90°F threshold drives accelerated soil moisture depletion and fine-fuel curing in the Columbia Gorge and east of the Cascades — 23 days ahead of the June 1 above-normal fire risk onset for eastern Oregon. No NWS Portland red flag warning issued as of Saturday morning; east-gradient wind potential in the Columbia Gorge is being monitored through Sunday. A new wildfire community risk assessment (The News Guard) identified 400+ PNW communities at higher risk than previously mapped. Elevated-risk communities include Oregon towns Cave Junction, La Pine, and Glendale; Washington towns Selah, White Salmon, and Ellensburg. FOX 13 Seattle reports a potential super El Niño formation that could raise the upper-tail wildfire risk scenario for Washington beyond the already-elevated ECMWF May–July baseline (well-below-normal precipitation, well-above-normal temperatures, deepest PNW precipitation deficits in the lower 48). Oregon's fire season is projected to extend through October — approximately one month beyond historical average. Oregon's 2025–2026 winter was tied with 1934 as the warmest on record. AccuWeather projects 5.5 million acres burned nationally in 2026. The DOGE-related elimination of Forest Service regional fire science capacity continues to degrade the pre-positioning modeling that ODF crews rely on for risk-weighted placement decisions.",
+          "significance": "HIGH",
+          "actors": ["Oregon Department of Forestry", "NWS Portland", "BLM Oregon-Washington", "Washington DNR", "Forest Service Region 6", "Oregon State Fire Marshal", "Gov. Tina Kotek", "NOAA", "NIFC", "AccuWeather"],
+          "metrics": {
+            "oregon_fire_season_active_day": 2,
+            "oregon_fire_season_declared": "2026-05-08T00:01:00-07:00",
+            "portland_forecast_high_saturday_f": 88,
+            "portland_forecast_high_sunday_f": 90,
+            "red_flag_warning_issued": false,
+            "gorge_east_gradient_monitoring": true,
+            "days_to_above_normal_east_cascades": 23,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "above_normal_statewide_onset": "2026-07-01",
+            "oregon_projected_season_end": "October 2026",
+            "odf_wildland_firefighters": 700,
+            "odf_fire_trucks": 300,
+            "oregon_protected_acres_millions": 16,
+            "pnw_elevated_risk_communities": 400,
+            "named_elevated_risk_communities_or": ["Cave Junction", "La Pine", "Glendale"],
+            "named_elevated_risk_communities_wa": ["Selah", "White Salmon", "Ellensburg"],
+            "super_el_nino_potential": true,
+            "national_acres_burned_projection_millions": 5.5,
+            "ecmwf_precip_outlook_may_july": "well-below-normal",
+            "ecmwf_temp_outlook_may_july": "well-above-normal",
+            "oregon_warmest_winter_on_record_tied_year": 1934,
+            "wa_drought_consecutive_years": 4,
+            "wa_snowpack_vs_normal_pct": 50
+          }
+        },
+        {
+          "headline": "PNW Measles: OHA Wastewater Active in Non-Reporting Counties; Count Update Expected Monday–Tuesday; WA 40+; Catch-Up Window 5–6 Weeks; Canvas Disruption Secondary Complication",
+          "summary": "No new Oregon Health Authority case count was published Friday or Saturday — the most recent published figure remains 20 confirmed cases as of April 22, 2026, which OHA officials have characterized as substantially understated. OHA's wastewater surveillance dashboard continues to detect measles viral concentrations in counties with no confirmed cases, a leading indicator of transmission outpacing case-finding capacity. Washington State holds at 40+ confirmed cases across 8 counties, with Kittitas County in formal outbreak status. National total as of April 30, 2026: 1,814 confirmed cases across 37 jurisdictions. The structural context is unchanged: below-threshold MMR vaccination coverage in pockets of both states, DOGE-related CDC response capacity constraints, and active school-year community spread dynamics. The school-year catch-up window (most PNW districts end mid-to-late June) is approximately 5–6 weeks remaining. Secondary complication: the Canvas/ShinyHunters breach (9,000 institutions offline May 7–8) disrupted LMS-dependent health communications and school nurse messaging at affected PNW campuses for the weekend period. Next expected OHA case count: Monday–Tuesday, consistent with OHA's weekday publishing cadence. The published count is expected to show a material increase from April 22's 20-case figure given sustained wastewater detection in non-reporting counties.",
+          "significance": "MEDIUM",
+          "actors": ["Oregon Health Authority", "WA State Department of Health", "CDC", "Kittitas County Public Health", "local school districts", "PNW pediatric healthcare providers"],
+          "metrics": {
+            "or_measles_confirmed_last_published": 20,
+            "or_measles_last_published_date": "2026-04-22",
+            "or_wastewater_detection_active": true,
+            "or_suspected_underreporting": true,
+            "wa_measles_2026_ytd_min": 40,
+            "wa_counties_affected": 8,
+            "kittitas_county_outbreak_status": true,
+            "us_national_confirmed_as_of_apr30": 1814,
+            "affected_jurisdictions_national": 37,
+            "school_year_pnw_end": "mid-to-late June 2026",
+            "vaccination_catch_up_window_weeks": "5-6",
+            "next_oha_update_expected": "2026-05-11",
+            "canvas_disruption_pnw_schools": true
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 9, 2026 morning — Hormuz Day 70, Naval Blockade Day 27, Project Freedom Pause Day 4, WPA Day 10 Past Statutory Deadline. The brief opens one point lower than last night's vibe-5 jobs-beat close. The downgrade is driven by three compounding overnight developments. First: Washington Post confirmed US forces struck two Iranian-flagged tankers overnight — active kinetics during the Project Freedom pause confirm the pause is not a ceasefire equivalent. IRGC naval assets continue engaging US forces; any US casualty or vessel loss during the pause creates immediate pressure for resumption 'at a much higher level.' Second: Al Jazeera's May 9 morning liveblog logs Israeli air strikes on Lebanon — a new secondary theater on Europe Day that broadens the regional conflict footprint, activates IRGC proxy dynamics, and adds an EU-relevant front simultaneously with the Hormuz crisis. Third: Iran's MOU non-response is now ~90 hours past the 48-hour window — the US remains 'actively awaiting' a serious offer that has not materialized. Executive-parliament divergence in Tehran (FM 'reviewing' vs. parliament 'American wish list') is the structural ambiguity the market is already pricing: Brent's rebound to $101.73 on May 8 close confirms deal-delay repricing, not deal-imminent. The new economic variable this morning: the CIT's May 7 ruling striking down Section 122 tariffs as applied to plaintiff importers is spreading through trade counsel networks. The injunction is narrow (plaintiff-only, not nationwide), but it establishes the legal challenge architecture that could erode Warsh's inherited tariff landscape before his first FOMC in June. Against these negatives: the April jobs report (177K NFP, 4.2% UR) from Friday remains operative — the labor market floor is real. Warsh's Senate floor vote is confirmed for Monday May 11 (5:30 PM ET) — triple-convergence week opens. CISA confirms no IRGC destructive cyberattack through Day 6 post-Project Freedom. Canvas/ShinyHunters is a major breach but criminal, not state-sponsored. PNW fire season active Day 2 with full pre-positioning; Portland approaching 90°F Sunday; 23 days to above-normal east Cascades fire risk onset. Measles watch: OHA count expected Monday with material increase from understated April 22 baseline. Vibe 4: the deal track is not collapsed and the Pakistan channel remains active, but overnight kinetics, new regional theater, extended Iranian non-response, and tariff legal turbulence hold this brief firmly one point below last night's close.",
+  "watch_items": [
+    "Iran MOU formal response: ~90 hours past the 48-hour window — the dominant variable of the crisis; watch Baqaei public statement, Pakistan Foreign Ministry confirmation of receiving Iranian response, any Axios/Reuters sourcing on transmission, or Trump social media characterization; formal 'no' from executive track would collapse vibe to 2-3 immediately; conditional counter-proposal would hold at 4; acceptance would lift to 6+",
+    "Project Freedom pause continuity: overnight tanker strikes (US hitting 2 Iranian-flagged vessels) are the most direct trigger for pause termination; watch CENTCOM for full incident report, Trump characterization of the strikes, and any indication the exchange crossed a threshold; any Hegseth or CENTCOM statement characterizing the incident as beyond self-defense scope would be a resumption signal",
+    "Israel-Lebanon escalation: Israeli air strikes on Lebanon (Al Jazeera May 9 liveblog) — watch for Hezbollah response, IDF ground operation signals, any IRGC/Iran official statement on Lebanon; any framing of 'we are under simultaneous US-Israel attack' domestically would collapse the MOU window faster than a direct Iran rejection",
+    "CIT Section 122 tariff appeal: plaintiff-only injunction is narrow but the Federal Circuit appeal timeline is the key variable — watch for government notice of appeal, emergency stay application, or other importers filing for similar injunctions; widespread injunction grants would materially reduce effective tariff rates before Warsh's June FOMC",
+    "Canvas/ShinyHunters: watch Instructure's official breach notification and system restoration timeline; any evidence of student financial aid or federal education data compromise escalates this to a regulatory event beyond the criminal track; secondary watch for any IRGC-affiliated actor attempting to exploit the Canvas disruption window",
+    "Warsh Senate floor vote Monday May 11 5:30 PM: procedural watch — any Republican hold attempt, Democratic motion to delay, or Fetterman position shift; the vote is the lynchpin of triple-convergence week; any slip compresses hard against Powell's May 15 expiration",
+    "Reconciliation 2.0 committee deadline May 15: watch for committee markup announcements and any Republican senator calling for removal of the $1B ballroom security earmark; language deadline is the same day as Powell's expiration",
+    "DOGE SCOTUS mass-layoff ruling: emergency application pending — a ruling this week during triple-convergence week could either validate DOGE's remaining 56-day authority or create an injunction against further layoffs before the July 4 expiration",
+    "NWS Portland red flag watch: Portland forecast 90°F Sunday with east-gradient Columbia Gorge wind potential — if wind and heat peak simultaneously Sunday afternoon, NWS Portland may issue a red flag watch for east of the Cascades; watch NIFC and NWS daily fire weather outlooks through Sunday evening",
+    "OHA measles count Monday–Tuesday: wastewater active in non-reporting counties; next published figure likely substantially higher than April 22's 20-case baseline; any new no-known-source case outside Kittitas/Spokane confirms wider undetected spread; Canvas disruption at PNW schools this weekend may have delayed weekend health communication outreach",
+    "Super El Niño formation watch: FOX 13 Seattle reports potential development — watch NOAA CPC monthly outlook updates for any upgraded probability forecasts raising PNW wildfire upper-tail risk above the current ECMWF May–July baseline"
+  ],
+  "sources": [
+    "Washington Post - U.S. strikes two Iranian-flagged ships as tensions rise amid ceasefire (May 8, 2026)",
+    "Al Jazeera - Iran war live: Israel attacks Lebanon as US expects Iran's response to deal (May 9, 2026)",
+    "Al Jazeera - Iran war live: Tehran's reply to US deal expected amid clashes in Hormuz (May 9, 2026)",
+    "CBS News - U.S. fires on 2 Iran-flagged tankers as U.S. awaits response on peace deal (2026)",
+    "Euronews - Podcast: How is Europe juggling all this geopolitical turmoil? (May 8, 2026)",
+    "Baker McKenzie - US: CIT Invalidates Section 122 Tariffs (May 8, 2026)",
+    "Holland & Knight - US Court of International Trade Invalidates the Administration's Section 122 Tariffs (May 8, 2026)",
+    "Snell & Wilmer - More Tariff Refunds, Not So Fast? Court of International Trade Strikes Down Section 122 Tariffs (2026)",
+    "Benesch - Section 122 – Supply Chain Reactions To CIT Decision (2026)",
+    "GHY International - Section 122 Tariffs Struck Down: What Importers Need to Know Now (2026)",
+    "JetWorldwide - Section 122 Tariffs Struck Down by CIT (2026)",
+    "Wikipedia - Learning Resources, Inc. v. Trump",
+    "Al Jazeera - US trade court rules against Trump's 10 percent global tariffs (May 7, 2026)",
+    "Fortune - A year on from Liberation Day, Trump's tariffs have done 'significant damage' to the US economy (May 6, 2026)",
+    "Budget Lab at Yale - State of U.S. Tariffs: April 8, 2026",
+    "ClickOrlando - Cyberattack hits Canvas system used by thousands of schools as finals loom (May 8, 2026)",
+    "The Front Online - BREAKING: Cybercrime group takes over Canvas across the country, demands ransom (2026)",
+    "CISA - CI Fortify initiative (May 5, 2026)",
+    "CISA - Advisory AA26-097A: Iranian-Affiliated Cyber Actors Exploit PLCs (April 7, 2026)",
+    "Federal News Network - CISA tells critical organizations to prepare for cyber outages (May 2026)",
+    "BLS - Employment Situation News Release 2026 M04 Results (May 8, 2026)",
+    "Senate Executive Calendar - Ordered vote: Kevin Warsh nomination, May 11 2026 at 5:30 PM ET",
+    "The Hill - This week on The Hill: Senate takes first steps on reconciliation 2.0",
+    "CBO - Reconciliation Legislation Senate Homeland Security/Judiciary (May 4, 2026)",
+    "NBC News - White House asks Congress to codify DOGE cuts to USAID and public broadcasting",
+    "PBS NewsHour - Trump formally asks Congress to claw back approved spending targeted by DOGE",
+    "Washington Examiner - Congress is about to undo DOGE's biggest win",
+    "The News Guard - New research reveals increased wildfire risk for more than 400 communities in Northwest (2026)",
+    "FOX 13 Seattle - Potential Super El Nino may raise Washington wildfire risk (2026)",
+    "OPB - Oregon faces longer fire season due to historic heat, drought, fire experts warn (May 6, 2026)",
+    "Central Oregon Daily - Oregon wildfire season expected to be severe, last into fall (2026)",
+    "Cabarrus Weekly/ECMWF - Washington, Oregon, California, and the Pacific Northwest Face Dangerous Heat and Severe Drought From May Through July 2026",
+    "NIFC - June 1, 2026 Outlook Period: May through August Seasonal Fire Potential Outlook",
+    "Oregon Health Authority - Measles/Rubeola surveillance page",
+    "Oregon Health Authority - Oregon reports measles outbreak; new wastewater dashboard tracks measles virus by county",
+    "WA DOH - Measles cases Washington State 2026",
+    "CDC - Measles Cases and Outbreaks 2025-2026 dashboard",
+    "AAA - National average gas prices (above $4.50/gallon)",
+    "Wikipedia - 2026 Strait of Hormuz crisis"
+  ]
+}
