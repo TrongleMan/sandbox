@@ -252,7 +252,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Iran Response 96+ Hrs Overdue; Nuclear Rhetoric Unretracted; Portland Confirms 90°F; Triple-Convergence Week Opens Tomorrow; Oregon Fire Day 3; Vibe 4",
       "generated_at": "2026-05-10T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-10-morning",
+      "date": "2026-05-10",
+      "session": "morning",
+      "file": "reports/2026-05-10-morning.json",
+      "vibe": 4,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Iran FM Baqaei: 'Grotesque Absurdity'; Saturday Naval Exchange Unresolved; MOU 72+ Hrs Overdue; Portland 90°F Forecast; Triple-Convergence Week Tomorrow; Vibe 4",
+      "generated_at": "2026-05-10T07:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-10T20:00:00-07:00"
+  "last_updated": "2026-05-10T07:00:00-07:00"
 }

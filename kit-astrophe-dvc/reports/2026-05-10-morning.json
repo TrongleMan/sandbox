@@ -1,0 +1,328 @@
+{
+  "report_id": "2026-05-10-morning",
+  "generated_at": "2026-05-10T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 71; Naval Blockade Day 29; Project Freedom Pause Day 5; WPA Day 11 Past Statutory Deadline. Sunday morning opens with three compounding overnight developments. First: Trump's 'one big glow' nuclear threat — delivered Saturday evening May 9 — now has its first Iranian official response. Iran's Foreign Ministry spokesperson Esmaeil Baqaei issued a public rebuke Sunday morning, calling it a 'grotesque absurdity' and framing US peace overtures as self-contradictory: 'It is a grotesque absurdity that they claim to seek peace and prevent a nuclear crisis, yet their proposed solution is one big glow.' This is not a formal MOU rejection; it is a public diplomatic rebuke of the threat language that materially raises the domestic political cost inside Iran of accepting any deal now publicly framed as capitulation under nuclear duress. The Baqaei statement is the most operationally significant new development of the overnight window. Second: Saturday night's kinetic exchange in the Strait — the first during the Project Freedom pause — remains unresolved as a precedent. CENTCOM characterized the strikes as self-defense; Trump called the exchange a 'love tap'; the IRGC has issued no formal statement on whether it considers the pause still operative. The silence cuts both ways. Third: Iran's formal MOU response through the Pakistan back-channel remains absent — 72+ hours past the 48-hour response window delivered with the 14-point framework — with no Sunday morning transmission confirmed. Oil markets are closed (Sunday); Brent is frozen at the May 8 close of $101.73 until Sunday evening futures open, the first market pricing event for the accumulated overnight signals. Triple-convergence week opens tomorrow Monday May 11: Warsh Senate cloture vote at 3:00 PM ET, confirmation floor vote at 5:30 PM ET; Jerome Powell's term expires May 15; Reconciliation 2.0 committee deadline May 15. PNW: Portland is forecast to reach 90°F today — the first 90-degree day of May, ahead of historical average — as Oregon's fire season (Day 3) enters its first significant heat test.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe holds at 4 — the Iran FM 'grotesque absurdity' statement is the strongest Iranian official language of the crisis directed at Trump's rhetoric and represents a genuine complication to the deal architecture, but it is a statement, not a formal deal rejection. The structural reasons for not scoring lower remain: Pakistan's intermediary role has not been suspended; Iran's formal posture is still 'reviewing,' not 'rejected'; no destructive cyberattack has occurred through Day 7 post-Project Freedom; and the 'one big glow' statement has not been officially retracted or walked forward to an explicit nuclear commitment. The reasons for not scoring higher are now sharper than 24 hours ago: Baqaei's public framing gives Iranian parliament and IRGC a rhetorical anchor ('we will not negotiate under nuclear blackmail') that forecloses deal-acceptance with face-saving cover. The Saturday naval exchange during the pause is an unresolved operational data point — CENTCOM called it self-defense, Trump called it a love tap, but the IRGC's internal characterization determines whether the pause continues to hold. Triple-convergence week opens tomorrow under these conditions: Warsh vote, Powell expiry, and Reconciliation deadline all resolving in five days while Iran's MOU response remains absent and nuclear rhetoric stands unretracted. Vibe 4: rhetorical environment deteriorating, deal architecture intact but under increasing strain, Monday is the week's first inflection point."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 71; Naval Blockade Day 29; Project Freedom Pause Day 5. Iran FM Baqaei issued the first official Iranian response to Trump's 'one big glow' nuclear threat Sunday morning, calling it a 'grotesque absurdity' — a significant rhetorical escalation that does not constitute a formal MOU rejection but materially complicates the deal's domestic political viability inside Iran. MOU response through the Pakistan channel remains absent (72+ hours past the 48-hour window). Saturday's naval exchange during the Project Freedom pause remains unresolved as an operational precedent. ~1,600 ships stranded; ~23,000 sailors.",
+      "items": [
+        {
+          "headline": "Iran FM Baqaei: Trump's 'One Big Glow' Nuclear Threat Is 'Grotesque Absurdity'; First Iranian Official Response to Nuclear Language; MOU Domestic Viability Narrows",
+          "summary": "Iran's Foreign Ministry spokesperson Esmaeil Baqaei issued a public statement Sunday morning May 10 responding directly to President Trump's Saturday nuclear threat language — the first Iranian official response to the 'one big glow' statement. Baqaei stated: 'It is a grotesque absurdity that they claim to seek peace and prevent a nuclear crisis, yet their proposed solution is one big glow.' The statement is a carefully calibrated diplomatic rebuke rather than a formal MOU rejection: it does not withdraw Iran from the negotiating framework, does not formally terminate the Pakistan channel, and does not constitute a declared 'no' on the 14-point MOU. However, its strategic consequences are material and likely lasting. By publicly characterizing Trump's peace framing as self-contradictory — peace claims paired with nuclear threats — Baqaei has established an Iranian state-level rhetorical anchor that all domestic political factions (parliament, IRGC, Expediency Council) can now cite as justification for rejecting a deal. The pre-existing domestic political barriers — parliament's 'wish list' characterization of the MOU, the Expediency Council's reparations demand, IRGC's resistance — are now formally equipped with state-level language framing acceptance as capitulation under nuclear duress. The National Iranian-American Council assessed Trump's original statement as 'an almost unthinkable threat to commit a mass war crime against 92 million people' — the humanitarian framing that Iranian domestic communicators will now amplify. The US has issued no White House, State Department, or CENTCOM clarification of the 'one big glow' language as of Sunday morning, meaning Baqaei's rebuke is responding to what remains operative US posture. The Pakistan channel has produced no confirmed MOU response transmission; the formal Iranian position is still 'reviewing.' The Baqaei statement is the most operationally significant new development of the overnight window: not a deal killer on its own, but a rhetorical environment-setter that narrows the space for Iranian leadership to sell acceptance domestically.",
+          "significance": "CRITICAL",
+          "actors": ["Esmaeil Baqaei", "Iran Foreign Ministry", "Donald Trump", "White House", "State Department", "Pakistan PM Shehbaz Sharif", "Pakistan Foreign Ministry", "Iran Expediency Council", "Iran parliament", "IRGC", "Ayatollah Khamenei", "National Iranian-American Council"],
+          "metrics": {
+            "hormuz_closed_days": 71,
+            "naval_blockade_active_days": 29,
+            "project_freedom_status": "PAUSED",
+            "project_freedom_pause_day": 5,
+            "wpa_days_past_deadline": 11,
+            "iran_fm_baqaei_grotesque_absurdity_statement": true,
+            "iran_fm_baqaei_statement_date": "2026-05-10",
+            "iran_fm_baqaei_statement_nature": "rhetorical_rebuke_not_formal_deal_rejection",
+            "iran_formal_mou_response_received": false,
+            "hours_past_48hr_response_window": 72,
+            "pakistan_channel_active": true,
+            "new_pakistan_transmission_sunday_morning": false,
+            "iran_fm_status": "reviewing",
+            "iran_parliament_mou_characterization": "wish list",
+            "iran_expediency_council_reparations_demand": true,
+            "trump_nuclear_threat_language_unretracted": true,
+            "white_house_clarification_issued": false,
+            "state_dept_clarification_issued": false,
+            "ships_stranded_hormuz_approx": 1600,
+            "sailors_stranded_approx": 23000,
+            "deal_collapse_announced": false,
+            "mou_framework_points": 14,
+            "mou_framework_source": "Axios (May 6, 2026)"
+          }
+        },
+        {
+          "headline": "Saturday Naval Exchange During Project Freedom Pause Remains Unresolved Precedent; CENTCOM Self-Defense Framing; IRGC Silent on Cease-Fire Status; Pause Day 5 Technically Intact",
+          "summary": "The kinetic exchange in the Strait of Hormuz during Saturday night — the first during the Project Freedom pause — remains operationally unresolved as of Sunday morning. CENTCOM characterized the US strikes as self-defense; President Trump described the exchange as a 'love tap,' framing it as consistent with the pause remaining operative. The IRGC has issued no public statement on Saturday's exchange as of Sunday morning — neither confirming their characterization of the pause's status nor announcing retaliatory action. This silence is the critical operational variable: if the IRGC internally frames Saturday's exchange as a cease-fire violation by the US, it provides internal justification for retaliatory action (kinetic or cyber) while maintaining public ambiguity. The Project Freedom pause is nominally intact for its fifth day; no resumption announcement has been made by the White House or CENTCOM. The Trump-Putin call from Saturday — in which Trump claimed the war is 'very complete, pretty much' — produced no Kremlin operational readout and no apparent Russian diplomatic transmission to Tehran that altered Iran's MOU response posture overnight. The Saturday exchange is a low-probability but high-consequence trigger for pause termination: a single additional incident, whether IRGC-initiated or US self-defense, would likely produce immediate Project Freedom resumption pressure from CENTCOM and Trump's National Security team. The pause's operational credibility erodes with each uncharacterized kinetic incident. Iran's IEA states the conflict has removed approximately 14 million barrels per day from global oil supply — the scale that makes pause continuity an energy security concern for the entire G7.",
+          "significance": "HIGH",
+          "actors": ["CENTCOM", "Donald Trump", "IRGC", "IRGC Navy", "Vladimir Putin", "Kremlin", "Iran Supreme Leader", "US Navy", "US Air Force"],
+          "metrics": {
+            "saturday_naval_exchange_confirmed": true,
+            "centcom_characterization": "self-defense",
+            "trump_characterization": "love tap",
+            "irgc_cease_fire_characterization_issued": false,
+            "project_freedom_pause_intact": true,
+            "project_freedom_pause_day": 5,
+            "project_freedom_resumption_announced": false,
+            "trump_putin_call_saturday": true,
+            "trump_war_complete_claim": true,
+            "kremlin_operational_readout_public": false,
+            "new_kinetic_exchange_sunday_morning": false,
+            "iea_daily_supply_removed_mbpd": 14,
+            "pause_operational_credibility": "degrading"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Markets closed Sunday. Brent frozen at May 8 close of $101.73; WTI ~$94.81. Sunday evening futures open (6 PM ET) is the first price discovery event for the weekend's accumulated signals: Iran FM 'grotesque absurdity' rebuke, Saturday naval exchange during pause, 72+ hour MOU non-response. All three signals are oil-price-positive (supply disruption risk premium). National gas above $4.50/gallon. Triple-convergence week opens Monday: Warsh cloture 3 PM ET, floor vote 5:30 PM ET; Powell expiry May 15; Reconciliation deadline May 15. EIA Q2 2026 Brent peak forecast ~$115/b if deal fails.",
+      "items": [
+        {
+          "headline": "Oil Frozen at $101.73 Brent; Sunday Evening Futures Open Is First Pricing for Iran FM Rebuke + Saturday Exchange; Three Oil-Positive Signals Accumulated Overnight; EIA Q2 Peak $115 If No Deal",
+          "summary": "Global commodity and US equity markets are closed Sunday May 10. Brent crude's last confirmed close is $101.73 (May 8, 2026) — approximately 49% above the pre-war baseline of ~$68/barrel. WTI's last confirmed close is $94.81 (May 7). No new price discovery is available until Sunday evening's electronic futures open, approximately 6 PM ET — which will be the first market pricing event for three overnight oil-price-positive signals simultaneously: (1) Iran FM Baqaei's 'grotesque absurdity' rebuke of Trump's nuclear threat, which narrows the near-term deal-closing window and signals Iran's domestic political environment is hardening against acceptance; (2) Saturday's naval exchange during the Project Freedom pause, which raises the probability of pause termination and renewed Strait disruption; (3) Iran's MOU non-response now at 72+ hours, extending the pattern of delay that markets have learned correlates with prolonged Strait closure. The asymmetric risk: all three signals push in the direction of upward oil price pressure; none constitutes a deal-positive event. The CNBC framing of markets 'sleepwalking into a recession' as investors underplay the oil shock remains operative — the IEA's 14 million barrels per day removed from global supply is a structural energy constraint that rate policy alone cannot address. The US Energy Information Administration Short-Term Energy Outlook projects Brent at approximately $115/barrel in Q2 2026 in the deal-failure scenario. National average retail gas is above $4.50/gallon (AAA); diesel above $5.80/gallon — with consumer price relief lagging any crude price move by 2-4 weeks, meaning a deal-acceptance scenario announced this week would not reach the pump before early June.",
+          "significance": "HIGH",
+          "actors": ["oil futures markets", "EIA", "IEA", "OPEC+", "AAA", "US equity markets", "Federal Reserve", "J.P. Morgan Global Research"],
+          "metrics": {
+            "brent_last_confirmed_close_usd": 101.73,
+            "brent_last_confirmed_close_date": "2026-05-08",
+            "wti_last_confirmed_close_usd": 94.81,
+            "wti_last_confirmed_close_date": "2026-05-07",
+            "markets_closed_sunday": true,
+            "sunday_evening_futures_open_et": "18:00",
+            "overnight_oil_price_signals": "3 oil-positive (rebuke, naval exchange, mou delay)",
+            "eia_brent_q2_peak_deal_failure_usd": 115,
+            "deal_acceptance_oil_decline_scenario_pct": "15-20",
+            "deal_acceptance_oil_decline_timeline_weeks": "4-6",
+            "brent_pre_war_baseline_approx_usd": 68,
+            "brent_above_pre_war_pct_approx": 49,
+            "gas_national_avg_above_usd": 4.50,
+            "diesel_national_avg_above_usd": 5.80,
+            "consumer_relief_lag_from_crude_move_weeks": "2-4",
+            "iea_supply_removed_mbpd": 14,
+            "recession_risk_framing": "sleepwalking; misplaced euphoria (CNBC)"
+          }
+        },
+        {
+          "headline": "Triple-Convergence Week Eve: Warsh Cloture 3 PM ET Monday, Floor Vote 5:30 PM ET; Powell Expiry May 15; Reconciliation May 15 — Five-Day Institutional Compression",
+          "summary": "Monday May 11 opens the most compressed week of domestic institutional convergence of the current Congress and the first business day of triple-convergence week. The Senate returns at 3:00 PM ET Monday with a cloture vote on Kevin Warsh's Federal Reserve Chair nomination — the procedural step that ends debate and sets up the confirmation floor vote at 5:30 PM ET the same evening. Warsh's confirmation path is solid: 53 Republican senators plus Senator John Fetterman (D-PA), who has publicly indicated support, provides at minimum 54 votes for a simple majority threshold. The Senate Banking Committee advanced the nomination 13-0 Republican / 11-0 Democrat — the first wholly partisan committee vote on a Fed chair nominee in committee history. Warsh inherits a monetary policy environment where the primary constraint is an external oil shock — 14 million barrels per day removed from global supply — that rate policy cannot address. His first FOMC meeting is expected June 16. Two additional convergence events fall May 15: Jerome Powell's term as Fed Chair expires (the first involuntary expiry in the post-WWII era), and Reconciliation 2.0's committee submission deadline requires all designated Senate committees to transmit measures to the Budget Committee. Senate Finance, Armed Services, and other designated committees face the May 15 submission deadline — the same week as the Warsh vote and Powell expiry. Trump's self-imposed June 1 completion deadline for the full reconciliation package creates downstream pressure for a legislative sequence beginning with Monday's Warsh vote. Any procedural hold, surprise Republican defection, or motions to delay the Warsh vote would be a market-moving event given the compressed timeline and Powell expiry looming five days away.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Jerome Powell", "John Thune", "John Fetterman", "Donald Trump", "Senate Banking Committee", "Senate Budget Committee", "Senate Finance Committee", "Senate Armed Services Committee", "Federal Reserve"],
+          "metrics": {
+            "warsh_senate_cloture_vote_date": "2026-05-11",
+            "warsh_senate_cloture_vote_time_et": "15:00",
+            "warsh_senate_floor_vote_date": "2026-05-11",
+            "warsh_senate_floor_vote_time_et": "17:30",
+            "warsh_expected_confirmation_vote_approx": "54+",
+            "powell_term_expiry": "2026-05-15",
+            "days_to_powell_expiry": 5,
+            "reconciliation_committee_deadline": "2026-05-15",
+            "days_to_reconciliation_deadline": 5,
+            "trump_reconciliation_completion_deadline": "2026-06-01",
+            "warsh_first_fomc_expected": "2026-06-16",
+            "fed_funds_rate_pct": "3.50-3.75",
+            "committee_vote_first_partisan_in_history": true,
+            "senate_banking_committee_vote": "13-0 R, 11-0 D",
+            "fetterman_indicated_yes": true,
+            "powell_expiry_type": "first involuntary expiry post-WWII era",
+            "oil_shock_monetary_policy_constraint": "external; not addressable through rate policy"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CISA Day 7 post-Project Freedom launch: no confirmed IRGC or Handala-attributed destructive cyberattack on US critical infrastructure. CI Fortify operative; FINRA alert active; NERC monitoring active. Sunday morning is peak weekend risk window (minimum IT security staffing). Saturday's naval exchange during the pause is an unresolved IRGC internal trigger. Iran FM 'grotesque absurdity' rebuke may intensify IRGC pressure for calibrated retaliation. Oregon fire season Day 3; Portland forecast 90°F; no red flag warning; 22 days to above-normal east Cascades onset.",
+      "items": [
+        {
+          "headline": "CISA Day 7: No Confirmed Destructive Attack; Saturday Naval Exchange + Iran FM Rebuke Create Compounded IRGC Retaliation Trigger; Sunday Morning Peak Risk Window; CI Fortify Operative",
+          "summary": "Seven days after Project Freedom launched (May 4), CISA has confirmed no IRGC-affiliated or Handala-attributed destructive cyberattack on US critical infrastructure. The advisory landscape is unchanged: CISA AA26-097A (April 7, 2026) — warning of CyberAv3ngers (IRGC Cyber Electronic Command affiliate) exploitation of programmable logic controllers across Government Services, Water and Wastewater, and Energy sectors — remains the operative US government advisory. CI Fortify is active; FINRA's financial-sector cybersecurity alert and NERC's grid monitoring remain in effect. Sunday morning represents the peak risk window of the weekend: minimum IT security staffing at utilities, OT/ICS operators, and financial institutions, with slower incident response capacity. Two overnight developments add compounding IRGC retaliation logic beyond the pre-existing elevated threat environment: (1) Saturday's naval exchange during the pause — CENTCOM confirmed US self-defense strikes — which provides an IRGC internal narrative for calibrated retaliatory pressure even while the pause nominally holds, and (2) Baqaei's 'grotesque absurdity' statement this morning, which signals Iranian leadership has decided that public diplomatic confrontation with US threat framing is now the operative posture. IRGC cyber doctrine has historically treated economic and political escalation by adversaries as operational authorization for infrastructure pressure campaigns. The sustained 7-day absence of a destructive attack through two weekend periods remains the most significant positive infrastructure signal of the crisis — the Handala-Stryker precedent (200,000 devices wiped across 79 countries, March 2026) and the Chime Financial attack (April 1, 2026) established both capability and willingness; the absence to date is a choice, not a capability gap. Any CISA emergency directive, FBI IC3 flash, or OT/ICS sector incident report through Sunday's risk window constitutes a priority watch item.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI", "NSA", "NERC", "IRGC Cyber Electronic Command", "CyberAv3ngers", "Handala", "FINRA", "DHS", "Palo Alto Unit 42", "US energy sector OT operators", "US water sector operators", "US financial sector"],
+          "metrics": {
+            "days_since_project_freedom_launch": 7,
+            "confirmed_irgc_destructive_attack_since_may4": false,
+            "updated_cisa_advisory_since_apr7": false,
+            "cisa_advisory_reference": "AA26-097A (2026-04-07)",
+            "ci_fortify_status": "operative",
+            "finra_alert_active": true,
+            "nerc_monitoring_active": true,
+            "sunday_morning_peak_weekend_risk_window": true,
+            "saturday_naval_exchange_irgc_retaliation_trigger": true,
+            "iran_fm_rebuke_escalation_political_trigger": true,
+            "handala_stryker_precedent_devices_wiped": 200000,
+            "chime_financial_attack_date": "2026-04-01",
+            "consecutive_clean_weekend_periods": 2,
+            "irgc_capability_demonstrated": true,
+            "irgc_absence_of_attack_is_choice_not_gap": true
+          }
+        },
+        {
+          "headline": "Oregon Fire Season Day 3: Portland Forecast 90°F Today; Fine-Fuel Curing Acceleration; No Red Flag Warning; Congressional Democrats Filed Federal Capacity Concerns; 22 Days to East Cascades Above-Normal",
+          "summary": "Oregon's 2026 fire season (declared effective May 8) enters its third day with Portland forecast to reach 90°F today, Sunday May 10 — the first 90-degree day of May, occurring ahead of the historical average. The threshold carries fire-behavior significance: 90°F with the typical low relative humidity of a Cascade lee high-pressure pattern accelerates soil moisture depletion and fine-fuel curing in the Columbia Gorge and east of the Cascades, compressing the timeline to combustible conditions in the region with highest early-season ignition risk. National Weather Service Portland has not issued a red flag warning for today's heat event — concurrent east-gradient Gorge winds have not reached the threshold required for a formal watch/warning designation. Oregon's fire agency protective posture: ODF permitting restrictions operative, approximately 700 wildland firefighters and 300 fire trucks in position, supplemented by federal BLM, Forest Service Region 6, and tribal wildland fire responders. The structural risk environment for 2026 is defined by winter 2025-2026 — tied with 1934 as the warmest on record in Oregon — with regional snowpack collapsed to roughly one-third of normal levels, creating dangerously compressed fine-fuel drying timelines. Oregon's congressional Democrats (Reps. Bonamici, Hoyle, Salinas, Blumenauer, Chavez-DeRoemer) formally filed concerns May 7 with USDA and Interior secretaries about DOGE-related reductions to Forest Service Region 6 capacity, specifically elimination of fire science research positions and reduced pre-positioning resources — a federal response capacity gap opening during the most dangerous projected fire season in Oregon's modern history. AccuWeather projects 5.5 million acres burned nationally in 2026; Oregon is expected to face a severe-to-catastrophic season lasting into October. June 1 above-normal east Cascades onset: 22 days. Washington DNR burn restrictions and Portland metro burn bans remain active.",
+          "significance": "HIGH",
+          "actors": ["Oregon Department of Forestry", "NWS Portland", "BLM Oregon-Washington", "Forest Service Region 6", "Washington DNR", "Oregon State Fire Marshal", "Oregon Governor Kotek", "NIFC", "Reps. Bonamici, Hoyle, Salinas, Blumenauer, Chavez-DeRoemer", "USDA Forest Service", "DOI"],
+          "metrics": {
+            "oregon_fire_season_active": true,
+            "oregon_fire_season_active_day": 3,
+            "oregon_fire_season_declared": "2026-05-08T00:01:00-07:00",
+            "portland_may10_forecast_high_f": 90,
+            "first_forecast_90f_day_of_may": true,
+            "red_flag_warning_issued": false,
+            "gorge_east_gradient_wind_threshold_not_met": true,
+            "days_to_above_normal_east_cascades": 22,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "above_normal_statewide_onset": "2026-07-01",
+            "oregon_wildland_firefighters": 700,
+            "oregon_fire_trucks": 300,
+            "oregon_protected_acres_millions": 16,
+            "oregon_warmest_winter_tied_year": 1934,
+            "snowpack_pct_of_normal": 33,
+            "oregon_projected_season_end": "October 2026",
+            "national_acres_burned_projection_millions": 5.5,
+            "congressional_dems_federal_response_concern_filed": true,
+            "congressional_dems_concern_date": "2026-05-07",
+            "forest_service_region6_doge_cuts_flagged": true,
+            "washington_dnr_restrictions_active": true,
+            "portland_burn_ban_active": true
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA Day 11 past statutory deadline. Sunday is a constitutional quietude day — Senate not in session, no formal diplomatic transmission. Triple-convergence week opens tomorrow: Warsh cloture 3 PM ET, floor vote 5:30 PM ET May 11; Powell expiry May 15; Reconciliation committee deadline May 15. No war authorization floor scheduling announced. Senate Democrats have failed six war-powers resolutions; no seventh has been scheduled.",
+      "items": [
+        {
+          "headline": "WPA Day 11: Constitutional Accountability Gap Widens; Senate Returns Monday With Warsh Vote; Reconciliation May 15; No War Authorization Scheduled; Alabama-Tennessee Redistricting Ongoing",
+          "summary": "Sunday May 10 marks Day 11 of WPA non-compliance past the April 29 statutory deadline under the War Powers Resolution — the longest the current administration has operated without congressional authorization since Project Freedom launched May 4. The constitutional accountability gap has broadened to encompass: 36+ hours of offensive operations conducted May 4-5 without congressional authorization, the ongoing naval blockade of Iranian ports, and self-defense strikes during the Project Freedom pause (Saturday, May 9). Six Democratic war-powers resolutions have failed in Senate procedural votes; no seventh has been scheduled. Senate leadership has announced no war-authorization floor scheduling for the coming week. The Trump administration's operative legal posture — that the WPA 60-day clock paused when the president declared hostilities 'effectively ended' via the cease-fire and Project Freedom suspension — remains the operative interpretation, challenged in academic and advocacy channels but not litigated in federal court. Monday May 11 opens the Senate's triple-convergence week: the return at 3:00 PM ET with Warsh cloture vote, then floor confirmation at 5:30 PM ET, begins a five-day sequence where Warsh confirmation, Powell expiry, and Reconciliation 2.0 committee deadline all resolve simultaneously. The compressed institutional timeline (May 11-15) creates conditions where a single negative surprise on the Iran deal track — a deal collapse, a resumed kinetic exchange, an IRGC cyberattack on US infrastructure — could cascade simultaneously through monetary policy transition, fiscal reconciliation, and war-powers accountability frameworks. Alabama and Tennessee redistricting special sessions continue; no ACLU or NAACP Legal Defense Fund legal challenge has been filed as of Sunday morning; the November 2026 map-lock window is approximately 4.5 months and narrowing.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "John Thune", "Kevin Warsh", "Jerome Powell", "John Fetterman", "Senate Budget Committee", "Senate Finance Committee", "Senate Armed Services Committee", "Congressional Democrats", "ACLU", "NAACP Legal Defense Fund"],
+          "metrics": {
+            "wpa_days_past_deadline": 11,
+            "wpa_deadline_date": "2026-04-29",
+            "project_freedom_pause_day": 5,
+            "constitutional_accountability_mechanism": "none active",
+            "congressional_war_authorization_obtained": false,
+            "senate_war_powers_resolutions_failed": 6,
+            "seventh_war_powers_resolution_scheduled": false,
+            "warsh_senate_cloture_vote_date": "2026-05-11",
+            "warsh_senate_cloture_vote_time_et": "15:00",
+            "warsh_senate_floor_vote_date": "2026-05-11",
+            "warsh_senate_floor_vote_time_et": "17:30",
+            "powell_term_expiry": "2026-05-15",
+            "reconciliation_committee_deadline": "2026-05-15",
+            "trump_reconciliation_completion_deadline": "2026-06-01",
+            "redistricting_states_in_special_session": ["Alabama", "Tennessee"],
+            "redistricting_challenge_filed": false,
+            "november_2026_map_lock_months_remaining": 4.5,
+            "cascade_risk_from_iran_surprise": "monetary_policy + fiscal_reconciliation + war_powers simultaneously"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Portland forecast 90°F today (Sunday) — first 90-degree day of May, ahead of historical average, accelerating fine-fuel curing east of the Cascades and in the Columbia Gorge. Oregon fire season Day 3; ODF protective posture active; no red flag warning; burn bans across metro, BLM, and national forest units. 22 days to June 1 above-normal east Cascades onset. Measles: OR ~20 (last published April 22, OHA); WA 40+ across 8 counties; next OHA count update expected Monday-Tuesday; wastewater surveillance detecting virus in non-reporting counties. Brent crude at $101.73 (frozen) delays PNW pump price relief by at minimum 2+ weeks from any crude price movement.",
+      "items": [
+        {
+          "headline": "Portland Forecast 90°F Today: First 90-Degree Day of May, Fine-Fuel Curing Accelerating; Fire Season Day 3; No Red Flag Warning; Oregon Federal Response Capacity Gap Flagged; Burn Bans Active",
+          "summary": "Portland is forecast to reach 90°F on Sunday May 10 — the first 90-degree day of May 2026, occurring ahead of the historical average for the Portland metro area. The forecast carries specific fire-behavior consequences: 90°F ambient temperatures with the low relative humidity typical of east-gradient high-pressure patterns accelerates the curing of fine fuels in the Columbia River Gorge and east of the Cascades — the geographic zone at highest risk for early-season fire ignition during the June 1 above-normal onset period now 22 days away. National Weather Service Portland has not issued a red flag warning for Sunday's heat event; concurrent Gorge east-gradient wind speeds have not crossed the threshold (typically 25 mph sustained with RH below 15%) required for a formal fire weather watch or warning. Oregon's fire season, declared effective May 8 (Day 3 today), is in its protective pre-peak posture: Oregon Department of Forestry permitting restrictions and patrol requirements are operative across 16 million protected acres; approximately 700 wildland firefighters and 300 fire trucks are in position statewide, supplemented by BLM Oregon-Washington, Forest Service Region 6, tribal responders, and 300+ local fire departments. The structural federal response capacity concern flagged by Oregon's congressional Democrats on May 7 — DOGE-related reductions to Forest Service Region 6, elimination of fire science research positions, and reduced pre-positioning resources — remains unaddressed by USDA or Interior. Portland metro burn bans are in effect; Washington DNR burn restrictions are active; BLM Oregon-Washington restrictions apply to all federal lands. The May 10 90°F day is an early-season signal for a season projected by AccuWeather to consume 5.5 million national acres. Brent crude's freeze at $101.73 delays any PNW pump price relief by a minimum of 2+ weeks from any crude price movement triggered by deal developments.",
+          "significance": "HIGH",
+          "actors": ["Oregon Department of Forestry", "NWS Portland", "BLM Oregon-Washington", "Forest Service Region 6", "Washington DNR", "Oregon State Fire Marshal", "Oregon Governor Kotek", "NIFC", "Reps. Bonamici, Hoyle, Salinas, Blumenauer, Chavez-DeRoemer", "USDA Forest Service", "DOI"],
+          "metrics": {
+            "portland_may10_forecast_high_f": 90,
+            "first_90f_day_of_may_ahead_of_average": true,
+            "red_flag_warning_issued": false,
+            "gorge_east_gradient_threshold_not_met": true,
+            "oregon_fire_season_active": true,
+            "oregon_fire_season_day": 3,
+            "days_to_above_normal_east_cascades": 22,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "oregon_wildland_firefighters": 700,
+            "oregon_fire_trucks": 300,
+            "oregon_protected_acres_millions": 16,
+            "national_acres_burned_projection_millions": 5.5,
+            "congressional_dems_federal_response_concern_filed": true,
+            "congressional_dems_concern_date": "2026-05-07",
+            "forest_service_region6_doge_fire_science_cuts": true,
+            "portland_burn_ban_active": true,
+            "blm_pnw_restrictions_active": true,
+            "wa_dnr_restrictions_active": true,
+            "pnw_pump_price_relief_delay_from_brent_freeze_weeks": "2+"
+          }
+        },
+        {
+          "headline": "PNW Measles: OR ~20 Confirmed (Last Published April 22); WA 40+ Across 8 Counties; Kittitas Outbreak Active; OHA Count Expected Monday-Tuesday; Wastewater Detecting Virus in Non-Reporting Counties; 5 Weeks of School Year Remain",
+          "summary": "No new Oregon Health Authority measles case count has been published as of Sunday morning May 10. The most recent Oregon figure remains approximately 20 confirmed cases (OHA, last published April 22, 2026) — a figure OHA officials have consistently characterized as substantially underrepresenting actual transmission given wastewater surveillance data. OHA's wastewater surveillance dashboard continues to detect measles viral RNA concentrations in counties with no confirmed case count, a leading indicator of geographically distributed community transmission outpacing the case-finding capacity of the public health system. Washington State holds at 40+ confirmed cases year-to-date across 8 counties, with Kittitas County in formal outbreak status. The US national total stood at 1,814 confirmed cases across 37 jurisdictions as of April 30, 2026 — 93% of cases outbreak-associated across 25 active outbreaks. Structural transmission drivers in the PNW remain unchanged: below-threshold MMR vaccination coverage pockets in both Oregon and Washington, school-year community spread dynamics, and DOGE-related CDC response capacity constraints at the federal level. The school-year vaccination catch-up window — most PNW school districts close mid-to-late June — is now approximately 5 weeks and narrowing. Each week without a vaccination surge in affected communities represents a compressing window for school-age cohort protection. The next OHA case count update is expected Monday May 11 or Tuesday May 12, consistent with OHA's weekday publishing cadence; the published count is expected to show a material increase from the April 22 figure given sustained wastewater detection in non-reporting counties. Any new county-level outbreak declaration accompanying the updated count would be a signal of geographic spread.",
+          "significance": "MEDIUM",
+          "actors": ["Oregon Health Authority", "WA State Department of Health", "CDC", "Kittitas County Public Health", "local school districts", "PNW pediatric healthcare providers"],
+          "metrics": {
+            "or_measles_confirmed_last_published": 20,
+            "or_measles_last_published_date": "2026-04-22",
+            "or_wastewater_detection_active": true,
+            "or_suspected_underreporting": true,
+            "wa_measles_2026_ytd_min": 40,
+            "wa_counties_affected": 8,
+            "kittitas_county_outbreak_status": true,
+            "us_national_confirmed_as_of_apr30": 1814,
+            "us_national_outbreaks_active": 25,
+            "affected_jurisdictions_national": 37,
+            "outbreak_associated_pct": 93,
+            "school_year_pnw_end": "mid-to-late June 2026",
+            "vaccination_campaign_window_weeks_remaining": 5,
+            "next_oha_update_expected": "2026-05-11 or 2026-05-12"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 10, 2026 morning — Hormuz Day 71, Naval Blockade Day 29, Project Freedom Pause Day 5, WPA Day 11 Past Statutory Deadline. The Sunday morning brief is defined by a single new development that represents the most significant Iranian official statement of the past week: Foreign Ministry spokesperson Esmaeil Baqaei's 'grotesque absurdity' rebuke of Trump's 'one big glow' nuclear threat. This is not a deal rejection. It is something more durable and strategically consequential — a state-level rhetorical anchor that publicly frames acceptance of the MOU as capitulation under nuclear duress, equipping every domestic Iranian political faction with official language to justify continued resistance. The IRGC, parliament, and Expediency Council were already opposed; now they have Foreign Ministry cover in the international record. The deal track is not closed, but its path has narrowed. The Pakistan back-channel has produced no overnight transmission; the MOU response window is now 72+ hours past the 48-hour deadline. Saturday's naval exchange during the pause remains the overnight kinetic development: no IRGC statement, no CENTCOM characterization of its implications for pause continuity, and no pause termination — but each uncharacterized incident raises the probability of the next one ending the pause. CISA enters its peak Sunday morning risk window seven days clean from Project Freedom; the Baqaei statement and naval exchange add compounding IRGC internal retaliation logic at the precise moment of maximum weekend staffing reduction. Oil markets remain closed; Brent frozen at $101.73; three oil-price-positive signals have accumulated overnight without price discovery until Sunday evening futures open. Triple-convergence week opens tomorrow under these conditions — Warsh cloture 3 PM, floor vote 5:30 PM ET, then Powell expiry and Reconciliation deadline five days out. PNW: Portland forecast 90°F today, Oregon fire season Day 3, burn bans active, 22 days to east Cascades above-normal onset. OHA measles count expected Monday-Tuesday. Vibe 4: Iran FM rebuke is a qualitative deterioration in the deal environment; the structural deal framework remains technically intact; Monday is the week's defining test.",
+  "watch_items": [
+    "Iran FM Baqaei 'grotesque absurdity' follow-on: Watch for whether the Sunday morning statement generates additional Iranian official statements (Khamenei, Expediency Council, IRGC) that either escalate or walk back the nuclear-coercion framing; a Khamenei statement adopting the 'grotesque absurdity' language would be the most deal-foreclosing signal of the weekend; a moderated Expediency Council statement suggesting the statement was a response to rhetoric (not a policy change) would be a relative positive",
+    "Pakistan back-channel Monday morning: The most critical single variable of the brief — Monday's opening of formal diplomatic business is the first non-weekend test of whether Pakistan Foreign Ministry transmits an Iranian MOU response; watch Pakistan Foreign Ministry statements (particularly FM Ishaq Dar), any Axios/Reuters sourcing on channel activity, and any Trump Truth Social announcement before the 3 PM cloture vote; a positive transmission would reverse the weekend's rhetorical deterioration",
+    "Warsh cloture and floor vote May 11 (3 PM and 5:30 PM ET): Near-certain confirmation at 54+ (53 Republican + Fetterman); watch for any surprise procedural hold, Republican defection, or Senate floor delay that would compress the already-tight Powell expiry window (May 15); Warsh's first public statement as Fed Chair-designate will be parsed for how he intends to frame the oil-shock inflation constraint",
+    "Sunday evening oil futures open (~6 PM ET): First price discovery for three oil-positive overnight signals — Baqaei rebuke, Saturday naval exchange, 72+ hour MOU silence; Brent above $104 signals markets have priced deal-window contraction; a move below $100 would require a deal-positive signal not yet publicly visible; direction and volume are both significant",
+    "CISA Sunday-Monday transition: Day 7 clean but peak weekend staffing risk; Baqaei statement and unresolved Saturday naval exchange add compounding IRGC retaliation logic; watch for any CISA emergency directive, FBI IC3 flash, or private-sector OT/ICS incident report through Sunday evening; a confirmed IRGC destructive cyberattack would be the most operationally significant infrastructure event of the crisis",
+    "NWS Portland red flag weather watch/warning: Post-90°F heat event Sunday with east-gradient wind potential; watch for any NWS Portland fire weather advisory or red flag watch issued Sunday afternoon or evening for Monday conditions east of the Cascades; a formal red flag watch would trigger elevated ODF resource deployment ahead of above-normal season onset",
+    "Trump White House clarification on 'one big glow': Now 36+ hours since the statement with no White House, State Department, or CENTCOM clarification; Sunday political shows and Monday morning gaggle are the first clarification opportunities; any walk-back would partially neutralize Baqaei's 'grotesque absurdity' framing; any doubling-down or expansion would be a structural vibe-3 trigger",
+    "OHA measles case count (Monday-Tuesday): Wastewater surveillance active in non-reporting counties; expected update will likely show material increase from April 22 count (~20); watch for any new county outbreak declarations; school vaccination window is 5 weeks and narrowing"
+  ],
+  "sources": [
+    "Wikipedia - 2026 Strait of Hormuz crisis",
+    "Wikipedia - 2025-2026 Iran-United States negotiations",
+    "Tribune India - Iran FM Baqaei: 'Grotesque Absurdity' statement on Trump nuclear threat (May 10, 2026)",
+    "Common Dreams - 'An Almost Unthinkable Threat': Trump Warning That Iran Will 'Glow' Sparks Latest Fears",
+    "Responsible Statecraft - 'One big glow': Did Trump just threaten to hit Iran with nukes?",
+    "Asia Times - Nuclear holocaust threat just another day in Trump World",
+    "The New Republic - Trump Threatens to Nuke Iran as He Tries to Break Blockade",
+    "CNN - Day 69 of Middle East conflict — Trump warns Iran to sign a deal 'fast'",
+    "NPR - Pakistan says it's hopeful a U.S.-Iran deal can happen soon (May 6, 2026)",
+    "PBS NewsHour - U.S. and Iran exchange new proposals to end war",
+    "Axios - US, Iran closing in on one-page memo to end war, officials say (May 6, 2026)",
+    "Al Jazeera - What are US proposals to end war, and will Iran agree to them? (May 7, 2026)",
+    "Al Jazeera - Has the US accepted Iran's demand to settle Hormuz first, nuclear later? (May 6, 2026)",
+    "Time - U.S. and Iran Offer Mixed Messages on Deal to End War (May 7, 2026)",
+    "CNBC - 'Misplaced euphoria': Markets are sleepwalking into a recession amid Iran war oil price shock (May 4, 2026)",
+    "Fortune - Current price of oil as of May 8, 2026",
+    "Trading Economics - Brent Crude Oil Price (last close $101.73, May 8, 2026)",
+    "EIA - Short-Term Energy Outlook: Brent Q2 2026 forecast peak ~$115/b",
+    "J.P. Morgan Global Research - Oil Price Forecast for 2026",
+    "IEA - Global supply impact assessment (14 million bpd removed)",
+    "CNBC - Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote (April 29, 2026)",
+    "CBS News - Senate Banking Committee advances Kevin Warsh's nomination for Fed chair",
+    "Yahoo Finance - Senate committee confirms Kevin Warsh, sets up full Senate vote",
+    "ABC News - Fed chair nominee Kevin Warsh advances to Senate confirmation vote",
+    "NPR - Sen. Warren says she plans to vote no for Kevin Warsh as Fed chairman",
+    "PBS NewsHour - Senate Daily Press: Thursday May 7, 2026",
+    "Kiplinger - Kevin Warsh Fed Chair Nomination: Live Updates and Commentary",
+    "CISA - Advisory AA26-097A: Iranian-Affiliated Cyber Actors Exploit PLCs Across US Critical Infrastructure (April 7, 2026)",
+    "CISA - Iran Threat Overview and Advisories",
+    "National Law Review - CISA Issues Advisory on Iranian-Affiliated Cyber Attacks",
+    "FINRA - Cybersecurity Alert: Heightened Threats From Iranian Cyber Actors",
+    "CSIS - The Iranian Cyber Threat to U.S. Critical Infrastructure",
+    "Palo Alto Unit 42 - Threat Brief: Escalation of Cyber Risk Related to Iran (Updated April 17, 2026)",
+    "Defense One - Pro-Iran hackers appear to increase critical infrastructure cyberattacks",
+    "Oregon Capital Chronicle - Oregon faces longer fire season due to historic heat, drought (May 5, 2026)",
+    "OPB - Oregon faces longer fire season due to historic heat, drought (May 6, 2026)",
+    "Oregon Capital Chronicle - Oregon's congressional Democrats raise concerns about federal wildfire response (May 7, 2026)",
+    "KATU - Oregon Gov. Kotek, state leaders warn of dangerous fire year ahead amid low snowpack",
+    "MSN/Oregon officials - Oregon officials warn of early, prolonged 2026 wildfire season",
+    "Central Oregon Daily - Oregon wildfire season expected to be severe, last into fall (2026)",
+    "The Nugget Newspaper - 2026 Oregon wildfire forecast is dire (April 15, 2026)",
+    "Axios Seattle - Strong El Nino could worsen Washington fire season (April 14, 2026)",
+    "NIFC - May-August 2026 Seasonal Fire Potential Outlook",
+    "CDC - Measles Cases and Outbreaks 2025-2026 dashboard (national total 1,814 as of April 30, 2026)",
+    "Oregon Health Authority - Measles/Rubeola surveillance page (last published: ~20 cases, April 22, 2026)",
+    "AAA - National average gas prices (above $4.50/gallon)",
+    "CNN - How each senator voted on effort to rein in Trump's Iran war powers"
+  ]
+}
