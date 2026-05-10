@@ -242,7 +242,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Trump: 'One Big Glow Out of Iran'; Brent Rebounds to $101.73; Naval Exchange During Pause; Warsh Vote Confirmed May 11 5:30 PM; Portland 90°F Sunday; Vibe 4",
       "generated_at": "2026-05-09T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-10-evening",
+      "date": "2026-05-10",
+      "session": "evening",
+      "file": "reports/2026-05-10-evening.json",
+      "vibe": 4,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Iran Response 96+ Hrs Overdue; Nuclear Rhetoric Unretracted; Portland Confirms 90°F; Triple-Convergence Week Opens Tomorrow; Oregon Fire Day 3; Vibe 4",
+      "generated_at": "2026-05-10T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-09T20:00:00-07:00"
+  "last_updated": "2026-05-10T20:00:00-07:00"
 }
