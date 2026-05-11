@@ -1,0 +1,311 @@
+{
+  "report_id": "2026-05-11-evening",
+  "generated_at": "2026-05-11T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 72; Naval Blockade Day 30; Project Freedom Pause Day 6 (integrity compromised); WPA Day 12 Past Statutory Deadline. The May 11 evening brief marks the sharpest single-day vibe degradation in two weeks. The week opened with a diplomatic bombshell that moved the situation backward: Iran delivered its counteroffer via the Pakistan channel late May 10, and Trump rejected it within hours — 'I don't like it — TOTALLY UNACCEPTABLE!' and 'they will be laughing no longer.' Energy Secretary Wright publicly telegraphed return to military method 'in the next few days' if no deal path emerges. Iran's counteroffer was not a capitulation — it was a counter-position: end war on all fronts including Lebanon, lift OFAC sanctions on Iranian oil during a 30-day negotiating window, and end the naval blockade. Trump's rejection without a counter-counter-offer is not a negotiating signal; it is a door-slam. Simultaneously, drone attacks multiplied across the Gulf during the nominal pause: UAE intercepted two Iranian drones, a cargo ship was struck in waters Qatar condemned, and Kuwait reported hostile drones in its airspace — a pattern consistent with Iran calibrating kinetic pressure while formally maintaining the ceasefire posture. Oil markets priced the breakdown immediately: Brent surged 3.16% to $104.49, crossing $104 for the first time since early May; WTI rose 3.08% to $95.42. These are the first post-rejection price signals and they confirm the market's read: the deal track is in acute crisis. Warsh Senate floor vote occurred at 5:30 PM ET — near-certain confirmation at 54-46 — resolving the first of three triple-convergence events; Powell term expiry and Reconciliation 2.0 committee deadline both remain May 15. Oregon fire season Day 4; no red flag warning issued for PNW; no new OHA measles count. Vibe 3.",
+  "vibe": {
+    "score": 3,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe drops to 3 from 4 — the first confirmed downgrade since May 8. The triggering event is structural: Iran broke its 100+ hour silence and delivered a counteroffer via Pakistan, which would normally be constructive; but Trump's instant rejection without issuing a counter-counter-offer forecloses the deal track in a qualitatively different way than Iranian silence did. Silence preserved optionality for both sides. Trump's 'TOTALLY UNACCEPTABLE' rejection, combined with 'they will be laughing no longer' language and Energy Secretary Wright's overt military-return timeline, signals that the Project Freedom pause is now on borrowed time. The deal track is not formally dead — no party has declared it closed, no US ultimatum with a specific deadline has been issued, and the Pakistan intermediary role has not been formally terminated — but the asymmetry is now inverted: previously, Iran's non-response was the obstacle; now, Trump's rejection without a counter has made the US the obstacle to a deal path. Drone attacks across the Gulf (UAE, Qatar, Kuwait) during the nominal pause indicate Iran is not passively waiting — it is applying distributed kinetic pressure across maritime chokepoints as a coercive signal. Brent at $104.49 (+3.16%) is the market's clear read. Three factors prevent a vibe 2: (1) Iran's counteroffer is on the table and can be met with a counter-counter-offer rather than a door-slam — the Rubio-Qatari PM meeting and Qatar's involvement leave a back-channel alive; (2) Warsh confirmation resolves one of three triple-convergence variables tonight, removing an institutional uncertainty from this week's landscape; (3) no IRGC destructive cyberattack on US infrastructure through Day 8 post-Project Freedom launch. The deal's structural logic still exists — Iran came to the table — but the path to resolution just narrowed significantly. Vibe 3: acute diplomatic breakdown, oil above $104, Gulf drone escalation, military return timeline telegraphed."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 72; Naval Blockade Day 30; Project Freedom Pause Day 6. Iran delivered its formal counteroffer via Pakistan (late May 10); Trump rejected it within hours: 'TOTALLY UNACCEPTABLE.' Energy Sec Wright telegraphed military return 'in the next few days.' Drone attacks: UAE intercepted 2 Iranian drones; Qatar condemned cargo ship strike; Kuwait reported hostile drones in airspace. Gulf-wide kinetic escalation during nominal pause. Pakistan channel not formally terminated. Qatar back-channel alive (Rubio met Qatari PM). No US counter-counter-offer issued.",
+      "items": [
+        {
+          "headline": "Trump Rejects Iran Counteroffer 'TOTALLY UNACCEPTABLE'; Energy Sec Wright Telegraphs Military Return; Deal Track in Acute Crisis; No US Counter-Counter-Offer Issued",
+          "summary": "Iran delivered its formal response to the 14-point MOU framework via the Pakistan channel late on Sunday May 10, breaking 100+ hours of silence — and President Trump immediately rejected it. In a Truth Social post, Trump wrote 'I don't like it — TOTALLY UNACCEPTABLE!' and separately stated 'they will be laughing no longer,' invoking the coercive nuclear framing of his 'one big glow' statement from Saturday. The Iranian counteroffer, transmitted through Pakistani intermediaries and confirmed by multiple outlets, contained three core demands: (1) an end to the war on all fronts, explicitly including Lebanon; (2) lifting of OFAC sanctions on Iranian oil sales during a 30-day negotiating window; (3) an end to the US naval blockade of Iranian ports. Iran's proposal also emphasized negotiating the Strait of Hormuz reopening, nuclear restrictions, and comprehensive sanctions relief — framing the deal as requiring simultaneous movement on multiple tracks rather than a Hormuz-first, nuclear-later sequence. Trump's rejection was unaccompanied by a US counter-counter-offer, a narrowed framework, or a modified set of demands — leaving the Pakistan channel without a response to transmit back to Tehran. Energy Secretary Chris Wright appeared on Fox Business Monday morning and stated explicitly that if it is 'clear in the next few days that there's not a good path to a negotiated settlement, we'll go back to the military method to open the strait' — the most direct executive-branch timeline for Project Freedom resumption issued by any cabinet official. This sequence — Iran responds, Trump slams, Wright telegraphs — constitutes a qualitative shift in deal-track dynamics: the obstacle is no longer Iranian silence, it is a US posture of rejection without counter-offer. Qatar's involvement as an additional channel remains operational (Secretary of State Rubio met with the Qatari Prime Minister), and no party has formally declared the negotiations terminated. The pause nominally continues on Day 6. But the structural conditions for rapid pause termination are now in place.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "Iran Foreign Ministry", "Esmaeil Baqaei", "Pakistan PM Shehbaz Sharif", "Pakistan Foreign Ministry", "Energy Secretary Chris Wright", "Marco Rubio", "Qatar PM", "Ayatollah Khamenei", "IRGC", "Iran Expediency Council", "Steve Witkoff", "Jared Kushner"],
+          "metrics": {
+            "hormuz_closed_days": 72,
+            "naval_blockade_active_days": 30,
+            "project_freedom_status": "PAUSED — integrity compromised",
+            "project_freedom_pause_day": 6,
+            "wpa_days_past_statutory_deadline": 12,
+            "iran_formal_counteroffer_delivered": true,
+            "iran_counteroffer_delivery_date": "2026-05-10T22:00:00Z",
+            "trump_rejection_issued": true,
+            "trump_rejection_language": "TOTALLY UNACCEPTABLE",
+            "trump_laughing_no_longer_threat": true,
+            "us_counter_counter_offer_issued": false,
+            "iran_counteroffer_elements": [
+              "end war on all fronts including Lebanon",
+              "lift OFAC sanctions on Iranian oil during 30-day window",
+              "end US naval blockade",
+              "negotiate Hormuz, nuclear program, sanctions relief"
+            ],
+            "energy_sec_wright_military_return_timeline_days": "a few",
+            "deal_collapse_formally_declared": false,
+            "pakistan_channel_formally_terminated": false,
+            "qatar_channel_active": true,
+            "rubio_qatari_pm_meeting": true,
+            "ships_stranded_hormuz_approx": 1600,
+            "sailors_stranded_approx": 23000
+          }
+        },
+        {
+          "headline": "Gulf Drone Escalation During Pause: UAE Intercepts 2 Iranian Drones; Qatar Condemns Cargo Ship Strike; Kuwait Reports Hostile Drones; Kinetic Pressure Distributed Across Maritime Chokepoints",
+          "summary": "Simultaneous with Iran's counteroffer transmission and Trump's rejection, drone attacks multiplied across the Gulf during the nominal Project Freedom pause — a pattern consistent with Iran applying distributed kinetic pressure across multiple maritime and territorial vectors as a coercive negotiating signal, rather than committing to a single decisive escalation that would trigger formal pause termination. The UAE intercepted two drones originating from Iranian direction; Qatar formally condemned a drone attack that struck a cargo ship in regional waters; Kuwait reported hostile drones in its airspace. None of these incidents triggered a confirmed CENTCOM self-defense strike response as of evening May 11 — the military posture remains formally paused — but the accumulation of distributed attacks during a nominal ceasefire compounds the Wright timeline signal: Iran is not sitting still, and the US is accumulating incidents that justify resumption. The pattern mirrors the Saturday naval exchange (May 9) that the previous brief flagged as an unresolved trigger: each incident that goes unresponded to during the pause creates ambiguity about the pause's integrity, while each incident that does trigger a CENTCOM response raises the question of whether the ceasefire has ended. The three Monday incidents — UAE, Qatar, Kuwait — constitute the highest single-day drone-incident count since the pause began. CENTCOM has not issued a comprehensive public statement on Monday's incidents as of 8 PM PT.",
+          "significance": "HIGH",
+          "actors": ["IRGC", "CENTCOM", "UAE military", "Qatar Ministry of Foreign Affairs", "Kuwait Air Force", "Israel Defense Forces", "US 5th Fleet"],
+          "metrics": {
+            "uae_iranian_drones_intercepted_today": 2,
+            "qatar_cargo_ship_drone_strike": true,
+            "kuwait_hostile_drones_airspace": true,
+            "project_freedom_pause_intact_formal": true,
+            "centcom_may11_response_strikes": false,
+            "centcom_may11_statement_issued": false,
+            "daily_drone_incident_count_may11": 3,
+            "highest_single_day_pause_drone_count": true,
+            "saturday_naval_exchange_may9_still_unresolved": true
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Brent surged 3.16% to $104.49 on first Monday trading after Trump's 'TOTALLY UNACCEPTABLE' rejection and Gulf drone escalation. WTI +3.08% to $95.42. Both are first post-rejection price discovery. Brent now ~54% above pre-war baseline of $68. Triple-convergence Week: Warsh vote at 5:30 PM ET (in progress/near-certain); Powell expiry May 15 (4 days); Reconciliation 2.0 deadline May 15 (4 days). National gas above $4.50/gallon. EIA Q2 2026 peak forecast $115/b if deal fails — trajectory directionally confirmed by today's move.",
+      "items": [
+        {
+          "headline": "Brent Surges to $104.49 (+3.16%), WTI $95.42 (+3.08%) on First Monday Post-Rejection; Deal Failure Trajectory Confirmed; EIA $115 Q2 Peak Back in Frame",
+          "summary": "Monday May 11 oil futures opened and closed sharply higher as markets priced the Iran counteroffer rejection and Gulf drone escalation in the first post-weekend trading session. Brent crude with July delivery rose 3.16% to $104.49 per barrel — crossing $104 for the first time since early May and recovering all of the May 7 'deal optimism' decline; the EIA's Q2 2026 Brent peak scenario of ~$115/barrel is now directionally in frame rather than hypothetical. WTI crude with June delivery rose 3.08% to $95.42 per barrel. The asymmetry that last week's brief flagged as the weekend's directional risk (all weekend signals were oil-price-positive) materialized: Trump's rejection, Gulf drone attacks, and Wright's military-return timeline are collectively supply-disruption-risk amplifiers with no offsetting deal-positive signal. Brent is now approximately 54% above the pre-war baseline of ~$68; WTI is approximately 40% above its pre-war baseline. National average gasoline prices remain above $4.50 per gallon (AAA) and will take 2–4 additional weeks to fully reflect today's crude move. The deal-acceptance downside oil scenario — a 15–20% crude decline over 4–6 weeks — remains structurally available but requires a US counter-counter-offer, not merely Iranian patience. Every additional day without a US counter-counter-offer reduces the probability of the downside scenario and raises the probability of the EIA $115 peak scenario.",
+          "significance": "HIGH",
+          "actors": ["oil futures markets", "EIA", "OPEC+", "IEA", "US equity markets", "Federal Reserve", "Energy Secretary Chris Wright"],
+          "metrics": {
+            "brent_may11_close_usd": 104.49,
+            "brent_may11_change_pct": 3.16,
+            "brent_prev_close_usd": 101.73,
+            "wti_may11_close_usd": 95.42,
+            "wti_may11_change_pct": 3.08,
+            "wti_prev_close_usd": 94.81,
+            "brent_above_pre_war_pct_approx": 54,
+            "wti_above_pre_war_pct_approx": 40,
+            "brent_pre_war_baseline_approx_usd": 68,
+            "eia_brent_q2_peak_deal_failure_scenario_usd": 115,
+            "eia_peak_scenario_probability_direction": "rising",
+            "deal_acceptance_oil_decline_scenario_pct": "15-20",
+            "deal_acceptance_scenario_requires": "US counter-counter-offer",
+            "gas_national_avg_above_usd": 4.50,
+            "consumer_lag_to_crude_move_weeks": "2-4",
+            "market_directional_read_of_rejection": "deal failure risk premium re-applied"
+          }
+        },
+        {
+          "headline": "Triple-Convergence Week Advancing: Warsh Floor Vote 5:30 PM ET Today; Powell Expiry May 15 (4 Days); Reconciliation 2.0 Deadline May 15 (4 Days); Oil Shock Inherits New Fed Chair",
+          "summary": "Triple-convergence week's first resolution event occurs tonight: Kevin Warsh's Senate floor vote at 5:30 PM ET, at which he is expected to be confirmed by approximately 54-46, with all 53 Senate Republicans and Sen. John Fetterman (D-PA) providing the majority. The vote result — and Warsh's first statement as confirmed Fed Chair-designate — will be the second major market signal of the day after Brent's spike. Warsh inherits a monetary environment now definitively shaped by the failed deal negotiation: Brent at $104.49, WTI at $95.42, national gas above $4.50, and a war-driven inflation premium that no domestic interest rate tool can address. His first policy question as incoming chair will be whether to hold, cut, or raise — with Brent above $104, cutting to support a potentially slowing economy risks entrenching war-driven inflation; holding allows the external shock to ripple through consumer prices; raising risks tipping a war-stressed economy into recession. Warsh's first FOMC meeting is expected June 16. Jerome Powell's term as Federal Reserve Chair expires May 15 — 4 days from today — the first involuntary term expiry of a sitting Fed chair in the post-WWII era. Reconciliation 2.0: the May 15 committee submission deadline requires Senate Finance, Armed Services, and all designated committees to submit their measures to the Budget Committee in the same four days. The $72B DHS/Judiciary measure (ICE/CBP, CBO-scored May 4) has cleared committee; the remaining measures — defense, health, tax — remain outstanding.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Jerome Powell", "John Thune", "John Fetterman", "Donald Trump", "Senate Budget Committee", "Senate Finance Committee", "Senate Armed Services Committee", "White House OMB", "FOMC"],
+          "metrics": {
+            "warsh_senate_vote_date": "2026-05-11",
+            "warsh_senate_vote_time_et": "17:30",
+            "warsh_expected_confirmation_vote": "~54-46",
+            "warsh_result_confirmed_as_of_brief": false,
+            "warsh_first_fomc_expected": "2026-06-16",
+            "powell_term_expiry": "2026-05-15",
+            "days_to_powell_expiry": 4,
+            "reconciliation_committee_deadline": "2026-05-15",
+            "days_to_reconciliation_deadline": 4,
+            "trump_reconciliation_completion_deadline": "2026-06-01",
+            "reconciliation_dhs_judiciary_amount_billions": 72,
+            "reconciliation_dhs_judiciary_cbo_scored": true,
+            "remaining_committees_outstanding": ["Finance", "Armed Services", "Health", "Tax-related"],
+            "fed_funds_rate_pct": "3.50-3.75",
+            "warsh_oil_shock_inheritance_brent": 104.49,
+            "warsh_monetary_constraint": "external supply shock; rate tools ineffective against war-driven inflation"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "Day 8 post-Project Freedom launch: no confirmed IRGC destructive cyberattack on US critical infrastructure through Monday evening. CISA AA26-097A operative; CI Fortify active. Gulf drone attacks (UAE, Qatar, Kuwait) during Monday's pause are kinetic but not cyber. Wright's military-return timeline raises the probability of IRGC retaliatory cyber action in the coming days as deal failure signals accumulate. No new CISA advisory or FBI flash issued. Oregon fire season Day 4; no red flag warning issued for PNW. Burn restrictions active statewide.",
+      "items": [
+        {
+          "headline": "CISA Day 8: No Confirmed Destructive IRGC Attack; But Wright Military Timeline and Gulf Drone Escalation Raise Near-Term Cyber Retaliatory Probability; CI Fortify Remains Operative",
+          "summary": "Eight days after Project Freedom launched (May 4), CISA has confirmed no IRGC-affiliated or Handala-attributed destructive cyberattack on US critical infrastructure. CISA AA26-097A (April 7) remains the operative advisory; no updated emergency directive, FBI/IC3 flash, or sector-specific alert was issued Monday. CI Fortify remains operative; FINRA's financial-sector heightened threat alert and NERC's grid monitoring remain active. However, the risk calculus for IRGC cyber retaliation has materially shifted as of Monday evening: three factors now combine to raise the probability of a near-term destructive cyber operation. First, Trump's 'TOTALLY UNACCEPTABLE' rejection eliminates the deal-progress rationale for IRGC cyber restraint — previously, Iran had a diplomatic incentive to avoid triggering escalation while negotiations were live; that incentive is now severely weakened. Second, Energy Secretary Wright's 'next few days' military-return timeline signals that Project Freedom resumption is imminent — which is historically the highest-risk trigger for IRGC retaliatory cyber action, as IRGC doctrine treats cyber operations as an asymmetric response to US conventional superiority. Third, the Gulf drone attacks (UAE, Qatar, Kuwait) on Monday demonstrate that Iran is actively executing distributed kinetic operations during the pause — a behavioral pattern consistent with an adversary running parallel escalation tracks. The sustained 8-day absence of a destructive attack remains the primary positive infrastructure signal, but the structural conditions for its continuation have deteriorated sharply since Sunday morning. CISA's warning about CyberAv3ngers targeting PLCs across Government Services, Water and Wastewater, and Energy sectors remains the operative threat vector; the Handala-Stryker (200,000 devices wiped, March 2026) and Chime Financial (April 1) operations established the operational template and willingness to strike. Any CISA emergency directive, FBI IC3 flash, or private-sector OT/ICS incident report in the next 72 hours should be treated as a priority signal.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI", "NSA", "NERC", "IRGC Cyber Electronic Command", "CyberAv3ngers", "Handala", "FINRA", "DHS", "US energy sector OT operators", "US water sector operators"],
+          "metrics": {
+            "days_since_project_freedom_launch": 8,
+            "confirmed_irgc_destructive_attack_since_may4": false,
+            "updated_cisa_advisory_since_apr7": false,
+            "cisa_advisory_reference": "AA26-097A (2026-04-07)",
+            "ci_fortify_status": "operative",
+            "finra_alert_active": true,
+            "nerc_monitoring_active": true,
+            "deal_failure_signal_cyber_risk_escalation": true,
+            "wright_military_return_timeline_cyber_trigger": true,
+            "gulf_drone_attacks_parallel_kinetic_track": true,
+            "irgc_cyber_restraint_diplomatic_incentive_weakened": true,
+            "handala_stryker_precedent_devices_wiped": 200000,
+            "chime_financial_attack_date": "2026-04-01",
+            "near_term_destructive_cyber_probability": "materially elevated",
+            "priority_watch_window_hours": 72
+          }
+        },
+        {
+          "headline": "Oregon Fire Season Day 4: No Red Flag Warning Issued; Burn Restrictions Statewide Active; Resources Positioned; East Cascades Above-Normal Onset 21 Days Out; Federal Response Capacity Gap Unresolved",
+          "summary": "Oregon's 2026 wildfire season is now in its fourth active day (declared May 8). No National Weather Service Portland red flag warning was issued for Monday May 11 — conditions across the PNW did not achieve the concurrent temperature, relative humidity, and wind speed thresholds required for a formal watch or warning designation on Monday. However, the structural risk environment remains unchanged: Oregon's 2025-2026 winter was tied with 1934 as the warmest on record, producing dangerously low snowpack, compressed fine-fuel curing timelines, and an early-season vulnerability window. Burn restrictions remain in effect statewide through Oregon Department of Forestry permit requirements; Portland metro and BLM Oregon-Washington burn bans remain active; Washington DNR restrictions active. Oregon wildland fire resources remain in protective pre-positioning: approximately 700 wildland firefighters and 300 fire trucks supporting 16 million protected acres, supplemented by federal and tribal responders. June 1 above-normal east Cascades fire risk onset: 21 days. The structural federal response capacity concern flagged by Oregon's congressional Democrats (filed May 7: Reps. Bonamici, Hoyle, Salinas, Blumenauer, Chavez-DeRoemer) — specifically DOGE-related eliminations of Forest Service Region 6 fire science research positions and reduced pre-positioning capability — remains unaddressed by USDA or Interior as of Monday evening. No new fire ignitions of significance were reported in Oregon or Washington Monday. National wildfire acreage burned through early May: approximately 1.85 million acres, nearly double the 10-year average for this point in the year.",
+          "significance": "MEDIUM",
+          "actors": ["Oregon Department of Forestry", "NWS Portland", "BLM Oregon-Washington", "Washington DNR", "Forest Service Region 6", "Oregon State Fire Marshal", "Oregon Governor Kotek", "NIFC", "Oregon congressional Democrats", "USDA Forest Service", "DOI"],
+          "metrics": {
+            "oregon_fire_season_active": true,
+            "oregon_fire_season_active_day": 4,
+            "oregon_fire_season_declared": "2026-05-08T00:01:00-07:00",
+            "red_flag_warning_issued_may11": false,
+            "days_to_above_normal_east_cascades": 21,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "above_normal_statewide_onset": "2026-07-01",
+            "oregon_wildland_firefighters": 700,
+            "oregon_fire_trucks": 300,
+            "oregon_protected_acres_millions": 16,
+            "oregon_warmest_winter_tied_year": 1934,
+            "national_ytd_acres_burned_millions_approx": 1.85,
+            "national_ytd_vs_10yr_avg_pct": "nearly double",
+            "congressional_dems_federal_response_concern_filed": true,
+            "congressional_dems_concern_date": "2026-05-07",
+            "usda_interior_response_to_concern": "none issued",
+            "portland_burn_ban_active": true,
+            "blm_pnw_restrictions_active": true,
+            "washington_dnr_restrictions_active": true
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA Day 12 past statutory deadline. Warsh floor vote 5:30 PM ET — near-certain confirmation resolves first triple-convergence event; Powell expiry and Reconciliation 2.0 deadline both May 15 (4 days). Trump's 'TOTALLY UNACCEPTABLE' rejection of Iran's counteroffer raises probability of Project Freedom resumption, which would add new WPA clock material without congressional authorization. Senate has not scheduled war-authorization floor vote. Redistricting special sessions continue in Alabama and Tennessee; no challenge filed.",
+      "items": [
+        {
+          "headline": "WPA Day 12: Trump Iran Rejection Without Congressional Authorization Deepens Constitutional Gap; Warsh Vote Tonight Resolves First Triple-Convergence Event; Reconciliation 4 Days to Deadline",
+          "summary": "Today is WPA Day 12 past the April 29 statutory deadline — the deepest into unauthorized war operations the current administration has run. Trump's 'TOTALLY UNACCEPTABLE' rejection of Iran's counteroffer, combined with Energy Secretary Wright's explicit military-return timeline, raises the probability of Project Freedom resumption in the next several days without any congressional authorization having been obtained. Should Project Freedom resume, each day of renewed offensive operations under the War Powers Resolution would add to the constitutional accountability deficit with no mechanism for congressional remedy in place: Senate Republicans have rejected six Democratic war-powers resolutions, and no seventh has been scheduled. The Trump administration's operative legal interpretation — that the WPA clock stopped when the president declared hostilities 'effectively ended' via ceasefire — remains contested but unadjudicated, having not been litigated in federal court. Tonight's Warsh floor vote (5:30 PM ET) is the first of three triple-convergence resolutions due this week: Warsh is near-certain to confirm at approximately 54-46, with all 53 Senate Republicans plus Sen. John Fetterman (D-PA). A confirmed Warsh removes one institutional uncertainty from the week but does not reduce the combined Powell expiry (May 15) and Reconciliation 2.0 deadline (May 15) pressure over the next four days. Reconciliation 2.0 status: The DHS/Judiciary $72B measure is CBO-scored and cleared; Senate Finance, Armed Services, Health, and tax-related committees must submit measures by May 15 or accept the political cost of a Trump-deadline miss. Alabama and Tennessee redistricting special sessions continue; no ACLU or NAACP Legal Defense Fund legal challenge filed; November 2026 map-lock window approximately 4.5 months and narrowing.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "John Thune", "Kevin Warsh", "Jerome Powell", "John Fetterman", "Energy Secretary Chris Wright", "Senate Armed Services Committee", "Senate Budget Committee", "Senate Finance Committee", "Congressional Democrats", "ACLU", "NAACP Legal Defense Fund"],
+          "metrics": {
+            "wpa_days_past_deadline": 12,
+            "wpa_deadline_date": "2026-04-29",
+            "project_freedom_pause_day": 6,
+            "project_freedom_resumption_probability": "elevated",
+            "congressional_war_authorization_obtained": false,
+            "senate_war_powers_resolutions_failed": 6,
+            "senate_7th_war_powers_resolution_scheduled": false,
+            "trump_legal_interpretation_wpa_clock_stopped": true,
+            "wpa_interpretation_litigated": false,
+            "warsh_senate_vote_date": "2026-05-11",
+            "warsh_senate_vote_time_et": "17:30",
+            "warsh_expected_confirmation": "~54-46",
+            "powell_term_expiry": "2026-05-15",
+            "days_to_powell_expiry": 4,
+            "reconciliation_committee_deadline": "2026-05-15",
+            "days_to_reconciliation_deadline": 4,
+            "trump_reconciliation_completion_deadline": "2026-06-01",
+            "reconciliation_dhs_judiciary_cleared": true,
+            "reconciliation_outstanding_committees": ["Finance", "Armed Services", "Health", "Tax-related"],
+            "redistricting_states_in_special_session": ["Alabama", "Tennessee"],
+            "redistricting_challenge_filed": false,
+            "november_2026_map_lock_months_remaining": 4.5
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Oregon fire season Day 4; no red flag warning; statewide burn restrictions active; 21 days to June 1 east Cascades above-normal onset. National wildfire acreage through early May ~1.85M acres, nearly double 10-year average. Measles: no new OHA count published Monday; last published OR ~20 (April 22); WA 40+; wastewater active; school vaccination window ~4 weeks and narrowing. Brent at $104.49 continues to delay PNW pump price relief by at least 2-4 additional weeks from today's close. No new fire ignitions reported in Oregon or Washington Monday.",
+      "items": [
+        {
+          "headline": "PNW Fire Season Day 4: No Red Flag Warning; National Acreage Nearly Double 10-Yr Average; Resources Positioned; Federal Capacity Gap Unresolved; East Cascades Onset 21 Days",
+          "summary": "Oregon's 2026 wildfire season (Day 4) continued without a red flag warning event on Monday May 11. No significant fire ignitions were reported in Oregon or Washington. Statewide Oregon ODF permit restrictions and Portland metro burn bans remain in effect; Washington DNR restrictions active. The national context for PNW fire season is stark: wildfires have burned approximately 1.85 million acres across the United States through early May 2026, nearly double the 10-year average for this point in the year — a figure that reflects accelerated fire behavior driven by the same drought-snowpack-heat conditions defining the PNW outlook. Oregon's 2025-2026 winter (tied warmest on record since 1934) and record-low snowpack create conditions in which the above-normal June 1 east Cascades onset is less a forecast and more a structural certainty. The 700 wildland firefighters and 300 fire trucks positioned across Oregon's 16 million protected acres represent the state's protective architecture heading into the peak window. The federal response capacity gap (Forest Service Region 6 DOGE cuts to fire science research positions and pre-positioning resources, flagged by Oregon congressional Democrats May 7) remains unaddressed as of Monday evening. AccuWeather's 2026 season projection of 5.5 million acres nationally remains operative; NIFC's above-normal outlook for the Northwest east of the Cascades from June 1 through at least August is the authoritative seasonal frame. June 1 above-normal east Cascades onset: 21 days.",
+          "significance": "MEDIUM",
+          "actors": ["Oregon Department of Forestry", "NWS Portland", "BLM Oregon-Washington", "Washington DNR", "Forest Service Region 6", "NIFC", "Oregon Governor Kotek", "Oregon congressional Democrats", "AccuWeather"],
+          "metrics": {
+            "oregon_fire_season_active": true,
+            "oregon_fire_season_day": 4,
+            "red_flag_warning_issued_may11": false,
+            "days_to_above_normal_east_cascades": 21,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "above_normal_statewide_onset": "2026-07-01",
+            "oregon_wildland_firefighters": 700,
+            "oregon_fire_trucks": 300,
+            "oregon_protected_acres_millions": 16,
+            "national_ytd_acres_burned_millions_approx": 1.85,
+            "national_ytd_vs_10yr_avg": "nearly double",
+            "national_season_projection_millions": 5.5,
+            "oregon_warmest_winter_tied_year": 1934,
+            "new_fire_ignitions_reported_or_wa_monday": false,
+            "federal_capacity_gap_addressed": false,
+            "portland_burn_ban_active": true,
+            "blm_pnw_restrictions_active": true
+          }
+        },
+        {
+          "headline": "PNW Measles: No New OHA Count Monday; OR ~20 (Last April 22); WA 40+; Wastewater Active; School Vaccination Window ~4 Weeks; National Total 1,814+ as of April 30",
+          "summary": "No new Oregon Health Authority measles case count was published Monday May 11 — the expected update (forecast in yesterday's brief for Monday or Tuesday) has not materialized as of 8 PM PT. The last published Oregon figure remains approximately 20 confirmed cases as of April 22, 2026, with OHA officials consistently acknowledging substantial suspected underreporting and the wastewater surveillance dashboard continuing to detect measles viral concentrations in counties with no published confirmed cases. Washington State holds at 40+ confirmed cases year-to-date across 8 counties, with Kittitas County in formal outbreak status. The US national total as of April 30, 2026 stood at 1,814 confirmed cases across 37 jurisdictions — a figure that is itself now 11 days stale. The school-year vaccination catch-up window has narrowed to approximately 4 weeks (PNW districts close mid-to-late June), down from 5 weeks in yesterday's brief. The structural transmission dynamics — below-threshold MMR vaccination coverage pockets, active school-year community spread, and DOGE-related CDC response constraints — remain unchanged. If the OHA count is not published Tuesday May 12, the gap between the last published figure (April 22) and the next published figure will approach 3 weeks — a significant surveillance lag given active wastewater detection. PNW pump price relief from any crude price move is now further delayed: Brent's rise to $104.49 on Monday adds a new baseline, and any consumer-level relief at the pump would take a minimum of 2–4 additional weeks from today's close.",
+          "significance": "MEDIUM",
+          "actors": ["Oregon Health Authority", "WA State Department of Health", "CDC", "Kittitas County Public Health", "local school districts", "PNW pediatric healthcare providers"],
+          "metrics": {
+            "or_measles_confirmed_last_published": 20,
+            "or_measles_last_published_date": "2026-04-22",
+            "or_measles_oha_update_may11_published": false,
+            "or_wastewater_detection_active": true,
+            "or_suspected_underreporting": true,
+            "wa_measles_2026_ytd_min": 40,
+            "wa_counties_affected": 8,
+            "kittitas_county_outbreak_status": true,
+            "us_national_confirmed_as_of_apr30": 1814,
+            "affected_jurisdictions_national": 37,
+            "national_data_staleness_days": 11,
+            "school_year_pnw_end": "mid-to-late June 2026",
+            "vaccination_campaign_window_weeks_remaining": 4,
+            "next_oha_update_expected": "2026-05-12",
+            "oha_surveillance_gap_days_if_not_tuesday": 20,
+            "brent_may11_close_pnw_pump_relief_delay_weeks": "2-4 additional"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 11, 2026 evening — Hormuz Day 72, Naval Blockade Day 30, Project Freedom Pause Day 6 (integrity compromised), WPA Day 12 Past Statutory Deadline. The May 11 brief records vibe 3, down from 4 — the sharpest single-session downgrade since the May 8 overnight naval exchange moved the brief from vibe 5 to vibe 4. The triggering event is the reversal of what should have been the week's most positive development: Iran broke its 100+ hour silence and delivered a formal counteroffer via the Pakistan channel late May 10, demonstrating that the deal channel was alive. Trump's immediate 'TOTALLY UNACCEPTABLE' rejection — with no counter-counter-offer, no modified framework, no indication of what terms would be acceptable — transformed a potential breakthrough into the deal's most acute crisis yet. The obstacle to a deal is now unambiguously the US posture. Energy Secretary Wright compounded the signal by explicitly telegraphing a 'few days' timeline for returning to the military method of opening the Strait — the most direct executive-branch Project Freedom resumption timeline issued to date. Simultaneously, Gulf drone attacks distributed across UAE, Qatar, and Kuwait during the nominal pause indicate Iran is running parallel kinetic pressure tracks regardless of the deal trajectory. Brent's 3.16% surge to $104.49 is the market's clear read: supply disruption risk has repriced upward, the EIA $115/b Q2 peak scenario is back in the principal scenario frame rather than the tail. Three factors prevent a further vibe degradation to 2: the Qatar back-channel remains alive (Rubio met Qatari PM), no party has formally declared negotiations terminated, and IRGC has not yet conducted a destructive cyberattack on US infrastructure through Day 8 post-Project Freedom launch — a sustained positive in an otherwise deteriorating landscape. Warsh's near-certain confirmation tonight resolves one of three triple-convergence events; Powell expiry and Reconciliation 2.0 committee deadline both land May 15 in four days. Oregon fire season Day 4 is quiet operationally — no red flag, no ignitions — but the structural conditions are worsening; 21 days to above-normal east Cascades onset. Measles count update pending from OHA. Vibe 3: deal in acute crisis, military return telegraphed, oil above $104, Gulf escalating.",
+  "watch_items": [
+    "US counter-counter-offer on Iran: The highest-leverage single event of the next 24-72 hours — Trump's 'TOTALLY UNACCEPTABLE' rejection without a counter-counter-offer leaves the Pakistan and Qatar channels without anything to transmit; watch for any White House, State Department, or Witkoff/Kushner sourced modification of the US position; any counter-counter-offer — even a narrowed one — would be the most significant deal-positive signal since the original Axios MOU scoop (May 6); continued US silence is operationally equivalent to walking away",
+    "Project Freedom resumption announcement: Wright's 'next few days' timeline makes resumption the most probable near-term kinetic event; watch for any Trump Truth Social announcement, CENTCOM statement on pause termination, or carrier strike group repositioning signal; resumption would trigger immediate oil spike, IRGC retaliatory calculus, and WPA constitutional crisis (Day 13+ without congressional authorization)",
+    "Warsh confirmation result and first statement: Senate floor vote at 5:30 PM ET; result near-certain at ~54-46; Warsh's first public statement as confirmed Fed Chair-designate will be parsed for signals on his posture toward the oil-shock inflation environment; any dovish lean (cut signals) would be seen as politically accommodating Trump's growth preferences; any hawkish lean (hold or raise signals) would acknowledge the war-driven inflation premium his tools cannot address",
+    "IRGC cyber retaliation window: Trump rejection + Wright military timeline + Gulf drone escalation = highest-risk period for IRGC retaliatory cyber action since Project Freedom launched; Day 8 clean streak is the primary positive but the conditions for its continuation have materially weakened; watch for CISA emergency directive, FBI/IC3 flash, OT/ICS private-sector incident reports across energy, water, and financial sectors in the next 72-hour window",
+    "Gulf drone escalation containment or expansion: UAE, Qatar, Kuwait incidents Monday establish a new distributed-attack pattern; watch for any fourth incident Tuesday, any CENTCOM response strike announcement (which would formally end the pause), or any Iranian Foreign Ministry statement characterizing Monday's drone activity as separate from the nominal ceasefire; the line between 'calibrated pressure' and 'pause termination trigger' is thinner tonight than at any point in the past week",
+    "Qatar back-channel activity: Rubio's meeting with Qatari PM is the most operationally live diplomatic signal remaining after Pakistan channel's current impasse; watch for any Qatar Foreign Ministry statement on Iran talks, any Qatar-brokered transmission to Tehran, or any indication that Qatar is proposing bridging language on the OFAC sanctions and naval blockade points that constitute Iran's counteroffer core demands",
+    "Reconciliation 2.0 committee submissions: May 15 deadline is 4 days; Senate Finance and Armed Services committees must submit measures this week; watch for Finance committee text (tax provisions — the most politically volatile measure) and any Republican defections or committee deadline extension requests that would signal the June 1 Trump deadline is at risk",
+    "OHA measles count Tuesday: Update was expected Monday and did not arrive; Tuesday is the next publishing window; the gap between the April 22 published count (~20 OR) and the active wastewater surveillance pattern means the published count is likely to show material increase; watch for any new county-level outbreak declaration or first hospitalization announcement that would elevate the school-year response urgency with 4 weeks remaining in the vaccination window"
+  ],
+  "sources": [
+    "Al Jazeera - Iran replies to US proposal to end war, Trump finds response 'unacceptable' (May 10, 2026)",
+    "CNBC - Trump rejects Iran's latest counteroffer to end the war: 'I don't like it' (May 10, 2026)",
+    "NBC News - Trump calls Iran's response to U.S. peace proposal 'totally unacceptable' (May 10, 2026)",
+    "Bloomberg - Trump Rejects New Iran Peace Offer as 'Totally Unacceptable' (May 10, 2026)",
+    "PBS NewsHour - Trump calls Iran's response to ceasefire proposal 'unacceptable' (May 10, 2026)",
+    "CBC News - Trump calls ceasefire counter-proposal from Iran 'totally unacceptable' (May 10, 2026)",
+    "Breitbart - 'Totally Unacceptable': Trump Rejects Iran Reply 'Laughing No Longer' (May 10, 2026)",
+    "Seoul Economic Daily - Breaking News: Iran Delivers Response to US Ceasefire Proposal via Pakistan (May 10, 2026)",
+    "CNN - Live updates: Trump calls Iranian response to US peace proposal 'totally unacceptable' (May 10-11, 2026)",
+    "NPR - Pakistan says it's hopeful a U.S.-Iran deal can happen soon (May 6, 2026)",
+    "Al Jazeera - Has the US accepted Iran's demand to settle Hormuz first, nuclear later? (May 6, 2026)",
+    "CNBC - Oil price today: Brent, WTI rise on Iran war worries (May 11, 2026)",
+    "CNBC - Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote (April 29, 2026)",
+    "Al Jazeera - Senate panel advances Kevin Warsh's nomination for US Fed chair (April 29, 2026)",
+    "Yahoo Finance - Senate committee confirms Kevin Warsh, sets up full Senate vote (April 29, 2026)",
+    "Fortune - 'This is not normal': Former Fed economist sounds alarm on Kevin Warsh (April 30, 2026)",
+    "CISA - Advisory AA26-097A: Iranian-Affiliated Cyber Actors Exploit PLCs Across US Critical Infrastructure (April 7, 2026)",
+    "FINRA - Cybersecurity Alert: Heightened Threats From Iranian Cyber Actors",
+    "CSIS - The Iranian Cyber Threat to U.S. Critical Infrastructure",
+    "National Law Review - CISA Issues Advisory on Increase in Iranian-Affiliated Cyber Attacks",
+    "National Interest - Iran Planning Cyberattack on US Infrastructure, Intelligence Community Warns",
+    "Time - Senate Rejects Measure to Restrict Iran War Hours Before Key Legal Deadline (April 30, 2026)",
+    "House Budget Committee Democrats - The Republican 2026 Budget Resolution Unlocks Reconciliation 2.0",
+    "CBO - Reconciliation Legislation of HSGAC and Judiciary (May 4, 2026)",
+    "Oregon Capital Chronicle - Oregon faces longer fire season due to historic heat, drought (May 5, 2026)",
+    "Oregon Capital Chronicle - Oregon's congressional Democrats raise concerns about federal wildfire response (May 7, 2026)",
+    "MSN/Oregon officials - Oregon officials warn of early, prolonged 2026 wildfire season",
+    "NIFC - June 1, 2026 Outlook Period: May through August Seasonal Fire Potential Outlook",
+    "Central Oregon Daily - Oregon wildfire season expected to be severe, last into fall (2026)",
+    "Oregon Health Authority - Measles / Rubeola surveillance page",
+    "OPB - Measles cases in Oregon are ticking up (April 3, 2026)",
+    "CDC - Measles Cases and Outbreaks 2025-2026 dashboard (national total 1,814 as of April 30, 2026)",
+    "Wikipedia - 2026 Iran war ceasefire",
+    "Iran International - Live: Rubio meets Qatari PM as US awaits Iran's response"
+  ]
+}
