@@ -274,6 +274,16 @@
       "generated_at": "2026-05-11T20:00:00-07:00"
     },
     {
+      "id": "2026-05-12-morning",
+      "date": "2026-05-12",
+      "session": "morning",
+      "file": "reports/2026-05-12-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "WTI Breaks $100 ($101.37) / Brent $107.58; Gulf Drone Cluster Day 1 Unresolved; Qatar Breaks Neutral; Trump-Xi Meeting This Week as Off-Ramp Wildcard; Warsh Cloture Cleared; WPA Day 13; Vibe 3",
+      "generated_at": "2026-05-12T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-12-evening",
       "date": "2026-05-12",
       "session": "evening",
@@ -284,5 +294,5 @@
       "generated_at": "2026-05-12T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-12T20:00:00-07:00"
+  "last_updated": "2026-05-12T07:00:00-07:00"
 }
