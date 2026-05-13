@@ -294,6 +294,16 @@
       "generated_at": "2026-05-12T20:00:00-07:00"
     },
     {
+      "id": "2026-05-13-morning",
+      "date": "2026-05-13",
+      "session": "morning",
+      "file": "reports/2026-05-13-morning.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 74: Trump-Xi Summit Opens Beijing; Brent $107.05 Pre-Summit Pullback; Warsh Chair Vote 1 Day; Finance Text 2 Days; BLM Campfire Restrictions Today; Vibe 2",
+      "generated_at": "2026-05-13T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-13-evening",
       "date": "2026-05-13",
       "session": "evening",
