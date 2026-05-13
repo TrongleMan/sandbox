@@ -1,0 +1,313 @@
+{
+  "report_id": "2026-05-13-evening",
+  "generated_at": "2026-05-13T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 74; Naval Blockade Day 32; Project Freedom Pause Day 8; WPA Day 14 Past Statutory Deadline. May 13 is defined by a single new structural variable that did not exist in the May 12 brief: Trump is physically in Beijing for the Trump-Xi summit (May 12-15), and the Iran war is the dominant agenda item. This is the first genuinely active superpower diplomatic channel since the Pakistan and Qatar intermediaries went functionally empty after Trump's '1% chance' declaration on May 12. China is one of the few actors with real leverage on both Iran and Gulf states. However, the summit's expected yield is symbolic: analysts across Chatham House, CSIS, CFR, and CNBC uniformly flag limited breakthroughs on Iran, with a tariff truce more likely than a deal-enabling Xi message to Tehran. No US counter-counter-offer to Iran was issued on May 13. The deal track remains structurally in the same near-terminal condition it was in on May 12 — Trump's '1% chance' framing has not been retracted; the military action lean confirmed by two Axios officials has not been walked back; new Iran sanctions unveiled May 12 remain operative. Pentagon confirmed the cumulative war cost has reached $29 billion as of May 12. Oil closed Brent $107.77 / WTI $102.18 on May 12 — the highest close since Project Freedom launched. On the domestic clock: Warsh Fed chair vote is expected Wednesday May 14 (1 day); Powell expiry is May 15 (2 days); Reconciliation 2.0 Finance committee text remains unreleased with the May 15 committee submission deadline now 2 days away. BLM fire restrictions took effect May 13 on Central Oregon rivers; full BLM OR/WA fire restrictions begin May 14 — a new operational marker as Oregon fire season enters Day 6. OHA measles update expected Wednesday; no new case count published as of May 13 evening. Vibe holds at 2.",
+  "vibe": {
+    "score": 2,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe holds at 2 — unchanged from May 12 evening. The Trump-Xi Beijing summit is the one new structural input that prevents a further drop toward 1, but it is insufficient to move the needle upward. The argument for staying at 2 rather than recovering to 3: the underlying deal-track deterioration from May 12 is fully intact on May 13. No counter-counter-offer has been issued. Trump's '1% chance' framing — the most terminal presidential language applied to the deal track since negotiations began — has not been retracted or modified. The two-official Axios confirmation of Trump leaning toward military action has not been walked back. New Iran sanctions unveiled May 12 are now 24 hours old and unreversed. Iran's 'never bow' posture is unchanged. Oil closed at its highest level since Project Freedom launched ($107.77 Brent, $102.18 WTI) — meaning the market's war risk premium has not eased one cent since the May 12 deterioration. The argument against dropping to 1: Trump being physically in Beijing is a meaningful signal that he is engaged in diplomacy rather than issuing a resumption order. The Trump-Xi summit creates a 48-72 hour natural window during which military action is structurally less likely — it would be diplomatically incoherent to launch strikes while the president is in Beijing meeting the leader of Iran's most significant external partner. China's leverage over Iran is real, even if the summit's expected outcome is limited. Xi has an interest in Hormuz reopening that runs deeper than Pakistan or Qatar's interests. The summit produces a new escalation-inhibiting context that did not exist on May 12. Vibe 2: deal near-terminal, Beijing summit creates inhibiting window but no deal-positive signal, military action lean unchanged, oil at crisis-level close, Finance text absent with 2 days to deadline, WPA Day 14."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 74; Naval Blockade Day 32; Project Freedom Pause Day 8. Trump arrived in Beijing for the Trump-Xi summit (May 12-15); Iran war is the dominant agenda item and Xi is one of the few actors with real leverage on Tehran. No US counter-counter-offer issued on May 13. Deal track in same near-terminal condition as May 12: '1% chance' framing unretracted, military lean confirmed by two officials unreversed, new sanctions operative. Pentagon: cumulative war cost $29 billion. Expected summit output: symbolic, with analysts projecting limited Iran breakthrough and more likely tariff truce. China's leverage on Iran is real but Xi is unlikely to deliver a binding Tehran commitment in the first round.",
+      "items": [
+        {
+          "headline": "Trump in Beijing for Trump-Xi Summit (May 12-15); Iran War Dominant Agenda Item; Xi as First Genuinely Leveraged Intermediary Since Pakistan/Qatar Channels Went Empty; Symbolic Outcome Expected",
+          "summary": "President Trump arrived in Beijing for the Trump-Xi summit — his first visit to China since 2017 and his first face-to-face with Xi Jinping since October 2025. The summit was originally scheduled for early April but was postponed due to the Iran war; the war now dominates the agenda, leaving trade, tariffs, and Taiwan as secondary items. Trump's delegation enters Beijing seeking Xi's use of Chinese leverage to pressure Iran into reopening the Strait of Hormuz and accepting US nuclear conditions. China has relationships with both Iran and the Gulf states that no other intermediary currently active in the process (Pakistan, Qatar) can match. CNBC, CSIS, Chatham House, and CFR analysts uniformly project limited near-term breakthroughs on Iran: China's leverage is real but Xi is unlikely to deliver a binding Tehran commitment in a first-round summit session. On trade, a tariff truce — not structural change — is the expected output. Trump downplayed US-Iran differences before departing for Beijing, which is either a genuine signal of diplomatic flexibility or a traveling posture. Trump's physical presence in Beijing creates a 48-72 hour window during which resumed military action against Iran would be structurally incoherent — it would be diplomatically impossible to order Project Freedom resumption while the president is sitting with the leader of Iran's most significant external partner. That inhibiting effect is real, but it is a timing constraint, not a deal advance. The key signal to watch is any Trump-Xi joint statement language on the Hormuz crisis, any Xi commitment to engage Tehran directly, or any modification to Trump's '1% chance' framing in the context of Beijing meetings Thursday-Friday.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Xi Jinping", "Marco Rubio", "Scott Bessent", "Steve Witkoff", "China MFA", "Iran Foreign Ministry", "Pakistan PM Shehbaz Sharif", "Qatar PM", "CENTCOM"],
+          "metrics": {
+            "hormuz_closed_days": 74,
+            "naval_blockade_active_days": 32,
+            "project_freedom_status": "PAUSED — integrity near-terminal",
+            "project_freedom_pause_day": 8,
+            "wpa_days_past_statutory_deadline": 14,
+            "trump_beijing_arrival": "2026-05-12",
+            "summit_dates": "2026-05-12 through 2026-05-15",
+            "summit_key_meetings_days": ["2026-05-14", "2026-05-15"],
+            "trump_last_china_visit": "2017",
+            "trump_last_xi_meeting": "2025-10",
+            "summit_dominant_agenda_item": "Iran war",
+            "iran_agenda_secondary_items": ["trade/tariffs", "Taiwan", "AI security"],
+            "analyst_consensus_summit_outcome": "symbolic — limited Iran breakthrough, tariff truce more likely",
+            "trump_military_action_lean_retracted": false,
+            "trump_1pct_framing_retracted": false,
+            "us_counter_counter_offer_issued": false,
+            "new_iran_sanctions_may12_reversed": false,
+            "iran_never_bow_position_unchanged": true,
+            "beijing_window_inhibits_military_action": true,
+            "beijing_window_hours_approx": 72,
+            "ships_stranded_hormuz_approx": 1600,
+            "sailors_stranded_approx": 23000,
+            "cumulative_war_cost_usd_bn": 29
+          }
+        },
+        {
+          "headline": "Project Freedom Pause Day 8: No Resumption Order; No US Counter-Counter-Offer; Deal Track Near-Terminal; War Cost $29B; Gulf Drone/Naval Incident Ledger Unresolved",
+          "summary": "Project Freedom Pause Day 8 (May 13) ended without a resumption order and without a US counter-counter-offer to Iran's May 8 formal proposal. The deal track's structural condition is unchanged from May 12 evening: Trump has publicly given it a 1% chance of survival; two Axios-confirmed officials stated he is leaning toward military action; new sanctions unveiled May 12 operationalize the coercive track; Iran is locked into 'never bow' posture with no formal mechanism for retreat. The Pentagon confirmed Tuesday that cumulative US war costs have reached $29 billion — a cost figure that will inform both congressional budget arguments and Trump's own political calculus as Reconciliation 2.0 negotiations proceed simultaneously. The unresolved accumulated incident ledger from the pause period remains intact: the May 9 Saturday naval exchange, and Monday's three-country drone cluster (UAE, Qatar, Kuwait) — CENTCOM has issued no public statement on either set of incidents. The inhibiting effect of the Beijing summit does not erase these unanswered incidents from the escalation ledger; it merely defers any administration response. Pakistan and Qatar intermediary channels have not been formally terminated but remain functionally empty: the president's own '1% chance' framing leaves no US negotiating position for intermediaries to transmit. The deal is structurally dead absent an explicit Trump reversal.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "CENTCOM", "IRGC", "US 5th Fleet", "Steve Witkoff", "Marco Rubio", "Pakistan PM", "Qatar PM", "Iran Supreme Council", "Pentagon"],
+          "metrics": {
+            "project_freedom_pause_day": 8,
+            "resumption_order_issued_may13": false,
+            "us_counter_counter_offer_may13": false,
+            "deal_formally_declared_dead": false,
+            "deal_functionally_near_terminal": true,
+            "centcom_naval_exchange_statement_issued": false,
+            "centcom_drone_cluster_statement_issued": false,
+            "accumulated_unanswered_incidents_pause": 4,
+            "pentagon_cumulative_war_cost_usd_bn": 29,
+            "pakistan_channel_formally_terminated": false,
+            "qatar_channel_formally_terminated": false,
+            "trump_1pct_framing_unretracted": true,
+            "military_action_lean_two_officials_unretracted": true,
+            "iran_sanctions_may12_operative": true
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Brent $107.77 / WTI $102.18 — May 12 closing levels are the highest since Project Freedom launched May 4; WTI crossed $100 for the first time since Project Freedom Week 1. Warsh Fed chair vote expected Wednesday May 14 (1 day); Powell expiry May 15 (2 days). Reconciliation 2.0 Finance committee text still not released — 2 days to the May 15 committee submission deadline. Trump-Xi summit expected to yield tariff truce, not oil relief; no summit output can reopen Hormuz or revive the deal track from Beijing alone.",
+      "items": [
+        {
+          "headline": "Oil at Post-Launch High: Brent $107.77 / WTI $102.18 (May 12 Close); WTI Above $100 for First Sustained Session; EIA $115 Q2 Peak Trajectory; Beijing Summit Cannot Directly Reopen Hormuz",
+          "summary": "Oil markets closed May 12 at their highest levels since Project Freedom launched on May 4: Brent crude at $107.77/barrel (+3.4% session gain) and WTI at $102.18/barrel (+4.2%). WTI's breach of $100 — sustained through Tuesday's session — is the first time the US benchmark has held above that level since the oil shock's peak in late April. The EIA's Q2 2026 Brent peak scenario of $115/barrel is now approximately $7 away; at the current trajectory and given the absence of any deal-positive signal through May 13, the scenario is directionally operative. The Trump-Xi Beijing summit creates a secondary oil-market variable: any signal from Beijing that China will actively pressure Iran toward Hormuz reopening would produce an immediate downward crude response, as China's leverage is qualitatively different from Pakistan's or Qatar's. However, no Xi commitment to Tehran engagement has been confirmed as of May 13 evening, and analyst consensus projects a symbolic summit outcome. Saudi Aramco CEO Amin Nasser has confirmed that the market faces a rebalancing delay until 2027 if Hormuz remains blocked past mid-June — approximately 4 weeks from today. National average US gasoline prices remain above $4.50/gallon (AAA) with Portland-area regular above $5.00; the May 12 Brent close ensures no consumer-level relief for at least 2-4 additional weeks. Every day of Hormuz closure is approximately 14-16 million barrels of lost supply.",
+          "significance": "HIGH",
+          "actors": ["oil futures markets", "EIA", "Saudi Aramco", "Amin Nasser", "OPEC+", "IEA", "Federal Reserve", "Beijing summit participants"],
+          "metrics": {
+            "brent_may12_close_usd": 107.77,
+            "brent_may12_session_gain_pct": 3.4,
+            "wti_may12_close_usd": 102.18,
+            "wti_may12_session_gain_pct": 4.2,
+            "wti_above_100_sustained": true,
+            "brent_post_launch_high": true,
+            "brent_pre_war_baseline_approx_usd": 68,
+            "brent_above_pre_war_pct_approx": 58,
+            "eia_brent_q2_peak_scenario_usd": 115,
+            "distance_from_eia_peak_scenario_usd": 7.23,
+            "aramco_normalization_if_blocked_past_mid_june": "2027",
+            "hormuz_daily_supply_loss_mbpd_approx": 15,
+            "gas_national_avg_above_usd": 4.50,
+            "portland_area_gas_approx": ">$5.00",
+            "consumer_lag_to_crude_weeks": "2-4",
+            "beijing_iran_leverage_qualitatively_superior_to_pakistan_qatar": true,
+            "beijing_xi_tehran_engagement_commitment_confirmed": false
+          }
+        },
+        {
+          "headline": "Warsh Chair Vote Wednesday (1 Day); Powell Expiry May 15 (2 Days); Reconciliation Finance Text Absent With 2 Days to Deadline; Trump-Xi Tariff Truce Expected",
+          "summary": "Kevin Warsh was confirmed as a Federal Reserve Board of Governors member on May 12 by a 51-45 Senate vote, with Senator John Fetterman (D-PA) the sole Democratic crossover. The separate Senate vote to designate Warsh as Fed Chair is now expected Wednesday May 14 — one day from this brief — ahead of Jerome Powell's term expiry on May 15. If the Chair vote proceeds as scheduled Wednesday, Warsh will become the nation's central banker on the same day that Senate committees face their Reconciliation 2.0 submission deadline. Warsh's monetary inheritance has not improved since May 12: Brent closed $107.77 on Tuesday, his first day as a confirmed Board governor, and he assumes the chairship in a posture where the primary economic shock — Hormuz supply disruption — is immune to interest-rate tools. His first FOMC meeting (expected June 16) will occur either in the aftermath of resumed Project Freedom military operations or in the improbable scenario of a Beijing-catalyzed deal reversal. Reconciliation 2.0: the May 15 committee submission deadline is now 2 days away. The Senate Finance Committee has not released its text for the tax provisions — the most politically sensitive element of the bill and the one most likely to generate Republican defections. DHS/Judiciary $72B has been CBO-scored and is cleared; the Finance gap is the primary legislative risk. Trump-Xi summit: a tariff truce — not structural change — is the expected trade outcome. A truce would ease secondary market uncertainty but would not offset the oil shock, which is unrelated to tariff architecture.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Jerome Powell", "John Thune", "John Fetterman", "Donald Trump", "FOMC", "Senate Finance Committee", "Senate Budget Committee", "Senate Armed Services", "White House OMB"],
+          "metrics": {
+            "warsh_fed_board_confirmed": true,
+            "warsh_board_confirmation_date": "2026-05-12",
+            "warsh_board_vote": "51-45",
+            "warsh_dem_crossover": "John Fetterman",
+            "warsh_chair_vote_expected": "2026-05-14",
+            "days_to_warsh_chair_vote": 1,
+            "powell_term_expiry": "2026-05-15",
+            "days_to_powell_expiry": 2,
+            "reconciliation_committee_deadline": "2026-05-15",
+            "days_to_reconciliation_deadline": 2,
+            "reconciliation_finance_text_released": false,
+            "reconciliation_dhs_judiciary_cleared": true,
+            "trump_reconciliation_completion_deadline": "2026-06-01",
+            "warsh_first_fomc_expected": "2026-06-16",
+            "fed_funds_rate_pct": "3.50-3.75",
+            "warsh_oil_shock_inheritance_brent": 107.77,
+            "tariff_truce_expected_from_beijing": true,
+            "tariff_truce_offsets_oil_shock": false
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "Day 10 post-Project Freedom launch: no confirmed IRGC destructive cyberattack on US critical infrastructure. Clean streak continues — still the clearest remaining positive signal. CISA AA26-097A operative; no updated advisory issued. The Beijing summit creates a marginal inhibiting effect on IRGC cyber retaliation — a Trump-ordered strike while he is in Beijing is less likely, which slightly reduces IRGC's perceived urgency to pre-position cyber capabilities. BLM campfire restrictions effective May 13 on Central Oregon rivers; full BLM OR/WA fire restrictions begin May 14. Oregon fire season Day 6: no red flag warnings, no active ignitions. 19 days to above-normal east Cascades fire onset.",
+      "items": [
+        {
+          "headline": "CISA Day 10: Clean Streak Intact; Beijing Summit Marginally Inhibits IRGC Cyber Pre-Positioning Window; 72-Hour Reset Watch Still Operative; No Updated Advisory",
+          "summary": "Ten days after Project Freedom launched on May 4, the United States has sustained no confirmed IRGC-affiliated destructive cyberattack on critical infrastructure. The clean streak remains the most significant positive signal in the current environment and enters Day 10 under marginal structural improvement from one new factor: Trump's physical presence in Beijing for the Trump-Xi summit reduces the near-term probability of a US military strike order against Iran, which in turn marginally reduces the IRGC's incentive to pre-position cyber capabilities for an immediate retaliatory response. The IRGC's cyber retaliation doctrine is most acutely triggered by imminent or actual US kinetic escalation — and a presidential summit in Beijing with Iran's most significant external partner constitutes a credible 48-72 hour escalation-inhibiting context. This is a marginal improvement in the cyber risk environment, not a structural one: the underlying risk drivers from May 12 remain intact. Trump's '1% chance' framing eliminates the diplomatic restraint incentive; new sanctions operationalize coercive pressure; and two officials have confirmed the military action lean. The 72-hour priority watch window from Monday May 11 has expired; but the accumulated reset-triggering events from May 12 (Trump '1% chance' + new sanctions) continue to sustain an elevated baseline alert posture. No updated CISA emergency directive, FBI/IC3 flash, or private-sector OT/ICS alert has been issued. CISA AA26-097A (April 7) remains operative. CI Fortify remains active across energy, water, and government facility sectors. FINRA financial-sector alert and NERC grid monitoring remain live.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI", "NSA", "NERC", "IRGC Cyber Electronic Command", "CyberAv3ngers", "Handala", "FINRA", "DHS", "US energy sector OT operators", "US water sector operators"],
+          "metrics": {
+            "days_since_project_freedom_launch": 10,
+            "confirmed_irgc_destructive_attack_since_may4": false,
+            "updated_cisa_advisory_since_apr7": false,
+            "cisa_advisory_reference": "AA26-097A (2026-04-07)",
+            "ci_fortify_status": "operative",
+            "finra_alert_active": true,
+            "nerc_monitoring_active": true,
+            "beijing_summit_marginally_inhibits_irgc_preposition": true,
+            "beijing_inhibiting_window_hours": 72,
+            "underlying_irgc_trigger_environment": "elevated — unchanged from May 12",
+            "trump_1pct_framing_diplomatic_restraint_incentive": "near-eliminated",
+            "new_sanctions_may12_operative": true,
+            "military_lean_two_officials_confirmed": true,
+            "72hr_watch_window_from_may11_status": "expired — base alert sustained by May 12 reset events",
+            "current_irgc_cyber_risk_characterization": "elevated with marginal Beijing inhibition — Day 10 clean"
+          }
+        },
+        {
+          "headline": "BLM Campfire Restrictions Effective May 13 Central Oregon; Full OR/WA BLM Fire Restrictions Begin May 14; Oregon Fire Season Day 6 Quiet; 19 Days to East Cascades Above-Normal Onset",
+          "summary": "Oregon's wildfire season entered Day 6 (May 13) with two new operational markers: annual campfire restrictions took effect May 13 on BLM-managed rivers in Central Oregon, and the Bureau of Land Management announced full fire restrictions across Oregon and Washington beginning May 14. The progressive restriction tightening is consistent with the structural risk calendar — the above-normal fire risk onset for east of the Cascades is 19 days away (June 1), and the pre-positioning window for federal and state resources is narrowing. No NWS red flag warning was issued for Oregon or Washington on May 13; no active fire ignitions of significance were reported in either state. Statewide ODF permit restrictions remain in effect; Portland metro and BLM Oregon-Washington burn bans remain active; Washington DNR restrictions continue. The federal capacity gap raised by Oregon's congressional Democrats (May 7) — specifically DOGE-related Forest Service Region 6 fire science research and pre-positioning position eliminations — remains formally unaddressed by USDA or Interior as of Tuesday evening. National wildfire acreage burned YTD remains approximately 1.85 million acres — nearly double the 10-year average for this date. The escalating restriction timeline (May 13 campfires, May 14 full BLM restrictions, June 1 above-normal onset) leaves 19 days of resource pre-positioning time against a structurally certain above-normal season.",
+          "significance": "MEDIUM",
+          "actors": ["BLM Oregon-Washington", "Oregon Department of Forestry", "NWS Portland", "NWS Medford", "NWS Pendleton", "Washington DNR", "Forest Service Region 6", "NIFC", "Oregon Governor Kotek"],
+          "metrics": {
+            "oregon_fire_season_active_day": 6,
+            "oregon_fire_season_declared": "2026-05-08T00:01:00-07:00",
+            "blm_central_oregon_campfire_restrictions_effective": "2026-05-13",
+            "blm_or_wa_full_restrictions_effective": "2026-05-14",
+            "red_flag_warning_issued_may13": false,
+            "new_fire_ignitions_or_wa_may13": false,
+            "days_to_above_normal_east_cascades": 19,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "above_normal_statewide_onset": "2026-07-01",
+            "national_ytd_acres_burned_millions_approx": 1.85,
+            "national_ytd_vs_10yr_avg": "nearly double",
+            "federal_capacity_gap_addressed": false,
+            "portland_burn_ban_active": true,
+            "blm_pnw_restrictions_active": true,
+            "washington_dnr_restrictions_active": true,
+            "resource_positioning_window_days_remaining": 19
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA Day 14 past April 29 statutory deadline. No congressional war authorization obtained; no 7th war-powers resolution scheduled. Trump's presence in Beijing does not resolve the WPA structural gap — it merely defers the resumption decision by 48-72 hours. Warsh chair vote expected Wednesday May 14 (1 day); Powell expiry May 15 (2 days). Reconciliation 2.0 Finance committee text unreleased — 2 days to the May 15 committee submission deadline; Finance gap is now the primary legislative risk to the Trump June 1 completion target.",
+      "items": [
+        {
+          "headline": "WPA Day 14: Beijing Defers But Does Not Resolve Resumption; Warsh Chair Vote 1 Day; Powell Expiry 2 Days; Finance Text Absent With 2 Days to Deadline",
+          "summary": "May 13 is WPA Day 14 past the April 29 statutory deadline — the deepest unauthorized war-operation run since the modern War Powers Resolution's enactment. Trump's presence in Beijing for the Trump-Xi summit creates a natural 48-72 hour deferral on any Project Freedom resumption order, but it does not resolve the WPA structural gap: if Trump returns from Beijing and orders resumption before Congress acts, the operation would resume in an equally unauthorized posture. Senate Republicans have defeated six Democratic war-powers resolutions; no seventh has been scheduled. The Trump administration's operative legal interpretation — that the WPA clock stopped when hostilities were 'effectively ended' — remains unlitigated and now structurally inverted: the president publicly gives the ceasefire a 1% survival chance, confirming hostilities are not effectively over. Domestic convergence: Warsh Fed chair vote is expected Wednesday May 14 (1 day), removing the second element of the triple-convergence cluster that opened the week; Powell's 8-year term expires Friday May 15 (2 days). Reconciliation 2.0: the May 15 committee submission deadline is 2 days away. The Senate Finance Committee has not released committee text for the tax and revenue provisions — the most politically volatile and largest single outstanding element. DHS/Judiciary $72B is CBO-scored and cleared. If Finance cannot deliver text by May 15, the Reconciliation 2.0 committee deadline will be missed, creating the first concrete evidence that Trump's June 1 completion target is at risk. No Finance committee public signal of imminent text release was reported as of May 13 evening.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "John Thune", "Kevin Warsh", "Jerome Powell", "Senate Finance Committee", "Senate Budget Committee", "Senate Armed Services", "Senate Health Committee", "Congressional Democrats", "White House OMB"],
+          "metrics": {
+            "wpa_days_past_deadline": 14,
+            "wpa_deadline_date": "2026-04-29",
+            "project_freedom_pause_day": 8,
+            "congressional_war_authorization_obtained": false,
+            "senate_war_powers_resolutions_failed": 6,
+            "senate_7th_war_powers_resolution_scheduled": false,
+            "trump_legal_interpretation_wpa_clock_stopped": true,
+            "wpa_interpretation_litigated": false,
+            "beijing_defers_resumption_hours": 48,
+            "beijing_resolves_wpa_gap": false,
+            "warsh_chair_vote_expected": "2026-05-14",
+            "days_to_warsh_chair_vote": 1,
+            "powell_term_expiry": "2026-05-15",
+            "days_to_powell_expiry": 2,
+            "reconciliation_committee_deadline": "2026-05-15",
+            "days_to_reconciliation_deadline": 2,
+            "trump_reconciliation_completion_deadline": "2026-06-01",
+            "reconciliation_dhs_judiciary_cleared": true,
+            "reconciliation_finance_text_released": false,
+            "reconciliation_outstanding_committees": ["Finance", "Armed Services", "Health"],
+            "reconciliation_finance_text_signal_may13": "none",
+            "june_1_completion_target_at_risk_if_finance_misses": true
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Oregon fire season Day 6; no red flag, no ignitions; BLM campfire restrictions effective May 13, full BLM OR/WA restrictions begin May 14. OHA measles update expected Wednesday May 14 — first hospitalization confirmed May 12, case count last published ~20 (April 22), wastewater surveillance active across multiple counties; update expected to show material increase. Brent closed $107.77 May 12 — pushes Portland-area pump price relief timeline to 2-4+ weeks minimum. 19 days to east Cascades above-normal fire onset.",
+      "items": [
+        {
+          "headline": "OHA Measles Update Due Wednesday; First Hospitalization Day 1 Follow-Up; Last Published Count ~20 (April 22); Wastewater Active; School Window ~2.5 Weeks; CDC National Count Stale",
+          "summary": "Oregon Health Authority confirmed the state's first measles hospitalization of 2026 on Tuesday May 12 — the most significant single Oregon outbreak event since the initial outbreak declaration. OHA's next case count update is expected Wednesday May 14; the hospitalization is likely to prompt OHA to issue an updated count given the elevated public profile of the severity event. The last published Oregon confirmed case count (~20 as of April 22) is now 21 days stale; active wastewater detections across multiple counties and the first-household spread to a multi-household outbreak in Multnomah and Clackamas counties suggest the actual case count is materially higher. Of the last published 20 cases, 19 involved unvaccinated individuals or those with unknown vaccination status — the structural transmission driver. Washington State remains at 40+ confirmed cases across 8 counties, with Kittitas County in active outbreak status. The national CDC confirmed case count was 1,842 as of May 7 (7 days stale); the next CDC update is overdue. The PNW school-year vaccination catch-up window has narrowed to approximately 2.5 weeks (most PNW school districts close mid-to-late June 2026). The hospitalization is the primary Oregon public health watch item going into Wednesday: it changes the response urgency calculus for OHA and raises the probability of an emergency briefing or updated county-level guidance. The discharged patient reportedly is recovering.",
+          "significance": "MEDIUM",
+          "actors": ["Oregon Health Authority", "WA State Department of Health", "CDC", "Kittitas County Public Health", "Multnomah County Health", "Clackamas County Public Health", "OHA State Health Officer Dean Sidelinger", "local school districts", "PNW pediatric healthcare providers"],
+          "metrics": {
+            "oregon_first_measles_hospitalization_confirmed_date": "2026-05-12",
+            "hospitalized_patient_status": "discharged, recovering",
+            "or_measles_confirmed_last_published": 20,
+            "or_measles_last_published_date": "2026-04-22",
+            "or_measles_last_published_staleness_days": 21,
+            "or_measles_oha_update_expected": "2026-05-14",
+            "or_wastewater_detection_active": true,
+            "or_suspected_underreporting": true,
+            "or_unvaccinated_or_unknown_status_pct": 95,
+            "or_multnomah_clackamas_spread_confirmed": true,
+            "wa_measles_2026_ytd_min": 40,
+            "wa_counties_affected": 8,
+            "kittitas_county_outbreak_status": true,
+            "us_national_confirmed_as_of_may7": 1842,
+            "us_national_data_staleness_days": 6,
+            "affected_jurisdictions_national": 45,
+            "school_year_pnw_end": "mid-to-late June 2026",
+            "vaccination_campaign_window_weeks_remaining": 2.5,
+            "hospitalization_oha_emergency_briefing_probability": "elevated",
+            "hospitalization_significance": "first severity-threshold event of OR 2026 outbreak — Day 1 follow-up"
+          }
+        },
+        {
+          "headline": "PNW Fire Day 6: BLM Campfire Restrictions Effective Today; Full BLM OR/WA Restrictions Tomorrow; No Ignitions; Oil at $107.77 Keeps Portland Gas Above $5.00 With No Near-Term Relief",
+          "summary": "Oregon wildfire season Day 6 (May 13) saw the first restriction-level escalation of the active season: annual campfire restrictions took effect on BLM-managed rivers in Central Oregon beginning May 13, and the Bureau of Land Management confirmed that full fire restrictions for Oregon and Washington will begin May 14. This escalating restriction sequence — campfires May 13, full restrictions May 14 — is operationally significant as a pre-positioning signal ahead of the June 1 above-normal east Cascades onset. No NWS red flag warning was issued for any Oregon or Washington NWS offices on May 13; no significant fire ignitions occurred in either state. Statewide ODF permit restrictions, Portland metro burn ban, BLM Oregon-Washington restrictions, and Washington DNR restrictions all remain active. The federal capacity gap raised by Oregon's congressional Democrats — DOGE-related Forest Service Region 6 eliminations of fire science and pre-positioning positions — remains unaddressed. From a petroleum perspective, Brent's May 12 close of $107.77 — the highest level since Project Freedom launched — pushes Portland-area consumer gasoline relief at least 2-4 weeks further into the future. Portland-area regular gasoline remains above $5.00/gallon. With 19 days before the east Cascades above-normal onset and the federal staffing gap unresolved, each quiet operational day is a resource pre-positioning opportunity against a structurally compressed preparation timeline.",
+          "significance": "LOW",
+          "actors": ["BLM Oregon-Washington", "Oregon Department of Forestry", "NWS Portland", "NWS Medford", "Washington DNR", "Forest Service Region 6", "NIFC", "Oregon Governor Kotek"],
+          "metrics": {
+            "oregon_fire_season_active_day": 6,
+            "blm_central_oregon_campfire_restrictions_effective_may13": true,
+            "blm_or_wa_full_restrictions_begin": "2026-05-14",
+            "red_flag_warning_issued_may13": false,
+            "new_fire_ignitions_or_wa_may13": false,
+            "days_to_above_normal_east_cascades": 19,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "national_ytd_acres_burned_millions_approx": 1.85,
+            "national_ytd_vs_10yr_avg": "nearly double",
+            "brent_may12_close_usd": 107.77,
+            "brent_post_launch_high": true,
+            "portland_area_regular_gas_approx": ">$5.00",
+            "pump_price_relief_delay_additional_weeks": "2-4 from May 13",
+            "federal_capacity_gap_addressed": false,
+            "portland_burn_ban_active": true,
+            "blm_pnw_restrictions_active": true,
+            "washington_dnr_restrictions_active": true
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 13, 2026 evening — Hormuz Day 74, Naval Blockade Day 32, Project Freedom Pause Day 8, WPA Day 14 Past Statutory Deadline. Vibe 2, holds from May 12. The day's dominant story is Trump's presence in Beijing for the Trump-Xi summit (May 12-15): the first genuinely active superpower diplomatic channel since the Pakistan and Qatar intermediaries went functionally empty. China has real leverage on Iran that Pakistan and Qatar lack, and the summit's Iran-centric agenda is the first structural escalation-alternative since the pause began on Day 3. But the summit is expected to yield symbolic output, not a binding Xi commitment to pressure Tehran on Hormuz or nuclear concessions. Every underlying deal-track deterioration from May 12 remains fully intact on May 13 evening: Trump's '1% chance' framing is unretracted; the two-official Axios confirmation of military action lean is unreversed; new Iran sanctions unveiled May 12 are operative; Iran is locked into 'never bow' posture; no US counter-counter-offer has been issued. Pentagon confirmed cumulative war costs at $29 billion. Oil closed at its post-Project Freedom-launch high: Brent $107.77, WTI $102.18 — the EIA $115 Q2 peak scenario is now approximately $7 away. Domestically: Warsh chair vote is 1 day away (Wednesday); Powell expiry is 2 days away (Friday); Reconciliation 2.0 Finance committee text has not been released with 2 days to the May 15 submission deadline — the most consequential domestic legislative watch item of the week. In the PNW: BLM campfire restrictions took effect today; full BLM OR/WA fire restrictions begin tomorrow; Oregon fire season Day 6 quiet operationally. OHA measles update expected Wednesday — the first hospitalization (confirmed May 12) will drive elevated urgency. Vibe 2: Beijing is the day's story, but Beijing alone cannot revive a near-terminal deal track.",
+  "watch_items": [
+    "Trump-Xi summit key meetings Thursday-Friday (May 14-15): the primary watch item of the next 48 hours is any Xi Jinping commitment to engage Tehran directly on Hormuz — a concrete Beijing intermediary signal would be qualitatively different from any prior channel; watch for any joint statement language referencing Iran, any Xi-Iran call announced during or immediately following the summit, and any Trump modification of the '1% chance' framing in the Beijing context; if Xi delivers nothing on Iran, the summit confirms that no viable diplomatic channel remains and the military action timeline resumes with full force post-Beijing",
+    "Warsh Fed chair vote — Wednesday May 14: the board vote confirmed 51-45 on May 12; the chair vote is expected Wednesday, one day from this brief; watch for any Republican defections that would complicate the timeline or require a second vote; Warsh's first public statement as confirmed Chair will be parsed for oil-shock monetary posture — any language suggesting accommodation of Trump growth preferences vs. inflation discipline will move rate-sensitive sectors immediately",
+    "Reconciliation 2.0 Finance committee text — 2-day deadline: the Finance Committee has not released tax provision text with 48 hours to the May 15 committee submission deadline; this is the single most consequential domestic legislative watch item this week; a Finance miss would be the first concrete evidence that Trump's June 1 completion target is at risk; watch for any leaked provisions, Republican defection signals, or Thune request for a deadline extension",
+    "Project Freedom resumption order post-Beijing: Trump's presence in Beijing creates a natural 48-72 hour window during which a strike order is structurally less likely; the watch clock resets when Trump departs Beijing (around May 15); any CENTCOM carrier repositioning, White House congressional notification, or Trump Truth Social announcement in the 24-48 hours after summit conclusion should be treated as the highest-priority signal of the post-summit period",
+    "OHA measles update — Wednesday May 14: the first Oregon measles hospitalization (confirmed May 12) is expected to prompt OHA to issue an updated case count; the last published figure (~20, April 22) is 21 days stale and almost certainly an undercount given active wastewater surveillance; watch for any new county-level outbreak declaration, OHA emergency briefing announcement, or school district public health guidance escalation ahead of the 2.5-week school-year vaccination window close",
+    "IRGC cyber posture: Day 10 clean streak continues under marginal Beijing inhibition; the inhibiting effect expires when Trump departs China and the military action timeline reactivates; watch CISA, FBI/IC3, and private-sector OT/ICS reporting in the 48-72 hour window following Trump's return from Beijing — the post-summit window is when IRGC cyber pre-positioning incentive is highest",
+    "BLM full fire restrictions effective May 14: watch for any NWS red flag warning activation in Oregon or Washington in the 19-day window before east Cascades above-normal onset; any state emergency declaration for a new fire ignition above 100 acres would indicate the early-season fire risk is operationalizing ahead of the June 1 structural threshold"
+  ],
+  "sources": [
+    "Wikipedia - 2026 Iran war ceasefire",
+    "Wikipedia - Operation Project Freedom",
+    "Wikipedia - 2026 Strait of Hormuz crisis",
+    "Wikipedia - 2026 state visit by Donald Trump to China",
+    "CNN - Live update: Cost of Iran war increases to $29 billion, Pentagon official says (May 12, 2026)",
+    "CNN - Live updates: Trump says ceasefire with Iran on 'massive life support' (May 11-12, 2026)",
+    "Al Jazeera - Iran war live: Trump 'not long' before war ends; downplays US-Iran differences heading to Beijing (May 12, 2026)",
+    "CNBC - What's at stake for trade, Taiwan and Iran in Trump's high-risk summit with China's Xi (May 12, 2026)",
+    "CNBC - Five things to watch in Asia as Trump prepares to meet China's Xi this week (May 12, 2026)",
+    "CNBC - Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths (May 8, 2026)",
+    "CNBC - Oil prices today: Brent, WTI rise as Iran tensions escalate (May 12, 2026)",
+    "CNBC - Senate confirms Kevin Warsh as Fed governor, clears way for chair vote (May 12, 2026)",
+    "US News - Senate Confirms Warsh to Fed Board, With Fed Chair Vote Likely Wednesday (May 12, 2026)",
+    "Al Jazeera - Kevin Warsh confirmed to US Federal Reserve board in close Senate vote (May 12, 2026)",
+    "CSIS - Trump-Xi 2026 Summit analysis",
+    "Chatham House - The Trump-Xi summit: can progress be made on Iran? (May 2026)",
+    "CFR - At the Trump-Xi Summit, China Will Have the Upper Hand (May 2026)",
+    "Foreign Policy - Trump-Xi Summit: What to Expect on Trade, Taiwan, and Iran War (May 12, 2026)",
+    "Irish Times - Cost of war in Iran has climbed to $29bn, says Pentagon (May 12, 2026)",
+    "CISA - Advisory AA26-097A: Iranian-Affiliated Cyber Actors Exploit PLCs Across US Critical Infrastructure (April 7, 2026)",
+    "FINRA - Cybersecurity Alert: Heightened Threats From Iranian Cyber Actors",
+    "Central Oregon Daily - BLM fire restrictions start May 14 in Oregon (May 2026)",
+    "Oregon State Library eClips - Fire season brings new rules in Oregon and Washington (May 12, 2026)",
+    "NIFC - June 1, 2026 Outlook Period: May through August Seasonal Fire Potential Outlook",
+    "KGW - As measles cases climb, Oregon sees first hospitalization of the year (May 12, 2026)",
+    "Central Oregon Daily - Oregon reports 1st measles hospitalization of 2026 (May 2026)",
+    "CDC - Measles Cases and Outbreaks 2025-2026 dashboard (national total 1,842 as of May 7, 2026)",
+    "Oregon Health Authority - Measles / Rubeola surveillance page",
+    "OPB - Measles cases in Oregon are ticking up (April 3, 2026)"
+  ]
+}

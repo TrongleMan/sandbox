@@ -292,7 +292,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Trump: Ceasefire '1% Chance,' Leans Military; New Iran Sanctions; Warsh Cloture 49-44; Oregon Measles First Hospitalization; Vibe 2",
       "generated_at": "2026-05-12T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-13-evening",
+      "date": "2026-05-13",
+      "session": "evening",
+      "file": "reports/2026-05-13-evening.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Trump in Beijing for Xi Summit; Iran War Cost $29B; Brent $107.77 Post-Launch High; Warsh Chair Vote Tomorrow; Finance Text Absent 2 Days to Deadline; Vibe 2",
+      "generated_at": "2026-05-13T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-12T07:00:00-07:00"
+  "last_updated": "2026-05-13T20:00:00-07:00"
 }
