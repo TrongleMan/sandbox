@@ -1,0 +1,298 @@
+{
+  "report_id": "2026-05-14-evening",
+  "generated_at": "2026-05-14T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 75; Naval Blockade Day 33; Project Freedom Pause Day 9; WPA Day 15 Past Statutory Deadline. May 14 delivers one clean resolution and one new constraint. The resolution: Kevin Warsh is confirmed as Federal Reserve Chair in a 54-45 party-line vote, the closest in modern Fed history, with John Fetterman again the lone Democratic crossover. Powell's term expires tomorrow May 15; the Warsh era begins in the middle of an oil shock his monetary tools cannot directly address. The new constraint: 52 senators and 177 congressmen wrote Trump today demanding that no Iran deal permit uranium enrichment — a congressional floor that tightens the dealmaking geometry and structurally reduces the probability that even a summit-catalyzed US-Iran re-engagement can produce a mutually acceptable terms set. The Trump-Xi summit enters its key Day 2 meetings (May 14-15) with no confirmed joint statement or Xi commitment to engage Tehran directly as of this brief's filing. Markets priced a tariff truce extension as the most likely Beijing output; Boeing aircraft purchase announcements were anticipated. No resumption order issued. No US counter-counter-offer to Iran. Deal track remains near-terminal. BLM full fire restrictions for Oregon and Washington took effect today as scheduled — Jeff Fedrizzi (US Wildland Fire Service Pacific Northwest) stated publicly that 2026 'could rival the most extreme years on record for heat and dryness in the Pacific Northwest.' Oregon fire season Day 7 remains quiet operationally. OHA measles Wednesday update: last published count was 20 confirmed (April 22); no new OHA case release confirmed as of this brief — the 22-day staleness deepens. Reconciliation 2.0 Finance deadline is tomorrow May 15, with Finance text still not confirmed released as of this evening. Vibe holds at 2: Warsh confirmation resolves an institutional uncertainty without improving the oil-shock environment; the congressional letter tightens Iran deal constraints; Beijing Day 2 has produced no Iran-positive signal; Powell expiry is 24 hours away; Finance deadline is 24 hours away.",
+  "vibe": {
+    "score": 2,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe holds at 2 — unchanged from May 13 evening. The argument for not dropping to 1: Trump is still in Beijing for the Xi summit (Day 2 key meetings today), and the inhibiting window on resumed military action remains operative through approximately May 15. The tariff truce signal from Beijing — though not formally confirmed as of this brief — provides a marginal positive market signal that did not exist at the start of the week. The argument against recovering to 3: the congressional letter signed by 52 senators and 177 congressmen constraining any Iran deal to zero uranium enrichment is a new structural input that tightens the deal geometry without producing a corresponding diplomatic advance. Trump's '1% chance' framing is unretracted. The military action lean confirmed by two Axios officials is unreversed. No US counter-counter-offer to Iran has been issued. Oil remains at crisis-level close ($107.77 Brent as of May 12 — the most recent confirmed close). Warsh's confirmation is a known-unknown resolved: he inherits an oil shock that rate policy cannot fix, and Trump's public pressure for rate cuts complicates his independence posture from Day 1. Powell's term expires tomorrow — the institutional transition occurs at maximum macroeconomic stress. Reconciliation 2.0 Finance deadline is 24 hours away with text still not publicly confirmed as released. WPA Day 15: the deepest unauthorized war-operation run on record continues. Vibe 2: deal near-terminal, congressional constraint tightening, Day 2 summit no Iran-positive signal, institutional transition at stress inflection, Finance deadline imminent."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 75; Naval Blockade Day 33; Project Freedom Pause Day 9. Trump-Xi summit Day 2 key meetings underway in Beijing (May 14-15); no joint statement confirming Xi commitment to engage Tehran as of this brief. 52 senators and 177 congressmen wrote Trump demanding any Iran deal include zero uranium enrichment — a new constraint tightening deal geometry. Iran ratified UN Convention against Transnational Organized Crime (FATF action), a quiet compliance signal. No resumption order issued. No US counter-counter-offer. Deal track near-terminal; summit inhibiting window operative through approximately May 15.",
+      "items": [
+        {
+          "headline": "Trump-Xi Summit Day 2 Key Meetings; No Xi Iran Commitment Confirmed; Tariff Truce Extension Expected; 52 Senators + 177 Congressmen Letter Constrains Iran Deal Terms",
+          "summary": "The Trump-Xi Beijing summit entered its core operational day on May 14, with the leaders' formal bilateral meetings scheduled across May 14-15. As of this brief, no joint statement has been released confirming Xi Jinping's commitment to engage Tehran directly on Hormuz reopening or nuclear concessions. Pre-summit analyst consensus from CSIS, Chatham House, CFR, and PBS held that Trump and Xi appeared 'intent on keeping Iran war from overshadowing China summit' — a framing that materially limits expectations for concrete Iran-positive output from Day 2. On trade, markets and traders priced in a tariff truce extension and Boeing aircraft purchase announcements as the most likely output — a continuation of the October 2025 Busan summit truce framework (reduced fentanyl-related tariffs, suspended reciprocal tariffs through November 10, 2026, suspended rare earth export controls). The tariff truce extension, if confirmed, is a mildly positive market signal but does not offset the oil shock. The structurally significant new input on May 14 is the congressional letter: 52 senators and 177 congressmen wrote to Trump today demanding that no Iran deal permit uranium enrichment, stating no agreement should leave open a path to nuclear weapons. This letter tightens the deal geometry from the US side — it reduces Trump's negotiating latitude on what may be Iran's most essential demand — and constitutes a new constraint that did not exist in the May 13 brief. The inhibiting window on resumed military action created by Trump's Beijing presence remains operative through approximately May 15 (departure). No CENTCOM repositioning orders have been reported.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Xi Jinping", "Marco Rubio", "Scott Bessent", "Steve Witkoff", "Senate Republicans", "Senate Democrats", "John Fetterman", "House Republicans", "Iran Foreign Ministry", "CENTCOM", "Chatham House", "CSIS", "CFR"],
+          "metrics": {
+            "hormuz_closed_days": 75,
+            "naval_blockade_active_days": 33,
+            "project_freedom_status": "PAUSED — deal track near-terminal",
+            "project_freedom_pause_day": 9,
+            "wpa_days_past_statutory_deadline": 15,
+            "trump_xi_summit_day": 2,
+            "summit_key_meeting_day": true,
+            "summit_dates": "2026-05-12 through 2026-05-15",
+            "xi_iran_direct_commitment_confirmed": false,
+            "joint_statement_released": false,
+            "tariff_truce_extension_expected": true,
+            "boeing_aircraft_purchases_expected": true,
+            "congressional_letter_signatories_senators": 52,
+            "congressional_letter_signatories_house": 177,
+            "congressional_letter_demand": "zero uranium enrichment in any Iran deal",
+            "congressional_letter_date": "2026-05-14",
+            "trump_1pct_framing_retracted": false,
+            "military_lean_two_officials_retracted": false,
+            "us_counter_counter_offer_issued": false,
+            "resumption_order_issued_may14": false,
+            "beijing_inhibiting_window_expires_approx": "2026-05-15",
+            "iran_un_convention_organized_crime_ratified": true,
+            "iran_fatf_action_signal": "quiet compliance — FATF Action Plan progress",
+            "ships_stranded_hormuz_approx": 1600,
+            "sailors_stranded_approx": 23000,
+            "cumulative_war_cost_last_confirmed_usd_bn": 29
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Kevin Warsh confirmed Fed Chair 54-45 — closest vote in modern era; Fetterman sole Democratic crossover. Powell's term expires tomorrow May 15; Warsh's first FOMC is June 16-17. Warsh inherits an oil shock his rate tools cannot directly address; Trump publicly presses for rate cuts while Warsh pledges independent judgment. No May 14 oil close data confirmed at brief time; last confirmed Brent $107.77 / WTI $102.18 (May 12) remains operative benchmark. Tariff truce extension from Beijing expected — mildly positive for equities, does not offset Hormuz supply shock. Reconciliation 2.0 Finance deadline tomorrow May 15; text status unclear as of this evening.",
+      "items": [
+        {
+          "headline": "Warsh Confirmed Fed Chair 54-45 — Closest Modern-Era Vote; Fetterman Sole Dem Crossover; Inherits Oil-Shock Inflation; Rate-Cut Pressure Immediate; Powell Expiry Tomorrow",
+          "summary": "The Senate confirmed Kevin Warsh as Chair of the Federal Reserve in a 54-45 vote on Wednesday May 14 — the closest confirmation vote in the modern era of Fed chairmanship. The vote was almost entirely party-line; Senator John Fetterman (D-PA) was the sole Democratic crossover, as in the May 12 Board vote. Warsh becomes the 11th Fed chair of the modern banking era and succeeds Jerome Powell, whose term expires Friday May 15. Warsh's first FOMC meeting as Chair is scheduled June 16-17. The economic environment Warsh inherits is structurally adverse: inflation has remained above the Fed's 2% target for five years and is now accelerating on oil-shock transmission from the Hormuz closure. Brent crude closed at $107.77 on May 12 — nearly 60% above pre-war baseline — and Portland-area regular gasoline remains above $5.00/gallon. Trump has publicly and repeatedly pressed for rate cuts; Warsh has pledged to use his own judgment and not take orders from the White House. The rate-cut vs. inflation-discipline tension that defined Warsh's confirmation debate will crystallize at June's FOMC: any rate cut in an oil-shock-inflation environment risks fueling price pressure; any hold risks White House friction before Warsh has completed his first month. His inheritance is a monetary policy environment where the primary economic shock — Hormuz supply disruption — is immune to interest-rate tools. Washington Post reporting on May 14 indicated Trump allies were warning that rate cuts 'may have to wait,' signaling internal White House calibration of expectations even before Warsh takes his first vote.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Jerome Powell", "Donald Trump", "John Thune", "John Fetterman", "Elizabeth Warren", "Senate Finance Committee", "FOMC", "Federal Reserve Board of Governors"],
+          "metrics": {
+            "warsh_chair_confirmed": true,
+            "warsh_chair_confirmation_date": "2026-05-14",
+            "warsh_chair_vote": "54-45",
+            "warsh_chair_vote_closest_modern_era": true,
+            "warsh_dem_crossover": "John Fetterman",
+            "warsh_ord_number": "11th Fed chair modern era",
+            "powell_term_expiry": "2026-05-15",
+            "days_to_powell_expiry": 1,
+            "warsh_first_fomc_expected": "2026-06-16",
+            "fed_funds_rate_pct": "3.50-3.75",
+            "warsh_oil_shock_inheritance_brent_last_close": 107.77,
+            "warsh_oil_shock_inheritance_wti_last_close": 102.18,
+            "inflation_above_2pct_consecutive_years": 5,
+            "trump_rate_cut_public_pressure": true,
+            "warsh_pledges_independent_judgment": true,
+            "trump_allies_warning_rate_cut_wait": true,
+            "rate_cut_vs_inflation_first_fomc_tension": "acute",
+            "hormuz_oil_shock_rate_tool_immune": true
+          }
+        },
+        {
+          "headline": "Tariff Truce Extension Expected From Beijing; Reconciliation 2.0 Finance Deadline Tomorrow; Markets Quiet Relative to Crisis Baseline",
+          "summary": "The Trump-Xi Beijing summit is expected to produce a tariff truce extension — a continuation of the October 2025 Busan framework that reduced fentanyl-related tariffs by 10 percentage points, suspended heightened reciprocal tariffs through November 10, 2026, and suspended Chinese rare earth export controls for one year. Traders and market participants priced in Boeing aircraft purchase commitments as an additional headline deliverable. A tariff truce extension removes a secondary market uncertainty but does not offset the Hormuz supply shock — the oil price driver is independent of tariff architecture, and no Beijing output can reopen the Strait. Reconciliation 2.0: the Senate Finance Committee deadline for submitting tax and revenue provisions to the Budget Committee is tomorrow May 15. As of this brief, the Finance Committee has not publicly released committee-level text; the search record does not confirm Crapo released Reconciliation 2.0 Finance text prior to this brief's filing. If Finance misses the May 15 committee submission deadline, it will be the first concrete evidence that Trump's June 1 completion target is structurally at risk. The DHS/Judiciary $72 billion package remains CBO-scored and cleared.",
+          "significance": "MEDIUM",
+          "actors": ["Donald Trump", "Xi Jinping", "Scott Bessent", "Mike Crapo", "Senate Finance Committee", "Senate Budget Committee", "Boeing", "White House OMB", "CNBC Markets"],
+          "metrics": {
+            "tariff_truce_extension_expected_beijing": true,
+            "busan_oct25_framework_baseline": "reduced fentanyl tariffs 10pp; reciprocal tariffs suspended to Nov 10 2026; rare earth controls suspended 1yr",
+            "boeing_aircraft_purchase_expected": true,
+            "tariff_truce_offsets_oil_shock": false,
+            "reconciliation_finance_deadline": "2026-05-15",
+            "days_to_finance_deadline": 1,
+            "reconciliation_finance_text_released_confirmed": false,
+            "reconciliation_dhs_judiciary_cleared": true,
+            "reconciliation_dhs_judiciary_amount_usd_bn": 72,
+            "trump_reconciliation_completion_deadline": "2026-06-01",
+            "june_1_target_at_risk_if_finance_misses": true
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CISA Day 11 clean streak: no confirmed IRGC destructive cyberattack on US critical infrastructure since Project Freedom launched May 4. Beijing summit Day 2 maintains marginal inhibiting effect on IRGC cyber pre-positioning through approximately May 15. BLM full fire restrictions for Oregon and Washington took effect today as scheduled; Jeff Fedrizzi (US Wildland Fire Service PNW) stated 2026 'could rival the most extreme years on record for heat and dryness.' Oregon fire season Day 7: no red flag warnings, no active ignitions. 18 days to east Cascades above-normal onset.",
+      "items": [
+        {
+          "headline": "CISA Day 11 Clean; Beijing Inhibiting Window Day 2; Post-Summit Window Opens Tomorrow When Trump Departs; Underlying IRGC Trigger Environment Unchanged",
+          "summary": "Eleven days after Project Freedom launched on May 4, the United States has sustained no confirmed IRGC-affiliated destructive cyberattack on critical infrastructure. The Day 11 clean streak continues under the marginal inhibiting effect of Trump's Beijing presence — the Trump-Xi summit's Day 2 key meetings reduce the near-term probability of a US strike order against Iran, which in turn marginally reduces the IRGC's incentive to pre-position for immediate kinetic retaliation. The inhibiting window is scheduled to expire when Trump departs Beijing, approximately May 15. The underlying trigger environment is structurally unchanged from May 12-13: Trump's '1% chance' framing is unretracted; the two-official Axios confirmation of military action lean is unreversed; new Iran sanctions from May 12 remain operative; and the congressional letter today tightening deal terms introduces a new source of deal-track deterioration. The post-summit period — May 15 onward — is the highest-priority IRGC cyber watch window of the current cycle. CISA AA26-097A (April 7, 2026) remains operative. No updated advisory, FBI/IC3 flash, or private-sector OT/ICS alert has been issued. CI Fortify remains active across energy, water, and government facility sectors. FINRA financial-sector alert and NERC grid monitoring remain live.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI", "NSA", "NERC", "IRGC Cyber Electronic Command", "CyberAv3ngers", "Handala", "FINRA", "DHS", "US energy sector OT operators", "US water sector operators"],
+          "metrics": {
+            "days_since_project_freedom_launch": 11,
+            "confirmed_irgc_destructive_attack_since_may4": false,
+            "cisa_clean_streak_days": 11,
+            "updated_cisa_advisory_since_apr7": false,
+            "cisa_advisory_reference": "AA26-097A (2026-04-07)",
+            "ci_fortify_status": "operative",
+            "finra_alert_active": true,
+            "nerc_monitoring_active": true,
+            "beijing_summit_day2_inhibiting_effect": true,
+            "beijing_inhibiting_window_expires_approx": "2026-05-15",
+            "post_summit_irgc_cyber_watch_priority": "HIGHEST — window opens upon Trump departure ~May 15",
+            "trump_1pct_framing_diplomatic_restraint_incentive": "near-eliminated",
+            "congressional_letter_may14_tightens_deal_geometry": true,
+            "new_iran_sanctions_may12_operative": true,
+            "military_lean_two_officials_confirmed": true,
+            "current_irgc_cyber_risk_characterization": "elevated — Day 11 clean; post-summit window imminent"
+          }
+        },
+        {
+          "headline": "BLM Full OR/WA Fire Restrictions Effective Today; Fedrizzi: '2026 Could Rival Most Extreme Years on Record'; Oregon Fire Season Day 7 Quiet; 18 Days to East Cascades Above-Normal Onset",
+          "summary": "Full Bureau of Land Management fire restrictions for all BLM-administered lands in Oregon and Washington took effect today May 14 as scheduled. The restrictions prohibit fireworks, exploding and metallic targets, steel component ammunition, tracer and incendiary devices, and sky lanterns across all BLM-managed lands in both states. Jeff Fedrizzi, US Wildland Fire Service Assistant Chief of Operations for the Pacific Northwest, issued a public statement that raises the severity bar significantly: 'We are increasingly concerned that 2026 could rival the most extreme years on record for heat and dryness in the Pacific Northwest.' Fedrizzi's framing — 'most extreme years on record' — exceeds the 'above-normal' and 'structurally certain' language of NIFC outlooks and constitutes the most direct federal official warning of the season. Violations carry fines up to $100,000 and up to 12 months imprisonment; those responsible for starting wildland fires on federal lands can be billed for suppression costs. Oregon fire season entered Day 7 with no NWS red flag warnings issued and no significant active fire ignitions in Oregon or Washington. The east Cascades above-normal onset window is 18 days away (June 1). National YTD acreage burned remains approximately 1.85 million acres — nearly double the 10-year average. The federal capacity gap raised by Oregon's congressional Democrats — DOGE-related Forest Service Region 6 fire science and pre-positioning position eliminations — remains unaddressed. With Fedrizzi's 'most extreme years on record' warning on record and 18 days to the structural above-normal threshold, resource pre-positioning urgency has escalated.",
+          "significance": "MEDIUM",
+          "actors": ["BLM Oregon-Washington", "Jeff Fedrizzi", "US Wildland Fire Service", "Oregon Department of Forestry", "NWS Portland", "NWS Medford", "NWS Pendleton", "Washington DNR", "Forest Service Region 6", "NIFC", "Oregon Governor Kotek"],
+          "metrics": {
+            "oregon_fire_season_active_day": 7,
+            "blm_or_wa_full_restrictions_effective": "2026-05-14",
+            "blm_full_restrictions_confirmed_active": true,
+            "fedrizzi_quote": "We are increasingly concerned that 2026 could rival the most extreme years on record for heat and dryness in the Pacific Northwest",
+            "fedrizzi_source": "US Wildland Fire Service PNW Assistant Chief of Operations",
+            "fedrizzi_severity_language": "most extreme years on record — exceeds NIFC above-normal framing",
+            "violation_fine_max_usd": 100000,
+            "violation_imprisonment_max_months": 12,
+            "red_flag_warning_issued_may14": false,
+            "new_fire_ignitions_or_wa_may14": false,
+            "days_to_above_normal_east_cascades": 18,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "national_ytd_acres_burned_millions_approx": 1.85,
+            "national_ytd_vs_10yr_avg": "nearly double",
+            "federal_capacity_gap_addressed": false,
+            "blm_pnw_restrictions_active": true,
+            "washington_dnr_restrictions_active": true,
+            "portland_burn_ban_active": true
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA Day 15 past April 29 statutory deadline — deepest unauthorized war-operation run in modern era. Warsh confirmed Fed Chair 54-45; Powell expires tomorrow. Reconciliation 2.0 Finance deadline tomorrow May 15; text status unconfirmed as of this brief. Congressional letter — 52 senators + 177 congressmen — demanding zero uranium enrichment in any Iran deal is the day's new domestic constraint with direct geopolitical consequence. Trump presence in Beijing defers resumption decision by one more day but WPA gap is unresolved.",
+      "items": [
+        {
+          "headline": "WPA Day 15: Congressional Letter Tightens Iran Deal Floor; Warsh Chair Confirmed; Powell Expiry Tomorrow; Finance Text Deadline Tomorrow",
+          "summary": "May 14 is WPA Day 15 past the April 29 statutory deadline — the longest unauthorized war-operation run in the modern War Powers Resolution era. Trump's physical presence in Beijing for the Day 2 summit meetings creates one additional day of deferral on any resumption order, but the structural WPA gap is unchanged: if Trump returns from Beijing and orders Project Freedom resumed, the operation would restart in an identically unauthorized posture. Senate Republicans have defeated six Democratic war-powers resolutions; no seventh has been scheduled. The day's most consequential domestic input with geopolitical consequence is the congressional letter: 52 senators and 177 congressmen wrote to Trump demanding that any Iran deal include zero uranium enrichment. The letter's signatories represent a veto-relevant Senate coalition — if 52 senators oppose a deal with enrichment, any agreement allowing enrichment would face a legislative blocking threat. This constrains Trump's dealmaking latitude precisely at the moment the Beijing summit is supposed to catalyze a new diplomatic channel. Separately: Kevin Warsh was confirmed as Fed Chair (54-45) and Jerome Powell's term expires tomorrow May 15. The confirmation resolves one of the three triple-convergence cluster elements from the week's opening — but Warsh inherits an oil-shock inflation environment that rate tools cannot directly address. Reconciliation 2.0: Senate Finance Committee text submission deadline is tomorrow May 15; Finance text has not been publicly confirmed released as of this brief. If Finance misses tomorrow's deadline, Trump's June 1 completion target faces its first concrete legislative evidence of structural risk.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "John Thune", "Kevin Warsh", "Jerome Powell", "Mike Crapo", "Senate Finance Committee", "Senate Budget Committee", "Senate Armed Services", "Senate Health Committee", "52 Senate signatories", "177 House signatories", "Congressional Democrats", "White House OMB"],
+          "metrics": {
+            "wpa_days_past_deadline": 15,
+            "wpa_deadline_date": "2026-04-29",
+            "wpa_deepest_unauthorized_run_modern_era": true,
+            "project_freedom_pause_day": 9,
+            "congressional_war_authorization_obtained": false,
+            "senate_war_powers_resolutions_failed": 6,
+            "senate_7th_war_powers_resolution_scheduled": false,
+            "beijing_defers_resumption_hours_remaining_approx": 24,
+            "beijing_resolves_wpa_gap": false,
+            "congressional_letter_senators": 52,
+            "congressional_letter_house_members": 177,
+            "congressional_letter_demand": "zero uranium enrichment",
+            "congressional_letter_veto_coalition_implication": "52 senators represent blocking threshold for deal with enrichment",
+            "warsh_chair_confirmed": true,
+            "warsh_chair_confirmation_date": "2026-05-14",
+            "powell_term_expiry": "2026-05-15",
+            "days_to_powell_expiry": 1,
+            "triple_convergence_elements_resolved": 2,
+            "triple_convergence_elements_remaining": ["Reconciliation Finance deadline May 15"],
+            "reconciliation_finance_deadline": "2026-05-15",
+            "days_to_reconciliation_deadline": 1,
+            "reconciliation_finance_text_released_confirmed": false,
+            "reconciliation_dhs_judiciary_cleared": true,
+            "trump_reconciliation_completion_deadline": "2026-06-01",
+            "june_1_target_at_risk_if_finance_misses_tomorrow": true
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Oregon fire season Day 7: BLM full OR/WA restrictions active; Fedrizzi warns 2026 could rival most extreme years on record. No red flag, no ignitions. 18 days to east Cascades above-normal onset. OHA measles Wednesday update: no new public OHA count release confirmed as of this brief; last published 20 cases (April 22) now 22 days stale. First hospitalization (May 12) Day 2 follow-up: patient discharged, recovering. Portland gas above $5.00; no crude-level relief until Brent declines from $107.77 range. National CDC count 1,842 as of May 7 — now 7 days stale.",
+      "items": [
+        {
+          "headline": "BLM Full Restrictions Active Today; Fedrizzi 'Most Extreme Years on Record' Warning; Day 7 Quiet; 18 Days to East Cascades Threshold",
+          "summary": "Oregon wildfire season Day 7 saw the season's most significant federal warning language to date: US Wildland Fire Service Pacific Northwest Assistant Chief Jeff Fedrizzi stated publicly that officials are 'increasingly concerned that 2026 could rival the most extreme years on record for heat and dryness in the Pacific Northwest.' The 'most extreme years on record' framing exceeds the NIFC seasonal outlook language ('above-normal') and marks a step-change in the federal warning posture. BLM full fire restrictions for all BLM-managed lands in Oregon and Washington took effect today — the progressive escalation sequence is now fully operational (ODF statewide permit restrictions → Portland metro burn ban → BLM Central Oregon campfire restrictions May 13 → BLM OR/WA full restrictions May 14). The east Cascades above-normal fire onset is 18 days away (June 1). No NWS red flag warning was issued for any Oregon or Washington NWS forecast office on May 14; no significant fire ignitions occurred in either state. The federal capacity gap — DOGE-related Forest Service Region 6 fire science and pre-positioning position eliminations raised by Oregon's congressional Democrats on May 7 — remains unaddressed by USDA or Interior. With Fedrizzi's warning on record, the 18-day preparation window narrows against structurally constrained federal resources. Gasoline prices remain above $5.00/gallon in Portland metro — Brent at $107.77 (May 12 close) pushes any consumer-level relief at least 2-4 additional weeks out.",
+          "significance": "MEDIUM",
+          "actors": ["Jeff Fedrizzi", "US Wildland Fire Service", "BLM Oregon-Washington", "Oregon Department of Forestry", "NWS Portland", "NWS Medford", "Washington DNR", "Forest Service Region 6", "NIFC", "Oregon Governor Kotek"],
+          "metrics": {
+            "oregon_fire_season_active_day": 7,
+            "blm_full_or_wa_restrictions_active": true,
+            "fedrizzi_warning_language": "most extreme years on record",
+            "fedrizzi_warning_exceeds_nifc_language": true,
+            "restriction_sequence_fully_operational": true,
+            "red_flag_warning_issued_may14": false,
+            "new_fire_ignitions_or_wa_may14": false,
+            "days_to_above_normal_east_cascades": 18,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "national_ytd_acres_burned_millions_approx": 1.85,
+            "national_ytd_vs_10yr_avg": "nearly double",
+            "federal_capacity_gap_addressed": false,
+            "portland_area_regular_gas_approx": ">$5.00",
+            "brent_last_confirmed_close": 107.77,
+            "pump_price_relief_delay_additional_weeks": "2-4 minimum from May 14",
+            "blm_violation_fine_max_usd": 100000
+          }
+        },
+        {
+          "headline": "OHA Measles Wednesday Update: No New Count Confirmed as of This Brief; Last Published 20 Cases Now 22 Days Stale; First Hospitalization Day 2 Follow-Up; School Vaccination Window 2.5 Weeks",
+          "summary": "The Oregon Health Authority's expected Wednesday May 14 measles case count update had not been publicly confirmed as of this brief's filing. The last published Oregon confirmed case count remains approximately 20 (as of April 22, now 22 days stale). The first Oregon measles hospitalization of 2026 — confirmed May 12 — is Day 2: the patient has been discharged and is reportedly recovering. The hospitalization, despite the encouraging individual outcome, elevated OHA's response urgency and raised expectations for an updated count today. Active wastewater surveillance detections across multiple counties and the multi-household outbreak spread to Multnomah and Clackamas counties both support the inference that the actual case count is materially above the published 20. Of the last published 20 confirmed cases, 19 involved unvaccinated individuals or those with unknown vaccination status. Washington State remains at 40+ confirmed cases across 8 counties, with Kittitas County in active outbreak status. The national CDC confirmed case count was 1,842 as of May 7 — now 7 days stale. The PNW school-year vaccination catch-up window has narrowed to approximately 2.5 weeks (most PNW school districts close mid-to-late June 2026). If OHA does not publish an update today, the Wednesday release window closes and the count staleness extends to the next scheduled update. The hospitalization event and 22-day count gap together make an OHA update overdue by the standards of the outbreak's prior release cadence.",
+          "significance": "MEDIUM",
+          "actors": ["Oregon Health Authority", "OHA State Health Officer Dean Sidelinger", "WA State Department of Health", "CDC", "Kittitas County Public Health", "Multnomah County Health", "Clackamas County Public Health", "local school districts", "PNW pediatric healthcare providers"],
+          "metrics": {
+            "oha_wednesday_update_confirmed_released": false,
+            "or_measles_confirmed_last_published": 20,
+            "or_measles_last_published_date": "2026-04-22",
+            "or_measles_last_published_staleness_days": 22,
+            "first_hospitalization_date": "2026-05-12",
+            "first_hospitalization_patient_status": "discharged, recovering",
+            "first_hospitalization_day2_follow_up": true,
+            "or_wastewater_detection_active": true,
+            "or_suspected_undercount": true,
+            "or_unvaccinated_or_unknown_status_pct": 95,
+            "or_multnomah_clackamas_spread_active": true,
+            "wa_measles_2026_ytd_min": 40,
+            "wa_counties_affected": 8,
+            "kittitas_county_outbreak_status": true,
+            "us_national_confirmed_as_of_may7": 1842,
+            "us_national_data_staleness_days": 7,
+            "school_year_pnw_end": "mid-to-late June 2026",
+            "vaccination_campaign_window_weeks_remaining": 2.5,
+            "count_staleness_concern": "22 days with active hospitalization event — update overdue by prior release cadence"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 14, 2026 evening — Hormuz Day 75, Naval Blockade Day 33, Project Freedom Pause Day 9, WPA Day 15 Past Statutory Deadline. Vibe 2, holds from May 13. The day delivers one clean institutional resolution and one new structural constraint. Resolution: Kevin Warsh confirmed as Fed Chair in a 54-45 vote — the closest in modern Fed history — with John Fetterman again the sole Democratic crossover. Powell's term expires tomorrow. Warsh inherits an oil shock his tools cannot fix, Trump pressure for rate cuts from Day 1, and a June 16 FOMC as his first real decision point. New constraint: 52 senators and 177 congressmen wrote to Trump demanding any Iran deal include zero uranium enrichment. That letter is not a procedural formality — 52 senators is a veto-relevant coalition, and uranium enrichment is likely Iran's core non-negotiable. The congressional letter tightens deal geometry at the precise moment the Trump-Xi summit is supposed to catalyze a new diplomatic channel. As of this brief, no joint Xi Iran commitment has been issued and no joint statement has been released from Day 2 summit meetings. The tariff truce extension and Boeing aircraft purchases remain the expected — and more modest — summit deliverables. The deal track is near-terminal on every structural metric that mattered at May 12 evening, with a new congressional constraint added on May 14. BLM full fire restrictions are now active across OR and WA; Jeff Fedrizzi's 'most extreme years on record' warning marks a federal language escalation. OHA measles Wednesday update not confirmed released as of this brief; count is 22 days stale with first hospitalization now 2 days old. Tomorrow is the convergence day: Powell's term expiry, Reconciliation 2.0 Finance deadline, and Trump's expected Beijing departure — which reopens the post-summit IRGC cyber watch window at maximum intensity. Vibe 2.",
+  "watch_items": [
+    "Trump-Xi summit Day 2 conclusion and any joint statement (May 14-15): the highest-priority watch item is any Xi Jinping language committing to directly engage Tehran on Hormuz reopening — that would be qualitatively different from any prior channel; absent that, the summit confirms no viable diplomatic channel remains and the post-summit military action clock resumes at full intensity; watch for any Trump modification of the '1% chance' framing in the Beijing press conference context",
+    "Trump Beijing departure ~May 15: the inhibiting window on IRGC cyber pre-positioning expires when Trump departs China; the 24-72 hours immediately following departure is the highest-priority IRGC cyber watch window of the current cycle; monitor CISA, FBI/IC3, private-sector OT/ICS, and NERC/FINRA alerts in that window with elevated priority",
+    "Reconciliation 2.0 Finance deadline — May 15: if the Senate Finance Committee does not submit committee text by tomorrow's deadline, Trump's June 1 completion target faces its first concrete legislative evidence of structural failure; watch for any Crapo public statement, leaked provisions, Republican defection signals, or Thune request for a deadline extension",
+    "Project Freedom resumption order post-Beijing: with the summit concluding approximately May 15, the natural escalation-inhibiting window closes; any CENTCOM carrier repositioning, White House congressional notification, or Trump Truth Social announcement in the 24-48 hours after summit conclusion is the highest-priority geopolitical signal of the post-summit period",
+    "Congressional letter Iran deal constraint: 52 senators + 177 congressmen demanding zero uranium enrichment creates a new deal-blocking coalition; watch for any Iranian public response to the letter, any Trump acknowledgment or rebuttal, and any signal from Witkoff or Rubio on whether the congressional floor changes the US negotiating posture",
+    "OHA measles update — if not released today, next available window: last published count (20 as of April 22) is 22 days stale with first hospitalization 2 days old; if OHA did not release today, watch for a Thursday or Friday release; any new county-level outbreak declaration or school district public health guidance escalation signals the outbreak is expanding beyond the published count",
+    "Warsh first public statement as Chair: Warsh's inaugural remarks as Fed Chair — likely in the next 24-48 hours — will be parsed for any signal on oil-shock inflation posture, rate-cut timeline, and independence from White House pressure; any language suggesting accommodation of Trump's rate-cut preferences will move rate-sensitive sectors and bond markets immediately",
+    "BLM OR/WA fire season: 18 days to east Cascades above-normal onset; watch for any NWS red flag warning activation, fire ignition above 100 acres in the PNW, or USDA/Interior response to the federal capacity gap; Fedrizzi's 'most extreme years on record' language sets the bar for official escalation in the coming weeks"
+  ],
+  "sources": [
+    "Washington Post - Senate confirms new Fed chair as Trump allies warn rate cuts may have to wait (May 14, 2026)",
+    "CNBC - Kevin Warsh wins Senate confirmation as the next Federal Reserve chair (May 13, 2026)",
+    "CNN Business - Kevin Warsh confirmed as Fed chair, succeeding Jerome Powell (May 13, 2026)",
+    "NPR - Senate confirms Kevin Warsh as next chair of the Federal Reserve (May 13, 2026)",
+    "Fox News - Senate confirms Kevin Warsh as Fed chair as Trump's economic vision comes into focus (May 2026)",
+    "Fortune - Kevin Warsh confirmed as Fed chair in party-line vote amid Elizabeth Warren 'sock puppet' criticism (May 2026)",
+    "Gateway Pundit - Senate Confirms Kevin Warsh as Fed Chairman in 54-45 Vote (May 2026)",
+    "CBS News - Senate confirms Kevin Warsh as Fed chair as Trump presses for lower interest rates (May 2026)",
+    "Al Jazeera - Trump-Xi summit: China's help in Iran may require US concessions (May 13, 2026)",
+    "CNBC - From Singapore to Brussels, world leaders eye Trump-Xi summit from afar (May 11, 2026)",
+    "PBS NewsHour - Trump and Xi appear intent on keeping Iran war from overshadowing China summit (May 2026)",
+    "CNBC - Traders predict Trump will make major announcements during China trip (May 13, 2026)",
+    "WION News - Trump-Xi meeting: Can China talks help end Iran War, ease trade tensions & reopen Strait of Hormuz? (May 2026)",
+    "EU ISS - Xi and Trump are heading for tactical stabilisation, not a reset (May 2026)",
+    "Wikipedia - 2026 Iran war ceasefire",
+    "Wikipedia - 2025-2026 Iran-United States negotiations",
+    "CSIS - Trump-Xi Summit in Beijing: Managing the World's Most Important Relationship (May 2026)",
+    "CISA - Advisory AA26-097A: Iranian-Affiliated Cyber Actors Exploit PLCs Across US Critical Infrastructure (April 7, 2026)",
+    "FINRA - Cybersecurity Alert: Heightened Threats From Iranian Cyber Actors",
+    "BLM - Wildland Fire Service announce fire restrictions for Oregon, Washington (May 2026)",
+    "Central Oregon Daily - BLM fire restrictions start May 14 in Oregon (May 2026)",
+    "KHQ - Fire restrictions start May 14 on BLM land across Washington and Oregon (May 2026)",
+    "NBC Right Now - Fire restrictions start May 14 on BLM land across Washington and Oregon (May 2026)",
+    "Rogue Valley Times - Enhanced fire restrictions going into effect on BLM lands (May 11, 2026)",
+    "KXL - BLM Fire Restrictions Begin This Week In OR & WA (May 2026)",
+    "KREM - Fire restrictions on BLM land go into effect Thursday (May 2026)",
+    "NIFC - June 1, 2026 Outlook Period: May through August Seasonal Fire Potential Outlook",
+    "KGW - As measles cases climb, Oregon sees first hospitalization of the year (May 12, 2026)",
+    "Central Oregon Daily - Oregon reports 1st measles hospitalization of 2026 (May 2026)",
+    "KEZI - Oregon Health Authority reports 20 measles cases, triggering health warnings (April 2026)",
+    "CDC - Measles Cases and Outbreaks 2025-2026 dashboard (national total 1,842 as of May 7, 2026)",
+    "Oregon Health Authority - Measles / Rubeola surveillance page",
+    "OPB - Measles cases in Oregon are ticking up (April 3, 2026)",
+    "House of Commons Library - US-Iran ceasefire and nuclear talks in 2026 (May 2026)"
+  ]
+}
