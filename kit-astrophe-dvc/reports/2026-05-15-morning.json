@@ -1,0 +1,338 @@
+{
+  "report_id": "2026-05-15-morning",
+  "generated_at": "2026-05-15T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 76; Naval Blockade Day 34; Project Freedom Pause Day 10; WPA Day 16 Past Statutory Deadline. May 15 is the convergence day flagged in every brief since May 11 as the highest-density watch date of the current cycle. Five simultaneous triggers arrive today: (1) Trump departs Beijing, closing the summit and opening the post-summit IRGC cyber watch window at cycle-maximum risk; (2) Powell's Fed Chair term expires and Kevin Warsh's era begins — April PPI landed this morning at +1.4% monthly versus 0.4% consensus (core +1.0% vs. 0.3%), the hottest wholesale inflation print of the oil-shock era, creating an immediate policy dilemma for a new Chair facing Trump's rate-cut pressure and a supply shock immune to rate tools; (3) the Senate Finance Committee's Reconciliation 2.0 submission deadline is today — Finance text has not been publicly confirmed released as of this morning; (4) the Israel-Hezbollah ceasefire expires in 48 hours on May 17, opening a second-front risk at the moment the post-summit inhibiting window closes; (5) WPA Day 16 is the deepest unauthorized war-operation run in the modern era with no seventh Senate resolution scheduled and no authorization path open. The Trump-Xi summit's formal bilateral sessions concluded May 14-15; Trump departs China today. CNN characterizes the summit as 'short on deliverables but with signs of a stabilized relationship' — tariff truce extended, 200 Boeing jets announced, no Xi commitment to engage Tehran on Hormuz. Deal track near-terminal. Pre-market equity futures modestly positive on tariff truce and Cisco AI earnings surge (+13.4%). Brent holding above $107. Vibe 2.",
+  "vibe": {
+    "score": 2,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 2 — unchanged from May 14 evening. No overnight development altered the structural crisis environment. The argument for not dropping to 1: Trump is still nominally in Beijing through departure today, preserving the final hours of the marginal inhibiting window; the tariff truce extension from the summit provides a secondary positive for equity markets; Brent has not broken above the post-Project Freedom $107.77 closing high; the IRGC has not executed a confirmed destructive cyberattack in 12 days of the clean streak. The argument against recovering to 3: every trigger flagged for May 15 is now active or activating — the PPI print is hot (+1.4% monthly vs 0.4% consensus), Warsh Day 1 is adversely inherited, the post-summit window opens as Trump departs, Finance deadline arrives with no confirmed text release, and the Israel-Lebanon 48-hour clock is running. Trump's '1% chance' ceasefire framing is unretracted. The Axios two-official military action lean is unreversed. The congressional constraint from May 14 (52 senators, 177 house members demanding zero enrichment) is operative and tightens deal geometry. The IRGC's unilaterally-announced Persian Gulf Strait Authority toll structure remains operative. Vibe 2: convergence day arrives fully loaded, no structural improvement overnight."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 76; Naval Blockade Day 34; Project Freedom Pause Day 10. Trump-Xi summit concluding today as Trump departs Beijing; summit output confirmed: tariff truce extension, 200 Boeing jets, no Xi-Iran direct commitment, no joint statement on Iran track. Post-summit IRGC cyber watch window opening upon departure. Deal near-terminal; no US counter-counter-offer overnight; Trump '1% chance' unretracted; Axios military lean unreversed. Israel-Hezbollah ceasefire expires May 17 (48 hours). Yemen: largest detainee swap in civil war (1,600+). Ukraine: Council of Europe Special Tribunal for Aggression approved. Cuba: US engagement offer issued.",
+      "items": [
+        {
+          "headline": "Trump Departs Beijing: Summit Closes Without Iran Off-Ramp; Post-Summit IRGC Cyber Window Opens; Tariff Truce Extended, 200 Boeing Jets Announced",
+          "summary": "The Trump-Xi Beijing summit formal sessions concluded May 14-15, with Trump departing China today — closing the inhibiting window that had marginally suppressed IRGC retaliatory pre-positioning since May 12. CNN's May 15 reporting characterizes the summit as 'short on deliverables but with signs of a stabilized relationship,' with Trump and Xi 'making no specific announcements on trade, Taiwan, the war in Iran, or other points of contention' and 'coming away speaking of each other in warm terms.' Confirmed summit outputs: tariff truce extension (continuing the October 2025 Busan framework) and 200 Boeing commercial aircraft purchase announcements — China's first US commercial jet purchases in nearly a decade. No joint statement committing Xi to engage Tehran directly on Hormuz reopening or nuclear concessions was released. The summit's Iran track outcome is structurally identical to the pre-summit analyst consensus from CSIS, Chatham House, and CFR: symbolic stabilization output, not a binding pressure commitment on Tehran. With Trump now departing Beijing, the inhibiting effect on IRGC pre-positioning expires. The post-summit window — May 15 onward — is the highest-priority IRGC cyber watch period of the current crisis cycle. No Project Freedom resumption order has been confirmed as of this morning; any CENTCOM repositioning, White House War Powers congressional notification, or Trump Truth Social Iran signal in the next 24-72 hours is the highest-priority watch item of the post-summit period. Secondary market positive: the tariff truce extension removes a market uncertainty layer for the remainder of 2026, contributing alongside Cisco's AI supercycle earnings to modestly positive pre-market futures.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Xi Jinping", "Marco Rubio", "Scott Bessent", "Steve Witkoff", "CENTCOM", "IRGC", "Iran Foreign Ministry", "Boeing", "CSIS", "Chatham House", "CFR"],
+          "metrics": {
+            "hormuz_closed_days": 76,
+            "naval_blockade_active_days": 34,
+            "project_freedom_status": "PAUSED — deal track near-terminal",
+            "project_freedom_pause_day": 10,
+            "wpa_days_past_statutory_deadline": 16,
+            "trump_beijing_departure_date": "2026-05-15",
+            "summit_dates": "2026-05-12 through 2026-05-15",
+            "summit_output_tariff_truce_extension": true,
+            "summit_output_boeing_jets_announced": 200,
+            "summit_output_xi_iran_direct_commitment": false,
+            "summit_output_joint_statement_iran_track": false,
+            "summit_cnn_characterization": "short on deliverables, stabilized relationship",
+            "iran_counteroffer_trump_rejection": "totally unacceptable (May 11)",
+            "iran_never_bow_posture": true,
+            "us_counter_counter_offer_overnight": false,
+            "trump_1pct_framing_retracted": false,
+            "military_lean_two_officials_retracted": false,
+            "irgc_persian_gulf_strait_authority_active": true,
+            "post_summit_irgc_cyber_watch_priority": "HIGHEST IN CURRENT CYCLE — opens May 15",
+            "resumption_order_issued_morning": false,
+            "ships_stranded_hormuz_approx": 1600,
+            "sailors_stranded_approx": 23000,
+            "cumulative_war_cost_last_confirmed_usd_bn": 29,
+            "brent_pre_market_approx": ">$107"
+          }
+        },
+        {
+          "headline": "Israel-Hezbollah Ceasefire Expires May 17 — 48-Hour Clock Active; Yemen Largest Detainee Swap; Ukraine Aggression Tribunal Approved; Cuba Engagement Offered",
+          "summary": "Four secondary geopolitical threads require morning elevation. First: the Israel-Hezbollah ceasefire extended April 23 for three weeks expires May 17 — the 48-hour countdown is now running. The truce has remained fragile throughout its extension with periodic drone and rocket incidents across the Blue Line. A ceasefire collapse on May 17 would open an active second front at precisely the moment the post-summit IRGC cyber window is maximally open and Project Freedom resumption-order risk is elevated. This is a compound-risk trigger: Lebanon escalation raises Iranian incentives for direct military engagement and removes residual diplomatic pressure to accept terms. Watch for UN special envoy communications, Hezbollah renewal/rejection statements, or Israeli military posture signals through Saturday. Second: Yemen's internationally-recognized government and the Houthis signed in Amman the largest prisoner swap of the 11-year civil war — 1,600+ detainees released after 14 weeks of negotiations. A marginal stabilization signal on the Yemen track that does not alter the Houthis' strategic solidarity with Iran's Hormuz position. Third: the Committee of Ministers of the Council of Europe approved establishment of a Special Tribunal for the Crime of Aggression against Ukraine — Ukrainian FM Sybiha called it a 'point of no return'; a Russian missile strike on a Kyiv apartment building killed 24 people overnight. Fourth: the Trump administration delivered a formal message to Cuba signaling readiness to engage 'seriously on economic and security issues' pending Cuban fundamental changes; Havana signaled willingness to consider a $100M humanitarian aid offer.",
+          "significance": "MEDIUM",
+          "actors": ["Israel Defense Forces", "Hezbollah", "Lebanon government", "UN UNIFIL", "Yemen government", "Houthis", "Ukraine FM Andrii Sybiha", "Council of Europe", "Cuba FM Bruno Rodriguez", "Trump administration"],
+          "metrics": {
+            "israel_hezbollah_ceasefire_expiry": "2026-05-17",
+            "hours_to_ceasefire_expiry": 48,
+            "ceasefire_extended_date": "2026-04-23",
+            "second_front_compound_risk": "elevated — post-summit window open",
+            "yemen_detainee_swap_count": 1600,
+            "yemen_swap_location": "Amman",
+            "yemen_swap_negotiation_weeks": 14,
+            "yemen_swap_largest_civil_war": true,
+            "ukraine_council_europe_aggression_tribunal_approved": true,
+            "ukraine_kyiv_strike_dead": 24,
+            "cuba_us_engagement_signal": true,
+            "cuba_humanitarian_aid_offer_usd_mn": 100
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Warsh Day 1 as Fed Chair begins today; Powell term expires. April PPI: +1.4% monthly (vs. 0.4% consensus), core +1.0% (vs. 0.3%), annual +6.0% (vs. 4.9%) — hottest wholesale inflation of oil-shock era; shelter inflation doubled in April. Markets modestly positive: S&P 7,501 (+0.77%), Nasdaq 26,635 (+0.88%), Dow recaptures 50,000. Cisco +13.4% on AI networking supercycle. Nvidia +4.4% on H200 chip clearance to 10 Chinese firms. Cerebras AI IPO pricing after hours. UK: manufacturing +1.2% MoM, trade deficit ballooned to £27.22B. Reconciliation 2.0 Finance deadline today — text not confirmed released. Warsh first FOMC June 16-17.",
+      "items": [
+        {
+          "headline": "Warsh Era Day 1: April PPI +1.4% Monthly / Core +1.0% — 3.5x Consensus; Oil-Shock Inflation Accelerating; Rate-Cut vs. Hike Tension Immediate on Transition Day",
+          "summary": "Kevin Warsh's Federal Reserve Chair era begins today — Powell's term expires May 15 — with the most adversely-inherited wholesale inflation data of any modern Fed Chair transition. April PPI data out this morning: +1.4% month-over-month versus the 0.4% consensus (3.5x expectations); core PPI +1.0% versus 0.3% consensus (3.3x expectations); annual PPI +6.0% versus 4.9% consensus. Shelter inflation doubled in April. The April PPI confirms aggressive upstream transmission of the Hormuz supply shock (Day 76) into US wholesale prices — the transmission is accelerating, not plateauing. Warsh was confirmed 54-45 on May 13 (Fetterman the lone Democratic crossover) under a dovish-leaning narrative; the PPI print immediately complicates that framing. Yahoo Finance and XTB analysis published this week flags the core tension: Warsh may need to hike, not cut, contradicting Trump's explicit and repeated public pressure for rate reductions. The inflation driver — Hormuz supply disruption — is immune to rate tools regardless of direction; rate cuts risk fueling price pressure, rate hikes risk compressing growth, and neither reopens the Strait. Warsh's inaugural public statement is expected today and will be parsed intensely for any rate-cut timeline signal, oil-shock inflation tolerance posture, and independence framing. His first FOMC meeting is June 16-17 — 32 days away. Powell remains on the Board of Governors through his governor term (January 2028).",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Jerome Powell", "Federal Reserve FOMC", "Donald Trump", "BLS", "White House CEA", "John Fetterman"],
+          "metrics": {
+            "warsh_era_day": 1,
+            "warsh_confirmation_vote": "54-45",
+            "powell_chair_term_expired": "2026-05-15",
+            "powell_remains_board_through": "2028-01",
+            "april_ppi_monthly_pct": 1.4,
+            "april_ppi_consensus_pct": 0.4,
+            "april_ppi_vs_consensus_multiple": 3.5,
+            "april_core_ppi_monthly_pct": 1.0,
+            "april_core_ppi_consensus_pct": 0.3,
+            "april_core_ppi_vs_consensus_multiple": 3.3,
+            "april_ppi_annual_pct": 6.0,
+            "april_ppi_annual_consensus_pct": 4.9,
+            "shelter_inflation_april_direction": "doubled",
+            "oil_shock_rate_tool_immunity": true,
+            "warsh_first_fomc": "2026-06-16",
+            "days_to_warsh_first_fomc": 32,
+            "trump_rate_cut_public_pressure": true,
+            "rate_cut_vs_hike_tension": "immediate — 3.5x PPI vs. Trump cut pressure",
+            "warsh_inaugural_statement_expected_today": true,
+            "fed_funds_rate_pct": "3.50-3.75"
+          }
+        },
+        {
+          "headline": "Markets Positive: Dow Recaptures 50,000; Cisco +13.4% AI Supercycle; Nvidia +4.4% H200 Clearance; Cerebras AI IPO After Hours; UK Data Solid; Reconciliation Finance Deadline Today",
+          "summary": "Pre-market signals point modestly positive on the convergence of the tariff truce extension from Beijing, Cisco's AI-driven earnings surge, and Nvidia's regulatory win on Chinese chip sales. Cisco surged 13.4% after CEO Chuck Robbins announced a 'networking supercycle' driven by AI demand and raised revenue and earnings guidance; Nvidia gained 4.4% after the US cleared 10 Chinese firms to purchase H200 chips. The Dow recaptured 50,000 for the first time since the Iran war began in February; S&P 500 at 7,501.24 (+0.77%); Nasdaq 26,635.22 (+0.88%). Cerebras — the AI chipmaker — is pricing for a public debut after hours, characterized by TheStreet as the largest pure-play AI IPO. International data: UK manufacturing production +1.2% MoM, construction output +1.5% MoM, services index +0.8%, signaling European resilience — though the UK trade deficit ballooned to £27.22B (non-EU portion surging from £7.10B to £15.19B) on energy import-price inflation, a structural echo of the Hormuz shock's global transmission. Critical domestic watch: the Senate Finance Committee's May 15 deadline for submitting Reconciliation 2.0 tax and revenue provisions to the Budget Committee arrives today. Finance text has not been publicly confirmed released as of this morning. If Finance misses today's deadline, it is the first concrete evidence that Trump's June 1 completion target is structurally at risk.",
+          "significance": "MEDIUM",
+          "actors": ["Cisco CEO Chuck Robbins", "Nvidia", "Cerebras", "Senate Finance Committee Chair Mike Crapo", "Senate Budget Committee", "White House OMB", "John Thune", "Donald Trump", "Scott Bessent"],
+          "metrics": {
+            "sp500_close": 7501.24,
+            "sp500_change_pct": 0.77,
+            "nasdaq_close": 26635.22,
+            "nasdaq_change_pct": 0.88,
+            "dow_approx": 50063,
+            "dow_recaptures_50000": true,
+            "dow_last_above_50000": "pre-Iran-war February 2026",
+            "cisco_surge_pct": 13.4,
+            "cisco_driver": "AI networking supercycle",
+            "nvidia_gain_pct": 4.4,
+            "nvidia_driver": "H200 chip sales cleared to 10 Chinese firms",
+            "cerebras_ipo_timing": "after hours May 15",
+            "cerebras_ipo_characterization": "largest pure-play AI IPO",
+            "uk_manufacturing_mom_pct": 1.2,
+            "uk_construction_mom_pct": 1.5,
+            "uk_services_index_mom_pct": 0.8,
+            "uk_trade_deficit_gbp_bn": 27.22,
+            "uk_non_eu_deficit_gbp_bn_current": 15.19,
+            "uk_non_eu_deficit_gbp_bn_prior": 7.10,
+            "reconciliation_finance_deadline": "2026-05-15",
+            "reconciliation_finance_text_morning_confirmed": false,
+            "trump_reconciliation_june1_target": true,
+            "finance_miss_risk_signal": "first concrete structural evidence of June 1 risk if missed",
+            "q1_sp500_eps_beat_pct": 84,
+            "q1_sp500_revenue_beat_pct": 81
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "Post-summit IRGC cyber window opening today — CISA Day 12 clean streak but Beijing inhibiting effect expiring. CISA AA26-097A operative; CI Fortify, FINRA alert, NERC monitoring active. No updated advisory or OT incident confirmed this morning. Snohomish County Stanwood levee: emergency repair requested, Stillaguamish River floodplain at risk. BLM Oregon/Washington full fire restrictions Day 2. Oregon fire season operationally quiet; 17 days to east Cascades above-normal onset (June 1). National YTD acres burned 1.85M — nearly double 10-year average.",
+      "items": [
+        {
+          "headline": "Post-Summit IRGC Cyber Window Opening; CISA Day 12 Clean But Inhibiting Effect Expiring; Cycle-Maximum Risk as Trump Departs Beijing",
+          "summary": "The CISA operational clean streak since Project Freedom's May 4 launch reaches Day 12 this morning, but the marginal inhibiting factor produced by Trump's Beijing presence expires today as he departs China. The post-summit window — May 15 onward — is the highest-priority IRGC cyber watch period of the current crisis cycle, as flagged in every brief since May 12. No updated CISA advisory, FBI/IC3 flash, private-sector OT/ICS alert, or NERC abnormal grid event has been confirmed as of this morning. CISA Advisory AA26-097A (April 7, 2026) — Iranian-Affiliated Cyber Actors Exploit PLCs in Energy and Water Sectors — remains the operative advisory framework. CI Fortify is active across energy, water, and government facility sectors. FINRA financial-sector alert and NERC grid monitoring remain live. The structural IRGC trigger environment is fully intact: Trump's '1% chance' framing is unretracted, the Axios two-official military action lean is unreversed, new Iran sanctions from May 12 are operative, and the congressional zero-enrichment constraint from 52 senators and 177 house members tightens deal geometry further. Elevated monitoring priority: CISA, FBI/IC3, NERC, FINRA, and private OT/ICS feeds for the 24-72 hour post-summit window beginning today.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI/IC3", "NSA", "NERC", "IRGC Cyber Electronic Command", "CyberAv3ngers", "Handala", "FINRA", "DHS", "US energy sector OT operators", "US water sector operators"],
+          "metrics": {
+            "cisa_clean_streak_days": 12,
+            "post_summit_inhibiting_effect_status": "EXPIRING — Trump departing Beijing May 15",
+            "post_summit_irgc_cyber_window_status": "OPENING — cycle maximum risk",
+            "cisa_advisory_reference": "AA26-097A (2026-04-07)",
+            "ci_fortify_status": "operative",
+            "finra_alert_active": true,
+            "nerc_monitoring_active": true,
+            "updated_cisa_advisory_morning": false,
+            "fbi_ic3_flash_morning": false,
+            "ot_ics_incident_morning": false,
+            "trump_1pct_framing_retracted": false,
+            "military_lean_retracted": false,
+            "new_iran_sanctions_operative": true,
+            "congressional_zero_enrichment_constraint": "52 senators + 177 house (May 14)",
+            "monitor_channels_elevated": ["CISA", "FBI/IC3", "NERC", "FINRA", "private OT/ICS feeds"],
+            "monitoring_priority": "ELEVATED — 24-72hr post-summit window beginning May 15"
+          }
+        },
+        {
+          "headline": "Snohomish County Stanwood Levee Emergency: Stillaguamish Floodplain Threatened; BLM Restrictions Day 2; 17 Days to East Cascades Above-Normal Onset",
+          "summary": "Two infrastructure items outside the cyber domain require morning filing. First: officials in Snohomish County, Washington are seeking emergency repairs for a levee near Stanwood damaged by recent storms and high tides. County leaders warn that a levee failure could threaten homes, farmland, and critical infrastructure in the Stillaguamish River floodplain north of Seattle. The emergency repair request is being tracked at the state and federal level; Army Corps of Engineers and FEMA authorization are the next decision nodes. This is a localized but acute infrastructure vulnerability in the PNW, compounding a landscape already under structural stress from drought conditions accelerating the 2026 fire season. A levee failure would introduce a second concurrent PNW disaster-response thread. Second: BLM full fire restrictions for all Oregon and Washington managed lands (effective May 14) enter Day 2. Oregon fire season remains operationally quiet — no NWS red flag warnings, no significant ignitions as of this morning. The east Cascades above-normal fire onset is 17 days away (June 1). National YTD acreage is approximately 1.85 million acres — nearly double the 10-year average. The pre-onset preparation window runs against the federal capacity gap from Forest Service Region 6 DOGE position eliminations flagged by Oregon's congressional Democrats.",
+          "significance": "MEDIUM",
+          "actors": ["Snohomish County Emergency Management", "Washington DNR", "US Army Corps of Engineers", "FEMA", "BLM Oregon-Washington", "NWS Seattle", "NWS Portland", "Oregon Department of Forestry", "US Wildland Fire Service", "NIFC"],
+          "metrics": {
+            "snohomish_levee_location": "Stanwood/Stillaguamish River floodplain",
+            "snohomish_levee_damage_cause": "recent storms and high tides",
+            "snohomish_levee_failure_risk": "homes, farmland, critical infrastructure",
+            "snohomish_levee_emergency_repair_status": "requested",
+            "blm_full_restrictions_day": 2,
+            "blm_restrictions_effective": "2026-05-14",
+            "red_flag_warnings_morning": false,
+            "fire_ignitions_or_wa_morning": false,
+            "days_to_east_cascades_above_normal": 17,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "national_ytd_acres_burned_millions": 1.85,
+            "national_ytd_vs_10yr_avg": "nearly double",
+            "federal_capacity_gap_region6": true
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA Day 16 past April 29 statutory deadline — deepest unauthorized war-operation run in modern era; no seventh Senate resolution scheduled; post-summit deferral ends today. Warsh Day 1; Powell era ends. Reconciliation 2.0 Finance deadline today — text not confirmed released this morning. DHS green card revocation unit: 50+ in deportation, 2,890 cases reviewed. Border Patrol Chief Mike Banks resigned effective immediately. Mid-decade redistricting push targeting 8+ states. Bipartisan Johnson-Jeffries workplace safety task force announced. Trump 15+ corruption pardons in past year.",
+      "items": [
+        {
+          "headline": "WPA Day 16: Deepest Unauthorized War-Operation Run in Modern Era; Post-Summit Deferral Expires Today; Resumption-Order Risk Window Opens",
+          "summary": "May 15 is WPA Day 16 past the April 29 statutory 60-day deadline — the deepest unauthorized war-operation continuation in the modern War Powers Resolution era. Six Democratic war-powers resolutions have been defeated by Senate Republicans. No seventh resolution is scheduled. No congressional war authorization has been sought or obtained. The one remaining structural inhibitor — Trump's physical presence in Beijing — expires today as he departs China. With the summit closed and no off-ramp produced from the Xi meetings, the natural policy logic of the administration points toward Project Freedom resumption: the deal track is near-terminal, diplomatic inhibiting windows have expired, and Trump's public framing ('1% chance') and the Axios two-official military lean confirmation are both unretracted. The 24-72 hour post-summit period — May 15 through May 18 — is the highest-risk window for a Project Freedom resumption order since the May 6 pause began. Watch for: White House Office of Legislative Affairs outreach to Senate leadership on War Powers notification architecture; CENTCOM carrier or strike-group repositioning toward the Gulf; Trump Truth Social Iran statements in the next 24 hours; National Security Council readouts from any post-summit Iran policy review.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "CENTCOM", "White House NSC", "Steve Witkoff", "Marco Rubio", "John Thune", "Senate Armed Services Committee", "Senate Democrats"],
+          "metrics": {
+            "wpa_days_past_deadline": 16,
+            "wpa_deadline_date": "2026-04-29",
+            "wpa_deepest_unauthorized_run_modern_era": true,
+            "project_freedom_pause_day": 10,
+            "congressional_war_authorization_obtained": false,
+            "senate_war_powers_resolutions_failed": 6,
+            "seventh_resolution_scheduled": false,
+            "beijing_inhibiting_window_status": "EXPIRING — Trump departing May 15",
+            "post_summit_resumption_order_risk_window": "24-72 hours — HIGHEST in current cycle",
+            "deal_track_status": "near-terminal",
+            "trump_1pct_framing": "unretracted",
+            "military_lean_two_officials_retracted": false,
+            "congressional_letter_senators": 52,
+            "congressional_letter_house": 177,
+            "congressional_letter_demand": "zero uranium enrichment"
+          }
+        },
+        {
+          "headline": "DHS Green Card Revocation Unit Active: 2,890 Cases Reviewed, 50+ in Deportation; Banks Resigns as Border Patrol Chief; Mid-Decade Redistricting Push Targets 8+ States",
+          "summary": "Three domestic administration threads merit morning filing. First: the Department of Homeland Security has launched a new unit dedicated to revoking permanent residency — green cards — as an immigration enforcement expansion beyond undocumented individuals to legal permanent residents. As of May 7, the unit had reviewed or was assessing 2,890 cases; at least 50 green card holders are actively in deportation proceedings. DHS is continuing warehouse conversion to immigration detention centers despite active lawsuits, local opposition, and a federal watchdog investigation — a legal and operational frontier with significant court challenge risk. Second: US Border Patrol Chief Mike Banks announced his immediate resignation as of May 14. Banks's departure creates a leadership transition at CBP's operational command during high enforcement tempo. Third: the Trump administration is actively targeting more than half a dozen states for mid-decade congressional redistricting to create more Republican-favorable House maps — a structural political architecture play that intersects with the VRA Section 2 SCOTUS ruling from May 3, which reduced minority voting rights protections and makes gerrymandering legal challenges more difficult. Additionally: the Johnson-Jeffries bipartisan workplace safety task force reflects an unusual cooperation signal in an otherwise partisan Congress; Trump's 15+ corruption pardons over the past year continue to draw bipartisan oversight concern.",
+          "significance": "MEDIUM",
+          "actors": ["DHS Secretary Kristi Noem", "Mike Banks", "CBP", "ICE", "DOJ", "SCOTUS", "Congressional Republicans", "State Republican legislatures", "Mike Johnson", "Hakeem Jeffries"],
+          "metrics": {
+            "green_card_revocation_unit_active": true,
+            "green_card_cases_reviewed_as_of_may7": 2890,
+            "green_card_holders_in_deportation": 50,
+            "warehouse_detention_active": true,
+            "warehouse_detention_legal_challenges": true,
+            "warehouse_detention_watchdog_investigation": true,
+            "banks_resignation_effective": "immediate — May 14",
+            "mid_decade_redistricting_states_targeted": 8,
+            "vra_section2_ruling_date": "2026-05-03",
+            "redistricting_post_vra_legal_difficulty": "reduced — SCOTUS ruling",
+            "johnson_jeffries_workplace_task_force": true,
+            "trump_corruption_pardons_past_year": 15
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Oregon fire season Day 9 morning operationally quiet; BLM full OR/WA restrictions Day 2; above-normal temps near 90°F inland accelerating drying; 17 days to east Cascades above-normal onset (June 1). Snohomish County Stanwood levee emergency repair requested — Stillaguamish floodplain at risk. OHA measles: 20 confirmed as of April 22 (23-day gap); first hospitalization May 12 (Day 4 morning). WA: 40+ confirmed, 8 counties, Kittitas active. Portland gas >$5.00/gal. Progressive WA primary challengers emerging. New Amtrak trains coming to PNW — not in time for FIFA World Cup 2026. UW: PNW coastal waters acidifying faster than global average. Yellow-legged hornet: first West Coast sighting confirmed in Vancouver, WA.",
+      "items": [
+        {
+          "headline": "Oregon Fire Season Day 9 Morning: BLM Restrictions Day 2; 90°F Inland Temps Accelerating Dryness; 17-Day Pre-Onset Window; Snohomish Levee Emergency Adds Infrastructure Thread",
+          "summary": "Oregon and Washington fire season opens Day 9 morning without NWS red flag warnings or new significant ignitions. BLM full fire restrictions (OR/WA, effective May 14) entered Day 2. The weather pattern that produced inland highs near 90°F earlier this week is driving accelerated landscape drying directly aligned with US Wildland Fire Service Pacific Northwest Director Jeff Fedrizzi's May 14 assessment: '2026 could rival the most extreme years on record for heat and dryness in the Pacific Northwest.' Cooler air and shower chances are forecast to return later this week, providing short-term relief without reversing the structural moisture deficit from the warmest winter since 1934 (tied) and snowpack collapsed to one-third of normal. The 17-day preparation window before east Cascades above-normal fire onset (June 1) is the critical federal resource pre-positioning interval — running against the Forest Service Region 6 capacity gap from DOGE position eliminations. Compound PNW infrastructure stress: the Snohomish County Stanwood levee emergency (storm and tide damage threatening the Stillaguamish River floodplain) introduces a second concurrent infrastructure vulnerability thread. A levee failure would activate disaster-response resources concurrent with fire pre-positioning demand — a compound-stress scenario for PNW emergency management during the pre-onset window. Portland metro regular gasoline remains above $5.00/gal on Brent at last confirmed $107.77; no price relief is available until Hormuz reopens.",
+          "significance": "MEDIUM",
+          "actors": ["BLM Oregon-Washington", "Jeff Fedrizzi", "US Wildland Fire Service", "NWS Portland", "NWS Medford", "NWS Pendleton", "Oregon Department of Forestry", "Washington DNR", "Forest Service Region 6", "Snohomish County", "Army Corps of Engineers", "Oregon Governor Kotek"],
+          "metrics": {
+            "oregon_fire_season_day_morning": 9,
+            "blm_full_restrictions_day": 2,
+            "blm_restrictions_effective": "2026-05-14",
+            "red_flag_warnings_morning": false,
+            "new_ignitions_or_wa_morning": false,
+            "inland_high_temps_f": 90,
+            "cooler_pattern_forecast": "later this week",
+            "days_to_east_cascades_above_normal": 17,
+            "above_normal_east_cascades_date": "2026-06-01",
+            "fedrizzi_language": "most extreme years on record",
+            "2026_winter_temp_rank": "warmest since 1934 (tied)",
+            "snowpack_vs_normal_pct": 33,
+            "national_ytd_acres_burned_millions": 1.85,
+            "national_ytd_vs_10yr_avg": "nearly double",
+            "snohomish_levee_emergency": true,
+            "snohomish_levee_location": "Stanwood/Stillaguamish River floodplain",
+            "federal_capacity_gap_region6": true,
+            "portland_gas_price_approx": ">$5.00",
+            "brent_last_confirmed_close": 107.77,
+            "pump_relief_horizon": "unavailable until Hormuz reopens"
+          }
+        },
+        {
+          "headline": "OHA Measles 23-Day Count Gap with First Hospitalization Day 4; WA 40+ Active; Yellow-Legged Hornet First West Coast Sighting Vancouver WA; Amtrak Not Ready for World Cup",
+          "summary": "Four PNW threads. First: the Oregon Health Authority's measles case count — last published at 20 confirmed cases on April 22 — reaches a 23-day staleness gap this morning, with the first Oregon measles hospitalization of 2026 (confirmed May 12) entering its fourth day. Patient status last reported as discharged and recovering; no OHA update has confirmed current status. Washington State remains at 40+ confirmed cases across 8 counties with Kittitas County in active outbreak status. National CDC count: 1,842 as of May 7 (8 days stale). The 23-day OHA count gap with an active hospitalization event on record is the most significant public health communication concern of the current cycle; the school-year vaccination window has approximately 2 weeks remaining. Second: the first invasive yellow-legged hornet on the West Coast was confirmed in Vancouver, Washington — a new invasive species establishment event requiring USDA APHIS and Washington State Department of Agriculture eradication protocols before population establishment. This is a direct threat to regional pollinator ecosystems. Third: a May 2026 University of Washington study finds PNW coastal waters are acidifying faster than the rest of the world's oceans — a structural marine ecosystem threat for regional fisheries and shellfish industries running parallel to near-term wildfire and energy stressors. Fourth: new Amtrak Venture cars are coming to the Pacific Northwest Cascades corridor (Portland-Seattle-Vancouver) but will not be in service in time for FIFA World Cup 2026 — a transportation planning constraint for Seattle venues.",
+          "significance": "MEDIUM",
+          "actors": ["Oregon Health Authority", "OHA State Health Officer Dean Sidelinger", "WA State Department of Health", "CDC", "USDA APHIS", "Washington State Department of Agriculture", "Amtrak", "ODOT Rail", "WSDOT", "FIFA", "University of Washington", "Kittitas County Public Health"],
+          "metrics": {
+            "oha_measles_last_published_count": 20,
+            "oha_measles_last_published_date": "2026-04-22",
+            "oha_measles_count_staleness_days": 23,
+            "first_hospitalization_date": "2026-05-12",
+            "first_hospitalization_morning_day": 4,
+            "first_hospitalization_status_last_known": "discharged, recovering",
+            "wa_measles_confirmed_min": 40,
+            "wa_measles_counties_affected": 8,
+            "kittitas_county_outbreak": "active",
+            "us_national_cdc_count_as_of_may7": 1842,
+            "us_national_cdc_staleness_days": 8,
+            "school_year_vaccination_window_weeks_remaining": 2,
+            "yellow_legged_hornet_confirmed": true,
+            "yellow_legged_hornet_location": "Vancouver, Washington",
+            "yellow_legged_hornet_west_coast_first": true,
+            "hornet_eradication_protocol_required": true,
+            "pnw_ocean_acidification_rate": "faster than global average — UW study May 2026",
+            "pnw_fisheries_shellfish_threat": "structural, long-term",
+            "amtrak_venture_cars_pnw_timing": "coming — not in time for FIFA World Cup 2026",
+            "world_cup_seattle_venues": true
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 15, 2026 morning — Hormuz Day 76; Naval Blockade Day 34; Project Freedom Pause Day 10; WPA Day 16 Past Statutory Deadline. Vibe 2. Today is the convergence day flagged since May 11 as the highest-density watch date of the current cycle. Every trigger peak arrives simultaneously this morning. Trump departs Beijing: the post-summit IRGC cyber watch window opens at cycle-maximum risk — the summit produced a tariff truce extension and 200 Boeing jets but no Xi commitment to engage Tehran on Hormuz or nuclear concessions, leaving the deal track near-terminal and the inhibiting windows expired. Warsh Day 1 begins with April PPI at +1.4% monthly (3.5x the 0.4% consensus), confirming that the Hormuz supply shock is transmitting aggressively into wholesale prices on the most adversely-inherited first day of any modern Fed Chair transition — his inaugural statement today will be the rate-policy signal of the month. Reconciliation Finance Committee text has not been confirmed released by this morning; if Finance misses today's deadline, Trump's June 1 completion target faces its first concrete structural evidence of risk. Israel-Hezbollah ceasefire expires in 48 hours on May 17. WPA Day 16 is a modern-era record with no authorization path and no inhibiting factor remaining after today's Beijing departure. In the PNW: fire season opens Day 9 morning quiet under BLM full restrictions but 90°F inland temps are accelerating drying, 17 days remain before east Cascades above-normal onset, and the Snohomish County Stanwood levee emergency introduces a second infrastructure vulnerability thread. OHA measles count is 23 days stale with the first hospitalization on Day 4. Markets are modestly positive on the tariff truce and Cisco AI supercycle; the Dow has recaptured 50,000. The equity signal is real but narrow — the underlying Hormuz architecture is unchanged. Vibe 2: convergence day full load, post-summit IRGC window opening, Warsh inheritance adversely stressed, Finance deadline unresolved, Lebanon 48-hour clock active.",
+  "watch_items": [
+    "Post-summit resumption order — 24-72 hours (May 15-18): Trump departs Beijing today; any CENTCOM carrier repositioning, White House War Powers 48-hour congressional notification, or Trump Truth Social Iran statement in the next 24-72 hours is the highest-priority geopolitical signal of the cycle; deal is near-terminal, WPA Day 16 is the record, and all inhibiting factors expire today",
+    "IRGC cyber watch — post-summit window NOW OPENING: monitor CISA, FBI/IC3, NERC, FINRA, and private-sector OT/ICS feeds at elevated priority beginning May 15; the Day 12 clean streak ran under a marginal Beijing inhibiting effect that expires today; any CISA advisory update, FBI/IC3 flash, or OT-sector incident is the highest-priority infrastructure signal",
+    "Reconciliation 2.0 Finance text — today's deadline: watch for Senate Finance Committee text release, Crapo public statement, Republican defection signal, or Thune request for deadline extension; a Finance miss today is the first concrete evidence that Trump's June 1 target faces structural legislative risk",
+    "Warsh inaugural statement as Chair — Day 1 rate posture: his first remarks will be parsed for oil-shock inflation tolerance, rate-cut timeline framing, and independence signal; any accommodation of Trump's cut preferences against a +1.4% monthly PPI print would be an immediate credibility risk and bond/rate-sector market mover",
+    "Israel-Hezbollah ceasefire — May 17 expiry (48 hours): ceasefire collapse opens a second active front at the precise moment the post-summit IRGC window is maximally open; watch for UN special envoy communications, Hezbollah renewal or rejection statements, and Israeli military posture signals at the Blue Line through Saturday",
+    "OHA measles — 23-day gap with first hospitalization Day 4: if OHA does not release an update today, count reaches 23 days stale; any new OHA update, county outbreak declaration, or school district escalation is the key PNW public health signal; school-year vaccination window at 2 weeks remaining",
+    "Snohomish County Stanwood levee — emergency repair authorization: watch for Army Corps of Engineers or FEMA emergency response, state emergency declaration, or county escalation; a levee failure would activate disaster-response resources concurrent with fire pre-positioning demand during the 17-day pre-onset window",
+    "Yellow-legged hornet eradication — Vancouver WA: USDA APHIS and Washington State Department of Agriculture need to initiate eradication protocols immediately; watch for any nest-location announcement, containment perimeter establishment, or official response from either agency"
+  ],
+  "sources": [
+    "CNN Politics — Key takeaways: Trump leaves China short on deliverables but with signs of a stabilized relationship (May 15, 2026)",
+    "Fox News — Senate confirms Kevin Warsh as Fed chair as Trump's economic vision comes into focus",
+    "Just Security — Early Edition: May 15, 2026",
+    "Yahoo Finance — Kevin Warsh confirmed new Fed chair as inflation kicks higher, complicating central bank's path",
+    "Yahoo Finance / 24/7 Wall St. — Awkward! Kevin Warsh May Hike Interest Rates as Fed Chair, Not Cut Them",
+    "CNN Business — Good luck, Kevin Warsh! You're going to need it (May 15, 2026)",
+    "XTB — Kevin Warsh Faces the Fed's Biggest Test Yet. Trump Wants Rate Cuts, Inflation Says 'No'",
+    "ABA Banking Journal — Senate confirms Warsh as Fed chairman",
+    "C-SPAN — Senate Confirms Kevin Warsh as Fed Chair, 54-45",
+    "BLS — April 2026 Producer Price Index (released May 15, 2026)",
+    "NPR — Iran-US peace talks; Pakistan hopeful on deal (May 2026)",
+    "NBC News — Iran-US peace talks deadlocked after Trump rejects 'totally unacceptable' proposal",
+    "CNBC — Iran says it will 'never bow' as Trump rejects peace counteroffer (May 11, 2026)",
+    "FDD — Iran's 'unacceptable' deal means US must open the Strait of Hormuz by force (May 11, 2026)",
+    "Wikipedia — 2026 Strait of Hormuz crisis",
+    "Crestwood Advisors — May 2026 Economic and Market Update: New Highs and Old Risks",
+    "EY — Geostrategic Analysis: May 2026 edition",
+    "Jefferson Public Radio / IJPR — Pacific Northwest news: Levee concerns, Democratic primaries and wildflowers (May 11, 2026)",
+    "OPB — Evaluating wildfire risk in Oregon and Washington (May 14, 2026)",
+    "Nugget News — 2026 Oregon wildfire forecast is dire (April 15, 2026)",
+    "Oregon Health Authority — Measles surveillance (last published April 22, 2026)",
+    "Clark County Public Health — Measles investigation",
+    "CDC — Measles Cases and Outbreaks 2025-2026 dashboard",
+    "Oregon Capital Chronicle — New Amtrak trains coming soon to Pacific Northwest, but not in time for World Cup (April 13, 2026)",
+    "CISA — Advisory AA26-097A: Iranian-Affiliated Cyber Actors Exploit PLCs (April 7, 2026)",
+    "BLM Oregon-Washington — Full fire restrictions effective May 14, 2026",
+    "NIFC — June 1, 2026 Seasonal Fire Potential Outlook",
+    "ABC News — One of the largest modern US infrastructure projects will soon burrow toward New York City (May 13, 2026)",
+    "VA — Nearly $600M in infrastructure improvements approved Q2 FY2026",
+    "ZeroFox — Monthly Geopolitical Report: May 2026"
+  ]
+}

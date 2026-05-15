@@ -332,7 +332,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Trump Departs Beijing — Post-Summit IRGC Cyber Window Opens; Warsh Day 1 Faces PPI +1.4% vs. 0.4% Consensus; Israel-Hezbollah 48-Hour Clock; WPA Day 16; Finance Deadline Today; Vibe 2",
       "generated_at": "2026-05-15T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-15-morning",
+      "date": "2026-05-15",
+      "session": "morning",
+      "file": "reports/2026-05-15-morning.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Convergence Day: Trump Departs Beijing, Post-Summit IRGC Window Opens; Warsh Day 1 PPI +1.4% vs. 0.4% Consensus; Finance Deadline; Israel-Lebanon 48-Hr Clock; WPA Day 16; Vibe 2",
+      "generated_at": "2026-05-15T07:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-15T20:00:00-07:00"
+  "last_updated": "2026-05-15T07:00:00-07:00"
 }
