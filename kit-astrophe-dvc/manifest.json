@@ -322,7 +322,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Warsh Confirmed Fed Chair 54-45; 52 Senators + 177 House Members Demand Zero Iran Enrichment; Xi Summit Day 2 No Iran Commitment; BLM Full OR/WA Restrictions Active; Vibe 2",
       "generated_at": "2026-05-14T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-15-evening",
+      "date": "2026-05-15",
+      "session": "evening",
+      "file": "reports/2026-05-15-evening.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Trump Departs Beijing — Post-Summit IRGC Cyber Window Opens; Warsh Day 1 Faces PPI +1.4% vs. 0.4% Consensus; Israel-Hezbollah 48-Hour Clock; WPA Day 16; Finance Deadline Today; Vibe 2",
+      "generated_at": "2026-05-15T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-14T20:00:00-07:00"
+  "last_updated": "2026-05-15T20:00:00-07:00"
 }
