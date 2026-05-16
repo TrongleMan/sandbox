@@ -1,0 +1,358 @@
+{
+  "report_id": "2026-05-16-morning",
+  "generated_at": "2026-05-16T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 77; Naval Blockade Day 35; Project Freedom Pause Day 11; WPA Day 17 Past Statutory Deadline; Warsh Day 2. Saturday May 16 opens with two overnight structural positives that reverse the full convergence-day loading of May 15 morning's Vibe 2. First: Israel and Lebanon agreed to a 45-day ceasefire extension following two days of Washington talks — the second-front compound-risk trigger that was the highest-priority secondary watch item in every brief since May 12 is now removed for approximately 45 days, extending the ceasefire horizon to roughly July 1. Second: no Project Freedom resumption order was issued in the first 24 hours of the post-summit window — the highest-risk resumption period of the current cycle passed without action, incrementally reducing (without eliminating) the probability of an imminent order. Both items are genuine structural positives against the baseline Vibe 2 scenario from yesterday morning. Against them: US equity markets sold off sharply on May 15 as the PPI-driven inflation signal fed through to Treasury yields — the S&P 500 fell 1.24% to 7,408 (giving back the 7,500 level it had recaptured Wednesday), the 10-year Treasury yield spiked to 4.55% (nine-basis-point move, highest in a year), and CME FedWatch rate-hike probability for 2026 jumped to 45% — up from effectively 1% one month ago — compressing Warsh on Day 2 between Trump's cut pressure and a market pricing tightening. Senate Finance Committee missed its May 15 submission deadline with no text confirmed released as of this morning, providing the first concrete structural evidence that Trump's June 1 reconciliation completion target is at risk. The IRGC post-summit cyber watch window is now fully open with zero inhibiting factors — the Day 13 clean streak holds but the structural trigger environment is at cycle-maximum. WPA Day 17 deepens the modern-era unauthorized war-operation record with no authorization path in view. In the PNW: BLM fire restrictions enter Day 3; Washington has declared a statewide drought emergency for the fourth consecutive year; 16 days remain before east Cascades above-normal fire onset. And overnight, Trump sent Iran a new nuclear proposal, warning that swift progress is necessary to avoid serious consequences — a signal that the deal track, while near-terminal, has not been formally abandoned. Vibe 3.",
+  "vibe": {
+    "score": 3,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe recovers to 3 from May 15 morning's 2. The argument for the uptick: the Israel-Lebanon 45-day ceasefire extension is the most consequential secondary geopolitical development of the current cycle — it removes the May 17 second-front cliff that had been flagged as the highest-priority compound-risk trigger since May 12, extending the ceasefire architecture through approximately July 1 and reducing Iran's incentive structure for direct northern-front coordination during the post-summit window. No Project Freedom resumption order was issued on Day 1 of the post-summit period, the most acutely elevated resumption-risk interval since the May 6 pause began; the pause holding through the first 24 hours is a genuine secondary positive, incrementally reducing (not eliminating) imminent-order probability. Trump's new nuclear proposal to Iran — warning of serious consequences absent swift progress — indicates the deal track has not been formally declared dead, maintaining a marginal diplomatic pathway. Collectively, the Lebanon extension plus the absence of a Day 1 resumption order plus the continued deal-track signaling represent the most substantive cluster of de-escalation inputs since Project Freedom was paused on May 6. The argument against recovering above 3: the market and rate picture is the sharpest new deterioration since the PPI print — the S&P 500 is now below 7,400 post-close, 10-year yields at 4.55% are the highest in a year, and a 45% rate-hike probability by year-end places Warsh in structural policy compression on Day 2; Senate Finance missing the May 15 deadline is confirmed, concretely threatening the June 1 target; the IRGC post-summit cyber window is fully open at cycle-maximum risk with zero inhibiting factors and a Day 13 clean streak that cannot be extrapolated; WPA Day 17 is a modern-era record with no authorization path and no seventh resolution scheduled; Hormuz remains closed (Day 77) with the deal still near-terminal; the fire season structural pressure continues to build in the PNW with 16 days to the east Cascades above-normal onset. Vibe 3: Lebanon off the immediate board, no Day 1 resumption order — but market deterioration, Finance slip, IRGC window, and WPA record prevent any reading above mid-tier crisis."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 77; Naval Blockade Day 35; Project Freedom Pause Day 11; WPA Day 17. Israel-Lebanon ceasefire extended 45 days (announced May 15, confirmed May 16) — second-front compound-risk removed through ~July 1; next talks June 2-3. No Project Freedom resumption order issued on Day 1 of post-summit window. Trump sends new nuclear proposal to Iran May 16, warning of 'serious consequences' without swift progress. Deal track near-terminal but not formally closed; Iranian parliament hardliners still dominant; IRGC cyber window fully open. Gulf drone clusters (UAE/Qatar/Kuwait) from May 11-13 wave unresolved attribution. Cuba: CIA Director Ratcliffe Havana visit underway.",
+      "items": [
+        {
+          "headline": "Israel-Lebanon Ceasefire Extended 45 Days; Second-Front Compound-Risk Removed Through ~July 1; No Day-1 Project Freedom Resumption Order; Trump Sends New Iran Nuclear Proposal",
+          "summary": "Three developments dominate Saturday morning's geopolitical picture. First and most consequential: the United States confirmed on May 15-16 that Israel and Lebanon have agreed to a 45-day ceasefire extension following two days of Washington talks. The extension was announced by the US State Department on May 15, with CNBC, Bloomberg, and CGTN confirming as of May 16. The second-front compound-risk trigger that was flagged as the highest-priority secondary watch item in every brief since May 12 — the May 17 ceasefire expiry coinciding with the post-summit IRGC window opening — is now removed from the 24-48 hour risk register. The extension runs approximately to July 1. Follow-on talks are scheduled for June 2-3 in Washington. Critical caveat: Al Jazeera reports that Israeli airstrikes on southern Lebanon have continued despite the extension — the ceasefire has 'never been observed in practice,' with 657+ Lebanese deaths since it began. The structural disarmament impasse (Hezbollah arms retention) remains unresolved; the extension buys time without solving the underlying architecture. Second: no Project Freedom resumption order was issued in the first 24 hours following Trump's departure from Beijing on May 15. The May 15-18 window was flagged in yesterday's brief as the highest-risk resumption period of the cycle; passing Day 1 without an order incrementally reduces but does not eliminate imminent-resumption probability. CENTCOM repositioning, White House War Powers notification, and Trump Truth Social Iran statements remain the top watch items. Third: overnight, Trump sent Iran a new nuclear proposal — the Wall Street Journal characterizes this as a 'fresh bid' with a warning that swift progress is necessary to avoid serious consequences. This follows Trump's May 11 'totally unacceptable' rejection of Iran's counteroffer. The new proposal signals that the deal track, while near-terminal, has not been formally abandoned by the administration. The Iranian parliamentary hardliners' dominant posture ('war reparations, full Hormuz sovereignty, end sanctions') has not shifted. The IRGC cyber window is fully open with no inhibiting factor remaining.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Israel Defense Forces", "Hezbollah", "Lebanon government", "US State Department", "Marco Rubio", "Iran Supreme Council", "IRGC", "Steve Witkoff", "CENTCOM", "UN UNIFIL", "Pakistan foreign ministry"],
+          "metrics": {
+            "hormuz_closed_days": 77,
+            "naval_blockade_active_days": 35,
+            "project_freedom_status": "PAUSED — deal near-terminal, no resumption order Day 1",
+            "project_freedom_pause_day": 11,
+            "wpa_days_past_statutory_deadline": 17,
+            "israel_lebanon_ceasefire_extended_days": 45,
+            "ceasefire_extended_announced": "2026-05-15/16",
+            "ceasefire_extended_from": "2026-05-17",
+            "ceasefire_new_expiry_approx": "2026-07-01",
+            "ceasefire_talks_description": "highly productive — 2 days Washington",
+            "next_talks_scheduled": "2026-06-02 to 2026-06-03",
+            "second_front_compound_risk_status": "REMOVED — 45 days",
+            "hezbollah_disarmament_status": "unresolved",
+            "israeli_airstrikes_continuing_despite_extension": true,
+            "lebanese_deaths_since_ceasefire_began": 657,
+            "day1_post_summit_resumption_order_issued": false,
+            "trump_new_iran_nuclear_proposal_may16": true,
+            "trump_new_proposal_framing": "swift progress required — serious consequences",
+            "deal_track_status": "near-terminal, not formally abandoned",
+            "iran_parliament_posture": "war reparations, full Hormuz sovereignty, end sanctions",
+            "trump_1pct_framing_retracted": false,
+            "irgc_post_summit_cyber_window_status": "FULLY OPEN — cycle maximum",
+            "inhibiting_factors_remaining": 0,
+            "cumulative_war_cost_last_confirmed_usd_bn": 29,
+            "ships_stranded_hormuz_approx": 1600
+          }
+        },
+        {
+          "headline": "Gulf Drone Attribution Unresolved Day 5; Yemen Swap Day 3; Cuba CIA Director Visit; Ukraine Aggression Tribunal Active",
+          "summary": "Four secondary threads from the broader geopolitical watch register. First: the Gulf drone cluster (UAE, Qatar, Kuwait targets) from May 11-13 remains unresolved on attribution — no US government official confirmation of Iranian state direction versus IRGC proxy action; no US kinetic response confirmed; the cluster represents an escalation in Gulf state targeting distinct from direct Strait operations. Second: the Yemen detainee swap (1,600+ exchanged in Amman as largest of the civil war) is on Day 3 post-agreement — Houthi operational posture on Hormuz solidarity with Iran is unchanged. Third: CIA Director Ratcliffe's Havana visit — meeting with Cuban officials including Raúl Castro's grandson — signals an active US-Cuba backchannel engagement at the intelligence-director level, continuing the Trump administration engagement signal from May 15. Cuba's $100M humanitarian aid offer remains under consideration by Havana. Fourth: the Council of Europe Special Tribunal for the Crime of Aggression against Ukraine, approved May 15, begins initial procedural activation — Russia overnight struck Kyiv (24 dead) before the May 15 confirmation, and overnight May 15-16 is quiet on the Ukraine front with no new major strike confirmed.",
+          "significance": "MEDIUM",
+          "actors": ["UAE government", "Qatar government", "Kuwait government", "IRGC", "Houthis", "Yemen internationally-recognized government", "CIA Director John Ratcliffe", "Cuban government", "Raul Castro", "Council of Europe", "Ukraine FM Andrii Sybiha", "Russia"],
+          "metrics": {
+            "gulf_drone_cluster_attribution_resolved": false,
+            "gulf_drone_cluster_age_days": 5,
+            "gulf_drone_targets": ["UAE", "Qatar", "Kuwait"],
+            "us_kinetic_response_gulf_drones": false,
+            "yemen_detainee_swap_day": 3,
+            "yemen_swap_count": 1600,
+            "houthi_hormuz_solidarity_unchanged": true,
+            "ratcliffe_cuba_visit_active": true,
+            "cuba_engagement_level": "CIA Director — Raul Castro grandson",
+            "cuba_humanitarian_aid_offer_usd_mn": 100,
+            "council_of_europe_aggression_tribunal_approved": true,
+            "ukraine_kyiv_strike_dead_may15": 24,
+            "overnight_ukraine_major_strike": false
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Warsh Day 2 as Fed Chair; Powell era closed. May 15 close: S&P 500 fell 1.24% to 7,408; Dow lost 537 points; 10-year Treasury yield 4.55% (nine-basis-point spike, highest in a year); 30-year bond >5%. CME FedWatch rate-hike probability by year-end: 45% (vs. ~1% one month ago). CPI April +3.8% YoY (3-year high); core +2.8%. Rate-cut expectations nearly fully priced out. Senate Finance deadline passed May 15 with no confirmed text release — June 1 reconciliation target at structural risk. Brent last close ~$104. Weekend watch: Trump new Iran proposal outcome, IRGC cyber, any Warsh public statement on inflation framing.",
+      "items": [
+        {
+          "headline": "Markets Sell Off Day 1 of Warsh Era: S&P Loses 7,500; 10-Year at 4.55%; Rate-Hike Odds at 45%; Warsh Policy Compression Acute on Day 2",
+          "summary": "The May 15 market session — the first trading day of Kevin Warsh's Federal Reserve Chair era — ended in a broad equity selloff driven by Treasury yield pressure from the hot inflation prints. The S&P 500 fell 1.24% to 7,408.17, erasing the 7,500 level that had been recaptured Thursday. The Dow Jones Industrial Average lost approximately 537 points. The 10-year Treasury yield spiked nine basis points to 4.55%, its highest level in approximately a year. The 30-year bond yield moved above 5%. The 2-year yield tested 4.00%. The yield curve steepening signals that markets are pricing an extended period of elevated rates driven by supply-shock inflation that is immune to rate tools. CME FedWatch as of Friday close: probability of at least one rate hike by year-end 2026 jumped to 45% — up from approximately 21-25% mid-week and from effectively 1% one month ago. This is the most dramatic repricing of Fed policy expectations since the Hormuz crisis began. The April CPI (released May 13) confirmed at +3.8% year-over-year (three-year high, up from 3.3% in March), core +2.8%; combined with the April PPI (+1.4% monthly, +6.0% annual) released May 15, the wholesale-to-retail transmission of Hormuz energy-price pressure is confirmed accelerating. Warsh's policy dilemma is acute: the inflation driver (Hormuz supply disruption) is immune to rate-tool intervention; rate hikes risk compressing growth while not reopening the Strait; rate cuts risk amplifying price pressure; and Trump's public rate-cut pressure is explicit and unretracted. Warsh's first FOMC meeting is June 16-17 (31 days away). No Warsh inaugural public statement on rate posture has been confirmed released as of Saturday morning; any statement this weekend will be the primary market-moving signal of the day. A Brent crude price last confirmed near $104 (down from May 11's $107.77 peak) provides minor relief at the margin.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Jerome Powell", "Federal Reserve FOMC", "Donald Trump", "BLS", "CME Group FedWatch", "Treasury markets", "White House CEA"],
+          "metrics": {
+            "warsh_era_day": 2,
+            "sp500_may15_close": 7408.17,
+            "sp500_may15_change_pct": -1.24,
+            "dow_may15_change_approx": -537,
+            "treasury_10yr_yield_pct": 4.55,
+            "treasury_10yr_spike_bps": 9,
+            "treasury_10yr_highest_in_months": 12,
+            "treasury_30yr_yield_above_5pct": true,
+            "treasury_2yr_yield_approx_pct": 4.00,
+            "cme_fedwatch_hike_prob_yearend_2026_pct": 45,
+            "cme_fedwatch_hike_prob_one_month_ago_pct": 1,
+            "rate_cut_expectations_status": "nearly fully priced out",
+            "april_cpi_yoy_pct": 3.8,
+            "april_cpi_3yr_high": true,
+            "april_core_cpi_yoy_pct": 2.8,
+            "april_ppi_monthly_pct": 1.4,
+            "april_ppi_annual_pct": 6.0,
+            "warsh_first_fomc": "2026-06-16",
+            "days_to_warsh_first_fomc": 31,
+            "trump_rate_cut_public_pressure": true,
+            "brent_last_confirmed_close_approx": 104,
+            "warsh_inaugural_public_statement_weekend": "not confirmed — primary watch item",
+            "policy_compression_summary": "rate hikes vs. supply-shock immune to rate tools vs. Trump cut pressure"
+          }
+        },
+        {
+          "headline": "Senate Finance Deadline Missed; June 1 Reconciliation Target at Structural Risk; DHS $72B Package Advancing Separately",
+          "summary": "The Senate Finance Committee's May 15 submission deadline for Reconciliation 2.0 provisions to the Budget Committee passed Friday without confirmed text release as of Saturday morning. This is the first concrete structural evidence that Trump's June 1 reconciliation completion target is at risk — a milestone flagged as the key watch item in every brief since May 11. The Finance miss is particularly significant because the committee's tax and revenue provisions represent the most complex and politically contentious component of any budget reconciliation package. Without a Finance submission, the Budget Committee cannot begin markup, and the Byrd Rule review and CBO scoring process cannot be initiated. Senate leadership has not confirmed a revised timeline or a request for a deadline extension as of this morning. The June 1 target — publicly committed to by President Trump and Senate Majority Leader Thune — now faces its first operational test of structural viability. Separately, the narrower DHS/defense-focused Reconciliation 2.0 package is advancing on a parallel track: the $72B package (appropriating ICE/CBP funding through 2028, increasing defense spending by $1.2T over a decade) was released by Senate committees on May 4-7 and is proceeding independently of the Finance text. This two-track structure may reflect an administration decision to decouple the more straightforward DHS enforcement funding from the contested revenue provisions, potentially allowing a partial reconciliation advance before the Finance text is ready.",
+          "significance": "MEDIUM",
+          "actors": ["Senate Finance Committee Chair Mike Crapo", "Senate Budget Committee Chair Lindsey Graham", "Senate Majority Leader John Thune", "Donald Trump", "Senate Republicans", "OMB Director Russell Vought", "CBO"],
+          "metrics": {
+            "finance_deadline": "2026-05-15",
+            "finance_text_confirmed_released": false,
+            "finance_deadline_missed": true,
+            "june1_target_status": "FIRST CONCRETE STRUCTURAL RISK CONFIRMED",
+            "trump_june1_public_commitment": true,
+            "thune_june1_commitment": true,
+            "revised_timeline_confirmed": false,
+            "deadline_extension_request_confirmed": false,
+            "byrd_rule_review_status": "cannot begin without Finance text",
+            "cbo_scoring_status": "cannot begin without Finance text",
+            "dhs_defense_package_usd_bn": 72,
+            "dhs_defense_package_status": "advancing — released May 4-7 by Senate committees",
+            "dhs_funding_through": "2028",
+            "defense_spending_increase_over_decade_usd_tn": 1.2,
+            "two_track_structure": true,
+            "clarity_act_stablecoin_timeline": "separate track — July 4 signing targeted"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CISA Day 13 clean streak holds; post-summit IRGC cyber window fully open — zero inhibiting factors remaining as of May 16. No new CISA advisory, FBI/IC3 flash, or OT/ICS incident confirmed overnight. Advisory AA26-097A operative. CI Fortify, FINRA alert, NERC monitoring active. Weekend watch: highest-priority IRGC cyber monitoring window of the current cycle. BLM OR/WA restrictions Day 3. WA statewide drought emergency declared (4th consecutive year). PNW coastal ocean acidification accelerating faster than global average. National fire YTD 1.85M acres — nearly double 10-year average.",
+      "items": [
+        {
+          "headline": "IRGC Cyber Window Fully Open: Day 13 Clean Streak Holds, Zero Inhibitors Remain; Weekend at Cycle-Maximum Risk",
+          "summary": "The CISA operational clean streak reached Day 13 as of Saturday morning — no confirmed destructive IRGC cyber incident since Project Freedom launched on May 4. However, the marginal inhibiting factor of Trump's Beijing presence has now fully expired with Trump's May 15 departure from China, and no structural deterrent has replaced it. The current threat environment is the maximum-risk configuration of the current crisis cycle: the post-summit window is fully open; deal track is near-terminal with no diplomatic inhibitor; WPA Day 17 record deepens the congressional constraint to a historically unprecedented level; and the Iranian parliamentary hardliner posture ('never bow') is dominant. CISA Advisory AA26-097A (April 7, 2026) — Iranian-Affiliated Cyber Actors Exploit PLCs in Energy and Water Sectors — remains the operative advisory framework covering Rockwell Automation/Allen-Bradley PLC exploitation, SCADA/HMI manipulation, and OT disruption across energy, water, and government facility sectors. CISA CI Fortify is active. FINRA financial-sector alert and NERC grid monitoring remain live. A weekend period with reduced analyst and operations staffing at critical infrastructure operators is a structural vulnerability that IRGC planning would account for. No updated CISA advisory, FBI/IC3 flash, or private-sector OT/ICS alert has been confirmed as of Saturday morning. Weekend monitoring priority: CISA, FBI/IC3, NERC, FINRA, industrial cybersecurity private feeds. Handala and CyberAv3ngers remain the primary tracked IRGC-affiliated actor sets per the AA26-097A framework; the Stryker Handala destructive wiper incident (200,000+ devices wiped, 79 countries, March 2026) established the operational capability ceiling for the current cycle.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI/IC3", "NSA", "NERC", "IRGC Cyber Electronic Command", "CyberAv3ngers", "Handala", "FINRA", "DHS", "energy sector OT operators", "water sector operators", "Rockwell Automation"],
+          "metrics": {
+            "cisa_clean_streak_days": 13,
+            "post_summit_inhibiting_factors_remaining": 0,
+            "irgc_cyber_window_status": "FULLY OPEN — cycle maximum risk",
+            "weekend_staffing_vulnerability": true,
+            "cisa_advisory_reference": "AA26-097A (2026-04-07)",
+            "advisory_sectors_covered": ["energy", "water", "government facilities"],
+            "ci_fortify_status": "operative",
+            "finra_alert_active": true,
+            "nerc_monitoring_active": true,
+            "updated_cisa_advisory_overnight": false,
+            "fbi_ic3_flash_overnight": false,
+            "ot_ics_incident_overnight": false,
+            "stryker_handala_incident_reference": "March 2026 — 200K devices wiped, 79 countries (operational ceiling marker)",
+            "primary_tracked_actor_sets": ["Handala", "CyberAv3ngers"],
+            "monitor_channels_elevated": ["CISA", "FBI/IC3", "NERC", "FINRA", "private OT/ICS feeds"],
+            "monitoring_priority": "HIGHEST IN CURRENT CYCLE — Day 13+ weekend window"
+          }
+        },
+        {
+          "headline": "BLM Restrictions Day 3; WA Drought Emergency 4th Consecutive Year; PNW Ocean Acidification Accelerating; National YTD 1.85M Acres",
+          "summary": "Three infrastructure threads outside the cyber domain require Saturday morning filing. First: BLM full fire restrictions for all Oregon and Washington managed lands (effective May 14) enter Day 3. Oregon fire season is operationally quiet as of Saturday morning — no confirmed NWS red flag warnings and no reported significant new ignitions as of this filing, though conditions are deteriorating. The structural pressure is clear: NOAA and ECMWF models project a combined heat and drought signal persisting across May, June, and July 2026, with the PNW coast anomaly reaching -3.98 inches below normal precipitation for the three-month period. Oregon Governor Kotek has warned that '2026 could rival the most extreme years on record for heat and dryness' — nine Oregon counties are already under emergency declarations. The east Cascades above-normal fire onset is 16 days away (June 1); the Forest Service Region 6 capacity gap from DOGE position eliminations is the unresolved federal response constraint during the pre-onset preparation window. Second: Washington State has declared a statewide drought emergency for the fourth consecutive year. Snowpack is well below normal in multiple ranges; reservoir storage levels across eastern Washington are critically low entering the summer demand period. The drought declaration activates state water management authorities and FEMA coordination mechanisms for anticipated agricultural and municipal supply impact across the summer. Third: a University of Washington study published in May 2026 finds that PNW coastal waters are acidifying at a rate faster than the global ocean average — a structural threat to regional fisheries and shellfish industries that runs in parallel to wildfire and energy stressors as a compound cascade on the PNW regional economy.",
+          "significance": "MEDIUM",
+          "actors": ["BLM Oregon-Washington", "NWS Portland", "NWS Medford", "NWS Pendleton", "Oregon Department of Forestry", "Washington DNR", "Oregon Governor Tina Kotek", "WA Governor Ferguson", "NIFC", "NOAA", "ECMWF", "Forest Service Region 6", "University of Washington"],
+          "metrics": {
+            "blm_restrictions_day": 3,
+            "blm_restrictions_effective": "2026-05-14",
+            "red_flag_warnings_saturday_morning": false,
+            "new_significant_ignitions_saturday_morning": false,
+            "oregon_counties_emergency_declarations": 9,
+            "ecmwf_pnw_coast_precip_anomaly_3mo_inches": -3.98,
+            "kotek_warning": "most extreme years on record",
+            "days_to_east_cascades_above_normal": 16,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "wa_drought_emergency_year_consecutive": 4,
+            "wa_snowpack_status": "well below normal",
+            "national_ytd_acres_burned_millions": 1.85,
+            "national_ytd_vs_10yr_avg": "nearly double",
+            "federal_capacity_gap_region6": true,
+            "pnw_ocean_acidification_rate": "faster than global ocean average — UW May 2026",
+            "pnw_fisheries_shellfish_threat": "structural, long-term",
+            "portland_gas_price_approx": ">$5.00",
+            "pump_relief_horizon": "unavailable until Hormuz reopens"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA Day 17 — modern-era record deepens with no authorization path, no seventh resolution scheduled, and no inhibiting factor remaining. Senate Finance deadline missed — June 1 target at structural risk. Warsh Day 2 inherits acute policy compression. DHS green card revocation unit: 2,890+ cases active, 50+ in deportation proceedings. CBP Chief Banks (resigned May 14) leadership gap active during high-enforcement tempo. Mid-decade redistricting push in 8+ states ongoing post-VRA Section 2 ruling. CIA Director Ratcliffe Cuba visit may signal new bilateral track. Trump corruption pardons (15+ past year) bipartisan oversight concern active.",
+      "items": [
+        {
+          "headline": "WPA Day 17: Modern-Era Record Deepens; Finance Deadline Missed Overnight; No Resumption Order Day 1 — Post-Summit Window Risk Persists Through Weekend",
+          "summary": "WPA Day 17 past the April 29 statutory War Powers Resolution deadline is the deepest unauthorized war-operation continuation in the modern era. Six Democratic war-powers resolutions have been defeated by Senate Republicans; no seventh resolution is scheduled. No congressional war authorization has been sought or obtained. The structural inhibiting factor — Trump's Beijing summit presence — expired May 15 with his departure from China. The first 24 hours of the post-summit resumption-risk window have passed without an order, which is incrementally positive, but the weekend period (Saturday-Sunday, May 16-17) does not reduce the structural risk to the authorization environment — it merely extends it. The administration continues to treat the War Powers 60-day framework as non-binding; no White House Office of Legislative Affairs outreach to Senate leadership on a War Powers notification architecture has been publicly confirmed. Watch items for the weekend: any Trump Truth Social Iran statement (signaling timeline), any CENTCOM repositioning announcement, any National Security Council readout from a post-summit Iran policy review, and any congressional leadership statement on War Powers compliance. The Senate Finance Committee's May 15 deadline passed without confirmed text release — the first operational evidence that Trump's June 1 reconciliation completion target is at structural risk. Senate leadership has not confirmed a revised schedule. The DHS $72B enforcement and defense reconciliation track is advancing separately; the CLARITY Act (stablecoin regulation) is targeting a July 4 signing on a separate legislative track.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "CENTCOM", "White House NSC", "Steve Witkoff", "Marco Rubio", "John Thune", "Senate Armed Services Committee", "Senate Democrats", "Senate Finance Committee Chair Mike Crapo", "OMB"],
+          "metrics": {
+            "wpa_days_past_deadline": 17,
+            "wpa_deadline_date": "2026-04-29",
+            "wpa_deepest_unauthorized_run_modern_era": true,
+            "project_freedom_pause_day": 11,
+            "congressional_war_authorization_obtained": false,
+            "senate_war_powers_resolutions_failed": 6,
+            "seventh_resolution_scheduled": false,
+            "inhibiting_factors_remaining": 0,
+            "post_summit_resumption_order_issued_day1": false,
+            "post_summit_window_status": "OPEN — Day 2 (weekend)",
+            "weekend_resumption_order_risk": "moderate-elevated — inhibitors gone, deal near-terminal",
+            "finance_deadline_passed": true,
+            "finance_text_confirmed_released": false,
+            "june1_target_structural_risk": "FIRST CONCRETE CONFIRMATION",
+            "dhs_72bn_track_status": "advancing separately",
+            "clarity_act_stablecoin_target": "July 4 signing",
+            "trump_1pct_framing": "unretracted",
+            "military_lean_two_officials_retracted": false,
+            "congressional_letter_senators": 52,
+            "congressional_letter_house": 177,
+            "congressional_letter_demand": "zero uranium enrichment"
+          }
+        },
+        {
+          "headline": "DHS Green Card Revocation Unit Active (2,890+ Cases, 50+ Deportation); CBP Chief Banks Gap Day 2; Mid-Decade Redistricting 8+ States; CIA Cuba Track Opens",
+          "summary": "Four domestic administration threads merit weekend filing. First: the DHS green card revocation unit — launched to expand immigration enforcement from undocumented individuals to legal permanent residents — continues operations with 2,890+ cases reviewed as of May 7 (9 days stale) and at least 50 green card holders in active deportation proceedings. DHS warehouse conversion to immigration detention centers continues despite active lawsuits, federal watchdog investigation, and local opposition; the legal frontier of LPR revocation at this scale has not been tested in modern administrative practice. Second: CBP leadership is in a gap period — Border Patrol Chief Mike Banks resigned effective May 14 (Day 2 of vacancy). Banks's departure during high-enforcement tempo and active Hormuz-period border threat elevation creates an operational leadership void at CBP's frontline command structure. Third: the Trump administration's mid-decade congressional redistricting campaign continues — targeting 8+ states for Republican-favorable House map redrawing, enabled by the SCOTUS May 3 VRA Section 2 ruling that reduced minority voting rights protections and has materially raised the bar for redistricting legal challenges. The post-VRA legal architecture now favors Republican-drawn maps in states with legislative trifectas; expect state legislative action on redistricting to accelerate through summer 2026. Fourth: CIA Director Ratcliffe's Havana visit — meeting with Cuban officials including Raúl Castro's grandson — elevates the Cuba bilateral engagement from the May 15 diplomatic outreach signal to an active intelligence-director-level track. This is a significant elevation of the engagement architecture that warrants sustained monitoring for policy evolution.",
+          "significance": "MEDIUM",
+          "actors": ["DHS Secretary Kristi Noem", "Mike Banks", "CBP", "ICE", "DOJ", "SCOTUS", "Congressional Republicans", "state Republican legislatures", "Mike Johnson", "CIA Director John Ratcliffe", "Cuban government", "Raul Castro"],
+          "metrics": {
+            "green_card_revocation_unit_active": true,
+            "green_card_cases_reviewed_as_of_may7": 2890,
+            "green_card_holders_in_deportation": 50,
+            "green_card_data_staleness_days": 9,
+            "warehouse_detention_legal_challenges": true,
+            "warehouse_detention_watchdog_investigation": true,
+            "banks_vacancy_day": 2,
+            "banks_resignation_effective": "2026-05-14",
+            "cbp_acting_chief_confirmed": false,
+            "mid_decade_redistricting_states_targeted_min": 8,
+            "vra_section2_ruling_date": "2026-05-03",
+            "redistricting_post_vra_legal_difficulty": "materially reduced",
+            "redistricting_state_legislative_action_expected": "summer 2026",
+            "ratcliffe_cuba_visit_level": "CIA Director — Raul Castro grandson",
+            "cuba_engagement_track_status": "active — elevated to intelligence-director level",
+            "trump_corruption_pardons_past_year": 15
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Oregon fire season Day 10: BLM restrictions Day 3, no confirmed red flag warnings or significant ignitions Saturday morning, but structural drying accelerates. WA statewide drought emergency 4th year; 9 Oregon counties under emergency; 16 days to east Cascades above-normal onset. OHA measles: count last published April 22 at 20 (Day 24 staleness); no update confirmed overnight; first hospitalization May 12 — status unknown. WA measles 40+ confirmed, 8 counties, Kittitas active. Portland gas >$5.00/gal. Yellow-legged hornet eradication protocols not yet confirmed initiated. Amtrak Venture cars not ready for FIFA World Cup 2026 Seattle venues. UW ocean acidification study: PNW waters fastest in world.",
+      "items": [
+        {
+          "headline": "Fire Season Day 10: BLM Day 3; Drought Emergency 4th Year; 9 Oregon Counties Emergency; 16-Day Pre-Onset Window; Portland Gas >$5",
+          "summary": "Oregon and Washington fire season opens Day 10 morning without confirmed NWS red flag warnings or significant new ignitions as of Saturday morning filing, though structural conditions continue to deteriorate. BLM full fire restrictions (OR/WA, effective May 14) are in Day 3. The NOAA/ECMWF seasonal outlook projects a combined heat and drought anomaly persisting through May-July 2026, with the PNW coast at -3.98 inches below normal precipitation for the three-month period — the most pronounced sustained dryness signal in the seasonal outlook period. Nine Oregon counties are under active emergency declarations. Washington's statewide drought emergency — declared for the fourth consecutive year — reflects snowpack and reservoir conditions across eastern Washington that are critically below normal entering summer. Oregon Governor Kotek's language from May 5 — '2026 could rival the most extreme years on record for heat and dryness in the Pacific Northwest' — is structurally supported by both NOAA seasonal guidance and the NIFC's June 1 seasonal fire potential outlook. The 16-day preparation window before east Cascades above-normal fire onset (June 1) is the critical interval for federal resource pre-positioning — running against the documented Forest Service Region 6 capacity gap from DOGE position eliminations that Oregon and Washington congressional Democrats flagged in previous weeks. Portland metropolitan regular gasoline remains above $5.00/gallon, tracking Brent crude near $104; no pump relief is available until Hormuz reopens. The east Cascades season onset will immediately drive additional aerial resource demand (air tankers, helicopters) that competes with fire pre-positioning capacity nationally — the 1.85M YTD national acre count (nearly double the 10-year average) signals national resource demand pressure is already elevated.",
+          "significance": "MEDIUM",
+          "actors": ["BLM Oregon-Washington", "US Wildland Fire Service", "NWS Portland", "NWS Medford", "NWS Pendleton", "Oregon Department of Forestry", "Washington DNR", "Oregon Governor Tina Kotek", "WA Governor Bob Ferguson", "Forest Service Region 6", "NIFC", "NOAA"],
+          "metrics": {
+            "oregon_fire_season_day": 10,
+            "blm_restrictions_day": 3,
+            "blm_restrictions_effective": "2026-05-14",
+            "red_flag_warnings_saturday_morning": false,
+            "significant_ignitions_saturday_morning": false,
+            "oregon_counties_emergency_declarations": 9,
+            "wa_drought_emergency_year_consecutive": 4,
+            "wa_snowpack_status": "critically below normal",
+            "ecmwf_pnw_coast_precip_anomaly_3mo_inches": -3.98,
+            "days_to_east_cascades_above_normal": 16,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "federal_capacity_gap_region6": true,
+            "national_ytd_acres_burned_millions": 1.85,
+            "national_ytd_vs_10yr_avg": "nearly double",
+            "portland_gas_price_approx": ">$5.00",
+            "brent_last_confirmed_close_approx": 104,
+            "pump_relief_horizon": "unavailable until Hormuz reopens",
+            "kotek_assessment": "most extreme years on record",
+            "nifc_june1_outlook": "above-normal fire potential east Cascades"
+          }
+        },
+        {
+          "headline": "OHA Measles Day-24 Count Gap With First Hospitalization Unresolved; WA 40+ Active; Yellow-Legged Hornet Eradication Protocols Pending; Amtrak Not Ready for World Cup",
+          "summary": "Four PNW threads. First: the Oregon Health Authority measles case count — last published at 20 confirmed cases on April 22 — enters its 24th day of staleness Saturday morning with no overnight OHA update confirmed. The first Oregon measles hospitalization of 2026 (confirmed May 12) is now on Day 4 without a public status update from OHA confirming discharge, recovery, or any change in patient condition. Washington State remains at 40+ confirmed cases across 8 counties, with Kittitas County in active outbreak status. National CDC count stands at 1,842 as of May 7 (9 days stale). The school-year vaccination window has approximately 2 weeks remaining before summer break, which marks the operational close of the highest-leverage intervention window. The 24-day OHA count gap with an active hospitalization record and a concurrent outbreak in Washington represents the most significant public health communication failure of the current PNW cycle; any OHA update today is the key PNW public health signal of the weekend. Second: the first invasive yellow-legged hornet on the West Coast, confirmed in Vancouver, Washington, requires immediate USDA APHIS and Washington State Department of Agriculture eradication protocols. No confirmed nest location, containment perimeter establishment, or agency eradication response has been publicly announced as of Saturday morning. Population establishment would represent a permanent ecological threat to PNW pollinator systems. Third: a University of Washington study published this month finds PNW coastal waters are acidifying at a rate faster than the global ocean average, representing a structural threat to the regional shellfish and fisheries industries that compounds fire, drought, and energy stressors on the PNW regional economy. Fourth: new Amtrak Venture cars for the PNW Cascades corridor (Portland-Seattle-Vancouver) are coming but will not arrive in time for FIFA World Cup 2026 Seattle venues — a transportation logistics constraint for summer 2026 international visitor movement.",
+          "significance": "MEDIUM",
+          "actors": ["Oregon Health Authority", "OHA State Health Officer Dean Sidelinger", "WA State Department of Health", "CDC", "USDA APHIS", "Washington State Department of Agriculture", "Kittitas County Public Health", "Amtrak", "ODOT Rail", "WSDOT", "FIFA", "University of Washington"],
+          "metrics": {
+            "oha_measles_last_published_count": 20,
+            "oha_measles_last_published_date": "2026-04-22",
+            "oha_measles_count_staleness_days": 24,
+            "first_hospitalization_date": "2026-05-12",
+            "first_hospitalization_day": 4,
+            "first_hospitalization_public_status": "no update confirmed",
+            "oha_update_overnight": false,
+            "wa_measles_confirmed_min": 40,
+            "wa_measles_counties_affected": 8,
+            "kittitas_county_outbreak": "active",
+            "us_national_cdc_count_as_of_may7": 1842,
+            "us_national_cdc_staleness_days": 9,
+            "school_year_vaccination_window_weeks_remaining": 2,
+            "yellow_legged_hornet_confirmed": true,
+            "yellow_legged_hornet_location": "Vancouver, Washington",
+            "yellow_legged_hornet_west_coast_first": true,
+            "hornet_nest_located_publicly": false,
+            "hornet_eradication_response_confirmed": false,
+            "pnw_ocean_acidification_rate": "faster than global ocean average — UW May 2026",
+            "pnw_fisheries_shellfish_structural_threat": true,
+            "amtrak_venture_cars_pnw_timeline": "coming — not in time for FIFA World Cup 2026 Seattle",
+            "world_cup_seattle_venues": true
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "Saturday May 16, 2026 morning — Hormuz Day 77; Naval Blockade Day 35; Project Freedom Pause Day 11; WPA Day 17 Past Statutory Deadline; Warsh Day 2. Vibe 3. The overnight structural picture represents a genuine, if partial, de-escalation from May 15 morning's Vibe 2 convergence loading. The Israel-Lebanon ceasefire was extended 45 days following two days of Washington talks — the second-front compound-risk trigger that was the highest-priority secondary watch item since May 12 is removed for approximately 45 days, extending the ceasefire architecture to roughly July 1. No Project Freedom resumption order was issued in the first 24 hours of the post-summit window, incrementally reducing but not eliminating imminent-order probability. Trump has sent Iran a new nuclear proposal with a 'serious consequences' warning — the deal track is near-terminal but not formally closed. Those are the positives. The negatives are structural and immediate: the S&P 500 lost the 7,500 level on May 15, closing at 7,408 as the 10-year Treasury yield spiked to 4.55% (nine-basis-point move, highest in a year) and CME FedWatch rate-hike probability for 2026 jumped to 45% from effectively 1% one month ago — Warsh on Day 2 faces the most acute policy compression dilemma of any modern Fed Chair transition as a supply-shock inflation signal that is immune to rate tools compresses against Trump's explicit rate-cut pressure; the Senate Finance Committee missed its May 15 deadline without releasing text, providing the first concrete structural evidence that Trump's June 1 reconciliation target is at risk; the IRGC cyber watch window is fully open at cycle-maximum priority with Day 13 clean streak on a weekend (reduced operator staffing) and zero inhibiting factors; WPA Day 17 deepens the modern-era unauthorized war-operation record across a weekend with no authorization path. In the PNW: BLM restrictions enter Day 3, Oregon fire season Day 10 is quiet but structurally deteriorating, Washington has declared a fourth consecutive statewide drought emergency, 16 days remain before east Cascades above-normal onset, and OHA measles count enters Day 24 of staleness with the first hospitalization unresolved. Portland gas remains above $5.00. Yellow-legged hornet eradication protocols have not been confirmed initiated. Weekend architecture: the Lebanon and no-Day-1-resumption-order developments provide structural relief from the acute kinetic risk register; the market, inflation, and policy deterioration thread is the primary new concern entering the weekend. Vibe 3: second-front risk off the board, deal track not dead, no immediate resumption order — but rate/yield deterioration, Finance slip, IRGC window, and WPA record anchor the floor.",
+  "watch_items": [
+    "IRGC cyber weekend watch — HIGHEST PRIORITY: Day 13+ clean streak on reduced-staffing weekend with zero inhibiting factors; monitor CISA, FBI/IC3, NERC, FINRA, and private OT/ICS feeds continuously; any advisory update, IC3 flash, or OT-sector incident is the primary infrastructure signal of the weekend",
+    "Project Freedom resumption — Day 2 weekend: no order on Day 1, but 24-hour pass does not close the window; watch for Trump Truth Social Iran statements, CENTCOM repositioning signals, White House War Powers notification to Senate leadership, or NSC post-summit policy review readouts through Sunday",
+    "Warsh inaugural public statement — weekend: any rate-posture signal, oil-shock inflation tolerance framing, or independence statement from Warsh this weekend is the primary market-moving event; watch for Fed communications release or media appearance; any accommodation of Trump's cut pressure against a 45% hike probability environment would be an immediate credibility risk",
+    "Iran response to new nuclear proposal — timeline: Trump's May 16 'swift progress' warning sets an implied timeline; any Iranian foreign ministry, IRGC, or state media response to the new proposal is the primary geopolitical watch item of the weekend; rejection tightens the resumption-order timeline, acceptance reopens the deal track",
+    "Senate Finance text and reconciliation timeline — revised schedule: watch for Senate Finance Committee statement on a revised deadline, Crapo public remarks, or Thune leadership adjustment to the reconciliation floor schedule; any indication of a June 1 extension request is confirmation that the target has slipped",
+    "OHA measles — 24-day count gap with first hospitalization unresolved: watch for any OHA bulletin, county health department update, or CDC national count refresh; any new Oregon outbreak declaration or school district escalation is the key PNW public health signal; WA Kittitas County outbreak remains active",
+    "Yellow-legged hornet eradication — Vancouver WA: USDA APHIS and WSDA nest location and eradication response confirmation is overdue; any nest-location announcement, containment perimeter, or agency response is the key Pacific Northwest invasive-species signal",
+    "Israel-Lebanon ceasefire — first weekend under 45-day extension: monitor for any Israeli airstrike escalation, Hezbollah cross-border response, or Blue Line incident that could destabilize the extension; Al Jazeera has already reported strikes continuing post-extension announcement; a material escalation would re-open the second-front compound-risk register"
+  ],
+  "sources": [
+    "Wikipedia — 2025-2026 Iran-United States negotiations",
+    "House of Commons Library — US-Iran ceasefire and nuclear talks in 2026",
+    "Axios — Iran offers US deal to reopen Hormuz strait, postpone nuclear talks (April 27, 2026)",
+    "CNBC — Iran says it will 'never bow' as Trump rejects peace counteroffer (May 11, 2026)",
+    "Wikipedia — 2026 Iran war ceasefire",
+    "The Hill — US and Iran talk nuclear deal to end hostilities",
+    "CNN — Live updates: Trump says ceasefire with Iran on 'massive life support' (May 11, 2026)",
+    "Al Jazeera — Has the US accepted Iran's demand to settle Hormuz first, nuclear later? (May 6, 2026)",
+    "Al Jazeera — What are US proposals to end war, and will Iran agree to them? (May 7, 2026)",
+    "Axios — Exclusive: U.S. and Iran closing in on one-page memo to end war (May 6, 2026)",
+    "The National — Will Kevin Warsh bring relief or risk to Gulf markets? (May 16, 2026)",
+    "CNBC — Markets raise chances for a Fed rate hike following hot inflation report (May 12, 2026)",
+    "Yahoo Finance — Kevin Warsh confirmed new Fed chair as inflation kicks higher (May 13, 2026)",
+    "24/7 Wall St. — Awkward! Kevin Warsh May Hike Interest Rates as Fed Chair (May 13, 2026)",
+    "Washington Post — Kevin Warsh is set to inherit a Federal Reserve under pressure (May 11, 2026)",
+    "CNBC — Treasury yields push higher after CPI climbs to highest in nearly three years (May 12, 2026)",
+    "forex.com — US Dollar Forecast: PPI Surge Puts 2026 Fed Hike in Play",
+    "HeyGoTrade — Hot CPI Lifts Fed Hike Bets, Warsh Faces Inflation Test",
+    "CISA — Advisory AA26-097A: Iranian-Affiliated Cyber Actors Exploit PLCs (April 7, 2026)",
+    "CISA — Iran Threat Overview and Advisories",
+    "FINRA — Cybersecurity Alert: Heightened Threats From Iranian Cyber Actors",
+    "Defense One — Pro-Iran hackers appear to increase critical infrastructure cyberattacks (April 2026)",
+    "CSIS — The Iranian Cyber Threat to U.S. Critical Infrastructure",
+    "Al Jazeera — Cautious optimism in Lebanon as direct talks with Israel progress (May 14, 2026)",
+    "Jerusalem Post — Israel, Lebanon agree on 45-day ceasefire extension (May 16, 2026)",
+    "CGTN — Israel, Lebanon to extend ceasefire for 45 days, US State Department says (May 16, 2026)",
+    "Al Jazeera — Israeli strikes on southern Lebanon continue despite ceasefire extension (May 16, 2026)",
+    "CNBC — Israel and Lebanon agree to extend ceasefire by 45 days (May 15, 2026)",
+    "Bloomberg — Israel, Lebanon Extend Ceasefire 45 Days After Washington Talks (May 15, 2026)",
+    "Ballotpedia News — Senate Committees release $72 billion budget reconciliation spending package (May 7, 2026)",
+    "Cabarrus Weekly — Washington, Oregon, California and the Pacific Northwest Face Dangerous Heat and Severe Drought May-July 2026",
+    "OPB — Oregon faces longer fire season due to historic heat, drought (May 6, 2026)",
+    "KTVZ — Gov. Tina Kotek warns of potentially severe 2026 wildfire season (May 5, 2026)",
+    "Central Oregon Daily — BLM fire restrictions start May 14 in Oregon",
+    "Axios Seattle — Washington drought and El Niño raise wildfire fears (April 14, 2026)",
+    "OPB — Forecasters predict, prepare for increased drought and wildfire risk (April 9, 2026)",
+    "NIFC — June 1, 2026 Seasonal Fire Potential Outlook",
+    "National Law Review — Cyber Brief: CISA Issues Advisory on Iranian-Affiliated Cyber Attacks"
+  ]
+}
