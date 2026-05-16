@@ -342,7 +342,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Convergence Day: Trump Departs Beijing, Post-Summit IRGC Window Opens; Warsh Day 1 PPI +1.4% vs. 0.4% Consensus; Finance Deadline; Israel-Lebanon 48-Hr Clock; WPA Day 16; Vibe 2",
       "generated_at": "2026-05-15T07:00:00-07:00"
+    },
+    {
+      "id": "2026-05-16-evening",
+      "date": "2026-05-16",
+      "session": "evening",
+      "file": "reports/2026-05-16-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Israel-Lebanon Ceasefire Extended 45 Days — Second-Front Risk Off; No Day-1 Resumption Order; Markets Sell Off on Yields/Hike Odds; Oregon Fire Season First Red Flags; Finance Slip Confirmed; Vibe 3",
+      "generated_at": "2026-05-16T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-15T07:00:00-07:00"
+  "last_updated": "2026-05-16T20:00:00-07:00"
 }
