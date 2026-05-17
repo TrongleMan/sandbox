@@ -362,7 +362,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Israel-Lebanon Ceasefire Extended 45 Days — Second-Front Risk Off; No Day-1 Resumption Order; Markets Sell Off on Yields/Hike Odds; Oregon Fire Season First Red Flags; Finance Slip Confirmed; Vibe 3",
       "generated_at": "2026-05-16T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-17-evening",
+      "date": "2026-05-17",
+      "session": "evening",
+      "file": "reports/2026-05-17-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 78: US-Iran 'Closing In' on Permanent Framework Despite Trump Bomb Threats; Warsh Day 3 — No Statement, Bond Warning; Finance Text 'Expected Today'; Oregon Fire Day 10; WPA Day 18; Vibe 3",
+      "generated_at": "2026-05-17T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-16T07:00:00-07:00"
+  "last_updated": "2026-05-17T20:00:00-07:00"
 }
