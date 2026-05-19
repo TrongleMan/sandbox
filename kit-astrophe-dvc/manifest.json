@@ -402,7 +402,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 79: Deal Signal Day 2 — Confirmation Vacuum Holds; Warsh Day 4 Silent; CISA Day 15 Clean; Oregon Fire 14 Days to Onset; WPA Day 19; Vibe 3",
       "generated_at": "2026-05-18T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-19-evening",
+      "date": "2026-05-19",
+      "session": "evening",
+      "file": "reports/2026-05-19-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 81: ToI Deal Signal Day 3 Unconfirmed, 48+ Hr Vacuum; Warsh Day 5 Silent, 30-Yr Yield 5%+, Nowcast Worsening; WPA Day 20; Oregon Fire 13 Days to Onset; Vibe 3",
+      "generated_at": "2026-05-19T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-18T20:00:00-07:00"
+  "last_updated": "2026-05-19T20:00:00-07:00"
 }
