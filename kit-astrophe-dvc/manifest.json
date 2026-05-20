@@ -422,7 +422,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 81: ToI Deal Signal Day 3 Unconfirmed, 48+ Hr Vacuum; Warsh Day 5 Silent, 30-Yr Yield 5%+, Nowcast Worsening; WPA Day 20; Oregon Fire 13 Days to Onset; Vibe 3",
       "generated_at": "2026-05-19T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-20-evening",
+      "date": "2026-05-20",
+      "session": "evening",
+      "file": "reports/2026-05-20-evening.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 82: US-Israel Prepping War Renewal 'As Soon as Next Week'; Israel Readying Nuclear Site Strikes; Trump 2-3 Day Countdown Day 2; Warsh Day 6, 10-Yr 4.595%; WPA Day 21; Vibe 2",
+      "generated_at": "2026-05-20T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-19T07:00:00-07:00"
+  "last_updated": "2026-05-20T20:00:00-07:00"
 }
