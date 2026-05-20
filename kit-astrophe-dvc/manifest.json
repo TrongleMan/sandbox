@@ -424,6 +424,16 @@
       "generated_at": "2026-05-19T20:00:00-07:00"
     },
     {
+      "id": "2026-05-20-morning",
+      "date": "2026-05-20",
+      "session": "morning",
+      "file": "reports/2026-05-20-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Countdown Day 2: No Iranian Response in 36+ Hours; 2-3 Day Window Closes Thursday-Friday; War Renewal Signals Surfacing; Warsh Day 6 Silent; DOE $1.9B Grid Deadline Today; Vibe 3",
+      "generated_at": "2026-05-20T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-20-evening",
       "date": "2026-05-20",
       "session": "evening",
@@ -434,5 +444,5 @@
       "generated_at": "2026-05-20T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-20T20:00:00-07:00"
+  "last_updated": "2026-05-20T07:00:00-07:00"
 }
