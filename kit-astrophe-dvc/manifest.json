@@ -442,7 +442,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 82: US-Israel Prepping War Renewal 'As Soon as Next Week'; Israel Readying Nuclear Site Strikes; Trump 2-3 Day Countdown Day 2; Warsh Day 6, 10-Yr 4.595%; WPA Day 21; Vibe 2",
       "generated_at": "2026-05-20T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-21-morning",
+      "date": "2026-05-21",
+      "session": "morning",
+      "file": "reports/2026-05-21-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Countdown Day 3 / Nominal Expiry: Iran Responds — Gaps 'Reduced to Some Extent'; Trump 'Final Stages,' Few More Days; CNN: Iran MIB Rebuilding Faster Than Expected, Drones In Production; Brent -5.16% to $105.54; WA Drought Emergency; Warsh Day 7 Silent; Vibe 3",
+      "generated_at": "2026-05-21T07:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-20T07:00:00-07:00"
+  "last_updated": "2026-05-21T07:00:00-07:00"
 }
