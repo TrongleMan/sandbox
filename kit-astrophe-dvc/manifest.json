@@ -454,6 +454,16 @@
       "generated_at": "2026-05-21T07:00:00-07:00"
     },
     {
+      "id": "2026-05-22-morning",
+      "date": "2026-05-22",
+      "session": "morning",
+      "file": "reports/2026-05-22-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "House War Powers Vote Canceled — Bipartisan Majority Real; Moratorium Converges 12-15 Years; Pakistan Army Chief to Tehran; WPA 90-Day Deadline May 29; 30-Year at 5.18% (2007 High); Warsh Day 8 Silent; Vibe 3",
+      "generated_at": "2026-05-22T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-22-evening",
       "date": "2026-05-22",
       "session": "evening",
