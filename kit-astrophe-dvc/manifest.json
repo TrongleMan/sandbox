@@ -474,6 +474,16 @@
       "generated_at": "2026-05-22T20:00:00-07:00"
     },
     {
+      "id": "2026-05-23-morning",
+      "date": "2026-05-23",
+      "session": "morning",
+      "file": "reports/2026-05-23-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "5th Round 'Complicated' — Pakistan Army Chief in Tehran; WPA 90-Day Deadline 6 Days; Warsh Day 9 Weekend Silent; Gas Record 2026 Highs OR $5.353 / National $4.564; OR Fire Day 16; Vibe 3",
+      "generated_at": "2026-05-23T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-23-evening",
       "date": "2026-05-23",
       "session": "evening",
