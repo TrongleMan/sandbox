@@ -512,7 +512,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 87: Brent $102-103 Monday Open — First Market Credibility Signal for 'Largely Negotiated'; No Mojtaba Khamenei Statement; WPA 4 Days to Deadline; Warsh Day 11 Silent; Memorial Day Federal Channels Closed; OR Fire Day 18; Vibe 4",
       "generated_at": "2026-05-25T07:00:00-07:00"
+    },
+    {
+      "id": "2026-05-25-evening",
+      "date": "2026-05-25",
+      "session": "evening",
+      "file": "reports/2026-05-25-evening.json",
+      "vibe": 4,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 87: Nuclear Enters Deal Framework — Iran Agrees 'Never Pursue Nuclear Weapons' + Negotiate Enrichment Suspension + HEU Removal; No Khamenei Confirmation; Brent $102-106; WPA 4 Days; OR Fire Day 18 Memorial Day Peak Ignition Risk; Vibe 4 Firmer",
+      "generated_at": "2026-05-25T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-25T07:00:00-07:00"
+  "last_updated": "2026-05-25T20:00:00-07:00"
 }

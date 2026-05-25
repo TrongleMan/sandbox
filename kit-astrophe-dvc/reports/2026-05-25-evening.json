@@ -1,0 +1,364 @@
+{
+  "report_id": "2026-05-25-evening",
+  "generated_at": "2026-05-25T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 87; Naval Blockade Day 44; Project Freedom Pause Day 20; WPA Day 26 Past Statutory Deadline / 90-Day Hard Deadline May 29 (4 Days); Warsh Day 11. Monday May 25, 2026 — Memorial Day evening. The defining upgrade of the day's cycle: Axios and CNN reporting, sourced to a senior administration official, that Iran has agreed in principle to never pursue nuclear weapons, to enter negotiations on suspending its uranium enrichment program, and to negotiate removal of its stockpile of highly enriched uranium. This is the most significant structural evolution of the deal text since the Saturday 'largely negotiated' declaration — nuclear is now reportedly IN the framework, not deferred to a parallel track. However, critical qualifications persist: Iran's commitment is to 'negotiate over' suspension and HEU removal, not immediate zero enrichment; the congressional zero-enrichment constraint (52 senators, 177 House members) is not satisfied by a negotiation commitment; Tasnim (Iran's semi-official agency) confirms 'one or two clauses still persist'; Mojtaba Khamenei has still issued no public statement; and no formal Iranian Foreign Ministry text confirmation of the nuclear language has been published. Brent crude held in the $102-106 intraday range — down from $105-107 pre-announcement, but no conviction collapse toward $85. The Quad formal ministerial convenes tomorrow, May 26, in New Delhi. Congress returns tomorrow. WPA 90-day hard deadline remains May 29 — 4 days. The nuclear framework inclusion is a meaningful upgrade to the deal architecture, but it stops short of triggering a vibe move without Khamenei confirmation. Vibe 4 holds; the case for 5 is materially stronger than it was this morning.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — upgraded from a weak 4 to a firmer 4 with a strengthened upward lean. The case for upgrading to 5: nuclear is now reportedly inside the deal framework, not deferred. Axios and CNN sources confirm Iran agreed in principle to (a) never pursue nuclear weapons, (b) negotiate suspension of uranium enrichment program, and (c) negotiate removal of its HEU stockpile. This partially addresses the congressional zero-enrichment constraint. A senior administration official confirmed a 60-day window to 'reach final deal points' — consistent with and elaborating on the described framework. Trump officials characterize final text as 'days' away. Brent crude held below the $105-107 pre-announcement baseline throughout the Memorial Day trading session. The case against moving to 5: 'negotiate over' suspension and HEU removal is not 'immediate zero enrichment' — the 52-senator, 177-House-member congressional constraint demands zero enrichment, not a 60-day negotiation commitment. Tasnim confirms 'one or two clauses still persist.' Mojtaba Khamenei has issued no statement — the Supreme Leader confirmation binary remains unanswered. No formal Iranian FM text has been published. Brent at $102-106 intraday signals conditional belief, not conviction — a conviction print would be a sustained move toward $85-90. The WPA 90-day hard deadline is still May 29 regardless of deal text evolution. The case against returning to 3: nuclear language in the framework is the most significant deal-structure development since Day 1; Axios/CNN simultaneous sourcing from a senior official carries high credibility; the Trump commitment stands; the regional coalition supports the deal. Vibe 4 holds. Nuclear framework confirmation via Iranian FM formal text = upgrade to 5. Khamenei public acknowledgment = strong upgrade signal. Congressional zero-enrichment constraint satisfaction = upgrade to 5-6. Tasnim or IRGC hardening on nuclear language = vibe 3. Brent reversal above $107 = credibility collapse signal."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 87; Naval Blockade Day 44; Project Freedom Pause Day 20; WPA Day 26 / 4 Days to May 29 Hard Deadline. Structural upgrade: nuclear reportedly now IN deal framework — Iran agrees to 'never pursue nuclear weapons' + negotiate enrichment suspension + negotiate HEU removal (Axios, CNN, senior admin official). Tasnim: 'one or two clauses still persist.' No Khamenei statement. No Iranian FM formal text. Brent $102-106 intraday — no conviction collapse. Quad formal ministerial tomorrow May 26 in New Delhi. Israel-Lebanon ceasefire Day 9 of 45 — holding. IRGC cyber window: Memorial Day final staffing gap ends tonight; standard elevated monitoring from tomorrow.",
+      "items": [
+        {
+          "headline": "Hormuz Day 87: Nuclear Enters Deal Framework — Iran Agrees 'Never Pursue Nuclear Weapons' + Negotiate Enrichment Suspension + HEU Removal; Tasnim 'One or Two Clauses Still Persist'; No Khamenei Statement; Brent $102-106 Intraday; WPA 4 Days",
+          "summary": "The structural state of the deal has materially upgraded since the morning filing. Axios and CNN, sourcing a senior administration official, report that Iran has agreed in principle to three nuclear commitments: (1) never pursue nuclear weapons; (2) enter negotiations on suspending its uranium enrichment program; and (3) negotiate removal of its stockpile of highly enriched uranium. These are the most specific and significant nuclear concessions attributed to Iran since the conflict began — and they represent a fundamental shift in the deal architecture from the morning's characterization of 'nuclear excluded from current framework text.' The 60-day window described by the senior official is now framed not as a blank deferral but as a structured negotiation period with defined subject matter: enrichment suspension and HEU disposal. The implications for the congressional constraint are meaningful but incomplete. The 52 senators and 177 House members who signed the zero-enrichment letter demanded immediate cessation of enrichment as a deal condition — Iran's commitment to 'negotiate over suspension' is a commitment to negotiate, not a commitment to zero enrichment now. The gap between 'agree to negotiate' and 'zero enrichment as of deal signing' remains real and politically significant. Critical uncertainties persist. Iran's semi-official Tasnim news agency confirmed overnight that 'differences over one or two clauses of the possible memorandum of understanding still persist' — the specific clause(s) in dispute are not publicly identified but may include timing of sanctions relief, control mechanisms over the strait, or the sequencing of enrichment suspension vs. sanctions removal. Mojtaba Khamenei has issued no public statement throughout the Memorial Day cycle. His silence is now approaching 72 hours since Trump's 'largely negotiated' declaration — sustained Supreme Leader silence at this stage could reflect internal deliberation or IRGC-hardliner resistance to the nuclear framework language specifically. The Iranian FM has issued no formal text confirmation of the described nuclear commitments. The Fars news agency dismissal remains the last published IRGC-aligned institutional signal. Trump officials told Axios the deal may take 'days' — not hours, not imminent — suggesting continued negotiation activity into Tuesday May 26 at minimum. Brent crude traded in the $102-106 intraday range on Memorial Day, closing below the $105-107 pre-announcement baseline but without the $15-20 conviction collapse that would signal full market pricing of a closed deal. The range is consistent with market-conditional belief that has slightly strengthened since the morning open. The analytic anchor for the evening: the nuclear framework inclusion is the most important structural development since Day 1. But it is a framework commitment to negotiate, not a signed zero-enrichment agreement, and it lacks Supreme Leader validation.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "Steve Witkoff", "Marco Rubio", "Abbas Araghchi", "Iran Foreign Ministry", "Iran Tasnim News Agency", "Iran Fars News Agency", "IRGC", "Supreme Leader Mojtaba Khamenei", "Saudi Arabia FM", "UAE FM", "Qatar FM", "Pakistan Army Chief General Asim Munir", "Turkey FM", "Egypt FM", "Jordan FM", "Bahrain FM", "Benjamin Netanyahu", "Oman FM Badr al-Busaidi", "CENTCOM"],
+          "metrics": {
+            "hormuz_closed_days": 87,
+            "naval_blockade_active_days": 44,
+            "project_freedom_pause_day": 20,
+            "wpa_days_past_statutory_deadline": 26,
+            "wpa_90day_hard_deadline": "2026-05-29",
+            "wpa_days_to_90day_deadline": 4,
+            "nuclear_in_deal_framework_now_reported": true,
+            "nuclear_framework_components_reported": [
+              "Iran agrees to never pursue nuclear weapons",
+              "Iran agrees to negotiate suspension of uranium enrichment program",
+              "Iran agrees to negotiate removal of HEU stockpile"
+            ],
+            "nuclear_commitment_type": "agree-to-negotiate — not immediate zero enrichment; 60-day structured negotiation window with defined subject matter",
+            "congressional_zero_enrichment_constraint_satisfied": false,
+            "congressional_zero_enrichment_constraint_senators": 52,
+            "congressional_zero_enrichment_constraint_house": 177,
+            "congressional_constraint_gap": "'negotiate over suspension' vs 'zero enrichment as of deal signing' — gap remains real",
+            "tasnim_remaining_clause_disputes": "one or two clauses — specific content not identified; possible: sanctions timing, strait control mechanisms, enrichment suspension sequencing",
+            "iran_supreme_leader_statement_issued": false,
+            "supreme_leader_silence_hours_since_trump_declaration": "72+",
+            "iran_fm_formal_text_confirmation_issued": false,
+            "iran_fars_dismissal_still_operative": true,
+            "brent_crude_intraday_range_usd": "102-106",
+            "brent_crude_morning_open_usd_approx": 102,
+            "brent_crude_intraday_high_usd_approx": 106,
+            "brent_crude_market_read": "conditional belief strengthening — not conviction; conviction print = sustained move toward $85-90; $102-106 range implies partial-to-conditional deal probability elevated from morning",
+            "deal_text_timeline_axios": "may take days — not imminent",
+            "deal_60day_negotiation_window_confirmed_by_senior_official": true,
+            "watch_signals": [
+              "Mojtaba Khamenei statement — 72+ hours silent; any Supreme Leader confirmation of nuclear framework = vibe 5; hardening or rejection = vibe 3",
+              "Araghchi / Iran FM formal text publication of nuclear commitments — confirmation = vibe 5",
+              "Tasnim clause identification — which 'one or two clauses' remain in dispute",
+              "Brent intraday — sustained move below $100 = deal pricing escalating; reversal above $107 = credibility collapse",
+              "WPA May 29 — 4 days; Congress returns tomorrow May 26; watch for emergency pre-deadline session, Senate 8th resolution, White House Counsel statement",
+              "CENTCOM carrier repositioning — highest-priority resumption signal"
+            ]
+          }
+        },
+        {
+          "headline": "Quad Formal Ministerial Tomorrow May 26 — New Delhi; US-India Reset Signal; Israel-Lebanon Ceasefire Day 9 — Holding; IRGC Cyber Window: Memorial Day Final Gap Night; CISA Day 22 Clean",
+          "summary": "Three secondary geopolitical threads. First: the Quad foreign ministers formal ministerial session convenes tomorrow, Tuesday May 26, in New Delhi — the first such session hosted in India since 2023. Secretary Rubio arrived Saturday May 23; bilateral US-India consultations have been ongoing since the weekend. The agenda includes critical minerals coordination, maritime security, HADR frameworks, supply chain resilience with pharmaceutical emphasis, and preliminary planning for the long-delayed Quad Leaders' Summit. The New Delhi meeting's strategic signal is unchanged from the morning: Washington's Indo-Pacific alliance architecture is being actively maintained as a parallel priority during the Iran conflict cycle, and the Quad format specifically reinforces that the Trump-Xi summit did not reduce US commitment to Indo-Pacific counterweight structures. Full communiqué text, if issued, will be the definitive signal of the meeting's substantive output. Second: the Israel-Lebanon 45-day ceasefire extension advances to Day 9 with no confirmed violations. The nuclear framework inclusion in the Iran deal (if confirmed and progressing) modestly reduces the probability of IRGC-directed Hezbollah escalation — hardliners who have accepted the nuclear framework language have less immediate incentive to open a second front. However, IRGC-aligned actors who reject the framework retain full independent decision capability. The next ceasefire talks are June 2-3. Third: the CISA post-summit clean streak holds at Day 22 as Memorial Day ends. Tonight is the last night of the three-day federal staffing gap — SOC and watch-floor coverage transitions to standard operational staffing tomorrow morning as Congress returns. The Fars/IRGC resistance signal to the nuclear framework language creates a specific elevated concern: if IRGC hardliners view the nuclear commitment as an unacceptable concession by the Iranian FM negotiating team, a cyber escalation could serve as a domestic hardliner signal of rejection. The clean streak holds, but the gap night warrants maximum monitoring through midnight.",
+          "significance": "HIGH",
+          "actors": ["Marco Rubio", "India External Affairs Minister Jaishankar", "Australia FM Penny Wong", "Japan FM Takeshi Iwaya", "CISA", "FBI", "NSA", "IRGC Cyber Electronic Command", "CyberAv3ngers", "Handala", "Israel Defense Forces", "Hezbollah"],
+          "metrics": {
+            "quad_formal_ministerial_date": "2026-05-26",
+            "quad_ministerial_first_india_hosted_since": "2023",
+            "quad_rubio_arrival_date": "2026-05-23",
+            "quad_communique_status": "pending — ministerial has not yet convened as of this filing",
+            "quad_agenda_items": ["critical minerals coordination", "maritime security", "HADR frameworks", "pharmaceutical supply chain resilience", "Quad Leaders Summit planning"],
+            "quad_strategic_read": "Indo-Pacific alliance maintenance parallel to Iran cycle; Trump-Xi summit did not reduce Quad commitment; India dual-track (energy-Iran + alliance-US) positioning maintained",
+            "israel_lebanon_ceasefire_extension_day": 9,
+            "ceasefire_extension_total_days": 45,
+            "ceasefire_violations_overnight": false,
+            "next_ceasefire_talks": "2026-06-02 to 2026-06-03",
+            "nuclear_framework_effect_on_hezbollah_calculus": "modest near-term reduction conditional on IRGC acceptance of nuclear language — Fars resistance signal suggests hardliner faction not accepting framework",
+            "cisa_clean_streak_days": 22,
+            "memorial_day_staffing_gap_final_night": true,
+            "memorial_day_staffing_gap_ends": "overnight into 2026-05-26 — federal monitoring returns to standard staffing on Congress return",
+            "irgc_nuclear_framework_rejection_cyber_risk": "elevated — IRGC hardliner rejection of nuclear commitment in deal framework could trigger cyber escalation as domestic rejection signal; monitor through gap night",
+            "monitor_priority": "MAXIMUM through tonight — final night of Memorial Day staffing gap; Fars/IRGC nuclear framework resistance active; transition to ELEVATED STANDARD from May 26 morning"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Warsh Day 11 — eleven consecutive days without public statement; swearing-in on May 22 remains the last public utterance. Brent $102-106 intraday Memorial Day — no conviction collapse despite nuclear framework development; monthly average May ~$108.94 (EIA projects $106/b May-June). April CPI 3.8% YoY baseline unchanged. June FOMC 22 days out. 10-year ~4.57%, 30-year ~5.07-5.19% range. Oregon gas $5.35 record; national $4.56 record. Nuclear framework in deal shifts disinflationary pathway from conditional to structurally more probable — but pump relief still minimum weeks from any signed text.",
+      "items": [
+        {
+          "headline": "Warsh Day 11 Silent as Nuclear Deal Language Emerges; Brent $102-106 Intraday — No Conviction Collapse; EIA $106/b May-June Baseline; June FOMC 22 Days; Disinflationary Path Structurally More Probable",
+          "summary": "Kevin Warsh enters the evening of Day 11 without a public statement. His swearing-in ceremony on May 22 — 'I will lead reform-oriented Federal Reserve' — remains the only public utterance of his chairmanship. The most material economic development of Memorial Day is the report of nuclear commitments now included in the Iran deal framework: Iran's agreement to 'negotiate over' suspension of uranium enrichment and removal of HEU stockpile, combined with a commitment to never pursue nuclear weapons, structurally strengthens the disinflationary pathway without confirming it. The logic: a deal that includes nuclear commitments — even negotiation-to-negotiate language — is more likely to hold as a durable settlement than a deal that leaves nuclear to an indefinite parallel track. A more durable settlement has a higher probability of leading to Hormuz normalization, which is the precondition for any energy-price relief. The probability-weighted disinflationary outlook has improved materially since the morning, even though the pump-price timeline has not changed: Hormuz reopening still requires transit normalization (days-weeks post-announcement), supply-chain normalization (weeks), and retail price response (weeks to months). The earliest retail pump-price relief from a deal signed today would still arrive in late June at the earliest. Brent crude traded $102-106 intraday on Memorial Day — consistent with conditional-to-elevated deal probability, still well above the $85-90 level that would signal full market conviction of a closed deal. The EIA short-term energy outlook projects $106/b for Brent in May-June — the intraday Memorial Day range is at the lower end of that forecast, suggesting the market is beginning to price deal probability at a discount to the baseline. The April CPI print at 3.8% YoY (energy +17.9%, gasoline +28.4%) remains the pre-deal inflation baseline against which any crude-driven disinflation will be measured. PPI runs at 6.0% annualized. The June FOMC is 22 days out; the December rate hike probability remains near 40% based on current CME positioning. Warsh's first public economic statement — whenever it arrives — will now need to address both the deal-conditional disinflationary pathway and the nuclear framework's implications for durable energy price relief. His silence has compounded through the highest-stakes diplomatic development of his chairmanship. The communication gap is acute.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Federal Reserve FOMC", "Donald Trump", "CME FedWatch", "BLS", "EIA", "Treasury market participants"],
+          "metrics": {
+            "warsh_era_day": 11,
+            "warsh_last_public_statement": "swearing-in ceremony May 22 — 'I will lead reform-oriented Federal Reserve'",
+            "warsh_days_without_economic_policy_statement": 11,
+            "brent_crude_intraday_range_may25_usd": "102-106",
+            "brent_crude_high_intraday_usd_approx": 106,
+            "brent_crude_low_intraday_usd_approx": 102,
+            "eia_brent_may_june_2026_projection_usd": 106,
+            "brent_vs_eia_projection_read": "intraday low at $102 — slightly below EIA $106 projection, suggesting market beginning to price deal probability at baseline discount",
+            "nuclear_framework_disinflationary_pathway_effect": "probability-weighted improvement — deal including nuclear commitments structurally more durable than nuclear-deferred deal; higher probability of Hormuz normalization improving outlook; pump-price timeline unchanged (weeks minimum)",
+            "pump_relief_earliest_date": "late June 2026 minimum from any deal signed today",
+            "april_cpi_yoy_pct": 3.8,
+            "april_energy_cpi_annual_pct": 17.9,
+            "april_gasoline_cpi_annual_pct": 28.4,
+            "april_ppi_annualized_pct": 6.0,
+            "treasury_10yr_yield_approx_pct": 4.57,
+            "treasury_30yr_yield_approx_pct": 5.07,
+            "treasury_30yr_intraweek_high_pct": 5.19,
+            "cme_december_rate_hike_probability_pct_approx": 40,
+            "days_to_first_warsh_fomc": 22,
+            "first_warsh_fomc_meeting": "2026-06-16/17",
+            "warsh_silence_severity": "Day 11 — communication gap through highest-stakes diplomatic development of his chairmanship; nuclear framework in deal is the most material economic signal; no Fed public position on deal-conditional disinflationary pathway; gap compounding"
+          }
+        },
+        {
+          "headline": "Gas $5.35 Oregon / $4.56 National Memorial Day Record Evening — 500K Oregonians on Roads; Deal-Conditional Relief Path Strengthened but Weeks Away; $20B+ Grid Cycle Sustains Structural Floor",
+          "summary": "Oregon gasoline closes Memorial Day at $5.35 per gallon — record 2026 high, fourth-highest in the nation. Washington holds at approximately $5.78. The national average at $4.56 marks the highest Memorial Day reading on record for 2026. Despite record fuel costs, AAA projections of approximately 500,000 Oregonians taking Memorial Day road trips are being fulfilled — consistent with pre-booked travel executing at announced fuel costs rather than canceling. The household budget stress accruing from this volume at this cost is a real demand constraint entering June. The nuclear framework inclusion in the deal (if confirmed) strengthens the deal-conditional pump-relief pathway: a deal with nuclear commitments has higher durability probability than a deal leaving nuclear to an indefinite track, which improves the probability-weighted timeline for Hormuz normalization and eventual crude-price relief. However, the implementation chain is unchanged: deal signing → transit normalization negotiations (days-weeks) → supply-chain normalization (weeks) → retail pump price response (weeks-months). The earliest retail relief from a deal confirmed this week would arrive in late June, reflecting the full lag chain. The structural energy cost floor — driven by AI/data-center electrification demand, grid modernization investment, and the $20+ billion energy sector investment cycle — persists independent of Hormuz resolution and provides a baseline well above pre-conflict levels. Any deal-driven crude relief will moderate prices above, not collapse them toward, the pre-conflict baseline.",
+          "significance": "HIGH",
+          "actors": ["AAA Oregon/Idaho", "GasBuddy", "EIA", "Oregon drivers", "PNW consumers", "DOE Office of Electricity"],
+          "metrics": {
+            "oregon_gas_price_per_gallon": 5.35,
+            "oregon_gas_record_2026_high": true,
+            "oregon_gas_national_rank": "4th highest",
+            "oregon_gas_yoy_increase_per_gallon": 1.36,
+            "washington_gas_price_per_gallon_approx": 5.78,
+            "national_avg_gas_price_per_gallon": 4.56,
+            "national_avg_record_2026_memorial_day": true,
+            "memorial_day_oregon_road_trips_estimated": 500000,
+            "nuclear_deal_pump_relief_pathway_effect": "strengthened probability — more durable deal increases Hormuz normalization probability; timeline unchanged (late June earliest)",
+            "pump_relief_today": false,
+            "structural_energy_floor_operative": true,
+            "structural_floor_basis": "AI/data-center electrification demand + grid modernization $20B+ cycle + utility capex $1.1-1.4T through 2030"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CISA clean streak Day 22 — final night of Memorial Day gap; federal monitoring returns to standard tomorrow. IRGC nuclear framework resistance via Fars: elevated cyber risk specific to hardliner rejection signaling. Oregon fire season Day 18: Memorial Day marks highest human-caused ignition risk of the season — campfire bans operative Central Oregon since May 18; BLM Day 12; Level 1 restrictions throughout Central Oregon; 7 days to east Cascades above-normal onset; Trout Creek Fire (43 acres, Sisters area) earlier in May. Prepositioning window 7 days — first federal legislative response opportunity tomorrow May 26.",
+      "items": [
+        {
+          "headline": "CISA Day 22 Clean — Memorial Day Final Gap Night; IRGC Nuclear Framework Resistance Elevates Cyber Risk; Congress Returns Tomorrow; Monitoring Transitions to Standard Elevated",
+          "summary": "The CISA post-summit clean streak extends through Memorial Day evening at Day 22 — no confirmed OT/ICS incident, no new FBI/IC3 flash, no new cybersecurity advisory. The Memorial Day federal monitoring and incident response staffing gap ends overnight: federal SOC, watch-floor, and CISA/FBI response teams return to standard staffing tomorrow morning as Congress returns from recess. The specific elevated concern for tonight is a new vector that emerged during the day: the nuclear commitment reportedly included in the Iran deal framework — Iran agreeing to 'never pursue nuclear weapons' and to 'negotiate over' enrichment suspension and HEU removal — represents a concession that IRGC hardliners may view as illegitimate or unauthorized. If IRGC-aligned institutional actors (CyberAv3ngers, Handala, IRGC Cyber Electronic Command) interpret the nuclear language in the deal as a violation of their institutional red lines, a cyber escalation could serve as a hardliner rejection signal — an attack on US or allied critical infrastructure timed to the Memorial Day final staffing gap as a domestic political message to the Iranian FM negotiating team and to Tehran. This is a specific, plausible vector that did not exist at the morning filing. The combined advisory target surface remains operative: April 7 advisory (water, wastewater, energy, government facilities, transportation) plus May 12 advisory (Defense Industrial Base, Israeli-linked corporate nodes). Monitor CISA, FBI/IC3, NERC, FINRA, and private OT/ICS sector feeds at maximum priority through tonight. Standard elevated priority from tomorrow 0800 as federal monitoring is restored.",
+          "significance": "HIGH",
+          "actors": ["CISA", "FBI", "NSA", "DC3", "NERC", "IRGC Cyber Electronic Command", "CyberAv3ngers (Shahid Kaveh Group)", "Handala", "FINRA", "DHS", "Defense Industrial Base operators"],
+          "metrics": {
+            "cisa_clean_streak_days": 22,
+            "memorial_day_staffing_gap_final_night": true,
+            "memorial_day_staffing_gap_ends": "overnight into 2026-05-26 — federal monitoring returns to standard staffing 0800 May 26",
+            "irgc_nuclear_framework_rejection_cyber_risk": "NEW VECTOR — nuclear commitment in deal framework may be viewed by IRGC hardliners as unauthorized concession; cyber escalation as domestic rejection signal is specific elevated risk tonight",
+            "combined_advisory_target_surface": ["water/wastewater", "energy", "government facilities", "transportation", "Defense Industrial Base", "Israeli-linked corporate nodes"],
+            "irgc_apt_groups_operative": ["CyberAv3ngers (Shahid Kaveh Group)", "Handala", "IRGC Cyber Electronic Command"],
+            "fbi_ic3_flash_issued_today": false,
+            "ot_ics_incident_today": false,
+            "finra_alert_active": true,
+            "nerc_monitoring_active": true,
+            "monitor_priority": "MAXIMUM through tonight — final Memorial Day gap night; nuclear framework IRGC rejection vector added; transition to ELEVATED STANDARD 0800 May 26"
+          }
+        },
+        {
+          "headline": "Oregon Fire Season Day 18: Memorial Day Peak Human-Ignition Risk — Campfire Bans Operative; Level 1 Central Oregon Active; BLM Day 12; Trout Creek 43 Acres Confirmed; 7 Days to East Cascades Onset; Federal Response Tomorrow",
+          "summary": "Oregon fire season advances to Day 18 on Memorial Day evening. Today marks the highest human-caused ignition risk period of the early season: Memorial Day weekend consistently produces the season's first major ignition cluster from camping, recreational fires, and off-highway vehicle use, with human activity responsible for approximately 20% of Oregon's annual fire count. Level 1 fire restrictions have been operative across Central Oregon public lands since May 18 — campfire bans affecting Deschutes, Ochoco, and Crooked River national forests and grasslands. BLM full Oregon-Washington restrictions are at Day 12 (effective May 14). Confirmed fire activity in the current cycle includes the Trout Creek Fire, which burned 43 acres near Sisters in early May — the season's first documented named fire in the east Cascades pre-season window. The east Cascades above-normal onset threshold (June 1, NIFC predictive outlook) remains 7 days away. The Federal prepositioning window stands at 7 days and has not been acted on. Congress returns tomorrow, May 26 — the first day on which the 18-day-unanswered Oregon congressional Democrats' letter (May 7) can receive a federal legislative response. Three legislative days then remain before the June 1 onset threshold. Memorial Day weekend represents the functional transition from pre-season to early-season conditions across much of Oregon east of the Cascades — restrictions in place, human activity at maximum, and the federal response capacity gap unchanged. The 82% statewide drought coverage and Southern Cascades extreme category are unchanged; the ECMWF -3.98-inch Pacific Coast anomaly persists through July. The prepositioning window is 7 days and closing irreversibly.",
+          "significance": "HIGH",
+          "actors": ["BLM Oregon-Washington", "Central Oregon Fire Management Service", "NWS Portland", "NWS Medford", "Oregon Department of Forestry", "Forest Service Region 6", "Oregon Governor Tina Kotek", "NIFC", "Oregon congressional Democrats", "AccuWeather", "ECMWF"],
+          "metrics": {
+            "oregon_fire_season_active_day": 18,
+            "days_to_above_normal_east_cascades": 7,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "memorial_day_human_ignition_risk": "PEAK — highest human-caused ignition risk day of early season; 20% of OR fires human-caused",
+            "campfire_bans_central_oregon_active": true,
+            "campfire_ban_forests_affected": ["Deschutes National Forest", "Ochoco National Forest", "Crooked River National Grassland"],
+            "central_oregon_stage1_restrictions_active": true,
+            "central_oregon_stage1_active_since": "2026-05-18",
+            "blm_full_or_wa_restrictions_active": true,
+            "blm_restrictions_day": 12,
+            "trout_creek_fire_acres": 43,
+            "trout_creek_fire_location": "near Sisters, OR — east Cascades",
+            "trout_creek_fire_status": "contained — season's first documented named fire in pre-onset window",
+            "federal_prepositioning_window_days_remaining": 7,
+            "federal_channels_status": "Congress returns May 26 — FIRST FEDERAL RESPONSE OPPORTUNITY TOMORROW",
+            "oregon_delegation_letter_days_unanswered": 18,
+            "oregon_statewide_drought_coverage_pct": 82,
+            "southern_cascades_drought_category": "extreme",
+            "ecmwf_3month_precipitation_anomaly_inches": -3.98,
+            "forest_service_doge_positions_lost": "1,400+ certified firefighter-eligible",
+            "trump_budget_forest_research_funding": "$0",
+            "prepositioning_characterization": "7 days — one-way door; Memorial Day peak human-ignition period active; Level 1 and BLM restrictions operative; 18-day unanswered delegation letter; first federal response opportunity: tomorrow May 26"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA Day 26 past April 29 deadline — 90-Day Hard Deadline May 29 (4 Days). Congress returns tomorrow May 26 (3 days before deadline). No pre-deadline House vote scheduled. No Senate 8th resolution. Nuclear framework in deal does not change WPA clock — Hormuz physically closed, blockade active; WPA threshold requires physical cessation, not deal text. Administration 'hostilities terminated' posture collapses at Day 90 plain-text regardless. Warsh Day 11 silent. National measles 1,952 (May 21); OHA 33 days stale; WA DOH updated Monday — monitoring required. School window ~2-3 operative days remaining. Green card policy reversal in effect. Portland $172M shortfall under record fuel costs.",
+      "items": [
+        {
+          "headline": "WPA Day 26: 90-Day Hard Deadline May 29 — 4 Days; Congress Returns Tomorrow — 3 Days Before; No Pre-Deadline Vote; Nuclear Deal Language Does Not Reset Clock; May 29 Legal Architecture Change Locked In",
+          "summary": "The War Powers Act situation is structurally unchanged from the morning: the 90-day hard deadline arrives May 29, four days away, and Congress returns tomorrow from Memorial Day recess with three calendar days before the threshold. The most significant new development of the day — nuclear commitments reportedly entering the deal framework — does not change the WPA analysis. The WPA threshold requires physical cessation of hostilities: Hormuz must be open, the naval blockade must be lifted, and US military operations must have ceased. As of Memorial Day evening, Hormuz is physically closed, the naval blockade is active, and neither condition has changed. Even if a formal deal text with nuclear commitments were signed tomorrow, May 26, implementing Hormuz reopening would require transit normalization negotiations (days), which precedes physical strait opening (days to weeks). The physical WPA threshold will not be crossed before May 29 regardless of what deal text is signed before then. The administration's 'hostilities terminated' posture — asserting the ceasefire pause stopped the WPA clock — does not survive Day 90 plain-text scrutiny. At Day 90 on May 29, the Iran war will definitionally operate outside any credible statutory basis. House Republican leadership has explicitly scheduled the next war powers vote for early June — after the deadline. No Senate 8th resolution is scheduled. The bipartisan House majority (Rep. Golden confirmed yes, six Republicans) is real but dormant. The deal's nuclear framework development may generate a new administration legal argument — that a 'framework agreement' including nuclear commitments constitutes a pathway to cessation sufficient to satisfy congressional authorization — but this is constitutionally novel and not established by precedent or statute. The first legislative day after Congressional return is tomorrow, May 26: three calendar days before May 29. Any pre-deadline emergency session, White House Counsel statement, or DOJ OLC guidance is a highest-priority watch signal for the May 26-28 window.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Pete Hegseth", "CENTCOM", "Mike Johnson", "John Thune", "Rep. Val Hoyle", "Rep. Gregory Meeks", "Rep. Jared Golden", "Sen. Rand Paul", "White House Counsel", "DOJ Office of Legal Counsel"],
+          "metrics": {
+            "wpa_days_past_deadline": 26,
+            "wpa_deadline_date": "2026-04-29",
+            "wpa_90day_hard_deadline": "2026-05-29",
+            "wpa_days_to_90day_deadline": 4,
+            "nuclear_deal_framework_wpa_clock_effect": "none — nuclear commitments in deal text do not constitute cessation of hostilities; Hormuz physically closed; naval blockade active; physical threshold not crossed before May 29 regardless of deal text",
+            "deal_framework_novel_wpa_argument": "possible administration novel argument: framework agreement including nuclear commitments as pathway to cessation; constitutionally unestablished; watch for White House Counsel or DOJ OLC statement",
+            "congress_returns_date": "2026-05-26",
+            "legislative_days_before_90day_deadline": 3,
+            "next_house_war_powers_vote_scheduled": "early June — explicitly after May 29 deadline",
+            "senate_8th_war_powers_resolution_scheduled": false,
+            "bipartisan_house_majority_status": "real but dormant",
+            "administration_wpa_legal_posture": "'hostilities terminated' — does not survive Day 90 plain-text",
+            "watch_signals": [
+              "May 26-28 — three-day pre-deadline window: emergency pre-deadline House vote, Senate 8th resolution, White House Counsel statement, DOJ OLC guidance on nuclear-framework WPA argument",
+              "May 29 — 90-day hard deadline: legal architecture change regardless of deal status",
+              "CENTCOM carrier repositioning — highest-priority resumption signal"
+            ]
+          }
+        },
+        {
+          "headline": "Measles National 1,952 (May 21) — OHA 33 Days Stale; WA DOH Memorial Day Update Window; School Window ~2-3 Operative Days; Green Card Reversal PNW Labor Impact; Portland $172M Shortfall",
+          "summary": "Four secondary domestic threads. First: the national measles count stands at 1,952 confirmed cases as of May 21 (pace ~8.4/day). Oregon Health Authority data is 33 days stale — last published 20 confirmed cases on April 22 with no update through Memorial Day. Washington State DOH publishes on Mondays, Wednesdays, and Fridays; a Monday May 25 update was possible today. If published, the WA count would reflect any Kittitas County or broader outbreak activity through the weekend. The school vaccination window has contracted to approximately 2-3 operative coordination days — Memorial Day consumed Monday; Tuesday May 26 begins the last organized school-based intervention window before the academic year effectively closes. Community health and outpatient settings are already the primary de facto intervention channels. Any new county outbreak declaration, second Oregon hospitalization, or school-exposure event in the 2-3 day remaining window is a critical escalation signal with diminishing response capacity. Second: Kevin Warsh Day 11 extends the Fed communication vacuum through the most material deal development of the conflict cycle — covered in economic section; the domestic policy angle is that a deal-conditional disinflationary pathway emerging without Fed public acknowledgment leaves markets without a rate-path anchor as the June FOMC approaches (22 days). Third: the Trump administration's green card policy reversal — requiring foreign nationals to leave the US and apply from home country — remains in effect. The downstream implications for Oregon and Washington agricultural labor supply are entering the critical window: the fire and harvest season labor need (June-September) coincides with policy-driven workforce uncertainty. USCIS implementation guidance timeline and Oregon/Washington agricultural employer responses are priority monitoring signals. Fourth: Portland's $172 million budget shortfall continues to deepen under record fuel costs, 30-year Treasury above 5%, and state revenue compression. Post-recess Council action is required; no emergency session has been called.",
+          "significance": "HIGH",
+          "actors": ["Oregon Health Authority", "OHA State Health Officer Dean Sidelinger", "WA State Department of Health", "CDC", "Kittitas County Health", "Kevin Warsh", "Federal Reserve", "USCIS", "DHS", "Portland Mayor Keith Wilson", "Oregon and Washington agricultural employers"],
+          "metrics": {
+            "national_measles_confirmed_as_of_may21": 1952,
+            "national_measles_avg_daily_pace": 8.4,
+            "or_measles_confirmed_last_published": 20,
+            "or_measles_last_published_date": "2026-04-22",
+            "or_measles_staleness_days": 33,
+            "wa_doh_memorial_day_update_possible": true,
+            "wa_doh_update_schedule": "Monday, Wednesday, Friday",
+            "wa_measles_2026_ytd_min": 40,
+            "wa_counties_affected": 8,
+            "kittitas_county_outbreak_active": true,
+            "school_vaccination_operative_days_remaining_approx": 2,
+            "school_window_characterization": "~2 operative coordination days — effectively final window; Memorial Day consumed Monday; community/outpatient de facto primary; critical escalation watch: new county declaration, second OR hospitalization, school-exposure event",
+            "green_card_policy_reversal_effective": true,
+            "green_card_uscis_implementation_guidance_status": "pending — watch for USCIS implementation timeline",
+            "pnw_agricultural_labor_impact_window": "June-September 2026 fire/harvest season — policy-driven workforce uncertainty entering critical window",
+            "portland_budget_shortfall_usd_mn": 172,
+            "economic_stress_cascade_active": true,
+            "warsh_days_without_domestic_economic_policy_statement": 11
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Oregon fire season Day 18: Memorial Day peak human-ignition risk; Level 1 Central Oregon active; campfire bans Deschutes/Ochoco/Crooked River; BLM Day 12; 82% drought; Southern Cascades extreme; Trout Creek Fire 43 acres (near Sisters) confirmed season opener; 7 days to east Cascades above-normal onset; prepositioning window 7 days — one-way door; delegation letter 18 days unanswered; first federal response opportunity tomorrow. OHA measles 33 days stale; school window ~2 operative days; WA Kittitas active. OR gas $5.35 / WA $5.78 Memorial Day records; 500K Oregonians on roads. Green card reversal PNW agricultural labor risk. Portland $172M shortfall.",
+      "items": [
+        {
+          "headline": "Oregon Fire Season Day 18 / Memorial Day Peak Human-Ignition Risk: Level 1 Central Oregon Active; Campfire Bans Deschutes/Ochoco/Crooked River; Trout Creek 43 Acres Season Opener Confirmed; BLM Day 12; 7 Days to East Cascades Onset; First Federal Response Tomorrow",
+          "summary": "Oregon fire season advances through Memorial Day evening at Day 18 with conditions at their highest human-caused risk point of the early season. Level 1 fire restrictions across Central Oregon — covering the Deschutes, Ochoco, and Crooked River national forests and grasslands — have been operative since May 18, banning open fires including campfires, wood stoves on public lands, and charcoal briquette fires. BLM full Oregon-Washington restrictions are at Day 12. The Trout Creek Fire, which burned 43 acres near Sisters in early May, is the confirmed season-opening named fire in the east Cascades pre-onset window — the first fire to test the current restriction and response architecture. The broader fire condition metrics are unchanged: 82% statewide drought coverage, Southern Cascades in the 'extreme' category, ECMWF -3.98-inch Pacific Coast precipitation anomaly through July, 2025-2026 winter tied warmest on record with 1934, snowpack at approximately one-third of normal, and AccuWeather's 5.5-8 million acre national projection operative. The Forest Service Region 6 structural capacity gap — 1,400+ certified firefighter-eligible positions lost, $0 forest research funding, 20% staff reduction — has not been addressed. The 18-day-unanswered Oregon congressional Democrats' letter (May 7) receives its first federal legislative response opportunity tomorrow, May 26. Three legislative days remain between congressional return and June 1 east Cascades above-normal onset. Memorial Day is consistently one of the highest-risk ignition periods of the Oregon fire season; today's restricted-but-active recreational use on public lands will be the first real stress test of the Level 1 restriction enforcement architecture. Any ignition event on Memorial Day evening — given dry and warm conditions — would represent an early-season severity signal with the federal prepositioning window still 7 days long but narrowing irreversibly.",
+          "significance": "HIGH",
+          "actors": ["BLM Oregon-Washington", "Central Oregon Fire Management Service", "NWS Portland", "NWS Medford", "Oregon Department of Forestry", "Forest Service Region 6", "Oregon Governor Tina Kotek", "Washington DNR", "NIFC", "Oregon congressional Democrats", "AccuWeather", "ECMWF", "Columbia Basin irrigation districts"],
+          "metrics": {
+            "oregon_fire_season_active_day": 18,
+            "days_to_above_normal_east_cascades": 7,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "memorial_day_human_ignition_risk": "PEAK",
+            "campfire_bans_active": true,
+            "campfire_ban_forests": ["Deschutes National Forest", "Ochoco National Forest", "Crooked River National Grassland"],
+            "central_oregon_stage1_active_since": "2026-05-18",
+            "blm_full_or_wa_restrictions_active": true,
+            "blm_restrictions_effective_date": "2026-05-14",
+            "blm_restrictions_day": 12,
+            "trout_creek_fire_acres": 43,
+            "trout_creek_fire_location": "near Sisters, OR",
+            "trout_creek_fire_season_significance": "confirmed first named fire in east Cascades pre-onset window — season-opening benchmark",
+            "federal_prepositioning_window_days_remaining": 7,
+            "first_federal_legislative_response_opportunity": "2026-05-26",
+            "legislative_days_before_june1_onset": 3,
+            "oregon_delegation_letter_days_unanswered": 18,
+            "oregon_statewide_drought_pct": 82,
+            "southern_cascades_drought_category": "extreme",
+            "oregon_winter_2025_2026_temperature_rank": "tied warmest on record with 1934",
+            "snowpack_pct_of_normal_approx": 33,
+            "ecmwf_precipitation_anomaly_inches": -3.98,
+            "accuweather_2026_national_projection_acres_mn": "5.5-8.0",
+            "forest_service_doge_capacity_gap_positions": "1,400+",
+            "wa_drought_consecutive_years": 4,
+            "wa_snowpack_pct_of_normal_approx": 50,
+            "prepositioning_window_characterization": "7 days — one-way door; Level 1 and BLM active; Memorial Day peak human-ignition; Trout Creek season opener confirmed; 18-day unanswered letter; first federal opportunity tomorrow May 26"
+          }
+        },
+        {
+          "headline": "OHA Measles 33 Days Stale — National 1,952 / WA DOH Monday Update Window; School Window ~2 Days; OR Gas $5.35 / WA $5.78 Record Evening; 500K Oregonians on Roads; Green Card Reversal Agricultural Labor Risk; Portland $172M Shortfall",
+          "summary": "Four PNW threads. First: Oregon Health Authority measles data remains 33 days stale — the last published count of 20 confirmed cases (April 22) has not been updated through Memorial Day despite the accelerating national count (1,952 as of May 21), Washington State ongoing outbreak (40+ cases, 8 counties, Kittitas County active), and the May 12 first Oregon hospitalization (discharged, recovering). Washington DOH publishes on Mondays, Wednesdays, and Fridays — a Memorial Day Monday update was possible today; any WA update reflects weekend outbreak activity in Kittitas and the 7 other active counties. The school vaccination window has contracted to approximately 2 operative coordination days — Memorial Day consumed Monday, leaving Tuesday May 26 and Wednesday May 27 as the last organized school-based intervention window before the academic year effectively closes. Any new county outbreak declaration, second Oregon hospitalization, or school-exposure event in this window constitutes a critical escalation. Second: Oregon gasoline at $5.35 per gallon on Memorial Day evening — record 2026 high, fourth-highest in the nation. Washington holds at approximately $5.78. Approximately 500,000 Oregonians are estimated to be on the road for Memorial Day weekend road trips. The nuclear framework development (Iran agreeing to negotiate enrichment suspension and HEU removal) has structurally strengthened the deal-conditional pump-relief pathway, but the lag chain is unchanged: the earliest retail relief would arrive in late June at minimum. Third: the Trump administration's green card policy reversal remains in effect. For PNW agricultural operators, the critical labor supply window opens in late June — the start of fire season overlap with harvest season labor demand. USCIS implementation guidance is pending. Any labor supply shortfall at the late-June intersection of fire and harvest season would simultaneously reduce firefighting crew recruitment and agricultural production capacity. Fourth: Portland's $172 million structural budget shortfall deepens under record fuel costs, sub-5% 30-year Treasury territory, and state revenue compression from the supply-shock slowdown. Post-recess City Council action is required; no emergency session has been announced. The compound PNW stress vector — peak fire risk + measles accelerating + record gas prices + labor supply uncertainty + municipal fiscal strain — is at its highest coherence since the conflict began.",
+          "significance": "HIGH",
+          "actors": ["Oregon Health Authority", "OHA State Health Officer Dean Sidelinger", "WA State Department of Health", "CDC", "Kittitas County Health", "AAA Oregon/Idaho", "GasBuddy", "USCIS", "DHS", "Portland Mayor Keith Wilson", "Oregon and Washington agricultural employers", "Columbia Basin farm operators"],
+          "metrics": {
+            "or_measles_confirmed_last_published": 20,
+            "or_measles_last_published_date": "2026-04-22",
+            "or_measles_staleness_days": 33,
+            "wa_doh_monday_update_pending": true,
+            "wa_measles_2026_ytd_min": 40,
+            "wa_counties_affected": 8,
+            "kittitas_county_outbreak_active": true,
+            "first_or_hospitalization_status": "discharged, recovering",
+            "national_measles_confirmed_as_of_may21": 1952,
+            "school_vaccination_operative_days_remaining": 2,
+            "school_window_characterization": "~2 operative days — effectively final; critical escalation watch: new county, second OR hospitalization, school-exposure event",
+            "oregon_gas_price_per_gallon": 5.35,
+            "oregon_gas_record_2026": true,
+            "oregon_gas_national_rank": "4th highest",
+            "washington_gas_price_per_gallon_approx": 5.78,
+            "national_avg_gas_price_per_gallon": 4.56,
+            "memorial_day_oregon_road_trips_estimated": 500000,
+            "nuclear_deal_pump_relief_pathway": "structurally strengthened — more durable deal higher Hormuz normalization probability; late June earliest retail relief",
+            "green_card_reversal_agricultural_labor_window": "late June 2026 — intersection of fire season + harvest labor demand; USCIS guidance pending",
+            "portland_budget_shortfall_usd_mn": 172,
+            "compound_pnw_stress_coherence": "HIGHEST since conflict began — peak fire risk + measles window closing + record gas + labor uncertainty + municipal fiscal strain all simultaneous"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "Memorial Day Evening, May 25, 2026 — Hormuz Day 87, Naval Blockade Day 44, Project Freedom Pause Day 20, WPA Day 26 Past Statutory Deadline / 4 Days to 90-Day Hard Deadline May 29, Warsh Day 11. Vibe 4 — firmer than morning, with materially strengthened upward lean. The defining development of the evening cycle is the Axios/CNN reporting that nuclear commitments are now reportedly inside the deal framework: Iran has agreed in principle to never pursue nuclear weapons, to negotiate suspension of its uranium enrichment program, and to negotiate removal of its HEU stockpile. This is the most important structural evolution of the deal architecture since Day 1 of negotiations. The morning brief characterized nuclear as 'excluded from current framework text'; the evening brief characterizes it as 'reportedly included with 60-day structured negotiation window.' That is a significant upgrade. But the upgrade does not yet move the vibe to 5 for three reasons: (1) Iran's commitment is to 'negotiate over' suspension and HEU removal — not immediate zero enrichment — leaving the congressional constraint (52 senators, 177 House members demand zero enrichment at signing) unmet; (2) Tasnim confirms 'one or two clauses still persist' — the deal is not closed; (3) Mojtaba Khamenei has issued no public statement since Trump's 'largely negotiated' declaration on Saturday — 72+ hours of Supreme Leader silence is the most significant outstanding uncertainty of the cycle. Vibe 4 holds. The Khamenei binary remains the single highest-priority geopolitical signal: confirmation of nuclear framework = vibe 5; hardening or rejection = vibe 3. Brent crude held $102-106 intraday — no conviction collapse, but below the EIA $106/b baseline, consistent with the market beginning to price deal probability at a discount to the supply-shock baseline. The WPA 90-day hard deadline is 4 days away; nuclear deal text evolution does not change this — Hormuz is physically closed and the physical threshold for cessation will not be crossed before May 29. Congress returns tomorrow. Oregon fire season is Day 18 with Memorial Day marking the peak human-ignition risk day; Level 1 restrictions and BLM Day 12 restrictions are operative; Trout Creek Fire (43 acres, near Sisters) is the confirmed season-opening fire; the prepositioning window is 7 days and closing with the first federal response opportunity arriving tomorrow. The compound PNW stress vector — peak fire risk, measles school window at ~2 operative days, record gas prices, green card labor supply uncertainty, Portland fiscal strain — is at its highest coherence since the conflict began. Vibe 4.",
+  "watch_items": [
+    "Mojtaba Khamenei statement — 72+ hours silent since Trump declaration; binary: Supreme Leader confirmation of nuclear framework (never-nuclear-weapons + enrichment negotiation + HEU removal) = vibe 5; hardening or rejection = vibe 3; continued silence = vibe 4 holds at highest upward lean; SINGLE HIGHEST-PRIORITY GEOPOLITICAL SIGNAL",
+    "Araghchi / Iran FM formal text confirmation — any published Iranian FM document confirming the nuclear commitment language is the definitive positive signal; confirmation = vibe 5",
+    "Tasnim clause identification — which 'one or two clauses still persist'; timing and content of remaining dispute resolution",
+    "Brent crude Tuesday open — sustained decline below $100 = market pricing deal as probable; reversal above $107 = credibility collapse; current $102-106 range is conditional-elevated belief",
+    "May 26 — Congress returns: Quad formal ministerial New Delhi; first federal response opportunity to 18-day unanswered Oregon fire letter; WPA emergency pre-deadline session watch (3 days before May 29); Senate 8th resolution watch; White House Counsel / DOJ OLC statement on nuclear-framework WPA novel argument",
+    "May 29 — WPA 90-Day Hard Deadline: legal architecture changes regardless of deal or deal-framework status; Hormuz will not be physically open before this date; CENTCOM carrier repositioning = highest-priority resumption signal",
+    "CISA / cyber — tonight is the last night of Memorial Day gap; IRGC nuclear-framework rejection = new hardliner-signaling cyber vector; maximum monitoring through midnight; transition to elevated standard from 0800 May 26",
+    "Warsh Day 11+ — any scheduled speech, regional Fed president commentary, or Fed calendar update through June FOMC (22 days out); nuclear framework in deal is the most material disinflationary pathway signal of his chairmanship; communication gap compounding",
+    "Oregon fire season — tomorrow May 26 is first federal legislative response opportunity; watch for post-recess congressional response to 18-day delegation letter, NWS Red Flag Warning in inland Oregon/Washington, new fire ignitions from Memorial Day activity",
+    "OHA / WA DOH measles — WA DOH Monday update may have published today; watch for OR OHA emergency publication; school window ~2 operative days: new county outbreak, second OR hospitalization, school-exposure event = critical escalation with window closing",
+    "Green card policy — USCIS implementation guidance timing; Oregon and Washington agricultural employer responses entering the late-June fire/harvest labor need window"
+  ],
+  "sources": [
+    {"title": "Axios — Exclusive: What's Inside the Iran Deal Trump Is Close to Signing", "url": "https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear"},
+    {"title": "Axios — Trump Officials: Iran Deal to End War May Take Days", "url": "https://www.axios.com/2026/05/24/iran-deal-white-house-delay-days-trump"},
+    {"title": "CNN — What's in the Proposed Deal That Could End the US-Iran Conflict?", "url": "https://www.cnn.com/2026/05/24/middleeast/iran-us-proposed-deal-wwk-intl"},
+    {"title": "CBS News Live Updates — Iran-US Negotiators Agree to Broad Principles; Trump 'Time Is on Our Side'", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-peace-talks-strait-of-hormuz-control/"},
+    {"title": "Breitbart — Report: Iran Agrees to Give Up Enriched Uranium in 'Largely Negotiated' Trump-Announced Deal", "url": "https://www.breitbart.com/politics/2026/05/24/report-iran-agrees-to-give-up-enriched-uranium-in-largely-negotiated-trump%e2%80%91announced-deal/"},
+    {"title": "Wikipedia — 2025–2026 Iran–United States Negotiations", "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations"},
+    {"title": "Wikipedia — 2026 Strait of Hormuz Crisis", "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"},
+    {"title": "Al Jazeera — Has the US Accepted Iran's Demand to Settle Hormuz First, Nuclear Later?", "url": "https://www.aljazeera.com/news/2026/5/6/has-the-us-accepted-irans-demand-to-settle-hormuz-first-nuclear-later"},
+    {"title": "NPR — Rubio Arrives in India Ahead of Quad Talks; US Tries to Reset Strained Ties", "url": "https://www.npr.org/2026/05/23/nx-s1-5832394/rubio-arrives-india"},
+    {"title": "Foreign Policy — Why the Quad Was Doomed From the Start", "url": "https://foreignpolicy.com/2026/05/22/quad-marco-rubio-visit-security-india-china-australia-japan-united-states/"},
+    {"title": "Discovery Alert — Quad Foreign Ministers Meeting in New Delhi: 2026 Summit", "url": "https://discoveryalert.com.au/quad-foreign-ministers-meeting-new-delhi-critical-minerals/"},
+    {"title": "CNBC — Kevin Warsh Wins Senate Confirmation as the Next Federal Reserve Chair", "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html"},
+    {"title": "CNBC — Kevin Warsh Sworn In as Fed Chair: 'I Will Lead Reform-Oriented Federal Reserve'", "url": "https://www.cnbc.com/video/2026/05/22/fed-chair-kevin-warsh-sworn-in-will-lead-reform-oriented-federal-reserve.html"},
+    {"title": "Trading Economics — Brent Crude Oil Price Historical Data", "url": "https://tradingeconomics.com/commodity/brent-crude-oil"},
+    {"title": "EIA — Short-Term Energy Outlook", "url": "https://www.eia.gov/outlooks/steo/"},
+    {"title": "Washington Post — A Deadline for the Iran War Is Here. What Does the War Powers Act Say?", "url": "https://www.washingtonpost.com/politics/2026/05/01/iran-us-war-powers-trump/"},
+    {"title": "PBS NewsHour — Trump Says Deadline for Congress to Approve Iran War Doesn't Apply", "url": "https://www.pbs.org/newshour/politics/trump-says-deadline-for-congress-to-approve-iran-war-doesnt-apply-claiming-hostilities-have-terminated"},
+    {"title": "OPB — Central Oregon Campfire Bans Take Effect Ahead of Memorial Day Weekend", "url": "https://www.opb.org/article/2026/05/24/campfire-restrictions-deschutes-ochoco-crooked-river/"},
+    {"title": "Central Oregon Daily — Central Oregon Under Regulated Fire Use Closure", "url": "https://www.centraloregondaily.com/news/regional/odf-central-oregon-regulated-use-closure-fire-restrictions/article_65801d8d-5ab4-46b2-b8a1-dd18ff3eb77e.html"},
+    {"title": "OPB — Oregon Faces Longer Fire Season Due to Historic Heat, Drought", "url": "https://www.opb.org/article/2026/05/06/oregon-drought-weather-wildfire/"},
+    {"title": "Oregon Capital Chronicle — Oregon Faces Longer Fire Season Due to Historic Heat, Drought, Fire Experts Warn", "url": "https://oregoncapitalchronicle.com/2026/05/05/oregon-faces-longer-fire-season-due-to-historic-heat-drought-fire-experts-warn/"},
+    {"title": "OPB — Oregon's Congressional Democrats Raise Concerns About Federal Wildfire Response", "url": "https://www.opb.org/article/2026/05/07/federal-wildfire-response-fire-season-oregon-democrats-congress/"},
+    {"title": "CDC — Measles Cases and Outbreaks 2025-2026", "url": "https://www.cdc.gov/measles/data-research/index.html"},
+    {"title": "OPB — Health Officials Warn Oregon Measles Outbreak Is Growing", "url": "https://www.opb.org/article/2026/04/22/think-out-loud-measles-outbreak-health/"},
+    {"title": "WA State DOH — Measles Cases in Washington State", "url": "https://doh.wa.gov/you-and-your-family/illness-and-disease-z/measles/measles-cases-washington-state"},
+    {"title": "U.S. News — Tracking U.S. Measles 2026: 1,900 Cases Put Elimination Status at Risk", "url": "https://www.usnews.com/news/health-news/articles/tracking-the-2026-u-s-measles-outbreaks"},
+    {"title": "Fire Help Center — Urges Families to Have a Wildfire Plan in Place Before Memorial Day Weekend", "url": "https://ca.finance.yahoo.com/news/fire-help-center-urges-families-193000061.html"},
+    {"title": "NIFC — June 1, 2026 Outlook Period — May Through August Predictive Seasonal Outlook", "url": "https://www.nifc.gov/"},
+    {"title": "BLM — Fire Prevention Order Oregon and Washington, Effective May 14, 2026", "url": "https://www.blm.gov/"}
+  ]
+}
