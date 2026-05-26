@@ -524,6 +524,16 @@
       "generated_at": "2026-05-25T20:00:00-07:00"
     },
     {
+      "id": "2026-05-26-morning",
+      "date": "2026-05-26",
+      "session": "morning",
+      "file": "reports/2026-05-26-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Overnight: CENTCOM Self-Defense Strikes IRGC Mine-Laying Boats + Bandar Abbas SAM Site; IRGC Shoots Down MQ-9, Warns Retaliation; Ceasefire Fraying but Not Over; WPA 3 Days; Congress Returns; Columbia Gorge Fires; Warsh Oath Today; Vibe 3",
+      "generated_at": "2026-05-26T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-26-evening",
       "date": "2026-05-26",
       "session": "evening",
@@ -534,5 +544,5 @@
       "generated_at": "2026-05-26T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-26T20:00:00-07:00"
+  "last_updated": "2026-05-26T07:00:00-07:00"
 }
