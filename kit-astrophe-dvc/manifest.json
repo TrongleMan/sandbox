@@ -544,6 +544,16 @@
       "generated_at": "2026-05-26T20:00:00-07:00"
     },
     {
+      "id": "2026-05-27-morning",
+      "date": "2026-05-27",
+      "session": "morning",
+      "file": "reports/2026-05-27-morning.json",
+      "vibe": 4,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "CBS: Khamenei in Hiding, Communicates Via Couriers — Deal Latency Structural Not Collapse; May 26 Endorsement Stands; CPI 3.7% Due 8:30 AM; WPA T-2; Gorge Both-Sides Fire; Portland 78°F Today; Vibe 4",
+      "generated_at": "2026-05-27T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-27-evening",
       "date": "2026-05-27",
       "session": "evening",
@@ -554,5 +564,5 @@
       "generated_at": "2026-05-27T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-27T20:00:00-07:00"
+  "last_updated": "2026-05-27T07:00:00-07:00"
 }
