@@ -1,0 +1,406 @@
+{
+  "report_id": "2026-05-28-morning",
+  "generated_at": "2026-05-28T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 90; Naval Blockade Day 47; Project Freedom Pause Day 23; WPA Day 29 Past Statutory Deadline / T-1 to May 29 Hard Deadline; Warsh Day 14. Thursday May 28, 2026. The morning session opens on the 90th day of the US-Iran conflict — the same calendar milestone as the War Powers Act 90-day hard deadline arriving tomorrow. Two developments dominate. First and most urgent: Israel has escalated sharply in Lebanon on Day 12 of the 45-day ceasefire extension, launching waves of strikes across southern Lebanon and Beirut — Tyre (displacement order issued, strikes followed), Sidon (5 killed, 21 wounded, drone hit apartment housing displaced families), Adloun (6 killed, family car fleeing), motorcycle near Tyre (2 killed without warning), and Beirut's southern suburb (Dahiyeh). Lebanon's health ministry aggregate: at least 11 killed including two children, 21 wounded — incident-level reporting exceeds this. The 'second-front risk off' signal from May 16 is compromised. Second: April PCE, released this morning at 8:30 AM ET — Warsh Day 14's first major inflation data release — showed core PCE at 3.3% YoY (in line with forecasts), with headline PCE running at its highest in nearly three years, driven by Hormuz energy cost embedding. Q1 GDP second estimate also releases this morning. The deal picture is more difficult: Trump told reporters Wednesday he 'will not be rushed' into an Iran deal, and threatened Oman — 'Oman will behave just like everybody else or we'll have to blow them up' — over a proposed arrangement in which Oman and Iran would jointly charge a toll for Hormuz passage. Shamkhani's nuclear control 'fantasy' challenge enters Day 2 unresolved. Araghchi: 'unsure if imminent.' Overnight CENTCOM self-defense strikes on Iranian military targets and drones are confirmed. Rubio meeting Pakistani FM on Friday. WPA hard deadline 24 hours away; no emergency session, no pre-deadline vote, no 10th Senate resolution. In the PNW, Portland's first 80°F day of 2026 arrives today. Fox Weather reports record-breaking heat advisories issued across the Pacific Northwest. Oregon fire season advances to Day 21 with 82% of the state in active drought and the season projecting through October.",
+  "vibe": {
+    "score": 3,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 3. Down from 4 (May 27 evening). The Israel-Lebanon escalation on Day 12 of the 45-day ceasefire extension is the primary driver of this morning's vibe reduction. Waves of Israeli strikes across the Lebanese south — Tyre, Sidon (5 killed), Adloun (family fleeing, 6 killed), Tyre motorcycle (2 killed), Beirut southern suburb (Dahiyeh) — represent the most significant Israel-Lebanon deterioration since the extension was announced May 16. The ceasefire is visibly fraying; the 'second front risk off' signal that modulated the vibe upward on May 16 is no longer operationally credible at this strike intensity. Second-front risk has returned to the active threat matrix. The Iran deal picture adds three compound negatives: (1) Trump 'will not be rushed' — explicitly extends deal latency horizon; (2) Oman threat ('blow them up') introduces a Gulf partner fracture signal; (3) Shamkhani Day 2 nuclear 'fantasy' challenge unresolved. PCE 3.3% core in-line is the most constructive element of the morning and prevents a drop to 2: the catastrophic >4.0% scenario that would have materially altered June FOMC calculus did not materialize. The case against 2: PCE in-line, deal alive (Khamenei endorsement stands, no counter-signal), overnight CENTCOM strikes within established self-defense pattern, no Brent spike above $107. The case against 4: Israel-Lebanon ceasefire breakdown is a genuine new negative reopening a second front, WPA T-1 creates irreversibility at midnight tomorrow, Trump 'won't rush' extends deal uncertainty, Shamkhani challenge unresolved, global PMI stalled. Vibe 3. Return to 4 requires: Israeli-Lebanese ceasefire holding signal plus Iranian FM formal nuclear text. Drop to 2 requires: Israeli strikes confirm ceasefire formal collapse with Hezbollah retaliation; Iranian counter-signal on nuclear framework; CENTCOM repositioning indicating May 29 offensive preparation."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 90; Naval Blockade Day 47; Project Freedom Pause Day 23; WPA T-1. CRITICAL: Israel-Lebanon ceasefire Day 12 fraying — waves of strikes hit Tyre, Sidon (5 killed), Adloun (6 killed), Beirut southern suburb; 45-day extension second-front mitigation compromised; second-front risk returns to active matrix. Iran deal: Trump 'won't be rushed,' threatened Oman over toll proposal; overnight CENTCOM strikes confirmed; Shamkhani Day 2 nuclear 'fantasy' challenge unresolved; Araghchi 'unsure if imminent.' Rubio-Pakistan FM Friday. WPA hard deadline 24 hours away; no emergency session; deal not signed. S&P Global PMI: global business growth stalled in May — 3-month war toll embedding.",
+      "items": [
+        {
+          "headline": "Iran Deal + WPA T-1: Trump 'Won't Be Rushed,' Threatens Oman; Overnight CENTCOM Strikes; Shamkhani Day 2 Unresolved; Hormuz Day 90 = WPA 90-Day Calendar Milestone",
+          "summary": "The Iran deal and WPA picture entering May 28 morning carries four significant developments from Wednesday and overnight. First: Trump explicitly told reporters he 'will not be rushed' into a deal with Iran, adding that Iran's efforts to outlast him would fail because he doesn't 'care about the midterms.' This statement materially extends the deal uncertainty horizon and negates the 2-3 day countdown urgency from last week. Second: Trump issued a threat against Oman — 'Oman will behave just like everybody else or we'll have to blow them up' — following reports of a proposed arrangement in which Oman and Iran would jointly charge a toll for ships passing through the Strait of Hormuz. The toll proposal represents a novel deal architecture that departs from the Witkoff/Rubio framework; the Oman threat introduces a Gulf partner fracture signal. Third: overnight CENTCOM self-defense strikes on Iranian military targets and drones are confirmed — within the established operational pattern but notable given the deal-negotiation backdrop. Fourth: Shamkhani's May 27 evening declaration that US nuclear control is a 'fantasy' enters Day 2 unresolved — no Iranian moderating counter-statement has been issued. Araghchi: 'unsure if imminent.' Cumulative signal: the deal is alive (Khamenei endorsement stands; no counter-signal) but Trump's public posture has shifted from optimistic urgency to strategic patience. WPA hard deadline is 24 hours away. Today is the 90th day of the Hormuz conflict — the same number as the WPA hard ceiling — a symbolic convergence point. No emergency session. No pre-deadline House floor vote. Senate: 9 resolutions rejected; no 10th filed. Bipartisan House majority (Golden bloc) unactivated. Administration legal posture: 'hostilities terminated' — does not survive May 29 plain-text; naval blockade, CENTCOM strikes, and Hormuz closure remain operational. Deal not signed. Rubio meeting Pakistani FM on Friday May 29.",
+          "significance": "CRITICAL",
+          "actors": [
+            "Donald Trump", "Mojtaba Khamenei", "Abbas Araghchi", "Ali Shamkhani",
+            "Steve Witkoff", "Marco Rubio", "Pete Hegseth", "CENTCOM",
+            "Mike Johnson", "John Thune", "Rep. Jared Golden",
+            "Iran Foreign Ministry", "IRGC", "Oman government"
+          ],
+          "metrics": {
+            "hormuz_closed_days": 90,
+            "naval_blockade_active_days": 47,
+            "project_freedom_pause_day": 23,
+            "wpa_days_past_statutory_deadline": 29,
+            "wpa_90day_hard_deadline": "2026-05-29",
+            "wpa_days_to_hard_deadline": 1,
+            "wpa_hours_to_hard_deadline": 24,
+            "trump_deal_posture": "'Will not be rushed' — strategic patience replaces urgency timeline",
+            "oman_threat_issued": true,
+            "oman_toll_proposal": "Oman/Iran joint Hormuz toll reported; Trump threatened Oman in response",
+            "shamkhani_nuclear_challenge_day": 2,
+            "shamkhani_nuclear_position": "Nuclear control 'fantasy' — May 27 evening; unresolved Day 2",
+            "araghchi_position": "'Unsure if imminent' — May 27 evening",
+            "centcom_overnight_strikes": "confirmed — Iranian military targets and drones",
+            "deal_signed": false,
+            "fm_formal_nuclear_text": "not issued",
+            "khamenei_endorsement_status": "ON RECORD (May 26 US intel) — courier-architecture imprecision caveat; no counter-signal as of filing",
+            "emergency_session_announced": false,
+            "pre_deadline_house_vote_scheduled": false,
+            "senate_wpa_resolutions_rejected": 9,
+            "tenth_wpa_resolution_filed": false,
+            "hormuz_physical_status": "closed — blockade active",
+            "rubio_pakistan_fm_meeting": "Friday May 29",
+            "wpa_90day_conflict_day_convergence": "Hormuz Day 90 = WPA 90-day hard deadline day — symbolic convergence",
+            "watch_signals": [
+              "May 29 midnight — WPA hard deadline; deal signed = cleanest legal exit; no deal = legal architecture change",
+              "CENTCOM carrier repositioning today = highest-priority escalation signal",
+              "Iranian FM formal nuclear text — any publication today = deal on track; continued absence = Vibe 3 holds",
+              "Oman government response to Trump threat — Gulf coalition fracture assessment",
+              "Shamkhani Day 2 counter-statement — any softening = deal alive signal",
+              "Brent crude — sustained below $95 = deal conviction; above $107 = credibility collapse"
+            ]
+          }
+        },
+        {
+          "headline": "CRITICAL: Israel-Lebanon Ceasefire Day 12 Fraying — Waves of Strikes Hit Tyre, Sidon (5 Killed), Adloun (6 Killed), Beirut Suburb; Second-Front Risk Returns to Active Matrix",
+          "summary": "The most significant geopolitical development entering May 28 morning is the sharp Israeli escalation in Lebanon on Day 12 of the 45-day ceasefire extension. Israel launched waves of strikes across southern Lebanon and Beirut. Confirmed incidents: (1) Tyre — displacement order issued for eight buildings in the coastal city and surrounding neighborhoods; strikes followed. (2) Sidon — Israeli drone struck an apartment building housing displaced families; 5 killed, 21 wounded. (3) Adloun — Israeli drone struck a car carrying a fleeing family; 6 killed. (4) Near Tyre — drone strike on a motorcycle without warning; 2 killed. (5) Beirut southern suburb (Dahiyeh) — Israeli air strike; white smoke from residential area. Lebanon's health ministry aggregate: at least 11 killed including two children, 21 wounded (partial; incident-level exceeds this). Both sides accuse the other of ceasefire violations. The 2026 Israel-Lebanon ceasefire 'was supposed to have taken effect on 17 April but has never been fully observed' (Wikipedia). The 45-day extension (agreed May 16) was characterized at the time as 'second-front risk off' — that assessment is now compromised. This morning's Israeli strike wave is the most operationally significant since the extension was agreed. Analytical implications: (1) The second-front risk has returned to the active threat matrix — direct input to the Vibe 3 morning assessment. (2) The strike pattern — targeting Tyre, Sidon, displacement corridors, and Dahiyeh — is consistent with prior suppression-of-rocket-capacity operations, but at this intensity also consistent with preparatory suppression if an Iran nuclear site strike is in preparation (prior US official reporting on Israeli intentions carries forward). This is a HIGH UNCERTAINTY interpretation but within the established operational logic. (3) Hezbollah formal retaliation response is a key watch — any rocket barrage into northern Israel = ceasefire formally dead = second front open. CISA: clean streak Day 25 holds overnight.",
+          "significance": "CRITICAL",
+          "actors": [
+            "Israel Defense Forces", "Hezbollah", "Lebanese Armed Forces",
+            "Lebanon Health Ministry", "CENTCOM", "Israel government",
+            "US State Department", "Marco Rubio", "UN UNIFIL"
+          ],
+          "metrics": {
+            "israel_lebanon_ceasefire_extension_day": 12,
+            "ceasefire_extension_agreed_date": "2026-05-16",
+            "ceasefire_45day_expiry": "2026-06-30",
+            "tyre_displacement_order": true,
+            "sidon_strikes_killed": 5,
+            "sidon_strikes_wounded": 21,
+            "adloun_strikes_killed": 6,
+            "tyre_motorcycle_killed": 2,
+            "beirut_dahiyeh_struck": true,
+            "lebanon_health_ministry_confirmed_killed": 11,
+            "confirmed_children_killed": 2,
+            "confirmed_total_wounded": 21,
+            "ceasefire_status": "FRAYING — Day 12 escalation most severe since May 16 extension; second-front risk no longer mitigated",
+            "second_front_risk_assessment": "RETURNED TO ACTIVE MATRIX — 45-day extension mitigation compromised at this strike intensity",
+            "preparatory_suppression_interpretation": "consistent with IDF pattern ahead of coordinated Iran strike — HIGH UNCERTAINTY",
+            "hezbollah_retaliation_status": "watch — formal rocket barrage = ceasefire dead = second front open",
+            "cisa_clean_streak_days": 25,
+            "fbi_ic3_flash_issued_overnight": false,
+            "ot_ics_incident_confirmed_overnight": false,
+            "irgc_cyber_monitoring": "STANDARD ELEVATED — Israel-Lebanon reopening does not reduce IRGC risk"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "PCE released this morning (8:30 AM ET): Core PCE April 3.3% YoY — in line with forecasts; headline at highest in nearly 3 years driven by Hormuz energy cost embedding. Warsh Day 14 first major inflation report — no public statement issued. Q1 GDP second estimate also released today; advance was +2.0% annualized. Fed funds 3.50-3.75%; June FOMC 19 days out. S&P Global PMI: business growth stalled globally in May — 3-month war toll embedding; Europe in decline. NextEra/Dominion $67B deal reshapes AI power infrastructure. Snowflake +37.5% on AWS $6B commitment. US500 7,503 (-0.23%); Dow +220 at records. OR gas $5.35 / national $4.564.",
+      "items": [
+        {
+          "headline": "PCE Core 3.3% In-Line; Headline at 3-Year High; Q1 GDP Second Estimate Today; Warsh Day 14 First Major Inflation Test — No Statement Issued",
+          "summary": "April Personal Consumption Expenditures released this morning at 8:30 AM ET — the Federal Reserve's preferred inflation gauge and Warsh Day 14's first major data release as Chair. Core PCE (excluding food and energy) rose 3.3% YoY in April, in line with economists' forecasts. Headline PCE is at its highest in nearly three years, driven by Hormuz-derived energy cost embedding across gasoline, fuel oil, and transportation categories — the 90-day blockade's supply-chain impact is now fully embedded in the April baseline. CBS News headline: 'The first inflation report under new Fed chief Kevin Warsh shows prices at highest in nearly 3 years.' Analytical assessment: the core 3.3% in-line result avoids the catastrophic >4.0% scenario that would have materially altered June FOMC calculus. This is the most constructive economic data point of the morning and prevents a further vibe deterioration on the economic channel alone. However, headline-at-3-year-high reinforces the consumer affordability crisis — CNN Business reporting consumer sentiment at all-time low, worse than Great Recession or pandemic; bankruptcy filings rising three consecutive years; personal savings at three-year low. Warsh has issued no public statement on this PCE report or on his policy framework. June FOMC is 19 days away; the communication vacuum after two consecutive weeks of hot inflation data is itself a market signal. Q1 GDP second estimate releases today alongside PCE: the advance was +2.0% annualized (rebound from Q4 2025's +0.5%). Second estimate incorporates more complete trade flow, services consumption, and corporate inventory data. Key watch: PCE deflator revision direction — downward real growth with upward deflator confirms stagflation. Cleveland Fed Nowcast carried from May 28 evening prior filing: 4.18%. Fed funds: 3.50-3.75%; hold expected through June by consensus.",
+          "significance": "HIGH",
+          "actors": [
+            "Kevin Warsh", "Federal Reserve FOMC", "BEA", "CME FedWatch",
+            "BLS", "Cleveland Fed", "bond market", "S&P 500"
+          ],
+          "metrics": {
+            "warsh_era_day": 14,
+            "warsh_public_statement_count_since_oath": 0,
+            "april_pce_core_yoy_pct": 3.3,
+            "april_pce_core_vs_forecast": "IN LINE",
+            "april_pce_headline_status": "highest in nearly 3 years",
+            "pce_energy_driver": "Hormuz energy cost embedding — gasoline/fuel oil 90-day blockade supply-chain impact",
+            "catastrophic_pce_threshold_avoided": true,
+            "hot_threshold_definition": ">4.0% = materially alters June FOMC calculus",
+            "q1_gdp_second_estimate_release": "today 2026-05-28 8:30 AM ET",
+            "q1_gdp_advance_estimate_pct": 2.0,
+            "q1_gdp_q4_2025_pct": 0.5,
+            "q1_gdp_second_estimate_watch": "PCE deflator revision direction; stagflation characterization confirmation",
+            "cleveland_nowcast_april_pce_pct": 4.18,
+            "fed_funds_rate_range_pct": "3.50-3.75",
+            "days_to_june_fomc": 19,
+            "june_fomc_date": "2026-06-16/17",
+            "june_fomc_consensus": "hold — hike odds elevated, cut odds negligible",
+            "consumer_sentiment": "all-time low per CNN Business — worse than Great Recession/pandemic",
+            "bankruptcy_filings_trend": "rising three consecutive years",
+            "personal_savings": "three-year low"
+          }
+        },
+        {
+          "headline": "NextEra/Dominion $67B AI Power Deal; Snowflake +37.5% AWS $6B; S&P Global PMI Stalls; Markets Enter Session Mixed",
+          "summary": "Secondary economic developments. First: NextEra Energy is acquiring Dominion Energy in an all-stock deal valued at approximately $67 billion (announced May 18, 2026). The combined entity becomes the world's largest regulated utility and third-largest US energy infrastructure company. Strategic thesis is explicitly AI-oriented: meet surging data center electricity demand; use AI to drive construction and operations efficiencies. Bloomberg: NextEra is betting the Dominion deal can 'speed US infrastructure for AI.' This is the largest single bet on AI power infrastructure to date. Regulatory approval required from FERC, state public utility commissions, and shareholders. Completion timeline: 2027 at earliest. Second: Snowflake surged 37.5% in after-hours following better-than-expected Q1 earnings and a $6 billion, 5-year AWS spending commitment — continuing the AI infrastructure investment acceleration narrative into the morning. Third: S&P Global flash PMI surveys (May) show business growth stalled as the Middle East war exerts a growing economic toll. Europe hardest hit — UK and eurozone both in decline. US and Japanese economies have decelerated. First PMI reading to fully capture the 3-month war's supply chain and demand impact. Fourth: market context entering Thursday. US500 fell to 7,503 (-0.23% from prior session); Dow +220 at records (divergence reflecting rotation dynamics). Futures little changed entering Thursday open. Oregon gas: $5.35/gallon (2026 record, 4th highest nationally). National: $4.564.",
+          "significance": "MODERATE",
+          "actors": [
+            "NextEra Energy", "Dominion Energy", "FERC", "Snowflake",
+            "Amazon Web Services", "S&P Global", "Kevin Warsh"
+          ],
+          "metrics": {
+            "nextera_dominion_deal_value_usd_bn": 67,
+            "nextera_dominion_deal_structure": "all-stock",
+            "nextera_dominion_strategic_focus": "AI data center power demand + renewable integration",
+            "nextera_dominion_combined_entity": "world's largest regulated utility; 3rd largest US energy infrastructure company",
+            "nextera_dominion_regulatory_approval": "pending — FERC, state PUCs, shareholders",
+            "snowflake_afterhours_gain_pct": 37.5,
+            "snowflake_aws_deal_value_usd_bn": 6,
+            "snowflake_aws_deal_duration_years": 5,
+            "spglobal_pmi_may_global_status": "STALLED — Europe UK/eurozone in decline; US/Japan decelerated",
+            "spglobal_pmi_war_toll_assessment": "growing — first reading fully capturing 3-month conflict impact",
+            "us500_close": 7503,
+            "us500_change_pct": "-0.23%",
+            "dow_change_points": "+220",
+            "futures_entering_thursday": "little changed",
+            "oregon_gas_per_gallon": 5.35,
+            "oregon_gas_national_rank": "4th highest nationally",
+            "national_gas_average": 4.564
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "Oregon fire season Day 21: 82% of Oregon in active drought — most severe pre-season drought footprint in modern record; season projecting through October; Level 1 Central Oregon Day 11 (Deschutes, Ochoco, Crooked River); BLM full OR/WA restrictions Day 15; T-4 to June 1 east Cascades above-normal onset. Portland first 80°F+ day of 2026 today — Fox Weather records-breaking heat advisories issued across PNW; 20-25°F above late-May average. Bureau of Reclamation central Washington rationing Day 8. CISA Day 25 clean. NextEra/Dominion $67B reshapes US power grid planning. BUILD America 250 Act passed Transportation Committee.",
+      "items": [
+        {
+          "headline": "Oregon 82% Drought + Fire Season Day 21 Through October; Level 1 Central OR Day 11; BLM Day 15; T-4 to June 1 East Cascades; Portland First 80°F Today; PNW Heat Advisories; Reclamation Day 8; CISA Day 25 Clean",
+          "summary": "Oregon's wildfire infrastructure picture advances to Fire Season Day 21 against an unprecedented drought baseline. ODF reports 82% of Oregon in active drought — the largest pre-season drought footprint in modern state record per Oregon Capital Chronicle. Cascades of Southern Oregon at extreme drought designation, rare for springtime. The 2026 winter was one of the warmest on record dating to the 1890s with the smallest snow accumulation ever recorded in some indices. AccuWeather projects 'persistent wildfire risk' through the season; ODF/USFS experts project the season through October — 4+ months of elevated risk ahead. Restrictions in force: Level 1 (campfire/debris burn ban) in Central Oregon (Deschutes, Ochoco, Crooked River) at Day 11; BLM full OR/WA restrictions at Day 15. T-4 to June 1 above-normal east Cascades onset per NIFC seasonal outlook. No confirmed new ignitions overnight. Weather: Portland's first 80°F+ day of 2026 arrives today (Thursday May 28) per NWS Portland. Fox Weather reports record-breaking heat advisories issued across the Pacific Northwest as building high pressure drives temperatures 20-25 degrees above late-May averages. NWS characterizes the PNW as the nation's summer hotspot at 60%+ above-normal probability June-August — same pattern that preceded the 2021 heat dome. Bureau of Reclamation water rationing for central Washington irrigators: Day 8 (began May 21). Drought active in Oregon, Idaho, and Eastern Washington. Oregon delegation letter to federal fire agencies: Day 21 unanswered. CISA: Day 25 clean. No FBI IC3 flash overnight. No OT/ICS incident confirmed. IRGC cyber monitoring: standard elevated — Israel-Lebanon reopening does not reduce IRGC risk.",
+          "significance": "HIGH",
+          "actors": [
+            "Oregon Department of Forestry", "BLM Oregon-Washington",
+            "NWS Portland", "NWS Seattle", "NIFC", "AccuWeather",
+            "Bureau of Reclamation", "Forest Service Region 6",
+            "CISA", "FBI", "NSA", "Oregon Governor Tina Kotek",
+            "Oregon congressional delegation"
+          ],
+          "metrics": {
+            "oregon_fire_season_active_day": 21,
+            "oregon_drought_pct_in_active_drought": 82,
+            "cascades_southern_oregon_drought_level": "EXTREME — rare springtime designation",
+            "season_projection": "through October 2026 — 4+ months remaining",
+            "central_oregon_stage1_restrictions_day": 11,
+            "central_oregon_stage1_districts": ["Deschutes NF", "Ochoco NF", "Crooked River National Grassland"],
+            "blm_full_or_wa_restrictions_day": 15,
+            "days_to_above_normal_east_cascades": 4,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "new_ignitions_confirmed_overnight": false,
+            "portland_today_forecast_high_f": 80,
+            "portland_first_80f_day_2026": true,
+            "pnw_heat_advisories_issued": true,
+            "pnw_heat_above_average_degrees": "20-25 above late-May average",
+            "pnw_summer_hotspot_probability_pct_min": 60,
+            "pnw_summer_hotspot_months": ["June", "July", "August"],
+            "bureau_of_reclamation_rationing_day": 8,
+            "bureau_of_reclamation_area": "Central Washington irrigators",
+            "drought_active_states": ["Oregon", "Idaho", "Eastern Washington"],
+            "oregon_delegation_letter_days_unanswered": 21,
+            "cisa_clean_streak_days": 25,
+            "fbi_ic3_flash_overnight": false,
+            "ot_ics_incident_overnight": false,
+            "irgc_cyber_monitoring": "STANDARD ELEVATED — Israel-Lebanon reopening does not reduce IRGC risk"
+          }
+        },
+        {
+          "headline": "NextEra/Dominion $67B AI Power Grid Bet; BUILD America 250 Act Committee Pass; FAA $12.5B ATC Investment Dashboard Live",
+          "summary": "Federal and commercial infrastructure items. First: the NextEra/Dominion $67 billion all-stock merger (announced May 18) creates the world's largest regulated utility and primary commercial infrastructure bet on AI data center power demand. The combined entity's capital allocation will prioritize highest-demand corridors; FERC, state PUC, and shareholder approvals required. Bloomberg characterizes the deal as NextEra betting it can 'speed US infrastructure for AI.' PNW implication: NextEra has existing wind/solar operations in the region; deal creates scale advantage for future Pacific Northwest data center contracts. Second: the Transportation and Infrastructure Committee approved H.R. 8870, the BUILD America 250 Act, following a 14-hour markup on May 21. Infrastructure investment framework advancing through reconciliation architecture. Third: the FAA launched a public-facing dashboard on May 22 mapping how $12.5 billion from prior infrastructure funding is being deployed into air traffic control facilities nationwide. Fourth: USDOT invested an additional $200 million on May 20 toward a station project on track for 2027 groundbreaking. Fifth: VA announced nearly $600 million in infrastructure improvements in Q2 FY2026.",
+          "significance": "MODERATE",
+          "actors": [
+            "NextEra Energy", "Dominion Energy", "FERC",
+            "Transportation and Infrastructure Committee", "FAA", "USDOT",
+            "Department of Veterans Affairs"
+          ],
+          "metrics": {
+            "nextera_dominion_deal_value_usd_bn": 67,
+            "nextera_dominion_regulatory_status": "pending — FERC, state PUCs, shareholders",
+            "nextera_dominion_completion_target": "2027 at earliest",
+            "build_america_250_act_status": "COMMITTEE PASSED — May 21, 14-hr markup",
+            "faa_atc_dashboard_launched": "2026-05-22",
+            "faa_atc_total_investment_usd_bn": 12.5,
+            "usdot_station_investment_usd_mn": 200,
+            "usdot_station_groundbreaking_target": "2027",
+            "va_infrastructure_q2_usd_mn": 600
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA T-1: May 29 hard deadline 24 hours away; Congress in session Day 3 post-Memorial Day; no emergency session, no pre-deadline vote, no 10th Senate resolution. Administration 'hostilities terminated' posture holds; deal not signed. Texas primary runoff: Paxton defeats Cornyn by 25+ points (Trump endorsement) — resets November TX Senate landscape. Trump federal employee government-wide NDA proposal circulating. Acting DNI Day 6: Israel-Lebanon escalation adds new IC assessment requirement — IDF second-front/preparatory suppression calculus. PCE/GDP Warsh Day 14 first substantive test: no statement issued.",
+      "items": [
+        {
+          "headline": "WPA T-1 — 24 Hours: No Emergency Session, No Vote, No 10th Resolution; Congress Day 3; Trump 'Won't Rush'; Acting DNI Day 6 — New Israel-Lebanon IC Requirement; Texas Paxton Beats Cornyn",
+          "summary": "The War Powers Act hard deadline is 24 hours away. Today (May 28) is T-1 — the final pre-deadline legislative day. Congress is in session (Day 3 post-Memorial Day return). No emergency session announced by Johnson or Thune. No pre-deadline House floor vote scheduled — leadership explicitly deferred to early June. Senate: 9 resolutions rejected; no 10th filed. Democrats have raised lawsuit possibility; no filing made. Bipartisan House majority (Golden bloc, 6+ Republicans) real and unactivated. Administration legal posture: 'hostilities terminated' — does not survive May 29 plain-text; naval blockade (Day 47), overnight CENTCOM strikes, and physical Hormuz closure are operational. Deal not signed. A deal signed before May 29 midnight remains the administration's cleanest legal exit. Trump's 'won't be rushed' statement Wednesday does not help this exit path. Acting DNI: vacancy (Gabbard resigned May 22) at Day 6. The Israel-Lebanon escalation on Day 12 creates a new IC assessment requirement: assess whether IDF southern Lebanon strike pattern (Tyre, Sidon, Dahiyeh) indicates preparatory suppression ahead of a coordinated Iran nuclear infrastructure strike. This assessment requires IC coordination an acting director handles with reduced institutional authority. Austria BVT intelligence credibility assessment (May 26) unresolved. Texas primary runoff: Trump-endorsed Ken Paxton defeated incumbent Sen. John Cornyn by more than 25 points. Trump-endorsed candidates won all but two May primary races against incumbent Republicans — structural realignment of GOP primary electorate confirmed. Trump administration has proposed a government-wide NDA for new and existing federal employees — implementation scope and legal durability pending.",
+          "significance": "HIGH",
+          "actors": [
+            "Donald Trump", "Mike Johnson", "John Thune", "Rep. Jared Golden",
+            "Sen. John Cornyn", "Ken Paxton", "Acting DNI",
+            "Pete Hegseth", "CENTCOM", "Senate Democratic caucus",
+            "Israel Defense Forces"
+          ],
+          "metrics": {
+            "wpa_days_past_statutory_deadline": 29,
+            "wpa_90day_hard_deadline": "2026-05-29",
+            "wpa_days_to_hard_deadline": 1,
+            "wpa_hours_to_hard_deadline": 24,
+            "emergency_session_announced": false,
+            "pre_deadline_house_vote_scheduled": false,
+            "senate_wpa_resolutions_rejected": 9,
+            "tenth_wpa_resolution_filed": false,
+            "democrat_lawsuit_filed": false,
+            "administration_legal_posture": "'hostilities terminated' — does not survive May 29 plain-text; blockade/strikes ongoing",
+            "deal_signed": false,
+            "cleanest_legal_exit": "deal signed before May 29 midnight",
+            "acting_dni_vacancy_day": 6,
+            "acting_dni_new_ic_requirement": "IDF Lebanon strike pattern — preparatory suppression ahead of Iran nuclear strike; HIGH UNCERTAINTY; Austria BVT unresolved",
+            "texas_senate_primary_result": "Paxton defeats Cornyn by 25+ points — Trump endorsement decisive",
+            "trump_may_primary_endorsement_win_rate": "all but 2 races vs. incumbent Republicans",
+            "federal_employee_nda_status": "proposed — scope and legal durability pending",
+            "watch_signals": [
+              "Emergency House session announcement today — last realistic pre-deadline action",
+              "WH Counsel / DOJ OLC public posture on May 29 legal architecture",
+              "CENTCOM carrier repositioning today = highest-priority escalation signal",
+              "May 29 — WPA Day 90: legal architecture changes regardless of deal status"
+            ]
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Portland first 80°F day of 2026 confirmed today — PNW record-breaking heat advisories issued; 20-25°F above late-May average; NWS 60%+ above-normal June-August summer hotspot. Oregon fire season Day 21: 82% drought (modern record), season through October; Level 1 Central OR Day 11; BLM Day 15; T-4 to June 1 east Cascades onset. Bureau of Reclamation central Washington rationing Day 8. OR gas $5.35 record; WA ~$5.78. Compound PNW stress at maximum coherence of conflict cycle — heat + drought + fire + water + fuel costs + labor uncertainty simultaneous.",
+      "items": [
+        {
+          "headline": "Portland First 80°F Day of 2026 Today; PNW Record-Breaking Heat Advisories Issued — 20-25° Above Average; NWS 60%+ Above-Normal June-August Hotspot; OR Fire Day 21; 82% Drought; Reclamation Day 8",
+          "summary": "The Pacific Northwest's thermal benchmark arrives today: Portland records its first 80°F+ day of 2026 (Thursday, May 28). Fox Weather reports record-breaking heat advisories issued across the Pacific Northwest as building high pressure drives temperatures 20-25 degrees above late-May averages from Seattle to Portland. NWS characterizes the PNW as the nation's summer hotspot at 60%+ above-normal probability for June through August. The early-season heat surge's significance extends beyond the calendar anomaly: bodies acclimated to cool spring temperatures are at elevated heat illness risk even at 80°F levels that feel manageable later in summer — the same dynamic that preceded the deadly 2021 heat dome. Oregon fire season advances to Day 21 against an 82% drought baseline — the largest pre-season drought footprint in modern state record. Southern Oregon Cascades in extreme drought, rare for springtime. Season projecting through October. Restrictions: Level 1 Central Oregon Day 11 (campfire/debris burn ban: Deschutes, Ochoco, Crooked River); BLM full OR/WA Day 15. T-4 to June 1 above-normal east Cascades onset. No confirmed new ignitions overnight. Bureau of Reclamation water rationing for central Washington irrigators: Day 8 (began May 21). Drought active in Oregon, Idaho, and Eastern Washington. Oregon delegation letter to federal fire agencies: Day 21 unanswered — congressional bandwidth consumed by WPA deadline. Oregon gas: $5.35/gallon (2026 record, 4th highest nationally). Washington: approximately $5.78. PCE core 3.3% + energy 28%+ YoY compounds household affordability pressure — pump-price relief from any deal signed this week is late June at earliest. Compound PNW stress vector — warming dry trend accelerating + fire Day 21 + June 1 T-4 + Reclamation Day 8 + gas records + labor uncertainty (green card labor 4 weeks to harvest intersection; USCIS guidance pending) + Portland budget $172M shortfall unresolved — is at maximum coherence of the conflict cycle.",
+          "significance": "HIGH",
+          "actors": [
+            "NWS Portland", "NWS Seattle", "Oregon Department of Forestry",
+            "BLM Oregon-Washington", "Washington DNR", "Bureau of Reclamation",
+            "NIFC", "Forest Service Region 6", "AccuWeather",
+            "Oregon Governor Tina Kotek", "Oregon congressional delegation",
+            "Portland Emergency Management", "Portland Mayor Keith Wilson"
+          ],
+          "metrics": {
+            "portland_first_80f_day_2026": "TODAY — Thursday May 28",
+            "pnw_heat_advisories_issued": true,
+            "pnw_heat_above_average_degrees": "20-25 above late-May average",
+            "pnw_summer_hotspot_probability_pct_min": 60,
+            "pnw_summer_hotspot_months": ["June", "July", "August"],
+            "oregon_fire_season_active_day": 21,
+            "oregon_drought_pct": 82,
+            "cascades_southern_oregon_drought": "EXTREME — rare springtime designation",
+            "season_projection": "through October 2026",
+            "central_oregon_stage1_day": 11,
+            "central_oregon_stage1_districts": ["Deschutes NF", "Ochoco NF", "Crooked River National Grassland"],
+            "blm_or_wa_restrictions_day": 15,
+            "days_to_june1_east_cascades_onset": 4,
+            "new_ignitions_confirmed_overnight": false,
+            "bureau_of_reclamation_rationing_day": 8,
+            "bureau_of_reclamation_area": "Central Washington irrigators",
+            "drought_active_states": ["Oregon", "Idaho", "Eastern Washington"],
+            "oregon_delegation_letter_days_unanswered": 21,
+            "oregon_gas_per_gallon": 5.35,
+            "oregon_gas_national_rank": "4th highest nationally",
+            "washington_gas_per_gallon_approx": 5.78,
+            "gas_pump_relief_deal_earliest": "late June 2026",
+            "green_card_labor_weeks_to_harvest_intersection": 4,
+            "uscis_guidance_status": "pending",
+            "portland_budget_shortfall_usd_mn": 172,
+            "compound_pnw_stress_coherence": "MAXIMUM of conflict cycle — heat + 82% drought + fire Day 21 + Reclamation Day 8 + June 1 T-4 + gas records + labor uncertainty + Portland budget simultaneous"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 28, 2026 Morning — Hormuz Day 90, Naval Blockade Day 47, Project Freedom Pause Day 23, WPA Day 29 Past Statutory / T-1 to May 29 Hard Deadline, Warsh Day 14. Vibe 3. The 90th day of the US-Iran conflict opens with the WPA hard deadline 24 hours away and two primary new negatives. First: Israel's sharp escalation in Lebanon on Day 12 of the 45-day ceasefire extension — waves of strikes across Tyre, Sidon (5 killed), Adloun (family fleeing, 6 killed), and Beirut's Dahiyeh, with Lebanon's health ministry reporting 11+ killed including two children — reopens the second-front risk the May 16 extension was designed to foreclose. The ceasefire is fraying; the second-front risk mitigation signal is compromised. Second: Trump's explicit 'won't be rushed' posture on the Iran deal, plus the Oman threat ('blow them up'), materially extends the deal uncertainty horizon going into the WPA hard deadline. Shamkhani's Day 2 nuclear 'fantasy' challenge unresolved. Overnight CENTCOM strikes on Iranian targets confirmed. The constructive element: PCE core 3.3% in-line avoids the catastrophic >4.0% scenario, preventing a further vibe deterioration on the economic channel — Warsh Day 14's first inflation data release is a pass, not a disaster, though headline is at a 3-year high. Q1 GDP second estimate also releases today. Warsh has issued no public statement. WPA T-1: Congress in session; no emergency session; bipartisan House majority unactivated. In the PNW, Portland's first 80°F day of 2026 arrives against an 82% Oregon drought baseline, record PNW heat advisories, and a fire season now projecting through October. Compound PNW stress at maximum coherence. Vibe 3.",
+  "watch_items": [
+    "May 29 WPA hard deadline — 24 hours: CENTCOM carrier repositioning TODAY = highest-priority escalation signal; emergency session announcement = last pre-deadline legislative action; deal signed before midnight = cleanest legal exit",
+    "Israel-Lebanon ceasefire Day 12 breakdown: any formal Hezbollah retaliation (rocket barrage into northern Israel) = ceasefire dead = second front open = Vibe 2; IDF operational posture — preparatory Iran suppression interpretation watch",
+    "Iran deal: Iranian FM formal nuclear text — still absent; Shamkhani Day 2 counter-statement or moderation; Oman government response to Trump threat; 'won't be rushed' timeline reassessment",
+    "Warsh Day 14 — any public statement after first PCE as Chair (3.3% core); June FOMC 19 days out; communication vacuum after two hot inflation weeks is now a market signal",
+    "Q1 GDP second estimate: revision direction from +2.0% advance — PCE deflator upward + real growth downward = stagflation confirmed; benign revision = constructive",
+    "Oregon fire Day 21 — ODF/BLM/NWS morning reports; Level 1 Central OR Day 11; BLM Day 15; T-4 to June 1 east Cascades above-normal onset; any new ignitions",
+    "PNW heat — Portland 80°F+ first of 2026; NWS Red Flag Watch upgrade watch for inland OR/WA; heat illness reports from vulnerable communities; summer hotspot pattern establishment",
+    "Brent crude — sustained below $95 = deal conviction pricing; above $107 = credibility collapse signal; watch response to overnight CENTCOM strikes and Israel-Lebanon escalation"
+  ],
+  "sources": [
+    {
+      "title": "Times of Israel — Liveblog May 28, 2026 (Rubio-Pakistan FM Meeting Friday, Geopolitical)",
+      "url": "https://www.timesofisrael.com/liveblog-may-28-2026/"
+    },
+    {
+      "title": "Just Security — Early Edition: May 28, 2026",
+      "url": "https://www.justsecurity.org/140153/early-edition-may-28-2026/"
+    },
+    {
+      "title": "S&P Global — Three Months into Iran War: Daily Update May 28, 2026",
+      "url": "https://www.spglobal.com/en/research-insights/market-insights/daily-update-may-28-2026"
+    },
+    {
+      "title": "XTB — Economic Calendar: A Snapshot of US Economy After 3 Months of War (28.05.2026)",
+      "url": "https://www.xtb.com/int/market-analysis/news-and-research/economic-calendar-a-snapshot-of-us-economy-after-3-months-of-war-28-05-2026"
+    },
+    {
+      "title": "CBS News — The First Inflation Report Under New Fed Chief Kevin Warsh Shows Prices at Highest in Nearly 3 Years",
+      "url": "https://www.cbsnews.com/news/pce-report-today-inflation-kevin-warsh-federal-reserve/"
+    },
+    {
+      "title": "Euronews — Israel Strikes Southern Beirut Amid Increasing Escalation in Southern Lebanon",
+      "url": "https://www.euronews.com/2026/05/28/israel-strikes-southern-beirut-amid-increasing-escalation-in-southern-lebanon"
+    },
+    {
+      "title": "Al Jazeera — Israeli Strikes Follow Displacement Order for Lebanese City of Tyre",
+      "url": "https://www.aljazeera.com/news/2026/5/27/israeli-air-attack-kills-at-least-two-in-southern-lebanon"
+    },
+    {
+      "title": "The National — Israel Ramps Up Strikes Despite So-Called Ceasefire in Lebanon",
+      "url": "https://www.thenationalnews.com/news/mena/2026/05/23/israel-ramps-up-strikes-despite-so-called-ceasefire/"
+    },
+    {
+      "title": "Wikipedia — 2026 Israel–Lebanon Ceasefire",
+      "url": "https://en.wikipedia.org/wiki/2026_Israel%E2%80%93Lebanon_ceasefire"
+    },
+    {
+      "title": "Bloomberg — NextEra Is Betting Its Dominion Deal Can Speed US Infrastructure for AI",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-28/nextera-is-betting-its-dominion-deal-can-speed-us-infrastructure-for-ai"
+    },
+    {
+      "title": "Oregon Capital Chronicle — Oregon Faces Longer Fire Season Due to Historic Heat, Drought",
+      "url": "https://oregoncapitalchronicle.com/2026/05/05/oregon-faces-longer-fire-season-due-to-historic-heat-drought-fire-experts-warn/"
+    },
+    {
+      "title": "OPB — Oregon Faces Longer Fire Season Due to Historic Heat, Drought",
+      "url": "https://www.opb.org/article/2026/05/06/oregon-drought-weather-wildfire/"
+    },
+    {
+      "title": "Fox Weather — Record-Breaking May Heat Surge to Scorch Pacific Northwest as Heat Advisories Issued",
+      "url": "https://www.foxweather.com/weather-news/record-breaking-heat-scorch-pacific-northwest-heat-advisories"
+    },
+    {
+      "title": "KOIN — Portland OR Weather: Warming, Dry Trend Setting Up Across the PNW",
+      "url": "https://www.koin.com/weather/a-warming-dry-trend-setting-up-across-the-pnw/"
+    },
+    {
+      "title": "KOIN — Portland OR Weather: First 80-Degree Day of 2026 Possible Thursday Around PNW",
+      "url": "https://www.koin.com/weather/first-80-degree-day-of-2026-possible-thursday-around-portland/"
+    },
+    {
+      "title": "Central Oregon Daily — AccuWeather Releases 2026 Oregon Fire Forecast",
+      "url": "https://www.centraloregondaily.com/news/wildfires/oregon-wildfire-outlook-active-2026-fire-season/article_505d06af-87bd-588d-96dd-cd92be81e9a9.html"
+    },
+    {
+      "title": "NIFC — June 1, 2026 Outlook Period Monthly Seasonal Fire Forecast",
+      "url": "https://www.nifc.gov/nicc-files/predictive/outlooks/monthly_seasonal_outlook.pdf"
+    },
+    {
+      "title": "Transportation and Infrastructure Committee — Full Committee Markup May 21, 2026 (BUILD America 250 Act)",
+      "url": "https://transportation.house.gov/calendar/eventsingle.aspx?EventID=409500"
+    },
+    {
+      "title": "Washington Post — A Deadline for the Iran War Is Here. What Does the War Powers Act Say?",
+      "url": "https://www.washingtonpost.com/politics/2026/05/01/iran-us-war-powers-trump/"
+    },
+    {
+      "title": "PBS NewsHour — Trump Says Deadline for Congress to Approve Iran War Doesn't Apply, Claiming Hostilities Have 'Terminated'",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-deadline-for-congress-to-approve-iran-war-doesnt-apply-claiming-hostilities-have-terminated"
+    },
+    {
+      "title": "Crestwood Advisors — May 2026 Economic and Market Update: New Highs and Old Risks",
+      "url": "https://www.crestwoodadvisors.com/may-2026-economic-and-market-update/"
+    }
+  ]
+}

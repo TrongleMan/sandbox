@@ -564,6 +564,16 @@
       "generated_at": "2026-05-27T20:00:00-07:00"
     },
     {
+      "id": "2026-05-28-morning",
+      "date": "2026-05-28",
+      "session": "morning",
+      "file": "reports/2026-05-28-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 90 = WPA T-1: Israel-Lebanon Ceasefire Day 12 Fraying — Waves of Strikes Hit Tyre/Sidon/Dahiyeh; PCE Core 3.3% In-Line; Trump 'Won't Be Rushed,' Threatens Oman; Portland First 80°F; Vibe 3",
+      "generated_at": "2026-05-28T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-28-evening",
       "date": "2026-05-28",
       "session": "evening",
@@ -574,5 +584,5 @@
       "generated_at": "2026-05-28T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-28T20:00:00-07:00"
+  "last_updated": "2026-05-28T07:00:00-07:00"
 }
