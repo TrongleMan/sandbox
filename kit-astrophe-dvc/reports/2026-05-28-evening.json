@@ -1,0 +1,322 @@
+{
+  "report_id": "2026-05-28-evening",
+  "generated_at": "2026-05-28T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 90; Naval Blockade Day 47; Project Freedom Pause Day 23; WPA Day 29 Past Statutory Deadline / T-1 to May 29 Hard Deadline; Warsh Day 14. Thursday May 28, 2026. The dominant development of the May 28 cycle is the arrival at WPA T-1 — the eve of the hard 90-day constitutional deadline — without any emergency congressional session, Senate 10th WPA resolution, or White House Counsel statement on Day 90 legal posture. Congress is in session (Day 3 post-Memorial Day). The last 24-hour pre-deadline window has opened and the administration's 'hostilities terminated' posture faces its plainest legal stress point tomorrow. On Iran: the Shamkhani 'fantasy' challenge to the nuclear-control dimension of the deal framework enters its first full day without a Khamenei direct public statement or Araghchi formal text confirming nuclear commitments survive. Trump's optimism is unchanged; the deal is alive but its nuclear architecture is actively contested by Khamenei's inner circle. Economic escalation: the Cleveland Fed inflation nowcast for May advanced to 4.18% YoY — above April's 3.8% CPI print — implying the April reading was not the seasonal ceiling. Warsh Day 14: silence continues; June FOMC 19 days away. PNW: Portland confirmed its first 80°F day of 2026 today (Thursday May 28) per KGW/KOIN — opening the summer heat pattern. Sunday could approach 90°F. Oregon fire season Day 21; BLM restrictions Day 15; T-4 to June 1 east Cascades above-normal onset. CISA clean streak Day 25. Bureau of Reclamation rationing Day 8. Israel-Lebanon ceasefire Day 12 holding. Vibe 3: holding.",
+  "vibe": {
+    "score": 3,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 3 — holding from May 27. Three interlocking vectors define the May 28 assessment. First and most time-sensitive: WPA T-1. The hard constitutional 90-day deadline arrives tomorrow (May 29) and Congress closes Day 3 of its post-Memorial Day session without an emergency House session, Senate 10th WPA resolution, or White House Counsel / DOJ OLC public statement on Day 90 posture. The bipartisan House majority (Golden, six Republicans) is real but unactivated. The administration's 'hostilities terminated' posture faces its plainest legal stress point tomorrow — with the naval blockade (Day 47), CENTCOM self-defense strikes, and Hormuz closure (Day 90) all operative. The legal architecture changes on May 29 regardless of deal status. Second: the Shamkhani nuclear-control challenge is 24 hours old without a corrective Khamenei signal. The May 27 downgrade from vibe-5 rested on Khamenei's own advisor calling Trump's nuclear-program-control demand a 'fantasy.' That statement has endured one full day without Khamenei direct contradiction or Araghchi formal text confirming the nuclear framework. The deal is not dead — Trump is optimistic, Shamkhani confirmed Iran's readiness to sign for sanctions removal — but the nuclear architecture central to the Axios/CNN May 25 framework remains actively contested by Khamenei's inner circle. Third: the Cleveland Fed inflation nowcast ticked to 4.18% YoY for May, above April's 3.8% print, while Warsh enters Day 14 of silence with June FOMC 19 days away. May 27 market close held near-flat (Dow +0.36% to 50,644, S&P +0.02% to 7,520, Nasdaq +0.07% to 26,675) — markets not capitulating. The case for holding at 3 rather than dropping to 2: no new negative catalyst materialized today, Iran deal alive and active, CISA clean Day 25, Israel-Lebanon ceasefire Day 12 holds, markets flat-to-positive. Drop to 2 requires: May 29 CENTCOM repositioning or kinetic resumption; Khamenei public deal rejection; Araghchi formal nuclear-framework walkback; or WPA Day 90 constitutional crisis triggering escalation signal."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 90; Naval Blockade Day 47; Project Freedom Pause Day 23; WPA T-1 to May 29. Shamkhani nuclear-control challenge Day 1 without Khamenei override — deal alive but nuclear architecture contested by inner circle. Trump optimistic; Shamkhani confirmed Iran ready to sign for sanctions removal. WPA final pre-deadline day: no emergency session, no Senate 10th resolution, no WH Counsel statement. Congress in session Day 3. Israel-Lebanon ceasefire Day 12 holding. CISA Day 25 clean.",
+      "items": [
+        {
+          "headline": "WPA T-1: Final Pre-Deadline Day Closes Without Emergency Session; Shamkhani Nuclear Challenge Day 1 Unresolved; Trump Optimism Holds; May 29 Architecture Change Imminent",
+          "summary": "Two interlocking geopolitical threads converge on the eve of May 29. First: the War Powers Act clock has advanced to T-1 — the 90-day hard constitutional deadline arrives tomorrow. Congress convened for Day 3 of its post-Memorial Day session on May 28 without a scheduled emergency House session, Senate 10th WPA resolution, or any public White House Counsel / DOJ OLC statement on Day 90 legal posture. The administration's longstanding 'hostilities terminated' framing — invoked on May 1 when Trump told Congress that hostilities 'have terminated' — faces its plainest legal stress point tomorrow. The naval blockade (Day 47), CENTCOM self-defense strikes, and physical Hormuz closure (Day 90) are all operative; the legal architecture governing presidential authority over these operations changes on May 29 regardless of deal status. Congress has now rejected nine WPA resolutions since March. House Republican leadership explicitly deferred the next war powers vote to early June — after the deadline. The bipartisan House majority (Rep. Jared Golden plus six Republicans) is real but unactivated. Multiple Senate Democrats have signaled intent to sue — a novel legal theory requiring years to resolve. Second: the Iran deal's nuclear architecture remains contested. The Shamkhani 'fantasy' statement (May 27) — Khamenei's direct advisor calling Trump's nuclear-program-control demand a 'fantasy' and characterizing the situation as 'an olive branch we see only as barbed wire' — has now endured one full day without a corrective Khamenei public signal or formal Araghchi statement confirming nuclear commitments survive. The Axios/CNN framework (May 25) — Iran agrees 'never to pursue nuclear weapons,' negotiate enrichment suspension, negotiate HEU removal — is the specific architecture Shamkhani's statement contested. The deal remains live: Trump stated both sides are 'close to finalizing with strong inspections'; Shamkhani simultaneously confirmed Iran is 'ready to sign in exchange for quick removal of all financial sanctions.' The core unresolved tension is whether the nuclear-program-control dimension that Shamkhani rejected is a negotiating posture or a Khamenei-authorized red line.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "Ali Shamkhani", "Abbas Araghchi", "Mojtaba Khamenei", "Steve Witkoff", "Marco Rubio", "Pete Hegseth", "CENTCOM", "Mike Johnson", "John Thune", "Rep. Jared Golden", "Senate Democratic caucus", "IRGC"],
+          "metrics": {
+            "hormuz_closed_days": 90,
+            "naval_blockade_active_days": 47,
+            "project_freedom_pause_day": 23,
+            "wpa_days_past_statutory_deadline": 29,
+            "wpa_90day_hard_deadline": "2026-05-29",
+            "wpa_days_to_90day_deadline": 1,
+            "wpa_hours_to_hard_deadline": 24,
+            "wpa_emergency_session_announced": false,
+            "wpa_senate_resolutions_rejected": 9,
+            "wpa_pre_deadline_house_vote_scheduled": false,
+            "wh_counsel_doj_olc_day90_statement": false,
+            "congress_in_session_day": 3,
+            "administration_legal_posture": "'hostilities terminated' — does not survive Day 90 plain-text; blockade and CENTCOM strikes ongoing",
+            "democrat_litigation_signal": "multiple Senators — novel legal theory; years to resolve",
+            "shamkhani_nuclear_challenge_day": 1,
+            "shamkhani_nuclear_control_fantasy_statement": true,
+            "khamenei_direct_public_statement_today": false,
+            "araghchi_nuclear_framework_confirmation_today": false,
+            "trump_deal_optimism_status": "unchanged — 'close to finalizing with strong inspections'",
+            "shamkhani_iran_deal_desire_status": "confirmed — 'ready to sign in exchange for quick removal of all financial sanctions'",
+            "deal_status": "Live — nuclear architecture contested by Khamenei inner circle; parties still engaged",
+            "nuclear_framework_contested_dimension": "US nuclear-program control vs. Iran sovereignty framing — Shamkhani 'fantasy' statement Day 1 without Khamenei override",
+            "watch_signals": [
+              "May 29 WPA Day 90: legal architecture change regardless of deal status; CENTCOM repositioning = highest-priority escalation signal",
+              "Khamenei direct public statement — confirmation of nuclear template = vibe 4 restore; public contradiction = vibe 2",
+              "Araghchi formal text — nuclear commitments confirmed = vibe 4; continued absence = vibe 3 holds",
+              "Brent crude: sustained below $95 = deal conviction pricing; above $107 = credibility collapse",
+              "Congress Day 4 (May 29): emergency session, Senate 10th resolution, WH Counsel / DOJ OLC statement"
+            ]
+          }
+        },
+        {
+          "headline": "Israel-Lebanon Ceasefire Day 12 Holding; CISA Day 25 Clean; IRGC Cyber Risk Modestly Elevated Day 2; Quad Full Text Pending",
+          "summary": "Four secondary geopolitical threads. Israel-Lebanon ceasefire advances to Day 12 without confirmed violations. The 45-day extension structure (next talks June 2-3) remains the operative constraint. The Shamkhani 'fantasy' statement enters Day 2 without resolution — if IRGC institutional actors interpret this as Khamenei inner-circle rejection of the deal's nuclear dimension, the IRGC hardliner rejection-signal cyber vector from May 25 is modestly re-elevated for a second day. This has not manifested. CISA extends its clean streak to Day 25. No FBI IC3 flash, no confirmed OT/ICS incident. The CI Fortify initiative (launched May 5) continues as the operative critical-infrastructure resilience framework; CISA held a K-12 cybersecurity webinar on May 28 (3-4 PM EDT). The Quad foreign ministers communiqué from the May 26 New Delhi ministerial has not been released in full text as of this filing. The Quad Leaders' Summit scheduling signal remains the key pending output.",
+          "significance": "MODERATE",
+          "actors": ["CISA", "FBI", "NSA", "IRGC Cyber Electronic Command", "CyberAv3ngers", "Hezbollah", "Israel Defense Forces", "Marco Rubio", "S. Jaishankar", "Penny Wong", "Toshimitsu Motegi"],
+          "metrics": {
+            "israel_lebanon_ceasefire_day": 12,
+            "ceasefire_violations_confirmed_today": false,
+            "next_ceasefire_talks": "2026-06-02 to 2026-06-03",
+            "shamkhani_irgc_cyber_risk_day": 2,
+            "shamkhani_irgc_cyber_risk_status": "modestly elevated — inner-circle nuclear rejection Day 2 without Khamenei override; no manifestation May 27-28",
+            "cisa_clean_streak_days": 25,
+            "cisa_may28_activity": "CI Fortify K-12 cybersecurity webinar — Strengthening K-12 Cybersecurity: Simple Steps for Safer Schools, 3-4 PM EDT",
+            "fbi_ic3_flash_issued_today": false,
+            "ot_ics_incident_confirmed_today": false,
+            "monitoring_priority": "STANDARD ELEVATED",
+            "quad_communique_full_text_released": false,
+            "quad_leaders_summit_timeline": "pending — watch communiqué for scheduling signal"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Cleveland Fed inflation nowcast for May: 4.18% YoY — above April CPI 3.8% print, implying April was not the ceiling. Warsh Day 14: no economic policy statement; June FOMC 19 days away; hike/hold probability contested without Chair guidance. May 27 confirmed close: Dow 50,644 (+0.36%) / S&P 500 7,520 (+0.02%) / Nasdaq 26,675 (+0.07%) — near-flat on mixed signals. May 28 close pending. Fed funds 3.50-3.75%. OR gas $5.35 / WA ~$5.78 records persist. Pump relief timeline still late June at earliest.",
+      "items": [
+        {
+          "headline": "Cleveland Fed Nowcast 4.18% YoY for May — Above April's 3.8% CPI; April Was Not the Ceiling; Warsh Day 14 Silent; Markets Near-Flat; June FOMC 19 Days",
+          "summary": "The economic picture on May 28 deteriorates incrementally on two dimensions. First: the Cleveland Federal Reserve's inflation nowcasting tool projects May's trailing 12-month inflation rate at 4.18% YoY — above April's 3.8% CPI print, which was itself above the 3.7% consensus and up from 3.3% in March. If the nowcast trajectory holds, the April reading was not the seasonal ceiling. The energy-price channel (+17.9% YoY in April — worst since September 2022) is the primary driver; sustained Hormuz closure (Day 90 today) continues to underpin energy costs. Any relief from a deal signed this week would not reach retail pump prices before late June, and the May CPI baseline is now higher than the April assumption. Second: Kevin Warsh is at Day 14 without an economic policy statement. May 28 marks the final business day before May 29 — WPA Day 90 — and Warsh has issued no public communication on the 3.8% CPI miss, the 4.18% nowcast trajectory, or June FOMC posture. Market participants are pricing June FOMC scenarios (June 16-17, 19 days out) without Chair signal. Rate-hike probability direction remains elevated since the April CPI miss. The prior FOMC carried four dissenting votes — highest in decades. May 27 confirmed market close (CNBC): Dow Jones 50,644.28 (+0.36%), S&P 500 7,520.36 (+0.02%), Nasdaq Composite 26,674.73 (+0.07%) — essentially flat on mixed Shamkhani-reversal and Trump-optimism cross-currents. May 28 close not confirmed in available reporting. Q1/Q2 blended earnings growth remains at 15.1% YoY — structural equity support. The European Commission's 2026 eurozone growth downgrade to 0.9% (inflation 3.0%) remains the international reference point for the same energy-supply-shock dynamic.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Federal Reserve FOMC", "Cleveland Fed", "CME FedWatch", "BLS", "EIA", "Donald Trump", "Treasury market participants"],
+          "metrics": {
+            "warsh_era_day": 14,
+            "warsh_days_without_economic_policy_statement": 14,
+            "cleveland_fed_may_nowcast_yoy_pct": 4.18,
+            "april_cpi_yoy_pct": 3.8,
+            "march_cpi_yoy_pct": 3.3,
+            "april_cpi_vs_may_nowcast_interpretation": "April 3.8% below May nowcast 4.18% — April was not the ceiling",
+            "april_cpi_energy_yoy_pct": 17.9,
+            "april_cpi_energy_worst_since": "September 2022",
+            "april_core_cpi_yoy_pct": 2.8,
+            "fed_funds_rate_range_pct": "3.50-3.75",
+            "fomc_dissenting_votes_last_meeting": 4,
+            "days_to_june_fomc": 19,
+            "june_fomc_meeting": "2026-06-16/17",
+            "rate_hike_probability_direction": "elevated — post 3.8% CPI miss + 4.18% nowcast",
+            "may27_dow_close": 50644.28,
+            "may27_dow_change_pct": "+0.36%",
+            "may27_sp500_close": 7520.36,
+            "may27_sp500_change_pct": "+0.02%",
+            "may27_nasdaq_close": 26674.73,
+            "may27_nasdaq_change_pct": "+0.07%",
+            "may28_market_close_confirmed": false,
+            "may28_directional_bias": "pending — mixed signals; no confirmed new catalysts",
+            "q1_q2_blended_earnings_growth_yoy_pct": 15.1,
+            "pump_relief_earliest": "late June 2026 from deal signed this week",
+            "warsh_communication_vacuum_severity": "CRITICAL — nowcast 4.18% above 3.8% April print; 19 days to June FOMC; zero Chair guidance on hike/hold trajectory; WPA Day 90 eve"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "Oregon fire season Day 21: Level 1 Central OR Day 11; BLM full OR/WA Day 15; T-4 to June 1 east Cascades above-normal onset. Portland first 80°F confirmed today (May 28); Sunday could approach 90°F — Heat Advisory possible. NWS fire-danger signal elevated. Bureau of Reclamation rationing Day 8 central WA. CISA Day 25 clean — no FBI IC3 flash, no OT/ICS incident. CI Fortify K-12 webinar May 28. IRGC cyber risk modestly elevated Day 2 on Shamkhani nuclear-rejection signal.",
+      "items": [
+        {
+          "headline": "Portland Confirms First 80°F Day (May 28); Sunday Approaching 90°F — Heat Advisory Watch; Oregon Fire Day 21; BLM Day 15; T-4 to June 1 Onset; Bureau of Reclamation Day 8; CISA Day 25 Clean",
+          "summary": "The infrastructure picture on May 28 is defined by the confirmation of Portland's first 80°F day of 2026. KGW and KOIN confirmed Thursday (May 28) as Portland's first day above 80°F in 2026, with NWS Portland flagging a continued warming trajectory through the weekend — Sunday could approach 90°F, with a Heat Advisory possible for the Portland metro area. This is the opening of the summer heat pattern that NWS three-month forecasting identifies as making the PNW the nation's summer hotspot (60%+ above-normal June-August probability). The 80°F confirmation is simultaneously a fire-danger elevation signal: relative humidity drops as temperatures rise, and the Columbia Gorge corridor — already the site of the May 24 Biggs Junction corridor fire (first PNW corridor-level fire event of the 2026 season) — becomes increasingly susceptible to rapid ignition and spread. Oregon fire season advances to Day 21. Level 1 Central Oregon restrictions (Deschutes, Ochoco, Crooked River) at Day 11 (effective May 18). BLM full OR/WA campfire restrictions at Day 15 (effective May 14). June 1 east Cascades above-normal onset is T-4 — the NIFC seasonal outlook period opens in four days. Post-Memorial Day ODF/BLM/NWS reports through May 28 have not confirmed significant new holiday ignitions. Bureau of Reclamation water rationing for Central Washington irrigators advances to Day 8 (started May 21). Drought in Oregon, Idaho, and eastern Washington remains the structural baseline — Washington in fourth consecutive year of drought emergency. CISA extends clean streak to Day 25. The CI Fortify initiative held a K-12 cybersecurity webinar May 28 (3-4 PM EDT). No FBI IC3 flash, no OT/ICS incident confirmed. Shamkhani nuclear-rejection statement Day 2 without Khamenei override maintains modestly elevated IRGC cyber risk — standard elevated monitoring appropriate.",
+          "significance": "HIGH",
+          "actors": ["NWS Portland", "NWS Seattle", "NWS Medford", "ODOT", "Oregon Department of Forestry", "BLM Oregon-Washington", "NIFC", "Forest Service Region 6", "Bureau of Reclamation", "CISA", "FBI", "NSA", "IRGC Cyber Electronic Command"],
+          "metrics": {
+            "portland_first_80f_day_confirmed": true,
+            "portland_first_80f_day_date": "2026-05-28 (Thursday)",
+            "portland_sunday_90f_forecast": true,
+            "portland_heat_advisory_possible": true,
+            "pnw_summer_hotspot_probability_pct_min": 60,
+            "pnw_summer_hotspot_months": ["June", "July", "August"],
+            "oregon_fire_season_active_day": 21,
+            "central_oregon_stage1_restrictions_day": 11,
+            "central_oregon_stage1_effective_date": "2026-05-18",
+            "blm_full_or_wa_restrictions_day": 15,
+            "blm_restrictions_effective_date": "2026-05-14",
+            "days_to_above_normal_east_cascades": 4,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "post_memorial_day_new_ignitions_confirmed": false,
+            "i84_biggs_junction_fire_status": "CONTAINED — May 24; first corridor event of 2026 season; I-84 remains open",
+            "bureau_of_reclamation_rationing_day": 8,
+            "bureau_of_reclamation_rationing_area": "Central Washington irrigators",
+            "wa_drought_emergency_year": "fourth consecutive",
+            "cisa_clean_streak_days": 25,
+            "cisa_may28_activity": "CI Fortify K-12 cybersecurity webinar, 3-4 PM EDT",
+            "fbi_ic3_flash_issued_today": false,
+            "ot_ics_incident_confirmed_today": false,
+            "shamkhani_irgc_cyber_risk_day": 2,
+            "monitoring_priority": "STANDARD ELEVATED"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA T-1: May 29 hard deadline 24 hours away; Congress Day 3 closes without emergency session; Senate 9 resolutions rejected; no WH Counsel statement. Acting DNI Day 7: vacancy persists into WPA Day 90. Warsh Day 14 silent on 4.18% nowcast. Reconciliation 2.0: Senate June 1 final bill target T-4; all committee text overdue. National measles estimated ~2,011 — 2,000 threshold crossed today. School end-of-year exposure window active. Portland $172M budget shortfall unresolved.",
+      "items": [
+        {
+          "headline": "WPA T-1: Congress Day 3 Closes Without Emergency Session; May 29 Legal Architecture Change 24 Hours Out; Acting DNI Day 7; Reconciliation 2.0 June 1 Target T-4",
+          "summary": "The War Powers Act enters its final pre-deadline day. May 28 closes without an emergency House session, a Senate 10th WPA resolution, a White House Counsel or DOJ OLC public statement on Day 90 legal posture, or any administration acknowledgment that the legal architecture changes tomorrow. Congress is in session (Day 3 post-Memorial Day). The bipartisan House majority capable of passing a WPA resolution (Rep. Jared Golden plus six Republicans) is real — it has been real since at least May 22 when the House vote was canceled by Republican leadership. House Republican leadership explicitly deferred the next war powers vote to early June, after the May 29 deadline. The Senate has rejected nine WPA resolutions since March. Multiple Senate Democrats have signaled intent to sue — a novel legal theory requiring years to resolve. The administration's 'hostilities terminated' posture (invoked May 1) holds as the operative legal framing. Tomorrow — May 29, WPA Day 90 — the legal architecture changes regardless of deal status, with the naval blockade (Day 47), CENTCOM self-defense strikes, and Hormuz closure (Day 90) all operative. Acting DNI advances to Day 7. The vacancy (Gabbard resigned May 22) persists into the WPA Day 90 window — precisely when US intelligence assessments of Iran's deal posture, Khamenei's intentions, and CENTCOM repositioning signals are most consequential. The Shamkhani nuclear-rejection statement (May 27) and the Austria BVT intelligence report (May 26) both require IC coordination that an acting DNI handles with reduced institutional authority. Reconciliation 2.0: Senate leadership is targeting final legislation by June 1 — T-4 from today. All committee text was due May 15 and remains overdue. The bill allocates $70 billion each to Homeland and Judiciary committees — $140 billion total — to fund lapsed DHS operations, ICE, and CBP.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Mike Johnson", "John Thune", "Rep. Jared Golden", "Acting DNI", "Pete Hegseth", "CENTCOM", "Senate Democratic caucus", "DOJ OLC", "White House Counsel"],
+          "metrics": {
+            "wpa_days_past_statutory_deadline": 29,
+            "wpa_90day_hard_deadline": "2026-05-29",
+            "wpa_days_to_hard_deadline": 1,
+            "wpa_hours_to_hard_deadline": 24,
+            "congress_session_day": 3,
+            "emergency_session_announced": false,
+            "senate_wpa_resolutions_rejected": 9,
+            "pre_deadline_house_vote_scheduled": false,
+            "wh_counsel_doj_olc_day90_statement": false,
+            "administration_legal_posture": "'hostilities terminated' — does not survive Day 90 plain-text; blockade and CENTCOM strikes ongoing",
+            "democrat_litigation_signal": "multiple Senators — novel legal theory; years to resolve",
+            "acting_dni_vacancy_day": 7,
+            "dni_ic_coordination_risk": "reduced authority for Shamkhani nuclear-rejection assessment, Khamenei template reconciliation, Austria BVT follow-up — all active at WPA Day 90",
+            "reconciliation_20_senate_target": "2026-06-01",
+            "reconciliation_20_days_to_target": 4,
+            "reconciliation_committee_text_status": "overdue — May 15 deadline passed",
+            "reconciliation_total_spending_authority_usd_bn": 140,
+            "watch_signals": [
+              "May 29 WPA Day 90: legal architecture change; CENTCOM repositioning = highest-priority escalation signal",
+              "May 29 Congress Day 4: emergency session, Senate 10th resolution, DOJ OLC statement possible",
+              "Acting DNI replacement announcement — confirmation authority restored before WPA Day 90 = positive signal",
+              "Reconciliation 2.0 text by June 1 — floor timing and GOP unity watch"
+            ]
+          }
+        },
+        {
+          "headline": "National Measles Estimated 2,011+ — 2,000 Threshold Crossed Today; School End-of-Year Window Active; Portland Budget $172M Unresolved T-34 Days; Green Card Labor T-3 Weeks",
+          "summary": "Four secondary domestic threads. First: national measles count stands at 1,952 confirmed as of the May 21 CDC report (pace ~8.4/day). At that trajectory, the estimated national count crosses 2,000 today (May 28) for the first time — approximately 2,011 at seven days' pace from May 21 data. Oregon Health Authority remains 36+ days stale (20 cases as of April 22). Washington DOH published its Wednesday May 27 update — Kittitas County outbreak active, WA confirmed 40+ cases across eight counties. The school end-of-year exposure window (May 27–June 7) is the highest-risk calendar period remaining before summer break disperses students — graduation ceremonies, end-of-year events, and field days create concentrated exposure conditions. Community health centers and outpatient clinical settings are the operative intervention infrastructure. Second: Portland City Council's $172 million structural shortfall continues without emergency resolution. The May 27 rate sessions (water, solid waste, transportation, Clean Energy Fund) addressed implementation-layer items without closing the structural gap. FY begins July 1 — T-34 days. Third: the green card policy reversal is 3 weeks from the late-June critical labor intersection — fire season crew needs and harvest labor demand converging across the Columbia Basin, Willamette Valley, and Yakima Valley. USCIS implementation guidance pending. Fourth: Warsh Day 14 silence on the 4.18% Cleveland nowcast compounds household and business planning uncertainty — June FOMC 19 days away without Chair signal.",
+          "significance": "HIGH",
+          "actors": ["Oregon Health Authority", "WA State DOH", "CDC", "Kittitas County Health", "Portland Mayor Keith Wilson", "Portland City Council", "USCIS", "DHS", "Columbia Basin agricultural employers", "Kevin Warsh"],
+          "metrics": {
+            "national_measles_confirmed_as_of_may21": 1952,
+            "national_measles_estimated_may28": "~2,011 at 8.4/day from May 21 (7 days) — 2,000 threshold crossed today",
+            "or_measles_last_published": 20,
+            "or_measles_staleness_days": "36+",
+            "wa_measles_2026_ytd_min": 40,
+            "wa_counties_affected": 8,
+            "kittitas_county_outbreak_active": true,
+            "school_exposure_window_status": "ACTIVE — May 27 to June 7; highest remaining risk period",
+            "school_exposure_window_primary_channel": "community health centers and outpatient clinical settings",
+            "portland_budget_shortfall_usd_mn": 172,
+            "portland_fy_start": "2026-07-01",
+            "portland_fy_days_remaining": 34,
+            "portland_budget_resolution_status": "unresolved — rate sessions addressed implementation layer only",
+            "green_card_reversal_weeks_to_labor_intersection": 3,
+            "uscis_guidance_status": "pending",
+            "pnw_regions_affected_by_labor_uncertainty": ["Columbia Basin", "Willamette Valley", "Yakima Valley"],
+            "warsh_cpi_silence_household_effect": "4.18% nowcast + 3.8% April CPI without Fed signal — household and business planning uncertainty; June FOMC 19 days"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Portland confirms first 80°F day (May 28 Thursday); Sunday approaching 90°F — Heat Advisory possible. Oregon fire Day 21: BLM Day 15; Level 1 Central OR Day 11; T-4 to June 1 east Cascades onset. Bureau of Reclamation rationing Day 8. Gas OR $5.35 / WA ~$5.78 records. Measles school exposure window active. Portland budget unresolved T-34 days. Green card labor T-3 weeks. Compound PNW stress vector at highest coherence of conflict cycle — heat confirmed + fire season accelerating + June 1 onset T-4 + drought + budget + labor uncertainty simultaneous.",
+      "items": [
+        {
+          "headline": "Portland First 80°F Day Confirmed (May 28); Sunday Could Hit 90°F — Heat Advisory Watch; Oregon Fire Day 21; T-4 to June 1 East Cascades; Bureau of Reclamation Day 8; NWS Summer Pattern Open",
+          "summary": "Portland's first 80°F day of 2026 arrived today (Thursday May 28) as forecast. KGW and KOIN confirmed the temperature crossing, with NWS Portland flagging a continued warming trajectory through the weekend — Sunday could approach 90°F, with a Heat Advisory possible for the Portland metro area. This is the opening signal of the summer heat pattern that NWS three-month forecasting (60%+ above-normal June-August probability) identifies as making the Pacific Northwest the nation's summer hotspot. The confirmed 80°F day is simultaneously a fire-danger elevation marker: relative humidity declines as temperatures rise, and the Columbia Gorge corridor — site of the May 24 Biggs Junction corridor fire, the first PNW corridor-level fire event of the 2026 season — becomes increasingly susceptible to rapid ignition in this heat and dryness regime. Oregon fire season advances to Day 21. Level 1 Central Oregon restrictions (Deschutes, Ochoco, Crooked River) at Day 11; BLM full OR/WA campfire restrictions at Day 15; campfire bans operative across both systems. June 1 east Cascades above-normal onset is T-4 — the NIFC seasonal outlook period opens in four days. Post-Memorial Day ODF/BLM/NWS reports through May 28 have not confirmed significant new ignitions from the holiday weekend. Bureau of Reclamation water rationing for Central Washington irrigators advances to Day 8 (started May 21). Drought in Oregon, Idaho, and eastern Washington remains the structural baseline; Washington is in its fourth consecutive year of drought emergency with snowpack well below normal, and Oregon facing similar conditions. Oregon's congressional delegation letter (May 7, 21 days unanswered) had its fourth legislative response opportunity today — Congress Day 3 — without confirmed federal reply.",
+          "significance": "HIGH",
+          "actors": ["NWS Portland", "NWS Seattle", "NWS Medford", "BLM Oregon-Washington", "Oregon Department of Forestry", "ODOT", "Bureau of Reclamation", "NIFC", "Forest Service Region 6", "Oregon Governor Tina Kotek", "Oregon congressional Democrats", "Washington DNR"],
+          "metrics": {
+            "portland_first_80f_day_confirmed": true,
+            "portland_first_80f_day_date": "2026-05-28 (Thursday)",
+            "portland_sunday_heat_forecast": "approaching 90°F — Heat Advisory possible for Portland metro",
+            "pnw_summer_hotspot_probability_pct_min": 60,
+            "pnw_summer_hotspot_months": ["June", "July", "August"],
+            "oregon_fire_season_active_day": 21,
+            "central_oregon_stage1_restrictions_day": 11,
+            "central_oregon_stage1_effective_date": "2026-05-18",
+            "blm_full_or_wa_restrictions_day": 15,
+            "blm_restrictions_effective_date": "2026-05-14",
+            "days_to_above_normal_east_cascades": 4,
+            "above_normal_east_cascades_onset": "2026-06-01",
+            "i84_biggs_junction_fire_status": "CONTAINED — May 24; first corridor event of 2026 season; I-84 open",
+            "post_memorial_day_new_ignitions_confirmed": false,
+            "bureau_of_reclamation_rationing_day": 8,
+            "bureau_of_reclamation_rationing_area": "Central Washington irrigators",
+            "wa_drought_emergency_year": "fourth consecutive",
+            "oregon_delegation_letter_days_unanswered": 21,
+            "pnw_drought_active_states": ["Oregon", "Idaho", "Eastern Washington"]
+          }
+        },
+        {
+          "headline": "Portland Budget $172M Unresolved T-34 Days to FY Start; Gas OR $5.35 / WA $5.78 Records; Measles 2,000+ Threshold — School Window Active; Green Card Labor T-3 Weeks; Compound PNW Stress Peak Holds",
+          "summary": "Four local PNW threads. First: Portland City Council's $172 million structural shortfall continues unresolved with 34 days to the July 1 FY start. The May 27 rate sessions (water, solid waste, transportation, Clean Energy Fund) addressed implementation-layer fee adjustments without closing the structural gap. No emergency budget session or major structural compromise was announced. Second: Oregon gas holds at $5.35/gallon (2026 record, 4th highest nationally); Washington at approximately $5.78. The Cleveland Fed's May inflation nowcast at 4.18% confirms the energy cost structure is worsening above April's 3.8% base. Portland's first 80°F day today initiates the early-summer peak air conditioning and electrical demand profile. Pump-price relief from any Iran deal signed this week remains late June at earliest. Third: the national measles count crosses an estimated 2,000 today for the first time. The school end-of-year exposure window (May 27–June 7) is the highest-risk period remaining — graduation ceremonies, field days, and end-of-year events create concentrated exposure before summer disperses students. Oregon OHA is 36+ days stale; Washington DOH May 27 update confirmed Kittitas County active with WA at 40+ cases across 8 counties. Next WA DOH update: Friday May 29. Fourth: the green card policy reversal is 3 weeks from the late-June labor intersection — fire season crew needs (elevated by confirmed 80°F heat entry and T-4 to June 1 onset) and harvest labor demand converging in the Columbia Basin, Willamette Valley, and Yakima Valley. USCIS guidance pending. The compound PNW stress vector — confirmed heat entry 80°F + fire Day 21 + June 1 onset T-4 + Bureau of Reclamation rationing Day 8 + CPI 3.8% / nowcast 4.18% + gas records + labor uncertainty + Portland budget T-34 + measles 2,000+ school window — maintains its highest coherence of the conflict cycle.",
+          "significance": "HIGH",
+          "actors": ["Portland Mayor Keith Wilson", "Portland City Council", "Oregon Health Authority", "WA State DOH", "CDC", "Kittitas County Health", "AAA Oregon/Idaho", "USCIS", "Columbia Basin agricultural employers", "Willamette Valley farm operators", "Yakima Valley producers", "NWS Portland"],
+          "metrics": {
+            "portland_city_council_budget_shortfall_usd_mn": 172,
+            "portland_fy_start": "2026-07-01",
+            "portland_fy_days_remaining": 34,
+            "portland_budget_resolution_status": "unresolved",
+            "oregon_gas_per_gallon": 5.35,
+            "oregon_gas_national_rank": "4th highest nationally",
+            "washington_gas_per_gallon_approx": 5.78,
+            "cleveland_fed_may_nowcast_energy_implication": "4.18% YoY implies energy cost structure worsening above April 3.8% baseline",
+            "portland_80f_cooling_demand_signal": "first 80°F day May 28 — early summer peak-demand electrical profile opening",
+            "pump_relief_earliest": "late June 2026",
+            "national_measles_estimated_may28": "~2,011 — 2,000 threshold crossed today",
+            "measles_school_exposure_window": "ACTIVE — May 27 to June 7",
+            "wa_doh_next_update": "2026-05-29 (Friday)",
+            "or_measles_staleness_days": "36+",
+            "wa_measles_2026_ytd_min": 40,
+            "kittitas_county_outbreak_active": true,
+            "green_card_reversal_weeks_to_labor_intersection": 3,
+            "uscis_guidance_status": "pending",
+            "fire_season_labor_intersection": "fire crew needs + harvest labor demand converging — fire Day 21 + 80°F heat confirmed + T-4 to June 1 onset",
+            "pnw_regions_affected_by_labor_uncertainty": ["Columbia Basin", "Willamette Valley", "Yakima Valley"],
+            "compound_pnw_stress_coherence": "HIGHEST of conflict cycle — confirmed 80°F heat entry + fire Day 21 + June 1 onset T-4 + Bureau of Reclamation Day 8 + CPI/nowcast escalation + gas records + labor uncertainty + Portland budget T-34 + measles 2,000+ school window simultaneous"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "May 28, 2026 Evening — Hormuz Day 90, Naval Blockade Day 47, Project Freedom Pause Day 23, WPA Day 29 Past Statutory / T-1 to May 29 Hard Deadline, Warsh Day 14. Vibe 3: holding. The May 28 cycle is defined by the arrival at WPA T-1 — the eve of the hard constitutional deadline — without any emergency congressional session, Senate 10th WPA resolution, or White House Counsel statement on Day 90 posture. Congress closes Day 3 of its post-Memorial Day session without activating the bipartisan House majority that has been real since at least May 22. The legal architecture changes tomorrow regardless of deal status; the naval blockade (Day 47), CENTCOM self-defense strikes, and Hormuz closure (Day 90) are all operative. On Iran: the Shamkhani nuclear-control challenge enters its first full day without Khamenei correction. The deal is alive — Trump is optimistic, Shamkhani confirmed Iran's readiness to sign for sanctions removal — but the nuclear architecture is actively contested by Khamenei's inner circle and no corrective signal has materialized. Economic escalation: the Cleveland Fed inflation nowcast ticked to 4.18% YoY for May, above April's 3.8% print, while Warsh enters Day 14 of silence with June FOMC 19 days away. May 27 markets closed flat-to-marginally-positive (Dow +0.36%, S&P +0.02%, Nasdaq +0.07%). In the PNW: Portland confirmed its first 80°F day today (Thursday May 28), opening the summer heat pattern. NWS flags Sunday approaching 90°F with Heat Advisory possible. Oregon fire season Day 21; BLM Day 15; T-4 to June 1 above-normal onset. National measles estimated at 2,011+ — the 2,000 threshold crossed today for the first time. The compound PNW stress vector — confirmed heat entry + fire season acceleration + June 1 onset T-4 + Bureau of Reclamation rationing Day 8 + inflation escalation + gas records + labor uncertainty + Portland budget T-34 + measles 2,000+ school window — maintains its highest coherence of the conflict cycle. Vibe 3 holds. The 24-hour window to May 29 is the dominant forward risk.",
+  "watch_items": [
+    "May 29 — WPA Day 90: hard constitutional deadline; legal architecture changes regardless of deal status; CENTCOM carrier repositioning or kinetic resumption = highest-priority escalation signal; Congress in session Day 4",
+    "Iran deal: Khamenei direct public statement on nuclear framework — confirmation of template endorsement = vibe 4 restore; public contradiction = vibe 2",
+    "Iran deal: Araghchi formal text confirming nuclear commitments survive Shamkhani challenge — publication = vibe 4; continued absence = vibe 3 holds",
+    "Warsh Day 15+ — any Fed communication on 4.18% nowcast / 3.8% CPI; regional Fed president commentary; June FOMC 19 days; hike/hold probability actively contested",
+    "Brent crude — sustained move below $95 = market conviction on deal; move above $107 = credibility collapse signal",
+    "WPA Day 90 congressional response — emergency House session, Senate 10th resolution, DOJ OLC statement = vibe trajectory signal",
+    "Acting DNI Day 8 — replacement announcement restores IC coordination authority at highest-consequence window of conflict cycle",
+    "PNW heat: Portland Sunday 90°F watch — Heat Advisory potential; NWS Red Flag Warning watch for inland OR/WA; Columbia Gorge fire-danger elevation",
+    "Oregon fire Day 22 — ODF, BLM, NWS morning reports: Level 1 Central OR Day 12; BLM Day 16; T-3 to June 1 onset; new ignition watch as 80°F+ heat builds",
+    "Measles school window: May 27–June 7 — new county activation, Oregon OHA emergency update, WA DOH Friday May 29 update, second Oregon hospitalization watch",
+    "Reconciliation 2.0 — Senate June 1 target T-4; any text release or floor scheduling signal",
+    "CISA Day 26 — Shamkhani nuclear-rejection signal modestly elevated Day 2; overnight FBI IC3 flash or OT/ICS incident watch"
+  ],
+  "sources": [
+    {"title": "Wikipedia — 2025-2026 Iran-United States negotiations", "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations"},
+    {"title": "CNN — What's in the proposed deal that could end the US-Iran conflict?", "url": "https://www.cnn.com/2026/05/24/middleeast/iran-us-proposed-deal-wwk-intl"},
+    {"title": "CNBC — Trump says Iran deal reopening Strait of Hormuz 'largely negotiated'", "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html"},
+    {"title": "Carnegie Endowment — Two Wars Later, Iran's Nuclear Question Is Still on the Table", "url": "https://carnegieendowment.org/emissary/2026/05/iran-nuclear-program-progress-deal"},
+    {"title": "House of Commons Library — US-Iran ceasefire and nuclear talks in 2026", "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10637/"},
+    {"title": "Detroit News — A deadline for the Iran war is here. What does the War Powers Act say?", "url": "https://www.detroitnews.com/story/news/politics/2026/05/01/deadline-iran-war-here-what-does-war-powers-act-say/89889300007/"},
+    {"title": "Washington Post — What does the War Powers Act say and how could it affect the Iran war?", "url": "https://www.washingtonpost.com/politics/2026/05/01/iran-us-war-powers-trump/"},
+    {"title": "CNBC — Trump tells Congress hostilities in Iran 'have terminated' as war powers deadline hits", "url": "https://www.cnbc.com/2026/05/01/trump-rejects-iran-peace-deal.html"},
+    {"title": "CNN — War Powers Act: Lawmakers can't agree when Trump is supposed to get Congress' approval", "url": "https://www.cnn.com/2026/05/01/politics/iran-war-60-day-deadline-congress"},
+    {"title": "Lawfare — Law and the Iran War, After the First 60 Days", "url": "https://www.lawfaremedia.org/article/law-and-the-iran-war--after-the-first-60-days"},
+    {"title": "The Hill — Live updates: Donald Trump WPA clock and Iran war developments", "url": "https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/"},
+    {"title": "Time — Senate Blocks Iran War Powers Resolution for Fourth Time", "url": "https://time.com/article/2026/04/15/senate-blocks-iran-war-powers-resolution-for-fourth-time/"},
+    {"title": "Yahoo Finance — Federal Reserve's May Inflation Forecast — Things Got Uglier for Wall Street", "url": "https://finance.yahoo.com/economy/policy/articles/oof-federal-reserves-may-inflation-132600416.html"},
+    {"title": "Motley Fool — The Latest Fed May Inflation Update — Good News-Bad News Scenario for Wall Street", "url": "https://www.fool.com/investing/2026/05/26/fed-may-inflation-update-good-bad-news-wall-street/"},
+    {"title": "Cleveland Fed — Inflation Nowcasting", "url": "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"},
+    {"title": "CNBC — Stock market news for May 27 2026", "url": "https://www.cnbc.com/2026/05/26/stock-market-today-live-updates.html"},
+    {"title": "Crestwood Advisors — May 2026 Economic and Market Update", "url": "https://www.crestwoodadvisors.com/may-2026-economic-and-market-update/"},
+    {"title": "Federal News Network — CISA tells critical organizations to prepare for cyber outages", "url": "https://federalnewsnetwork.com/cybersecurity/2026/05/cisa-tells-critical-organizations-to-prepare-for-cyber-outages/"},
+    {"title": "CISA — CI Fortify Initiative", "url": "https://www.cisa.gov/topics/industrial-control-systems/ci-fortify"},
+    {"title": "Power Magazine — CISA's CI Fortify Initiative Signals a Shift in Grid Threat Thinking", "url": "https://www.powermag.com/cisas-ci-fortify-initiative-signals-a-shift-in-how-the-u-s-government-thinks-about-grid-threats/"},
+    {"title": "KGW — Thursday was Portland's first 80-degree day this year. Sunday could break 90.", "url": "https://www.kgw.com/article/weather/thursday-portland-first-80-degree-day-sunday-could-break-90/283-b9084439-d75b-4ebb-937d-291ee349e7b3"},
+    {"title": "KOIN — Portland OR Weather: First 80-degree day of 2026 possible Thursday around PNW", "url": "https://www.koin.com/weather/first-80-degree-day-of-2026-possible-thursday-around-portland/"},
+    {"title": "KOIN — Portland OR Weather: PDX sees first 80-degree day of the year", "url": "https://www.koin.com/weather/portland-sees-first-80-degree-day-of-the-year/"},
+    {"title": "KOIN — AccuWeather predicts persistent wildfire risk in the Northwest in 2026", "url": "https://www.koin.com/news/wildfires/accuweather-predicts-persistent-wildfire-risk-in-the-northwest-in-2026/"},
+    {"title": "Central Oregon Daily — BLM fire restrictions start May 14 in Oregon", "url": "https://www.centraloregondaily.com/news/regional/blm-fire-restrictions-oregon-washington-may-2026/article_84755a8f-4ad5-4d78-a2a2-ff14aec7cc98.html"},
+    {"title": "Central Oregon Daily — Oregon wildfire season expected to be severe, last into fall", "url": "https://www.centraloregondaily.com/news/wildfires/oregon-wildfire-season-2026-risk-heat-drought/article_3400df23-10aa-48d4-a6ba-0262db7ee4f5.html"},
+    {"title": "CBO — Reconciliation Legislation of the Senate Committees on HSGAC and Judiciary", "url": "https://www.cbo.gov/publication/62413"},
+    {"title": "Congress.gov — H.R.1 119th Congress Reconciliation", "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"},
+    {"title": "The Fulcrum — Starting Up the Reconciliation Machine", "url": "https://thefulcrum.us/governance-legislation/senate-reconciliation-bill-2026"},
+    {"title": "NACo — House clears budget resolution, advancing Reconciliation 2.0", "url": "https://www.naco.org/news/house-clears-budget-resolution-advancing-reconciliation-20-fund-dhs-and-cbp"},
+    {"title": "WEF — Blockade diplomacy, energy as leverage and other geopolitical stories May 2026", "url": "https://www.weforum.org/stories/2026/05/blockade-diplomacy-and-other-geopolitical-stories-to-know-this-month/"},
+    {"title": "NIFC / Forest Service Region 6 — Pacific Northwest Fire Information", "url": "https://www.fs.usda.gov/r06/fire/info"},
+    {"title": "CSIS — Latest Analysis: War with Iran", "url": "https://www.csis.org/programs/latest-analysis-war-iran"}
+  ]
+}

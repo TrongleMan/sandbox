@@ -562,7 +562,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Shamkhani Calls Nuclear Control 'Fantasy'; Araghchi 'Unsure If Imminent'; April CPI 3.8% Above Forecast; WPA T-2; Warsh Day 13 Silent; I-84 Biggs Junction Fire Contained; PNW 80°F Thursday; Vibe 3",
       "generated_at": "2026-05-27T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-28-evening",
+      "date": "2026-05-28",
+      "session": "evening",
+      "file": "reports/2026-05-28-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "WPA T-1: Final Pre-Deadline Day Closes Without Emergency Session; Portland Confirms First 80°F Day; Cleveland Nowcast 4.18%; Shamkhani Nuclear Challenge Day 1 Unresolved; Warsh Day 14 Silent; Vibe 3",
+      "generated_at": "2026-05-28T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-27T07:00:00-07:00"
+  "last_updated": "2026-05-28T20:00:00-07:00"
 }
