@@ -604,6 +604,16 @@
       "generated_at": "2026-05-29T20:00:00-07:00"
     },
     {
+      "id": "2026-05-30-morning",
+      "date": "2026-05-30",
+      "session": "morning",
+      "file": "reports/2026-05-30-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Situation Room Concludes Without Decision — 'Final Determination' Pending; Khamenei Gap Day 1; WPA Day 91 No Enforcement; S&P 7,580 / Nasdaq 26,972 / Dow 51,032 Records; Portland Heat Advisory Sunday 92°F; NIFC June 1 Onset T-2; Vibe 3",
+      "generated_at": "2026-05-30T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-30-evening",
       "date": "2026-05-30",
       "session": "evening",
@@ -614,5 +624,5 @@
       "generated_at": "2026-05-30T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-30T20:00:00-07:00"
+  "last_updated": "2026-05-30T07:00:00-07:00"
 }
