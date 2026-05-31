@@ -624,6 +624,16 @@
       "generated_at": "2026-05-30T20:00:00-07:00"
     },
     {
+      "id": "2026-05-31-morning",
+      "date": "2026-05-31",
+      "session": "morning",
+      "file": "reports/2026-05-31-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Longview Paper Mill Implosion Day 6 — 11 Dead (WA Deadliest Since 1930); Heat Advisory Imminent 8 AM 92°F; NIFC June 1 Onset T-1; Trump 'Final Determination' Pending Day 3; Khamenei Gap Day 3; WPA Day 92; Reconciliation 2.0 T-1; Vibe 3",
+      "generated_at": "2026-05-31T07:00:00-07:00"
+    },
+    {
       "id": "2026-05-31-evening",
       "date": "2026-05-31",
       "session": "evening",
@@ -634,5 +644,5 @@
       "generated_at": "2026-05-31T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-31T20:00:00-07:00"
+  "last_updated": "2026-05-31T07:00:00-07:00"
 }
