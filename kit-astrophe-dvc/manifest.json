@@ -622,7 +622,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Trump Situation Room Concludes Without Decision — 'Final Determination' Pending; Khamenei Gap Day 2; Deal 'Nears Finish Line' But Both Principals Unsigned; Nasdaq 26,972 Record; Portland Heat Advisory Sunday 92°F; NIFC June 1 Onset T-1; Vibe 3",
       "generated_at": "2026-05-30T20:00:00-07:00"
+    },
+    {
+      "id": "2026-05-31-evening",
+      "date": "2026-05-31",
+      "session": "evening",
+      "file": "reports/2026-05-31-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Heat Advisory Materializes Sunday 92°F — Record Potential; NIFC June 1 Onset T-1; Trump 'Final Determination' Pending Day 3; Khamenei Gap Day 3; Hormuz Day 93; Shangri-La Dialogue Closes; Q1 GDP Revised to 1.6%; Vibe 3",
+      "generated_at": "2026-05-31T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-30T07:00:00-07:00"
+  "last_updated": "2026-05-31T20:00:00-07:00"
 }
