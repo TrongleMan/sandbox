@@ -642,7 +642,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Heat Advisory Materializes Sunday 92°F — Record Potential; NIFC June 1 Onset T-1; Trump 'Final Determination' Pending Day 3; Khamenei Gap Day 3; Hormuz Day 93; Shangri-La Dialogue Closes; Q1 GDP Revised to 1.6%; Vibe 3",
       "generated_at": "2026-05-31T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-01-evening",
+      "date": "2026-06-01",
+      "session": "evening",
+      "file": "reports/2026-06-01-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "NIFC June 1 Above-Normal Fire Formal; Measles 2,000 Threshold Crossed; Reconciliation 2.0 Slipped; Trump Editing Iran Deal Text Day 4; FEMA Hurricane Season Opens Degraded; Longview All 11 Recovered; Vibe 3",
+      "generated_at": "2026-06-01T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-05-31T07:00:00-07:00"
+  "last_updated": "2026-06-01T20:00:00-07:00"
 }

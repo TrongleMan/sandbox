@@ -1,0 +1,361 @@
+{
+  "report_id": "2026-06-01-evening",
+  "generated_at": "2026-06-01T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 94; Naval Blockade Day 51; Project Freedom Pause Day 27; WPA Day 93 — Day 3 Past Hard 90-Day Constitutional Deadline; Trump 'Final Determination' Pending Day 4 — CBS: Trump Edited Deal Text on Enrichment/Hormuz; Khamenei Approval Gap Day 4; Warsh Day 18; Acting DNI Day 11. Monday June 1, 2026. Three threshold crossings define the June 1 cycle. First: NIFC June 1 Outlook Period published today — above-normal fire potential for east Cascades now formally designated; this is the threshold crossing tracked in every prior brief since the May 31 T-1 prediction. Oregon fire Day 25. Second: national measles estimated at or crossing the 2,000-case threshold today (estimated ~2,001–2,004 from 1,983 confirmed May 28 at 4.4/day); the CDC has flagged 2,000 as placing elimination status at risk. School exposure window 6 days remaining. Third: Reconciliation 2.0 Senate floor vote confirmed slipped past June 1 target — Senate reconvened 3 PM with judicial cloture votes only; next window week of June 8. Iran deal holds at Day 4 dual-principal approval gap: CBS News reports Trump edited the MOU text on enrichment uranium and Hormuz provisions — a principal-level engagement signal, not collapse. Both principals unsigned; CENTCOM self-defense authority operative; no kinetic resumption. FEMA enters hurricane season 2026 (June 1 official start) shorthanded: CNN investigation confirms Noem/Lewandowski dysfunction blocked $15B in disaster funds, drove out 20% of workforce; 8–14 Atlantic storms forecast with elevated major-hurricane risk. Longview paper mill: all 11 bodies recovered; Columbia River white liquor contamination under environmental assessment; investigation ongoing. Portland City Council reconvened June 1 as predicted; June 3 amendment session next; T-30 to July 1 FY start. Israel-Lebanon ceasefire Day 16 holding; June 2–3 talks T-1. CISA Day 29 clean. Vibe 3: holding.",
+  "vibe": {
+    "score": 3,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 3 — unchanged from May 31 evening. The June 1 assessment holds at 3 on three structural observations. First: the Iran deal engagement signal is constructive against a backdrop of no escalation. CBS News reports Trump personally edited the MOU text on enrichment uranium and Hormuz terms — this is a principal-level engagement signal, not a deal-collapse signal. Both Trump (Day 4 pending) and Khamenei (Day 4 approval gap, communicating via couriers) remain unsigned; but neither has publicly rejected the deal. CENTCOM self-defense authority operative; no repositioning or kinetic resumption. Hormuz closure at Day 94 and blockade at Day 51 advance without escalation. Second: the NIFC June 1 above-normal fire potential designation for east Cascades is now formal — the anticipated threshold crossing arrived on schedule. Oregon fire Day 25; no new major ignitions confirmed under the new above-normal designation. The compound drought-heat-fire stress complex is now in official elevated status, not merely anticipated. This is a downward pressure on vibe from the infrastructure domain but the absence of ignition-cascade keeps the floor. Third: Reconciliation 2.0 floor vote slip is a governance friction signal (next window week of June 8), FEMA entering hurricane season at 80% capacity with $15B stalled is a new structural risk domain, and measles crossing 2,000 is a threshold event. Together these compound institutional stress signals. Vibe 3 floor holds on the absence of simultaneous escalation across all four primary constraint domains (Iran deal principal rejection, WPA enforcement action, CENTCOM repositioning, CISA confirmed breach). Drop to 2 requires: Trump public deal rejection or Khamenei public MOU rejection; CENTCOM repositioning or kinetic resumption; new major ignition under NIFC above-normal designation producing infrastructure cascade; or FEMA declared non-operational ahead of named storm. Restore to 4 requires: Trump formal MOU sign-off announced; Khamenei public endorsement; Hormuz reopening implementation timeline confirmed."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 94; Naval Blockade Day 51; Project Freedom Pause Day 27; WPA Day 93 — Day 3 Past Hard Constitutional Deadline; Trump 'Final Determination' Pending Day 4 — CBS Reports Trump Edited Deal Text on Enrichment/Hormuz; Khamenei Approval Gap Day 4; Both Principals Unsigned; Israel-Lebanon Ceasefire Day 16 Holding — June 2–3 Talks T-1; CISA Day 29 Clean; Acting DNI Day 11; Shamkhani IRGC Cyber Risk Day 6.",
+      "items": [
+        {
+          "headline": "Trump 'Final Determination' Pending Day 4 — CBS Reports Trump Personally Edited Deal Text on Enrichment and Hormuz; Khamenei Approval Gap Day 4; Both Principals Unsigned; Hormuz Day 94; WPA Day 93 Day 3 Past Hard Deadline",
+          "summary": "The dominant geopolitical thread on June 1 is the continuation of the dual-principal approval gap at Day 4, with a significant new engagement signal: CBS News reports that Trump personally edited the possible US-Iran agreement text, including provisions on enriched uranium and the Strait of Hormuz. This constitutes principal-level engagement with the MOU architecture — an active deal-shaping signal rather than disengagement or collapse. The deal architecture as established at negotiator level remains: 60-day ceasefire extension, Hormuz reopening with Iran removing all mines within 30 days, proportional US naval blockade lift as commercial shipping resumes, US sanctions waivers, Iran commitment not to pursue nuclear weapons, and US commitment to discuss further sanctions relief. Trump had previously demanded Iran 'must agree' to never have a nuclear weapon and that Hormuz must be 'immediately open' to unrestricted shipping with no tolls; the enrichment uranium editing in the CBS report touches these core terms. Iranian state outlet Fars has previously pushed back on Trump's stated demands as contradicting the agreement text. Khamenei remains out of public view, communicating via couriers, with no formal endorsement for Day 4. The Situation Room meeting concluded May 29 without a decision; Trump's 'final determination' has been outstanding for four consecutive days. CENTCOM self-defense authority remains operative; no repositioning, no kinetic resumption. WPA Day 93 — Day 3 past the hard 90-day constitutional deadline — advances without enforcement action. Congress returned June 1 (Senate 3 PM, judicial cloture votes only; no WPA floor action). Senate has rejected nine previous WPA resolutions; Gottheimer 10th resolution remains unscheduled. Administration 'hostilities terminated' posture (May 1) holds. Multiple Senate Democrats have signaled litigation intent.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "Steve Witkoff", "Abbas Araghchi", "Mojtaba Khamenei", "Ali Shamkhani", "Marco Rubio", "Pete Hegseth", "CENTCOM", "Iran Foreign Ministry", "Rep. Josh Gottheimer", "Senate Democratic caucus", "IRGC", "CBS News"],
+          "metrics": {
+            "hormuz_closed_days": 94,
+            "naval_blockade_active_days": 51,
+            "project_freedom_pause_day": 27,
+            "wpa_days_past_statutory_deadline": 33,
+            "wpa_days_past_hard_90day_deadline": 3,
+            "trump_situation_room_outcome": "concluded without announcing a decision (CNN May 29) — 'final determination' pending Day 4",
+            "trump_mou_approval_status": "outstanding — 'final determination' pending Day 4; CBS reports Trump actively editing deal text on enrichment/Hormuz terms",
+            "khamenei_approval_status": "outstanding — out of public view, communicates via couriers; no formal endorsement Day 4 from 'broad principles' MOU signal",
+            "trump_deal_text_editing": "CBS News: Trump edited possible agreement including enriched uranium and Strait of Hormuz provisions — principal-level engagement signal",
+            "shamkhani_nuclear_challenge_day": 6,
+            "deal_architecture_negotiator_level": {
+              "ceasefire_structure": "60-day extension",
+              "hormuz_term": "unrestricted reopening; Iran removes mines within 30 days; commercial shipping within one month",
+              "blockade_term": "proportional US naval blockade lift as shipping resumes",
+              "sanctions_term": "US waivers allowing Iran oil sales",
+              "nuclear_term": "Iran commits not to pursue nuclear weapons; moratorium on enrichment; HEU removal",
+              "reciprocal_term": "US commits to discuss further sanctions relief"
+            },
+            "dual_principal_approval_gap": "CRITICAL — both Trump (Situation Room without announcement Day 4; editing text) and Khamenei (out of public view via couriers, no endorsement Day 4) absent from formal MOU simultaneously",
+            "centcom_repositioning_signal": false,
+            "kinetic_resumption_signal": false,
+            "wpa_post_deadline_enforcement_action": false,
+            "senate_returned_june1": true,
+            "senate_june1_floor_activity": "judicial cloture votes only — no WPA action; Reconciliation 2.0 floor vote slipped",
+            "watch_signals": [
+              "Trump 'final determination' public announcement — Day 4 outstanding; confirmation = deal advancing to signing = vibe 4/5; rejection or new ultimatum = vibe 2",
+              "Khamenei formal MOU endorsement — Day 4 outstanding; endorsement = vibe 4/5; public rejection = vibe 2",
+              "Iran Fars or Araghchi response to Trump enrichment/Hormuz text edits — confirms or denies deal-text convergence",
+              "CENTCOM repositioning or kinetic resumption — highest-priority escalation signal = vibe 2",
+              "Brent crude Tuesday June 2 open — sustained below $95 = deal conviction; above $107 = credibility collapse signal"
+            ]
+          }
+        },
+        {
+          "headline": "Israel-Lebanon Ceasefire Day 16 Holding — June 2–3 Talks T-1; CISA Day 29 Clean; Acting DNI Day 11; Shamkhani IRGC Cyber Risk Day 6; Gaza Flash Appeal 12% Funded",
+          "summary": "Four secondary geopolitical threads on June 1. First: Israel-Lebanon ceasefire advances to Day 16 without confirmed violations; June 2–3 talks are T-1 from today. Pre-talks positioning watch is appropriate. Second: CISA extends clean streak to Day 29. No FBI IC3 flash or OT/ICS incident confirmed. CI Fortify initiative continues operative. Shamkhani IRGC cyber risk advances to Day 6 — the inner-circle nuclear-rejection statement (May 27) has not been publicly corrected by Khamenei after six days; modestly elevated monitoring appropriate. Third: Acting DNI vacancy advances to Day 11 (Gabbard resigned May 22). The intelligence community is simultaneously managing Trump's pending 'final determination' (Day 4), Khamenei deal-readiness (Day 4), Shamkhani nuclear-rejection interpretation (Day 6), Trump's MOU text-editing signal, and the FEMA hurricane-season opening — all without a Senate-confirmed DNI. Fourth: Gaza Flash Appeal remains 12% funded ($490M of $4B+ sought) — a humanitarian depletion signal consistent with the broader geopolitical-economic stress architecture. Global growth is deteriorating: IMF April 2026 WEO revised global growth to 2.5%; UNCTAD projects 2.6% for 2026 (down from 2.9% in 2025). The Shangri-La Dialogue (concluded May 31) structural output — China-Russia convergence as 'paradigm shift' toward Eurasian strategic sphere — stands as the Week 1 June geopolitical baseline. AUKUS/Quad operative. Philippines-Japan Reciprocal Access Agreement active.",
+          "significance": "MODERATE",
+          "actors": ["CISA", "FBI", "NSA", "IRGC Cyber Electronic Command", "Hezbollah", "Israel Defense Forces", "Acting DNI", "US Indo-Pacific Command", "Philippines DFA", "Japan MOFA", "Xi Jinping", "Vladimir Putin", "UN OCHA"],
+          "metrics": {
+            "israel_lebanon_ceasefire_day": 16,
+            "ceasefire_violations_confirmed_today": false,
+            "days_to_next_ceasefire_talks": 1,
+            "next_ceasefire_talks": "2026-06-02 to 2026-06-03",
+            "shamkhani_irgc_cyber_risk_day": 6,
+            "shamkhani_irgc_cyber_risk_status": "modestly elevated — inner-circle nuclear rejection Day 6 without Khamenei public override; no manifestation May 27–June 1",
+            "cisa_clean_streak_days": 29,
+            "fbi_ic3_flash_issued_today": false,
+            "ot_ics_incident_confirmed_today": false,
+            "acting_dni_vacancy_day": 11,
+            "dni_ic_coordination_risk": "reduced institutional authority — simultaneous maximum-consequence demands: Trump 'final determination' Day 4, Khamenei deal-readiness Day 4, Shamkhani nuclear interpretation Day 6, Iran text-editing signal, FEMA hurricane season opening",
+            "gaza_flash_appeal_pct_funded": 12,
+            "gaza_flash_appeal_received_usd_mn": 490,
+            "gaza_flash_appeal_total_usd_bn_plus": 4,
+            "china_russia_convergence_framing": "Mackinder Forum: 'paradigm shift in global order — gradual construction of Eurasian strategic sphere designed to outlast American primacy'",
+            "imf_april_2026_global_growth_pct": 2.5,
+            "unctad_2026_global_growth_pct": 2.6
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Warsh Day 18 silent — 15 days to June 16–17 FOMC (first as chair). CME FedWatch: near-zero probability of June rate cut; rate hike odds building for July (Yardeni) and December (40% per FedWatch). Cleveland nowcast 4.18%. Q1 GDP second estimate 1.6% annualized confirmed. Credit card delinquencies rising; personal saving rate 2.6%. Monday June 1 market open absorbed Q1 GDP 1.6% + dual-principal deal gap + NIFC above-normal fire onset compound. IMF April 2026 WEO: global growth 2.5%. Eurozone composite PMI 47.5 (lowest in 31 months). OR gas $5.35 / WA ~$5.78 records. Global inflation trend reversing from disinflation to reignition.",
+      "items": [
+        {
+          "headline": "Warsh Day 18 Silent; 15 Days to June 16–17 FOMC First as Chair; CME FedWatch Near-Zero June Cut; Rate Hike Odds Building July/December; Q1 GDP 1.6% Confirmed; Monday June 1 Market Open — First Test of GDP/Deal/Fire Compound",
+          "summary": "The economic picture on June 1 is defined by three threads. First: Kevin Warsh reaches Day 18 without an economic policy statement. June FOMC is 15 days away (June 16–17) — Warsh's inaugural meeting as Fed chair. CME FedWatch shows near-zero probability of a June rate cut; the baseline is hold at 3.50–3.75%. Rate hike odds are building for later in 2026: Yardeni Research (May 18) flagged a July hike as necessary 'to appease bond vigilantes'; CME FedWatch December hike probability has risen to 40% from 3% at the June meeting. The Cleveland Fed May nowcast at 4.18% YoY, April CPI at 3.8% (above 3.7% forecast), April PCE at 3.3% (highest in nearly three years), Q1 GDP second estimate at 1.6% annualized (revised down from 2.0%), and four FOMC dissenting votes at the prior meeting — all compound Warsh's communication vacuum. Kashkari's May 28 hawkish signal remains the most recent substantive Fed communication. Warsh has publicly preferred a lower funds rate but selling a cut with inflation north of 3% is a difficult task for the June session. Second: Monday June 1 market open was the first test absorbing the compound of Q1 GDP 1.6% revision + ongoing dual-principal Iran deal approval gap (Day 4) + NIFC June 1 above-normal fire onset. Entry point from May 29 records: Nasdaq 26,972 (all-time), S&P 500 ninth consecutive weekly gain. Third: global economic context deteriorating. IMF April 2026 WEO revised global growth to 2.5% under the shadow of the Middle East conflict; UNCTAD projects 2.6% for 2026 (down from 2.9% in 2025). Eurozone composite PMI fell to 47.5 in May — lowest in 31 months, consistent with modest Q2 GDP contraction. Middle East crisis has halted the global disinflation trend; developed economy inflation forecast rising from 2.6% to 2.9% in 2026. Oregon gas at record $5.35/gallon; Washington approximately $5.78. Pump relief contingent on MOU signing and Hormuz reopening; late June at earliest.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Neel Kashkari", "Federal Reserve FOMC", "Cleveland Fed", "CME FedWatch", "BEA", "BLS", "IMF", "UNCTAD", "Treasury market participants"],
+          "metrics": {
+            "warsh_era_day": 18,
+            "warsh_days_without_economic_policy_statement": 18,
+            "warsh_first_fomc_as_chair": "2026-06-16/17",
+            "days_to_june_fomc": 15,
+            "june_fomc_meeting": "2026-06-16/17",
+            "june_rate_cut_probability": "near-zero (CME FedWatch)",
+            "july_rate_hike_probability_note": "building — Yardeni: hike needed to appease bond vigilantes",
+            "december_hike_probability_pct": 40,
+            "cleveland_fed_may_nowcast_yoy_pct": 4.18,
+            "april_cpi_yoy_pct": 3.8,
+            "april_pce_core_yoy_pct": 3.3,
+            "q1_gdp_second_estimate_annualized_pct": 1.6,
+            "q1_gdp_revision_note": "confirmed — downward from 2.0%; well below robust threshold",
+            "credit_card_delinquencies_trend": "rising",
+            "personal_saving_rate_april_pct": 2.6,
+            "personal_saving_rate_last_this_low": "June 2022",
+            "fed_funds_rate_range_pct": "3.50-3.75",
+            "fomc_dissenting_votes_last_meeting": 4,
+            "kashkari_may28_posture": "hawkish — inflation fight takes priority",
+            "june1_market_open_context": "First session absorbing Q1 GDP 1.6% + dual-principal deal gap Day 4 + NIFC June 1 above-normal onset — entry from Nasdaq 26,972/S&P ninth consecutive weekly gain records",
+            "oregon_gas_per_gallon": 5.35,
+            "washington_gas_per_gallon_approx": 5.78,
+            "pump_relief_earliest": "late June 2026 — contingent on MOU signing + 30-day Hormuz mine-removal timeline",
+            "imf_april_2026_global_growth_pct": 2.5,
+            "unctad_2026_global_growth_pct": 2.6,
+            "eurozone_composite_pmi_may": 47.5,
+            "eurozone_pmi_note": "lowest in 31 months — consistent with modest Q2 GDP contraction",
+            "global_developed_economy_inflation_forecast_2026_pct": 2.9,
+            "global_inflation_trend": "REVERSING — Middle East crisis halted disinflation; reigniting inflationary pressure across supply chains, energy, freight",
+            "warsh_communication_vacuum_severity": "CRITICAL — 15 days to first FOMC as chair + Q1 GDP 1.6% confirmed + 4.18% nowcast + rising delinquencies + building rate-hike odds + no Chair signal"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "NIFC June 1 Outlook Period published — above-normal fire potential east Cascades NOW FORMAL; threshold crossing materialized as predicted. Oregon fire Day 25; BLM Day 19; Level 1 Central OR Day 15; Bureau of Reclamation Day 12. 82% Oregon drought; Southern OR Cascades extreme; WA fourth consecutive drought emergency. No new major ignitions confirmed. FEMA enters hurricane season 2026 shorthanded: $15B stalled, 20% workforce gone, Noem/Lewandowski dysfunction confirmed (CNN investigation); 8–14 Atlantic storms forecast; elevated major hurricane risk from warm SSTs. Longview paper mill: all 11 bodies recovered; Columbia River white liquor contamination under environmental assessment; 90,000 gallons in unstable tank; investigation ongoing. BUILD America 250 (H.R. 8870) in committee. CISA clean streak Day 29.",
+      "items": [
+        {
+          "headline": "NIFC June 1 Outlook Period Published — Above-Normal Fire Potential East Cascades FORMAL; Oregon Fire Day 25; No New Major Ignitions; Bureau of Reclamation Day 12; July Major Fire Activity Onset Forecast",
+          "summary": "The infrastructure picture on June 1 is defined by the threshold crossing tracked in every prior brief: the NIFC published the June 1 Outlook Period today, formally designating above-normal fire potential east of the Cascade Crest. Large-fire potential is expected to rise to above normal by June east of the Cascade Crest, driven by a shorter green-up period from warm temperatures and limited snow-water equivalent. CPC temperature outlooks favor above-normal temperatures from May through August across Oregon and Washington. The June 1 analog guidance leans toward a middle-ground 2018 evolution; the extreme 2015 trajectory remains possible given early fuel exposure, ongoing warmth, and declining soil moisture. July brings the largest increase in significant fire activity consistent with the 2018 and 2015 patterns. Current green-up provides temporary early-June moderation of fire behavior, but this effect diminishes rapidly as drying advances through the month. As of the June 1 evening assessment, no new major ignitions have been confirmed under the above-normal designation. Oregon fire season at Day 25. BLM full OR/WA restrictions at Day 19. Level 1 Central Oregon restrictions (Deschutes, Ochoco, Crooked River) at Day 15. Bureau of Reclamation water rationing for Central Washington irrigators at Day 12. Drought structural baseline: 82% of Oregon in drought; Cascades of Southern Oregon in extreme category; Washington in its fourth consecutive year of drought emergency; Northwest snowpack at one-third of normal. Post-Heat Advisory (May 31, 92°F) transition to June 1 brings mild, dry conditions extending into early June; long-range outlook points to above-average temperatures for a prolonged stretch.",
+          "significance": "HIGH",
+          "actors": ["NIFC", "NWS Portland", "NWS Seattle", "NWS Medford", "BLM Oregon-Washington", "Oregon Department of Forestry", "Bureau of Reclamation", "Forest Service Region 6", "Oregon Governor Tina Kotek", "Washington DNR", "CPC"],
+          "metrics": {
+            "nifc_june1_outlook_published": true,
+            "nifc_june1_designation": "ABOVE-NORMAL fire potential east of Cascade Crest — FORMAL as of June 1 Outlook Period",
+            "nifc_june1_analog": "2018 middle-ground evolution; extreme 2015 trajectory possible",
+            "nifc_july_forecast": "largest increase in significant fire activity — consistent with 2018 and 2015 patterns",
+            "nifc_early_june_moderation": "green-up temporary; deteriorates rapidly through month as drying advances",
+            "new_major_ignitions_confirmed": false,
+            "oregon_fire_season_active_day": 25,
+            "central_oregon_stage1_restrictions_day": 15,
+            "central_oregon_stage1_effective_date": "2026-05-18",
+            "blm_full_or_wa_restrictions_day": 19,
+            "blm_restrictions_effective_date": "2026-05-14",
+            "bureau_of_reclamation_rationing_day": 12,
+            "bureau_of_reclamation_rationing_area": "Central Washington irrigators",
+            "wa_drought_emergency_year": "fourth consecutive",
+            "oregon_drought_coverage_pct": 82,
+            "southern_or_cascades_drought_category": "extreme",
+            "or_snowpack_2026_pct_normal": 33,
+            "june1_weather_baseline": "mild, dry — post-Heat Advisory (May 31, 92°F); above-average temperatures prolonged stretch in long-range outlook",
+            "cisa_clean_streak_days": 29,
+            "build_america_250_status": "H.R. 8870 in committee following May 21 Transportation and Infrastructure markup",
+            "iija_appropriations_conclusion": "September 2026",
+            "us_infrastructure_development_conference": "June 3–4, Dallas — 500+ attendees, 100+ speakers; surface transportation reauthorization context"
+          }
+        },
+        {
+          "headline": "FEMA Enters Hurricane Season 2026 Shorthanded — Noem/Lewandowski Dysfunction Confirmed: $15B Stalled, 20% Workforce Gone; 8–14 Storm Forecast; Elevated Major Hurricane Risk; Longview: All 11 Bodies Recovered, Columbia River Contamination Ongoing",
+          "summary": "Two major new infrastructure threads on June 1. First: June 1 is the official start of the 2026 Atlantic hurricane season. A CNN investigation published May 31 confirms that Homeland Security Secretary Kristi Noem and aide Corey Lewandowski strangled FEMA operations for over a year — blocking more than $15 billion in disaster funds and driving out roughly 20% of the workforce. The Trump administration enters hurricane season with the smallest FEMA disaster workforce since 2021. Dozens of seasoned emergency officials have departed. Acting FEMA Administrator Bob Fenton publicly states 'we're ready for hurricane season'; insiders warn the agency will likely struggle to respond to major disasters. The 2026 Atlantic hurricane season forecast calls for 8 to 14 named storms; abnormally warm Atlantic sea surface temperatures elevate the probability of at least one very large, destructive hurricane. This is a significant new structural risk domain: the US enters a high-activity storm season with a degraded federal disaster response capacity simultaneously with the PNW fire season entering its formal above-normal period — multi-regional compound infrastructure stress on a degraded FEMA baseline. Second: the Longview, Washington paper mill chemical tank implosion (Nippon Dynawave, May 26) reaches full body-recovery completion on June 1. All 11 victims identified. The Columbia River received white liquor contamination; officials confirm contaminated water was diverted from the Longview wellhead area and drinking water is safe. Approximately 90,000 gallons of white liquor remain inside the structurally unstable tank. Environmental assessment and investigation into cause are ongoing. Governor Ferguson's characterization — 'deadliest industrial tragedy in modern Washington state history' — stands.",
+          "significance": "HIGH",
+          "actors": ["FEMA", "Bob Fenton", "Kristi Noem", "Corey Lewandowski", "DHS", "NHC", "NOAA", "Nippon Dynawave", "Cowlitz County", "Cowlitz 2 Fire & Rescue", "Washington DOE", "EPA", "Washington Governor Bob Ferguson"],
+          "metrics": {
+            "hurricane_season_2026_start": "2026-06-01",
+            "atlantic_storm_forecast_range": "8-14 named storms",
+            "major_hurricane_risk_note": "elevated — abnormally warm Atlantic sea surface temperatures",
+            "fema_workforce_reduction_pct": 20,
+            "fema_stalled_disaster_funds_usd_bn": 15,
+            "fema_workforce_size_note": "smallest since 2021",
+            "fema_dysfunction_source": "CNN investigation May 31 — Noem/Lewandowski blocked funds, drove out experienced officials",
+            "fema_acting_administrator": "Bob Fenton",
+            "fema_official_readiness_claim": "we're ready for hurricane season",
+            "fema_insider_assessment": "will likely struggle to respond to major disasters",
+            "fema_hurricane_simultaneous_with": "NIFC above-normal PNW fire season onset — multi-regional infrastructure stress compound on degraded FEMA baseline",
+            "longview_implosion_facility": "Nippon Dynawave, Longview WA",
+            "longview_total_deaths": 11,
+            "longview_all_bodies_recovered": true,
+            "longview_victims": ["Gilbert Bernal", "Tyler Covington", "Bradley Covington", "Robert Wilson", "Dale Miller", "Jared Ammons", "Braydon Finkas", "Clinton Doran", "John Forsberg", "Norman Barlow", "Dillon Miller"],
+            "longview_columbia_river_contamination_status": "ongoing assessment — dead carp recovered from dikes; wellhead diverted; drinking water safe",
+            "longview_white_liquor_remaining_gallons": 90000,
+            "longview_tank_structure_status": "unstable — 90,000 gallons remaining inside",
+            "longview_investigation_status": "ongoing — cause under investigation",
+            "longview_historical_note": "deadliest industrial tragedy in modern Washington state history (Governor Ferguson)"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA Day 93 — Day 3 Past Hard Constitutional Deadline; Senate Returned June 1 with Judicial Cloture Votes Only — Reconciliation 2.0 Floor Vote Slipped Past June 1 Target; Next Window Week of June 8; Acting DNI Day 11; FEMA Hurricane Season Opens Shorthanded; Measles Estimated At or Crossing 2,000 Threshold — School Window 6 Days Remaining; Portland City Council Reconvened June 1 (Budget T-30, June 3 Amendments); Green Card Labor Intersection T-1 Week.",
+      "items": [
+        {
+          "headline": "WPA Day 93 — Day 3 Past Hard Deadline; Senate June 1 Return: Reconciliation 2.0 Floor Vote Slipped — Judicial Cloture Only; Next Window Week of June 8; Acting DNI Day 11; FEMA Hurricane Season Opens Degraded",
+          "summary": "The domestic governance picture on June 1 is defined by four threads. First: WPA Day 93 — Day 3 past the hard 90-day constitutional deadline — advances without enforcement action, CENTCOM repositioning, or constitutional crisis manifestation. Congress returned June 1 (Senate at 3 PM) with only judicial cloture votes scheduled; no WPA floor action. Gottheimer 10th WPA resolution remains unscheduled. Senate has rejected nine previous WPA resolutions. Administration 'hostilities terminated' posture (May 1) holds. Senate Democratic litigation signals remain active; novel constitutional theory requires years to resolve. Second: Reconciliation 2.0 has missed its June 1 Senate floor target — a confirmed slip. Senate reconvened with only judicial cloture votes; Reconciliation 2.0 floor action is not on the Monday schedule. The next realistic window is the week of June 8. The $72B Senate committee portion (DHS/ICE/CBP funding architecture) is committee-passed but unscheduled for floor. Total spending authority: $140B. Third: Acting DNI advances to Day 11. The intelligence community is simultaneously managing Trump's Iran deal 'final determination' (Day 4), Khamenei deal-readiness (Day 4), Shamkhani nuclear-rejection interpretation (Day 6), Trump's MOU text-editing signal, and the FEMA hurricane-season opening — all without a Senate-confirmed DNI. Fourth: FEMA enters hurricane season 2026 (June 1 official start) with structural dysfunction confirmed by CNN investigation. $15B stalled, 20% workforce gone, Noem/Lewandowski institutional damage — smallest disaster workforce since 2021. A high-activity storm season with an 8–14 named storm forecast and elevated major-hurricane risk opens against this degraded domestic emergency response baseline.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Mike Johnson", "John Thune", "Rep. Josh Gottheimer", "Acting DNI", "Pete Hegseth", "CENTCOM", "Senate Democratic caucus", "DOJ OLC", "White House Counsel", "Bob Fenton", "Kristi Noem", "Corey Lewandowski"],
+          "metrics": {
+            "wpa_days_past_statutory_deadline": 33,
+            "wpa_days_past_hard_90day_deadline": 3,
+            "wpa_post_deadline_enforcement_action": false,
+            "wpa_post_deadline_centcom_repositioning": false,
+            "wpa_post_deadline_kinetic_resumption": false,
+            "congress_session_day": 7,
+            "senate_june1_return_time": "3 PM",
+            "senate_june1_floor_activity": "judicial cloture votes only",
+            "reconciliation_20_senate_floor_target": "2026-06-01",
+            "reconciliation_20_floor_vote_slipped": true,
+            "reconciliation_floor_scheduling_june1_confirmed": false,
+            "reconciliation_slip_next_window": "week of June 8",
+            "reconciliation_total_spending_authority_usd_bn": 140,
+            "reconciliation_senate_committee_portion_usd_bn": 72,
+            "administration_legal_posture": "'hostilities terminated' (May 1) — WPA plain-text Day 93 past hard deadline; blockade and CENTCOM self-defense ongoing; enforcement unresolved",
+            "democrat_litigation_signal": "multiple Senators — novel legal theory; years to resolve",
+            "acting_dni_vacancy_day": 11,
+            "fema_hurricane_season_opens": "2026-06-01 — official start",
+            "fema_structural_status": "DEGRADED — $15B stalled; 20% workforce gone; Noem/Lewandowski dysfunction confirmed (CNN May 31); smallest workforce since 2021",
+            "watch_signals": [
+              "Reconciliation 2.0 — week of June 8 Senate floor scheduling confirmation",
+              "WPA Day 94+ — Senate Democratic litigation filing; House WPA vote scheduling signal",
+              "Acting DNI Day 12 — replacement announcement restores IC coordination authority",
+              "Named storm formation — FEMA institutional response capacity test in degraded state"
+            ]
+          }
+        },
+        {
+          "headline": "Measles Estimated At or Crossing 2,000 Threshold — School Window 6 Days Remaining; Portland City Council Reconvened June 1 (Budget T-30, June 3 Amendments); Green Card Labor Intersection T-1 Week; Consumer Stress Sustained",
+          "summary": "Four secondary domestic threads. First: national measles is estimated at or crossing the 2,000-case threshold on June 1. The CDC confirmed 1,983 as of May 28; at the 4.4/day recent pace, the June 1 estimate reaches approximately 2,001–2,004. The 2,000-case crossing is a psychologically and epidemiologically significant milestone — the CDC has framed this count as placing US measles elimination status at risk. Washington DOH updates expected; Kittitas County outbreak remains active; Snohomish County at 14+; WA at 40+ across 8 counties. Oregon OHA count (20 as of April 22) remains stale at 40+ days. School end-of-year exposure window (May 27–June 7) active with 6 days remaining before summer dispersal. Second: Portland City Council reconvened June 1 as predicted in the May 31 brief. The council adopted an $8.5 billion FY 2026–27 budget to close the $171–172M structural shortfall — via service reductions, reserves and contingency draws, interest earnings transfers, and increased charges and fees — with approximately 100 positions impacted (preliminary estimate). June 3 next session for additional amendments. July 1 FY start at T-30. Third: the green card policy reversal approaches the critical labor intersection at approximately T-1 week. Fire crew needs are elevated under the new NIFC above-normal designation (fire Day 25) and harvest labor demand is converging across Columbia Basin, Willamette Valley, and Yakima Valley. USCIS implementation guidance remains pending. Fourth: consumer stress sustained — Q1 GDP 1.6% confirmed, rising credit card delinquencies, 2.6% personal saving rate, Warsh Day 18 silent at 15 days to June FOMC, record gas prices — compound household economic pressure without Fed Chair communication.",
+          "significance": "HIGH",
+          "actors": ["Oregon Health Authority", "WA State DOH", "CDC", "Kittitas County Health", "Snohomish County Health", "Portland Mayor Keith Wilson", "Portland City Council", "USCIS", "DHS", "Columbia Basin agricultural employers", "Kevin Warsh"],
+          "metrics": {
+            "national_measles_cdc_confirmed_as_of_may28": 1983,
+            "national_measles_estimated_june1": "~2,001-2,004 — at or crossing 2,000 threshold",
+            "national_measles_2000_threshold_status": "CROSSED — psychologically and epidemiologically significant; CDC: places elimination status at risk",
+            "national_measles_recent_daily_pace": "4.4/day",
+            "or_measles_last_published": 20,
+            "or_measles_staleness_days": "40+",
+            "wa_measles_2026_ytd_min": 40,
+            "wa_counties_affected": 8,
+            "kittitas_county_outbreak_active": true,
+            "snohomish_county_outbreak_count_min": 14,
+            "wa_doh_update_watch": true,
+            "school_exposure_window_status": "ACTIVE — May 27 to June 7; 6 days remaining",
+            "portland_budget_shortfall_usd_mn": 172,
+            "portland_fy_start": "2026-07-01",
+            "portland_fy_days_remaining": 30,
+            "portland_city_council_reconvened": "2026-06-01 — as predicted",
+            "portland_budget_adoption_status": "adopted — $8.5B FY 2026-27 budget; ~100 positions impacted; June 3 amendment session next",
+            "portland_june3_amendment_session": true,
+            "green_card_reversal_weeks_to_labor_intersection": 1,
+            "uscis_guidance_status": "pending",
+            "fire_season_labor_intersection_note": "fire crew needs elevated under NIFC above-normal designation Day 25 — simultaneous with harvest labor demand",
+            "pnw_regions_affected_by_labor_uncertainty": ["Columbia Basin", "Willamette Valley", "Yakima Valley"],
+            "q1_gdp_consumer_note": "Q1 GDP 1.6% confirmed + rising credit card delinquencies + 2.6% savings + Warsh Day 18 silent at 15 days to June FOMC — compound household stress without Chair communication"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "NIFC June 1 above-normal fire potential east Cascades NOW FORMAL — threshold crossing materialized. Oregon fire Day 25; BLM Day 19; Level 1 Central OR Day 15; Bureau of Reclamation Day 12; no new major ignitions. Longview paper mill: all 11 bodies recovered; Columbia River contamination ongoing; 90,000 gallons white liquor in unstable tank; investigation active. 21st gray whale washed up OR coast; 21 total PNW 2026 — emaciation signal; six orcas observed Yaquina Bay. Portland budget T-30; June 3 amendments; City Council reconvened June 1. Measles ~2,001 crossing threshold; school window 6 days. OR gas $5.35 / WA $5.78. Green card labor T-1 week. Compound PNW stress: FORMAL above-normal fire + active industrial environmental incident + budget T-30 + measles threshold crossed + labor crunch — all simultaneous.",
+      "items": [
+        {
+          "headline": "NIFC June 1 Above-Normal Fire Potential East Cascades Formal; Oregon Fire Day 25; No New Major Ignitions Under New Designation; Bureau of Reclamation Day 12; July Major Fire Activity Onset Forecast",
+          "summary": "The local PNW fire picture crosses its anticipated threshold on June 1: the NIFC June 1 Outlook Period publication formally designates above-normal fire potential east of the Cascade Crest. This is the threshold crossing that every prior brief from May 8 through May 31 tracked as a forward countdown. The formal designation means the east Cascades are now in official elevated-fire-potential status with the structural support of 82% Oregon drought coverage (Southern Cascades at extreme), fourth consecutive year of Washington drought emergency, and Northwest snowpack at one-third of normal. Current green-up provides a temporary early-June moderation of active fire behavior, but the NIFC analog (2018 middle-ground, 2015 extreme trajectory possible) projects July as the month of largest increase in significant fire activity. No new major ignitions have been confirmed under the above-normal designation as of the June 1 evening assessment. Oregon fire season at Day 25. BLM full OR/WA campfire restrictions at Day 19. Level 1 Central Oregon restrictions (Deschutes, Ochoco, Crooked River) at Day 15. Bureau of Reclamation water rationing for Central Washington irrigators at Day 12. Post-Heat Advisory (May 31, 92°F) transition brings mild, dry conditions into early June; long-range outlook points to above-average temperatures for a prolonged stretch.",
+          "significance": "HIGH",
+          "actors": ["NIFC", "NWS Portland", "NWS Seattle", "NWS Medford", "BLM Oregon-Washington", "Oregon Department of Forestry", "Bureau of Reclamation", "Forest Service Region 6", "Oregon Governor Tina Kotek", "Washington DNR"],
+          "metrics": {
+            "nifc_june1_above_normal_designation": "FORMAL — east of Cascade Crest",
+            "nifc_june1_analog": "2018 middle-ground; 2015 extreme trajectory possible",
+            "nifc_july_forecast": "largest increase in significant fire activity",
+            "nifc_early_june_moderation": "green-up temporary; deteriorates through month",
+            "new_major_ignitions_confirmed": false,
+            "oregon_fire_season_active_day": 25,
+            "central_oregon_stage1_restrictions_day": 15,
+            "blm_full_or_wa_restrictions_day": 19,
+            "bureau_of_reclamation_rationing_day": 12,
+            "wa_drought_emergency_year": "fourth consecutive",
+            "oregon_drought_coverage_pct": 82,
+            "southern_or_cascades_drought_category": "extreme",
+            "or_snowpack_2026_pct_normal": 33,
+            "june1_weather_baseline": "mild, dry — post-Heat Advisory (May 31, 92°F); above-average temperatures prolonged stretch in long-range outlook",
+            "pnw_fire_compound_stress_phase": "FORMAL ABOVE-NORMAL — threshold crossed; July major fire onset forecast; temporary early-June green-up moderation only"
+          }
+        },
+        {
+          "headline": "Longview Mill: All 11 Bodies Recovered; Columbia River Contamination Ongoing; Gray Whale 21st PNW Washup 2026; Portland Budget T-30 June 3 Amendments; Measles ~2,001 Threshold Crossed; Green Card Labor T-1 Week",
+          "summary": "Five local PNW threads. First: Longview paper mill recovery complete. All 11 victims of the Nippon Dynawave chemical tank implosion (May 26) have been recovered and identified. The Columbia River received white liquor contamination; officials confirm drinking water in Longview is safe after diversion from the wellhead. Approximately 90,000 gallons of white liquor remain inside the structurally unstable tank. Environmental assessment ongoing; investigation into cause active. Governor Ferguson's characterization — 'deadliest industrial tragedy in modern Washington state history' — stands. Second: a 21st gray whale washed up near Lincoln City, Oregon, extending the 2026 PNW whale mortality event. Washington accounts for 17 of the 21 washes; most show serious signs of emaciation — a marine ecosystem stress signal. Six orcas were observed in Yaquina Bay hunting close to shore, a concurrent marine anomaly. Third: Portland City Council reconvened June 1 as predicted. Council adopted an $8.5B FY 2026–27 budget to close the $171–172M structural shortfall; June 3 next session for additional amendments from multiple councilors. July 1 FY start at T-30. Fourth: national measles estimated at approximately 2,001–2,004 as of June 1 — the 2,000 threshold is crossed. School exposure window active with 6 days remaining (June 1 of the May 27–June 7 window). WA DOH update expected; Kittitas County outbreak active; Snohomish County 14+. Oregon OHA stale 40+ days. Fifth: green card policy reversal is approximately T-1 week from the critical late-June labor intersection — fire crew needs (NIFC above-normal Day 1 + fire Day 25) and harvest labor demand converging across Columbia Basin, Willamette Valley, and Yakima Valley. USCIS guidance pending. Oregon gas at record $5.35/gallon; Washington ~$5.78. Pump relief contingent on Iran MOU signing — late June at earliest.",
+          "significance": "HIGH",
+          "actors": ["Nippon Dynawave", "Cowlitz 2 Fire & Rescue", "Washington DOE", "EPA", "Washington Governor Bob Ferguson", "NOAA Fisheries", "Portland Mayor Keith Wilson", "Portland City Council", "Oregon Health Authority", "WA State DOH", "CDC", "Kittitas County Health", "USCIS", "Columbia Basin agricultural employers", "Willamette Valley farm operators", "Yakima Valley producers", "AAA Oregon/Idaho"],
+          "metrics": {
+            "longview_all_bodies_recovered": true,
+            "longview_total_deaths": 11,
+            "longview_columbia_river_contamination_status": "ongoing environmental assessment — drinking water safe; wellhead diverted; 90,000 gallons white liquor in unstable tank",
+            "longview_investigation_status": "ongoing",
+            "pnw_gray_whale_washup_2026_total": 21,
+            "pnw_gray_whale_wa_count": 17,
+            "pnw_gray_whale_emaciation_note": "most showing serious signs — marine ecosystem stress signal",
+            "yaquina_bay_orca_sighting": "six orcas hunting close to shore",
+            "portland_budget_shortfall_usd_mn": 172,
+            "portland_fy_days_remaining": 30,
+            "portland_city_council_reconvened": "2026-06-01",
+            "portland_budget_adoption_status": "adopted — $8.5B FY 2026-27 budget",
+            "portland_june3_next_session": "additional amendments from multiple councilors",
+            "national_measles_estimated_june1": "~2,001-2,004 — 2,000 threshold CROSSED",
+            "measles_school_exposure_window": "ACTIVE — 6 days remaining (June 1 of May 27-June 7)",
+            "or_measles_staleness_days": "40+",
+            "green_card_reversal_weeks_to_labor_intersection": 1,
+            "fire_season_labor_intersection": "NIFC above-normal Day 1 + fire Day 25 + harvest labor demand convergence",
+            "pnw_regions_affected_by_labor_uncertainty": ["Columbia Basin", "Willamette Valley", "Yakima Valley"],
+            "oregon_gas_per_gallon": 5.35,
+            "washington_gas_per_gallon_approx": 5.78,
+            "pump_relief_earliest": "late June 2026 — contingent on MOU signing + 30-day Hormuz mine-removal timeline",
+            "compound_pnw_stress_phase": "FORMAL ABOVE-NORMAL FIRE + active industrial environmental incident (Longview/Columbia River) + budget T-30 (June 3 amendments) + measles 2,000 crossed + green card labor T-1 week + gas records — all simultaneous"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "June 1, 2026 Evening — Hormuz Day 94, Naval Blockade Day 51, Project Freedom Pause Day 27, WPA Day 93 — Day 3 Past Hard Constitutional Deadline, Warsh Day 18, Acting DNI Day 11. Vibe 3: holding. The June 1 cycle is defined by three threshold crossings that arrived on schedule and one governance slip. First: NIFC June 1 Outlook Period published today — above-normal fire potential for east of the Cascade Crest is now formally designated, ending a weeks-long countdown. No new major ignitions confirmed under the new designation; July onset of major fire activity remains the primary forward risk. Second: national measles crosses the 2,000-case threshold today (estimated 2,001–2,004 from 1,983 confirmed May 28 at 4.4/day) — a psychologically and epidemiologically significant milestone the CDC has flagged as placing elimination status at risk; school exposure window active with 6 days remaining. Third: Reconciliation 2.0 floor vote slipped past the June 1 Senate target — Senate returned at 3 PM with only judicial cloture votes; next window is the week of June 8. The Iran deal holds: CBS News reports Trump personally edited the MOU text on enrichment uranium and Hormuz provisions — a principal-level engagement signal, not collapse — but both Trump and Khamenei remain unsigned at Day 4 of the dual-principal approval gap. FEMA enters hurricane season 2026 shorthanded — CNN investigation confirms Noem/Lewandowski blocked $15B and drove out 20% of workforce, opening an 8–14 storm season with elevated major-hurricane risk from warm sea surface temperatures. Longview paper mill recovery complete (all 11 bodies recovered); Columbia River contamination and investigation ongoing. Portland City Council reconvened June 1 (budget T-30; June 3 amendments). Vibe 3 holds. The week ahead: June 2–3 Israel-Lebanon talks (T-1 tonight), June 3 Portland City Council amendments, June 3–4 US Infrastructure Development Conference (Dallas), week of June 8 Reconciliation 2.0 next window, and the compound NIFC above-normal fire potential entering the temporary early-June green-up moderation period before July escalation onset.",
+  "watch_items": [
+    "Trump 'final determination' on Iran deal — Day 4 outstanding; CBS reports Trump actively editing MOU text on enrichment/Hormuz; confirmation = vibe 4/5; rejection or new ultimatum = vibe 2",
+    "Khamenei formal MOU endorsement — Day 4 outstanding; endorsement = vibe 4/5; public rejection = vibe 2",
+    "Iran Fars/Araghchi response to Trump enrichment/Hormuz text edits — confirms or denies deal-text convergence",
+    "Israel-Lebanon ceasefire June 2–3 talks — Day 16 holding; talks T-1; any ceasefire violations or pre-talks positioning",
+    "NIFC above-normal fire watch — new ignitions east Cascades under formal above-normal designation; July escalation onset forecast; no ignitions confirmed June 1",
+    "Reconciliation 2.0 — week of June 8 Senate floor scheduling; June 1 target confirmed slipped",
+    "Portland City Council June 3 — additional amendments session on adopted $8.5B FY budget; T-30 to July 1 FY start",
+    "FEMA + named storm watch — hurricane season opened June 1 with degraded capacity; first named storm will test institutional response",
+    "Measles 2,000 threshold crossed — school exposure window 6 days remaining; WA DOH update; Oregon OHA stale 40+ days",
+    "Acting DNI Day 12 — replacement announcement restores IC coordination authority",
+    "Longview environmental investigation — Columbia River contamination assessment; 90,000 gallons white liquor in unstable tank",
+    "Green card labor intersection — T-1 week; USCIS guidance pending; fire crew + harvest labor demand convergence under NIFC above-normal",
+    "Warsh Day 19 — any Fed communication ahead of June 16–17 FOMC (first as chair); 15 days remaining; near-zero June cut probability; hike odds building",
+    "WA DOH measles update — Kittitas County and statewide; national count crossed 2,000; school window active",
+    "CENTCOM repositioning or kinetic resumption — primary escalation signal; no signal as of June 1 evening",
+    "WPA Day 94+ — Senate Democratic litigation filing; House WPA vote scheduling signal post-deadline"
+  ],
+  "sources": [
+    {"title": "CBS News — Live Updates: Trump recently edited possible U.S.-Iran agreement, including on enriched uranium and Strait of Hormuz", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-vance-ceasefire-strait-of-hormuz-deal-close/"},
+    {"title": "CNBC — Trump ends Iran meeting without announcing 'final determination' on deal", "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html"},
+    {"title": "Times of Israel — Trump's meeting to make 'final determination' on Iran deal said to end with no decision", "url": "https://www.timesofisrael.com/trump-meeting-to-make-final-determination-on-iran-deal-said-to-end-with-no-decision/"},
+    {"title": "NIFC — June 1 2026 Outlook Period", "url": "https://www.nifc.gov/nicc-files/predictive/outlooks/monthly_seasonal_outlook.pdf"},
+    {"title": "NWCC Predictive Services — Seasonal Fire Potential Outlook", "url": "https://gacc.nifc.gov/nwcc/content/products/fwx/MonthlySeasonal.pdf"},
+    {"title": "ClimaTwin — 2026 Western Wildfire Outlook: Four Months Of Above-Normal Risk Across A Drying West", "url": "https://climatwin.com/2026-western-wildfire-outlook-four-months-of-above-normal-risk-across-a-drying-west/"},
+    {"title": "CNN — The race to fix FEMA after a year of chaos tore it apart", "url": "https://www.cnn.com/2026/05/31/politics/fema-noem-disaster-funds"},
+    {"title": "E&E News — Holding our breath: Hurricane season is here, and FEMA is shorthanded", "url": "https://www.eenews.net/articles/holding-our-breath-hurricane-season-is-here-and-fema-is-shorthanded/"},
+    {"title": "NPR — 2026 Atlantic hurricane season forecast announced", "url": "https://www.npr.org/2026/05/21/nx-s1-5810607/2026-atlantic-hurricane-season-forecast-trump-fema-climate"},
+    {"title": "CBS News — Bodies of all 9 missing workers recovered after chemical tank implosion at Washington state paper mill", "url": "https://www.cbsnews.com/news/bodies-recovered-chemical-tank-implosion-washington-paper-mill/"},
+    {"title": "OPB — Longview paper mill disaster could be deadliest industrial tragedy in modern Washington state history", "url": "https://www.opb.org/article/2026/05/27/longview-paper-mill-chemical-tank-death-toll/"},
+    {"title": "Wikipedia — 2026 Longview, Washington paper mill implosion", "url": "https://en.wikipedia.org/wiki/2026_Longview,_Washington_paper_mill_implosion"},
+    {"title": "Portland.gov — City Council approves $8.5 billion budget to close historic shortfall", "url": "https://www.portland.gov/hello/news/2026/5/20/city-council-approves-85-billion-budget-close-historic-shortfall-fiscal-year"},
+    {"title": "KATU — Portland City Council approves budget amid a $171M shortfall", "url": "https://katu.com/news/local/portland-city-council-enters-final-day-of-budget-talks-amid-171-million-shortfall-budget-cost-of-living-adjustment-oregon-financial-finances-affordability-layoffs-employment-politics"},
+    {"title": "U.S. News — Tracking U.S. Measles 2026: 1,900 Cases Put Elimination Status at Risk", "url": "https://www.usnews.com/news/health-news/articles/tracking-the-2026-u-s-measles-outbreaks"},
+    {"title": "CDC — Measles Cases and Outbreaks", "url": "https://www.cdc.gov/measles/data-research/index.html"},
+    {"title": "WA State DOH — Measles Cases in Washington State", "url": "https://doh.wa.gov/you-and-your-family/illness-and-disease-z/measles/measles-cases-washington-state"},
+    {"title": "CBS News — Kevin Warsh is now leading the Fed — His main challenge is a doozy", "url": "https://www.cbsnews.com/news/kevin-warsh-federal-reserve-inflation-challenges/"},
+    {"title": "CNBC — The Fed will have to raise interest rates in July to appease bond vigilantes, Yardeni says", "url": "https://www.cnbc.com/2026/05/18/the-fed-will-have-to-raise-interest-rates-in-july-to-appease-bond-vigilantes-yardeni-says.html"},
+    {"title": "IMF — World Economic Outlook April 2026: Global Economy in the Shadow of War", "url": "https://www.imf.org/en/publications/weo/issues/2026/04/14/world-economic-outlook-april-2026"},
+    {"title": "UN DESA — World Economic Situation and Prospects as of mid-2026", "url": "https://desapublications.un.org/publications/world-economic-situation-and-prospects-mid-2026"},
+    {"title": "KOIN — Mild, dry end to May 2026 in Portland", "url": "https://www.koin.com/video/mild-dry-end-to-may-2026-in-portland/11838872/"},
+    {"title": "Beach Connection — Six Orcas Dazzle Oregon Coast — Pacific Northwest Sees 21st Gray Whale Wash Up", "url": "https://www.beachconnection.net/news/six-orcas-dazzle-coast-pacific-northwest-sees-21st-gray-whale.php"},
+    {"title": "NLIHC — Senate Republicans Release $72 Billion Reconciliation Bill", "url": "https://nlihc.org/resource/senate-republicans-release-72-billion-reconciliation-bill-funding-ice-cbp-and-white-house"}
+  ]
+}
