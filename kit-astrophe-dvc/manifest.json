@@ -662,7 +662,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "NIFC June 1 Above-Normal Fire Formal; Measles 2,000 Threshold Crossed; Reconciliation 2.0 Slipped; Trump Editing Iran Deal Text Day 4; FEMA Hurricane Season Opens Degraded; Longview All 11 Recovered; Vibe 3",
       "generated_at": "2026-06-01T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-02-morning",
+      "date": "2026-06-02",
+      "session": "morning",
+      "file": "reports/2026-06-02-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Iran Suspends Communications Day 1 — Brent $94.58; June 2–3 Israel-Lebanon Talks Today; Reconciliation 2.0 Stuck; Sound Transit $34.5B Gap; Warsh Day 19; WPA Day 94 Day 4 Past Deadline; Vibe 3 Lower Edge",
+      "generated_at": "2026-06-02T07:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-01T07:00:00-07:00"
+  "last_updated": "2026-06-02T07:00:00-07:00"
 }

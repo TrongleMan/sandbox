@@ -1,0 +1,335 @@
+{
+  "report_id": "2026-06-02-morning",
+  "generated_at": "2026-06-02T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 95; Naval Blockade Day 52; Project Freedom Pause Day 28; WPA Day 94 — Day 4 Past Hard Constitutional Deadline; Trump 'Final Determination' Pending Day 5; Khamenei Approval Gap Day 5; Warsh Day 19; Acting DNI Day 12. Tuesday June 2, 2026. The overnight signal environment reverses the constructive CBS text-editing read from May 31–June 1. Iranian media reported Tuesday that Tehran suspended communications with Washington in response to continued Israeli strikes in southern Lebanon — a signal Trump's team disputes: CNN reported June 1 that Trump 'insists talks continue after Iran suspended negotiations.' The operational picture: CENTCOM self-defense authority remains in effect, no repositioning or kinetic resumption confirmed. But the comms suspension — even if tactical and Iranian-media-sourced rather than formally US-confirmed — introduces structural ambiguity into the dual-principal approval gap (Day 5) that has persisted since May 29. Iranian media and regional allies are reportedly considering full closure of both the Strait of Hormuz and the Bab el-Mandeb Strait. Brent fell to $94.58 on June 2 (down 0.42%) after jumping 4%+ at the June 1 open — the retreat reflects uncertainty, not the deal-conviction signal prior briefs assigned to sub-$95 prints. Israel-Lebanon ceasefire enters Day 17 with June 2–3 Washington talks today (fourth round); Netanyahu continued south Lebanon strikes June 1 even as Trump announced an Israel-Hezbollah agreement to 'dial back fighting.' Reconciliation 2.0 June 1 floor target missed — Senate continues negotiations Tuesday with no confirmed floor scheduling. WPA Day 94 Day 4 past hard constitutional deadline advances without enforcement. Sound Transit confirmed a $34.5B funding gap and board voted to restructure ST3 — Ballard Link Market Street extension 'not currently affordable.' Measles estimated 2,010+ threshold crossed; school window 5 days remaining. NIFC above-normal fire designation Day 2; Oregon Fire Day 26; brief warmup to upper 80s today. Vibe 3: holding at the floor, elevated downside risk.",
+  "vibe": {
+    "score": 3,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 3 — lower-edge hold with elevated downside risk relative to June 1. Three factors anchor this assessment. First: Iran comms suspension signal is the dominant new input but ambiguous in attribution and scope. Iranian media reported Tehran suspended communications with Washington in response to Israeli strikes in Lebanon. Trump's team disputes: CNN June 1 reports Trump 'insists talks continue after Iran suspended negotiations.' This is not confirmed as a full negotiation collapse — it is a tactical disruption signal. CENTCOM self-defense authority operative; no repositioning or kinetic resumption overnight; no public MOU rejection from either Trump or Khamenei. The CBS May 31 principal-level deal-text editing signal (Trump editing MOU on enrichment/Hormuz) stands as the last confirmed constructive engagement, now partially offset by the comms suspension report. Second: Israel-Lebanon ceasefire holds at Day 17 with June 2–3 Washington talks (fourth round) proceeding today — the primary constructive diplomatic thread. The Netanyahu-Katz-Trump rhetorical split on June 1 adds ambiguity: Trump announced 'dial back fighting'; Katz denied any ceasefire; Netanyahu kept south Lebanon strikes active. June 2–3 talks will test whether this split is rhetorical positioning or a real policy fracture. Third: domestic and economic baseline unchanged from June 1 — Reconciliation 2.0 stuck, Warsh Day 19 silent at 14 days to inaugural FOMC, measles 2,000+ crossed, Portland budget T-29. Sound Transit $34.5B gap overhaul is a regional infrastructure retrenchment without immediate national-security nexus. Brent $94.58 is technically below the $95 deal-conviction threshold but reflects uncertainty retreat from the 4%+ June 1 spike rather than deal confidence. Vibe 3 floor holds on absence of confirmed comms collapse, no CENTCOM escalation, and June 2–3 talks proceeding. Drop to 2 requires: confirmed full US-Iran communications breakdown; CENTCOM repositioning or kinetic resumption; Israel-Lebanon talks collapse with renewed Hezbollah front; Hormuz or Bab el-Mandeb formal closure announcement; new major fire ignition with infrastructure cascade under NIFC above-normal Day 2. Restore to 4 requires: Iran comms resumed and formally confirmed; Trump or Khamenei public MOU endorsement; Reconciliation 2.0 floor vote scheduled with path clear."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 95; Naval Blockade Day 52; Project Freedom Pause Day 28; WPA Day 94 — Day 4 Past Hard Constitutional Deadline; Trump 'Final Determination' Pending Day 5; Khamenei Approval Gap Day 5 — Iranian Media: Tehran Suspended Communications With Washington Over Israeli Lebanon Strikes; Trump Insists Talks Continue; Iran + Allies Considering Hormuz + Bab el-Mandeb Full Closure; Israel-Lebanon Ceasefire Day 17 — June 2–3 Washington Talks Today (Fourth Round); Netanyahu-Katz-Trump Rhetorical Split; CISA Day 30 Clean; Acting DNI Day 12; Shamkhani IRGC Cyber Risk Day 7.",
+      "items": [
+        {
+          "headline": "Iran Comms Suspension Signal Day 1 — Iranian Media: Tehran Suspended Communications With Washington Over Israeli Lebanon Strikes; Trump 'Insists Talks Continue'; Iran + Allies Considering Hormuz + Bab el-Mandeb Full Closure; Dual-Principal Approval Gap Day 5; Hormuz Day 95; WPA Day 94 Day 4 Past Hard Deadline",
+          "summary": "The dominant geopolitical thread on June 2 morning is an overnight signal reversal. Iranian media reported Tuesday that Tehran suspended communications with Washington in response to continued Israeli strikes in southern Lebanon on June 1. The US has not confirmed a communications breakdown: CNN reported June 1 that Trump 'insists talks continue after Iran suspended negotiations,' positioning the US posture as treating the suspension as tactical or temporary rather than a fundamental collapse. Critically, Iranian media and Iran's regional allies are reportedly considering full closure of both the Strait of Hormuz and the Bab el-Mandeb Strait — a key alternative route for global oil shipments. If confirmed, simultaneous closure of both straits would represent an extreme escalation scenario with global energy market cascade implications. The operational posture: CENTCOM self-defense authority operative, no repositioning or kinetic resumption overnight, no public MOU rejection from either Trump or Khamenei. The dual-principal approval gap advances to Day 5. Deal architecture at negotiator level remains the prior framework: 60-day ceasefire extension; Hormuz unrestricted reopening (Iran removes mines within 30 days; no tolls, no harassment); proportional US naval blockade lift as commercial shipping resumes; US sanctions waivers for Iran oil sales; Iran commits not to pursue nuclear weapons with enrichment moratorium and HEU removal; US commits to discuss further sanctions relief. CBS May 31 constructive signal — Trump personally editing deal text on enrichment/Hormuz provisions — stands as the last confirmed principal-level engagement before the comms suspension report. The nexus: Israeli strikes in southern Lebanon on June 1 triggered the suspension, meaning the Israel-Lebanon track and the US-Iran track are now operationally linked — progress or breakdown in one directly affects the other. WPA Day 94, Day 4 past the hard 90-day constitutional deadline, advances without enforcement. If Iranian comms suspension is confirmed, the active-hostilities-without-congressional-authorization argument intensifies.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "Steve Witkoff", "Abbas Araghchi", "Ali Khamenei", "Mojtaba Khamenei", "Marco Rubio", "Pete Hegseth", "CENTCOM", "Iran Foreign Ministry", "IRGC", "Iranian state media", "CNN"],
+          "metrics": {
+            "hormuz_closed_days": 95,
+            "naval_blockade_active_days": 52,
+            "project_freedom_pause_day": 28,
+            "wpa_days_past_statutory_deadline": 34,
+            "wpa_days_past_hard_90day_deadline": 4,
+            "trump_final_determination_pending_day": 5,
+            "khamenei_approval_gap_day": 5,
+            "iran_comms_suspension_status": "Iranian media: Tehran suspended communications with Washington in response to Israeli strikes in Lebanon — US unconfirmed; Trump insists talks continue (CNN June 1)",
+            "iran_comms_suspension_attribution": "Iranian media — not US-confirmed; treat as signal requiring verification",
+            "iran_hormuz_bab_el_mandeb_closure_consideration": "Iranian media + regional allies reportedly considering full closure of Strait of Hormuz AND Bab el-Mandeb — if confirmed = vibe 2 immediate",
+            "trump_deal_text_editing_signal": "CBS May 31: Trump edited possible agreement on enriched uranium and Strait of Hormuz — last confirmed constructive engagement before comms suspension",
+            "centcom_repositioning_signal": false,
+            "kinetic_resumption_signal": false,
+            "trump_mou_formal_endorsement": false,
+            "khamenei_mou_formal_endorsement": false,
+            "wpa_post_deadline_enforcement_action": false,
+            "iran_israel_lebanon_track_nexus": "Israeli south Lebanon strikes June 1 triggered comms suspension — US-Iran deal track and Israel-Lebanon track now operationally linked",
+            "brent_june2_usd_per_bbl": 94.58,
+            "brent_june2_change_pct": -0.42,
+            "brent_june1_open_move": "4%+ spike at June 1 open; retreated by June 2 — reflects comms suspension uncertainty",
+            "watch_signals": [
+              "US confirmation or denial of Iran comms suspension — primary ambiguity to resolve; Iranian-media-sourced only as of June 2 morning",
+              "Iran or allies formal Hormuz/Bab el-Mandeb closure announcement — escalation = vibe 2 immediate",
+              "CENTCOM repositioning or kinetic resumption — highest-priority escalation signal",
+              "Trump 'final determination' public announcement — Day 5 outstanding; comms suspension adds complexity",
+              "Khamenei public MOU endorsement — Day 5 outstanding; endorsement = vibe 4",
+              "Brent crude movement — $94.58 watching Iran comms resolution; $107 = credibility collapse signal"
+            ]
+          }
+        },
+        {
+          "headline": "Israel-Lebanon Ceasefire Day 17 — June 2–3 Washington Talks Today (Fourth Round); Netanyahu Continues South Lebanon Strikes Despite Trump 'Dial Back' Announcement; Katz Denies Ceasefire; CISA Day 30 Clean; Acting DNI Day 12; Shamkhani Cyber Risk Day 7",
+          "summary": "Four secondary geopolitical threads on June 2 morning. First: the fourth round of Israel-Lebanon peace talks opens today in Washington (June 2–3). The 45-day ceasefire extension enters Day 17. June 1 produced a significant rhetorical split: Trump announced Israel and Hezbollah had agreed to 'dial back fighting' and halt hostilities; Israeli Defense Minister Israel Katz denied any ceasefire in Lebanon; Netanyahu pledged to continue strikes in southern Lebanon 'as planned.' Lebanese officials are seeking a new permanent ceasefire framework and progress on Israeli force withdrawal from southern Lebanon and Hezbollah disarmament. The Netanyahu-Katz-Trump split heading into today's talks adds ambiguity to ceasefire durability and the Israel-Lebanon track's connection to the Iran comms suspension. Iranian media's comms suspension was explicitly attributed to Israeli strikes in Lebanon — meaning today's June 2–3 talks have a direct Iran-deal nexus. Second: CISA extends clean streak to Day 30. No FBI IC3 flash or OT/ICS incident confirmed overnight. CI Fortify initiative operative. Shamkhani IRGC cyber risk advances to Day 7 — inner-circle nuclear-rejection statement (May 27) remains without Khamenei public override; Iran comms suspension signal elevates the monitoring context materially. Third: Acting DNI vacancy advances to Day 12 (Gabbard resigned May 22). IC is simultaneously managing the Iran comms suspension signal, Trump final determination Day 5, Khamenei gap Day 5, Shamkhani nuclear-rejection Day 7, June 2–3 Israel-Lebanon talks, and FEMA hurricane season Day 2 — all without a Senate-confirmed DNI. Fourth: Shangri-La Dialogue Eurasian strategic sphere framing ('paradigm shift in global order — gradual construction of Eurasian strategic sphere designed to outlast American primacy') continues as the Week 2 June geopolitical baseline.",
+          "significance": "MODERATE",
+          "actors": ["Benjamin Netanyahu", "Israel Katz", "Hezbollah", "Lebanese government", "US State Department", "Marco Rubio", "CISA", "FBI", "NSA", "IRGC Cyber Electronic Command", "Acting DNI"],
+          "metrics": {
+            "israel_lebanon_ceasefire_day": 17,
+            "ceasefire_extension_duration_days": 45,
+            "june23_washington_talks_status": "ACTIVE TODAY — fourth round opens June 2",
+            "netanyahu_katz_trump_split_june1": "Trump: Israel-Hezbollah agreed to halt hostilities; Katz: denied ceasefire; Netanyahu: strikes continue in south Lebanon as planned",
+            "iran_comms_suspension_israel_lebanon_nexus": "Iranian comms suspension attributed to Israeli Lebanon strikes — June 2-3 talks outcome directly affects Iran-deal track",
+            "ceasefire_violations_confirmed_overnight": false,
+            "shamkhani_irgc_cyber_risk_day": 7,
+            "shamkhani_nuclear_rejection_khamenei_override": false,
+            "shamkhani_cyber_risk_context": "comms suspension signal + Day 7 no override = elevated monitoring appropriate",
+            "cisa_clean_streak_days": 30,
+            "fbi_ic3_flash_overnight": false,
+            "ot_ics_incident_overnight": false,
+            "acting_dni_vacancy_day": 12,
+            "acting_dni_simultaneous_management": "Iran comms suspension + final determination Day 5 + Khamenei gap Day 5 + Shamkhani nuclear-rejection Day 7 + June 2-3 talks + FEMA hurricane Day 2 — no confirmed DNI"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Brent $94.58 June 2 — down 0.42%, retreating from June 1 4%+ spike; technically below $95 prior-brief 'deal conviction' threshold but reflects Iran comms suspension uncertainty rather than deal confidence. Warsh Day 19 silent — 14 days to June 16–17 FOMC (inaugural meeting as chair). Cleveland nowcast 4.18%. April CPI 3.8%; April PCE 3.3%. OR gas $5.35 / WA ~$5.78 records. Pump relief timeline elevated-risk from comms suspension. Reconciliation 2.0 stuck — $72B DHS/ICE/CBP package floor scheduling unconfirmed. Q1 GDP 1.6% consumer stress baseline. CME FedWatch near-zero June cut; rate hike odds building toward July and December.",
+      "items": [
+        {
+          "headline": "Brent $94.58 June 2 — Retreats After June 1 4%+ Spike; Iran Comms Suspension Introduces Energy Price Uncertainty; Warsh Day 19 Silent at 14 Days to Inaugural FOMC; Rate Hike Odds Building; Q1 GDP 1.6% Consumer Stress Baseline",
+          "summary": "The economic picture on June 2 morning is defined by a Brent crude retreat and Warsh's continued communication vacuum ahead of his inaugural FOMC. Brent fell to $94.58 (down 0.42%) on June 2 after jumping more than 4% at the June 1 open. The June 1 spike reflected initial market optimism at the CBS deal-editing signal; the June 2 retreat reflects the Iran comms suspension reported by Iranian media and ongoing supply uncertainty. The $94.58 print is technically below the $95 'deal conviction' level prior briefs flagged — but in the context of a comms suspension signal and potential Hormuz/Bab el-Mandeb dual-closure consideration, this reflects ambiguity rather than confidence. If both straits are formally threatened with simultaneous closure, Brent moves sharply higher regardless of current levels. Kevin Warsh reaches Day 19 without an economic policy statement — 14 days from the June 16–17 FOMC, his first as Fed chair. Communication vacuum is structural: Warsh has not spoken to inflation trajectory, rate path, or dual-mandate stress positioning. CME FedWatch: near-zero June cut probability; baseline hold at 3.50–3.75%. Rate hike odds building toward July and December windows — Yardeni Research (May 18) flagged July hike needed 'to appease bond vigilantes'; December hike probability near 40%. Cleveland Fed May nowcast 4.18% YoY. April CPI 3.8% (above 3.7% forecast); April PCE 3.3% (highest in nearly three years). Q1 GDP 1.6% confirmed. Consumer stress compound unchanged: 2.6% personal saving rate (lowest since June 2022), rising credit card delinquencies, gas records OR $5.35 / WA ~$5.78. Reconciliation 2.0 stuck — $72B DHS/ICE/CBP package floor scheduling unconfirmed; July 4 delivery deadline to president creates Senate pressure. Eurozone composite PMI 47.5 (lowest in 31 months) and IMF 2026 global growth 2.5% establish the international baseline.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "Neel Kashkari", "Federal Reserve FOMC", "Cleveland Fed", "CME FedWatch", "BEA", "BLS", "IMF", "Treasury market participants", "Yardeni Research"],
+          "metrics": {
+            "warsh_era_day": 19,
+            "warsh_days_without_economic_policy_statement": 19,
+            "days_to_june_fomc": 14,
+            "warsh_first_fomc_as_chair": "2026-06-16/17",
+            "june_rate_cut_probability": "near-zero (CME FedWatch)",
+            "july_rate_hike_probability_note": "building — Yardeni: hike needed to appease bond vigilantes",
+            "december_hike_probability_pct": 40,
+            "cleveland_fed_may_nowcast_yoy_pct": 4.18,
+            "april_cpi_yoy_pct": 3.8,
+            "april_pce_core_yoy_pct": 3.3,
+            "april_pce_note": "highest in nearly three years",
+            "q1_gdp_second_estimate_pct": 1.6,
+            "fed_funds_rate_range_pct": "3.50-3.75",
+            "personal_saving_rate_april_pct": 2.6,
+            "personal_saving_rate_last_this_low": "June 2022",
+            "credit_card_delinquencies_trend": "rising",
+            "brent_june2_usd_per_bbl": 94.58,
+            "brent_june2_change_pct": -0.42,
+            "brent_june1_open_move": "4%+ spike at June 1 open — retreated by June 2",
+            "brent_sub95_context": "technically below $95 threshold — reflects Iran comms suspension uncertainty and retreat from spike; NOT deal conviction signal",
+            "brent_dual_strait_closure_risk": "simultaneous Hormuz + Bab el-Mandeb closure consideration = extreme upside oil price scenario",
+            "oregon_gas_per_gallon": 5.35,
+            "washington_gas_per_gallon_approx": 5.78,
+            "pump_relief_timeline_risk": "ELEVATED — Iran comms suspension adds uncertainty to MOU signing and 30-day mine-removal timeline; late June earliest pushed later if comms breakdown confirmed",
+            "reconciliation_20_status": "stuck — June 1 floor target missed; Senate negotiations continuing June 2; July 4 deadline",
+            "imf_april_2026_global_growth_pct": 2.5,
+            "eurozone_composite_pmi_may": 47.5,
+            "warsh_communication_vacuum_severity": "CRITICAL — 14 days to inaugural FOMC; Iran comms suspension adds energy-price uncertainty; 4.18% nowcast; CPI 3.8%; rate hike odds building; no Chair signal"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "NIFC above-normal fire potential east Cascades Day 2 — formal designation operative; Oregon Fire Day 26; BLM Day 20; Level 1 Central OR Day 16; Bureau of Reclamation Day 13; no new major ignitions overnight; brief warmup to upper 80s today. Sound Transit board confirmed $34.5B gap overhaul — Ballard Link Market Street extension 'not currently affordable'; ST3 fundamentally restructured. Longview paper mill: CSB investigation Day 8; 90,000 gallons white liquor in unstable tank; Columbia River contamination ongoing. FEMA hurricane season Day 2 — degraded capacity baseline.",
+      "items": [
+        {
+          "headline": "NIFC Above-Normal Fire Designation Day 2 — Oregon Fire Day 26; BLM Day 20; No New Ignitions Overnight; Upper 80s Today; Bureau of Reclamation Day 13; July Major Activity Onset Watch",
+          "summary": "The infrastructure fire picture on June 2 morning: the NIFC June 1 above-normal fire potential designation for east of the Cascade Crest enters Day 2 with no new major ignitions overnight. Oregon fire season active Day 26. BLM full OR/WA campfire restrictions Day 20. Level 1 Central Oregon restrictions (Deschutes, Ochoco, Crooked River) Day 16 (effective May 18). Bureau of Reclamation water rationing for Central Washington irrigators Day 13. A brief early-summer warmup is underway — temperatures expected to reach the upper 80s today across northwest Oregon and southwest Washington, with a broader prolonged warm period in the long-range outlook. The early-June green-up continues to provide temporary moderation of fire behavior; this effect deteriorates rapidly as drying advances through the month. July remains the projected month of largest increase in significant fire activity under the 2018 analog conditions (2015 extreme trajectory possible given early fuel exposure and below-normal snowpack). Forest Service research station cuts (April 2026) reduce PNW fire science and early-warning capacity entering the highest-risk period. FEMA hurricane season Day 2 — degraded capacity baseline ($15B stalled, 20% workforce gone from Noem/Lewandowski dysfunction) unchanged; no named storm formation watch active. The multi-regional infrastructure stress compound — PNW fire season formally above-normal simultaneously with a high-activity hurricane season on a degraded FEMA baseline — remains the structural framing through summer.",
+          "significance": "HIGH",
+          "actors": ["NIFC", "NWS Portland", "NWS Seattle", "NWS Medford", "BLM Oregon-Washington", "Oregon Department of Forestry", "Bureau of Reclamation", "Forest Service Region 6", "Oregon Governor Tina Kotek", "Washington DNR", "CPC", "FEMA"],
+          "metrics": {
+            "nifc_above_normal_designation_day": 2,
+            "nifc_designation_status": "FORMAL — above-normal fire potential east of Cascade Crest; operative since June 1",
+            "nifc_analog": "2018 middle-ground; 2015 extreme trajectory possible",
+            "nifc_july_forecast": "largest increase in significant fire activity",
+            "nifc_early_june_moderation": "green-up temporary; deteriorates rapidly through month",
+            "new_major_ignitions_overnight": false,
+            "oregon_fire_season_active_day": 26,
+            "central_oregon_level1_restrictions_day": 16,
+            "blm_full_or_wa_restrictions_day": 20,
+            "bureau_of_reclamation_rationing_day": 13,
+            "june2_weather_baseline": "upper 80s today — brief warmup northwest OR / SW WA; green-up moderation temporary",
+            "wa_drought_emergency_year": "fourth consecutive",
+            "oregon_drought_coverage_pct": 82,
+            "or_snowpack_2026_pct_normal": 33,
+            "fema_hurricane_season_day": 2,
+            "fema_structural_status": "DEGRADED — $15B stalled; 20% workforce gone; smallest since 2021",
+            "forest_service_pnw_research_cuts": "April 2026 — fire science capacity reduced entering highest-risk period",
+            "multi_regional_stress_compound": "NIFC above-normal PNW Day 2 + Atlantic hurricane season Day 2 on degraded FEMA baseline"
+          }
+        },
+        {
+          "headline": "Sound Transit Board Confirms $34.5B Gap — Ballard Link Market Street Extension 'Not Currently Affordable'; ST3 Restructured; West Seattle Link Continues; Longview CSB Day 8; Unstable Tank Ongoing",
+          "summary": "Two major infrastructure development items on June 2 morning. First: Sound Transit's governing board voted to approve a sweeping overhaul of the voter-approved ST3 expansion plan, acknowledging a $34.5 billion funding gap — one of the largest unfunded regional transit obligations in the western United States. The agency cites rising construction costs, inflation, lower-than-expected revenues, and increasing operating expenses. Key restructuring: the Ballard Link Extension from Seattle Center to Market Street is 'not currently affordable' and requires additional funding before construction can proceed. Only the initial Ballard Link segment to Seattle Center is fully funded under the revised plan. The West Seattle Link Extension remains funded (Avalon Station removed). Tacoma and West Seattle extensions move forward. Additional revenue measures under exploration: fare gates, Washington Clean Fuels Standard carbon credit program, other operational changes. The $34.5B gap reshapes the regional transit expansion Puget Sound voters approved in 2016 — Ballard voters face an indefinite wait for the full extension to Market Street. Second: Longview Nippon Dynawave paper mill CSB investigation advances to Day 8. All 11 victims recovered and identified. Approximately 90,000 gallons of white liquor in the structurally unstable tank; Columbia River contamination assessment ongoing; EPA Region 10 and WA Department of Ecology monitoring active. The OPB pre-warning regulatory thread — March 2026 workers notified WA DOLI of sinkhole at implosion site — continues to define the investigation's fact pattern and regulatory liability arc.",
+          "significance": "HIGH",
+          "actors": ["Sound Transit", "King County Metro", "Seattle City Council", "Pierce County transit authority", "Tacoma transit authority", "CSB", "Nippon Dynawave", "Cowlitz 2 Fire & Rescue", "EPA Region 10", "WA Department of Ecology", "Washington Governor Bob Ferguson"],
+          "metrics": {
+            "sound_transit_st3_gap_usd_bn": 34.5,
+            "sound_transit_board_vote": "approved overhaul — $34.5B gap acknowledged; ST3 restructured",
+            "ballard_link_seattle_center_to_market_status": "NOT CURRENTLY AFFORDABLE — requires additional funding before construction",
+            "ballard_link_to_seattle_center_status": "fully funded",
+            "west_seattle_link_status": "funded (Avalon Station removed)",
+            "west_seattle_tacoma_status": "proceeding",
+            "sound_transit_gap_context": "one of largest unfunded regional transit obligations in western US; ST3 voter-approved 2016",
+            "sound_transit_revenue_measures_under_review": ["fare gates", "WA Clean Fuels Standard carbon credits", "operational changes"],
+            "longview_csb_investigation_day": 8,
+            "longview_all_bodies_recovered": true,
+            "longview_total_deaths": 11,
+            "longview_white_liquor_remaining_gallons": 90000,
+            "longview_tank_status": "structurally unstable",
+            "longview_columbia_river_contamination": "ongoing — drinking water safe; EPA Region 10 + WA DOE monitoring active",
+            "longview_doli_regulatory_thread": "March 2026 sinkhole notification — defines investigation arc and regulatory liability"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "WPA Day 94 — Day 4 Past Hard Constitutional Deadline; Iran Comms Suspension Intensifies WPA Active-Hostilities Argument; Reconciliation 2.0 June 1 Floor Target Missed — Senate Negotiations Continue June 2; Acting DNI Day 12; FEMA Hurricane Season Day 2 Degraded; Measles 2,000+ Threshold Crossed — School Exposure Window 5 Days Remaining; Portland City Council Budget T-29; Green Card Labor Intersection This Week.",
+      "items": [
+        {
+          "headline": "WPA Day 94 Day 4 Past Hard Deadline; Iran Comms Suspension Intensifies WPA Argument; Reconciliation 2.0 June 1 Target Missed — Senate Resumes; Acting DNI Day 12",
+          "summary": "The domestic governance picture on June 2 morning is defined by continued deadline slippage and a new WPA nexus. First: WPA Day 94, Day 4 past the hard 90-day constitutional deadline, advances without enforcement action, CENTCOM repositioning, or kinetic resumption. The Iran comms suspension signal — if confirmed — directly intensifies the WPA debate: if US-Iran communications are suspended and hostilities remain ongoing in the Persian Gulf (CENTCOM self-defense operative, naval blockade active, Hormuz closed), the administration's 'hostilities terminated' legal posture (May 1) becomes harder to maintain against challengers. Multiple Senate Democrats signaling litigation intent; novel constitutional theory requires years to resolve. Senate resumes today; WPA floor scheduling watch continues. Second: Reconciliation 2.0 — the Senate's June 1 floor vote target was missed. Senate Republicans resume negotiations June 2 on the $72B DHS/ICE/CBP funding package. Roll Call flagged 'Reconciliation round two?' for the week of June 1, reporting repeated delays from internal disagreements. July 4 delivery deadline to the president remains the stated target; House will need to reconcile any Senate changes. The $140B total spending authority bill has not received a Senate floor vote. Third: Acting DNI vacancy advances to Day 12 (Gabbard resigned May 22). IC is simultaneously managing the Iran comms suspension signal, Trump final determination Day 5, Khamenei approval gap Day 5, Shamkhani nuclear-rejection Day 7, and June 2–3 Israel-Lebanon talks — all without a confirmed DNI. FEMA hurricane season Day 2 — degraded capacity unchanged.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Mike Johnson", "John Thune", "Senate Republican caucus", "Acting DNI", "Pete Hegseth", "CENTCOM", "DOJ OLC", "White House Counsel", "Bob Fenton", "Rep. Josh Gottheimer"],
+          "metrics": {
+            "wpa_days_past_statutory_deadline": 34,
+            "wpa_days_past_hard_90day_deadline": 4,
+            "wpa_post_deadline_enforcement_action": false,
+            "wpa_iran_comms_suspension_nexus": "Iran comms suspension — if confirmed as active hostilities continuation — intensifies WPA constitutional violation argument; 'hostilities terminated' posture harder to sustain",
+            "wpa_resolutions_rejected": 9,
+            "administration_legal_posture": "'hostilities terminated' (May 1) — WPA plain-text Day 94 past hard deadline; blockade and CENTCOM self-defense ongoing",
+            "democrat_litigation_signal": "multiple Senators — novel legal theory; years to resolve",
+            "reconciliation_20_june1_floor_target": "MISSED",
+            "reconciliation_20_senate_june2_status": "negotiations continuing — floor scheduling unconfirmed",
+            "reconciliation_20_july4_deadline": "stated target for presidential signature",
+            "reconciliation_total_spending_authority_usd_bn": 140,
+            "reconciliation_senate_committee_portion_usd_bn": 72,
+            "acting_dni_vacancy_day": 12,
+            "fema_hurricane_season_day": 2,
+            "fema_structural_status": "DEGRADED — $15B stalled; 20% workforce gone",
+            "watch_signals": [
+              "Reconciliation 2.0 floor scheduling confirmation or further slip — July 4 deadline pressure",
+              "WPA floor scheduling — Senate resumes June 2; Iran comms suspension adds urgency",
+              "Acting DNI replacement announcement",
+              "Senate Democratic WPA litigation filing"
+            ]
+          }
+        },
+        {
+          "headline": "Measles 2,010+ Threshold Crossed — School Exposure Window 5 Days Remaining; Portland City Council Budget T-29; Green Card Labor Intersection This Week; Consumer Stress Compound Unchanged",
+          "summary": "Four secondary domestic threads on June 2 morning. First: national measles has crossed and exceeded the 2,000-case threshold. CDC confirmed 1,983 as of May 28; at the ~4.4/day pace the June 2 estimate reaches approximately 2,010–2,015. The 2,000 crossing places US measles elimination status at risk per CDC assessment. Johns Hopkins Bloomberg School review of elimination status has been delayed. 93% of confirmed cases are outbreak-associated; 40 jurisdictions reporting; MMR vaccination coverage has declined from 95.2% (2019-2020) to 92.5% (2024-2025). School end-of-year exposure window (May 27–June 7) active with 5 days remaining — June 2, 3, 4, 5, and 6. WA DOH updates expected; Kittitas County active; Snohomish County 14+. Oregon OHA stale 40+ days. Second: Portland City Council FY 2026–27 budget session continues T-29 to July 1 — $172M structural shortfall; approximately 100 positions under consideration; service reductions, reserves draws, interest earnings transfers, and fee increases on the table. Third: green card policy reversal labor intersection arrives this week. Fire crew demand elevated under NIFC above-normal designation Day 2 (Oregon Fire Day 26) and harvest labor demand converging across Columbia Basin, Willamette Valley, and Yakima Valley simultaneously. USCIS guidance status pending. Fourth: consumer stress compound unchanged — Q1 GDP 1.6%, 2.6% savings rate, rising credit card delinquencies, Warsh Day 19 silent at 14 days to inaugural FOMC, gas records. Iran comms suspension adds energy-price uncertainty to an already-stressed household baseline.",
+          "significance": "HIGH",
+          "actors": ["CDC", "WA State DOH", "Oregon Health Authority", "Kittitas County Health", "Snohomish County Health", "Johns Hopkins Bloomberg School", "Portland Mayor Keith Wilson", "Portland City Council", "USCIS", "DHS", "Kevin Warsh"],
+          "metrics": {
+            "national_measles_cdc_confirmed_as_of_may28": 1983,
+            "national_measles_estimated_june2": "~2,010-2,015 — 2,000 threshold CROSSED",
+            "national_measles_jurisdictions_reporting": 40,
+            "national_measles_outbreak_associated_pct": 93,
+            "mmr_coverage_2024_2025_pct": 92.5,
+            "mmr_coverage_2019_2020_pct": 95.2,
+            "elimination_status_review": "delayed — Johns Hopkins Bloomberg review pending",
+            "school_exposure_window_status": "ACTIVE — 5 days remaining (June 2–6 of May 27–June 7 window)",
+            "or_measles_staleness_days": "40+",
+            "wa_kittitas_outbreak_active": true,
+            "wa_snohomish_count_min": 14,
+            "portland_budget_shortfall_usd_mn": 172,
+            "portland_fy_days_remaining": 29,
+            "portland_budget_positions_at_risk": "~100",
+            "green_card_reversal_labor_intersection": "THIS WEEK — fire crew (NIFC above-normal Day 2 + OR Fire Day 26) + harvest labor (Columbia Basin, Willamette Valley, Yakima Valley)",
+            "uscis_guidance_status": "pending",
+            "consumer_stress_q1_gdp_pct": 1.6,
+            "personal_saving_rate_april_pct": 2.6,
+            "credit_card_delinquencies_trend": "rising",
+            "iran_comms_suspension_consumer_nexus": "energy-price uncertainty adds to household stress if pump relief delayed or reversed"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "NIFC above-normal fire potential east Cascades Day 2 — no new ignitions overnight; upper 80s today; Oregon Fire Day 26; BLM Day 20; Level 1 Central OR Day 16; Bureau of Reclamation Day 13. Sound Transit $34.5B gap board overhaul — Ballard-Market St extension 'not currently affordable'; ST3 restructured. Longview CSB Day 8 — 90,000 gallons white liquor in unstable tank; contamination ongoing. Portland City Council budget T-29. Measles ~2,010+ crossed; school window 5 days. OR gas $5.35 / WA ~$5.78 records. Green card labor arriving this week. Compound PNW stress: formal above-normal fire operative + Longview industrial incident Day 8 + Sound Transit restructure + Portland budget T-29 + measles crossed + labor crunch — all simultaneous.",
+      "items": [
+        {
+          "headline": "NIFC Above-Normal Day 2; Oregon Fire Day 26; No Ignitions Overnight; Upper 80s Today; Bureau of Reclamation Day 13; July Major Fire Activity Onset Watch Unchanged",
+          "summary": "The local PNW fire picture on June 2 morning: NIFC above-normal fire potential designation for east of the Cascade Crest enters Day 2 with no new major ignitions overnight. Oregon fire season active Day 26. BLM full OR/WA campfire restrictions Day 20. Level 1 Central Oregon restrictions (Deschutes, Ochoco, Crooked River) Day 16. Bureau of Reclamation rationing for Central Washington irrigators Day 13. Weather: a brief early-summer warmup is underway — upper 80s expected today across northwest Oregon and southwest Washington, following the post-Heat Advisory (May 31, 92°F) mild transition. The warm, dry early-June period provides temporary green-up fire behavior moderation; this effect deteriorates rapidly as the season progresses into July, the projected month of largest increase in significant fire activity. The 2018 analog continues as the baseline; 2015 extreme trajectory remains possible given early fuel exposure, ongoing drought (82% Oregon coverage, fourth consecutive WA drought emergency), and below-normal snowpack (one-third of normal). Fire season labor stress: NIFC above-normal Day 2 intersects with green card policy reversal labor crunch arriving this week — fire crew recruitment for the high-risk season ahead is structurally complicated. Forest Service research station cuts reduce PNW fire science and early-warning capacity.",
+          "significance": "HIGH",
+          "actors": ["NIFC", "NWS Portland", "NWS Seattle", "NWS Medford", "BLM Oregon-Washington", "Oregon Department of Forestry", "Bureau of Reclamation", "Forest Service Region 6", "Oregon Governor Tina Kotek", "Washington DNR"],
+          "metrics": {
+            "nifc_above_normal_designation_day": 2,
+            "new_major_ignitions_overnight": false,
+            "oregon_fire_season_active_day": 26,
+            "central_oregon_level1_restrictions_day": 16,
+            "blm_full_or_wa_restrictions_day": 20,
+            "bureau_of_reclamation_rationing_day": 13,
+            "june2_weather_baseline": "upper 80s today — brief warmup northwest OR / SW WA; green-up moderation temporary; above-average prolonged temperatures in long-range outlook",
+            "nifc_july_major_activity_onset_watch": "July projected as month of largest increase in significant fire activity — 2018 analog; 2015 extreme possible",
+            "fire_labor_crunch_nexus": "NIFC above-normal Day 2 + green card reversal labor intersection this week — fire crew recruitment structurally complicated",
+            "wa_drought_emergency_year": "fourth consecutive",
+            "oregon_drought_coverage_pct": 82,
+            "or_snowpack_2026_pct_normal": 33
+          }
+        },
+        {
+          "headline": "Sound Transit $34.5B Gap Confirmed — Ballard-Market St 'Not Currently Affordable'; Longview CSB Day 8; Portland Budget T-29; Measles ~2,010+; OR Gas $5.35 Record; Green Card Labor This Week",
+          "summary": "Five local PNW threads on June 2 morning. First: Sound Transit's board voted to overhaul the voter-approved ST3 plan in response to a $34.5 billion funding gap — citing rising construction costs, inflation, lower-than-expected revenues, and increasing operating expenses. The Ballard Link Extension from Seattle Center to Market Street is 'not currently affordable' and requires additional funding before construction can proceed. West Seattle Link continues (Avalon Station removed). Tacoma extension proceeds. The restructure reshapes the regional transit expansion Puget Sound voters approved in 2016. Additional revenue measures (fare gates, Clean Fuels Standard carbon credits) under exploration. Second: Longview Nippon Dynawave paper mill CSB investigation Day 8. All 11 victims recovered; 90,000 gallons white liquor in structurally unstable tank; Columbia River contamination ongoing; EPA Region 10 and WA DOE monitoring active. The pre-warning regulatory thread (March 2026 DOLI sinkhole notification) continues to define the investigation. Third: Portland City Council FY 2026–27 budget session continues T-29 to July 1 — $172M shortfall; approximately 100 positions; service reductions and fee increases on the table. Fourth: national measles estimated at approximately 2,010–2,015 as of June 2, crossing the 2,000 threshold placing US elimination status at risk. School exposure window 5 days remaining (June 2–6). WA DOH updates expected; Kittitas County active; Snohomish County 14+. Oregon OHA stale 40+ days. Fifth: Oregon gas at record $5.35/gallon (4th highest nationally); Washington approximately $5.78. Pump relief contingent on Iran MOU — comms suspension signal pushes timeline risk higher and may delay any late-June relief.",
+          "significance": "HIGH",
+          "actors": ["Sound Transit", "King County Metro", "Seattle City Council", "Pierce County", "Nippon Dynawave", "Cowlitz 2 Fire & Rescue", "EPA Region 10", "WA Department of Ecology", "CSB", "Washington Governor Bob Ferguson", "Portland Mayor Keith Wilson", "Portland City Council", "WA State DOH", "CDC", "Kittitas County Health", "AAA Oregon/Idaho"],
+          "metrics": {
+            "sound_transit_gap_usd_bn": 34.5,
+            "ballard_link_market_street_status": "NOT CURRENTLY AFFORDABLE",
+            "west_seattle_link_status": "funded (Avalon Station removed)",
+            "sound_transit_st3_voter_approval_year": 2016,
+            "longview_csb_investigation_day": 8,
+            "longview_white_liquor_remaining_gallons": 90000,
+            "longview_tank_status": "structurally unstable",
+            "longview_contamination_status": "ongoing — drinking water safe; Columbia River monitoring active",
+            "portland_fy_days_remaining": 29,
+            "portland_budget_shortfall_usd_mn": 172,
+            "measles_estimated_june2": "~2,010-2,015 — 2,000 threshold CROSSED",
+            "measles_school_window_days_remaining": 5,
+            "oregon_gas_per_gallon": 5.35,
+            "washington_gas_per_gallon_approx": 5.78,
+            "pump_relief_timeline_risk": "ELEVATED — Iran comms suspension adds uncertainty to MOU signing and 30-day Hormuz mine-removal; late June timeline at risk",
+            "compound_pnw_stress": "NIFC above-normal Day 2 operative + Longview CSB Day 8 + Sound Transit $34.5B restructure + Portland budget T-29 + measles 2,000+ crossed + green card labor crunch this week + gas records"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "June 2, 2026 Morning — Hormuz Day 95, Naval Blockade Day 52, Project Freedom Pause Day 28, WPA Day 94 Day 4 Past Hard Constitutional Deadline, Warsh Day 19, Acting DNI Day 12. Vibe 3: holding at the floor, elevated downside risk. The June 2 morning opening is defined by an overnight signal reversal and a new PNW infrastructure stress event. Iranian media reported Tuesday that Tehran suspended communications with Washington in response to continued Israeli strikes in southern Lebanon on June 1. Trump disputes: CNN June 1 reports Trump 'insists talks continue after Iran suspended negotiations.' The operational posture: CENTCOM self-defense authority operative, no repositioning or kinetic resumption, no public MOU rejection from either Trump or Khamenei. Iranian media and regional allies are reportedly considering full closure of both the Strait of Hormuz and the Bab el-Mandeb Strait — if confirmed, this is a vibe-2 event immediate. Brent retreated to $94.58 (down 0.42%) on June 2 after a 4%+ spike at the June 1 open — technically below the $95 'deal conviction' threshold but reflecting uncertainty retreat, not deal confidence. The June 2–3 Israel-Lebanon talks open today in Washington (fourth round) — Netanyahu-Katz-Trump rhetorical split on June 1 (Trump announced 'dial back,' Katz denied ceasefire, Netanyahu continued south Lebanon strikes) adds ambiguity to ceasefire durability and links directly to the Iran comms suspension (attributed to Israeli Lebanon strikes). Sound Transit confirmed a $34.5B funding gap and board voted to restructure ST3 — Ballard Link from Seattle Center to Market Street is 'not currently affordable,' reshaping the regional transit expansion voters approved in 2016. Secondary threads: Reconciliation 2.0 June 1 floor target missed — Senate negotiations continue, July 4 deadline pressure; WPA Day 94 Day 4 past hard deadline without enforcement; Iran comms suspension intensifies WPA active-hostilities argument; Acting DNI Day 12; measles estimated 2,010+ (elimination status at risk, school window 5 days remaining); NIFC above-normal fire Day 2 (no ignitions, upper 80s today); Longview CSB Day 8 (unstable tank, ongoing contamination); Portland budget T-29; green card labor intersection this week; Warsh Day 19 silent at 14 days to inaugural FOMC. The day ahead: US confirmation or denial of Iran comms suspension; June 2–3 Israel-Lebanon Washington talks; Senate Reconciliation 2.0 floor scheduling watch; fire ignition watch (upper 80s today); Brent crude trajectory; Warsh any communication.",
+  "watch_items": [
+    "Iran comms suspension US confirmation or denial — Iranian-media-sourced only as of June 2 morning; Trump 'insists talks continue'; primary ambiguity to resolve; confirmed breakdown = vibe 2",
+    "Iran/allies Hormuz + Bab el-Mandeb full closure threat — if confirmed = vibe 2 immediate; global energy market cascade",
+    "CENTCOM repositioning or kinetic resumption — highest-priority escalation signal; no signal overnight",
+    "Trump 'final determination' on Iran deal — Day 5 outstanding; comms suspension adds complexity to timeline",
+    "Khamenei formal MOU endorsement — Day 5 outstanding; endorsement = vibe 4",
+    "June 2–3 Israel-Lebanon Washington talks — fourth round opens today; Netanyahu-Katz-Trump split heading in; Israel-Iran track nexus",
+    "Brent crude movement — $94.58 watching Iran comms resolution; $107+ = credibility collapse signal",
+    "Reconciliation 2.0 floor scheduling confirmation — June 1 target missed; Senate June 2 status; July 4 deadline",
+    "WPA Day 94 — Senate floor scheduling signal; Iran comms suspension intensifies active-hostilities argument; Democratic litigation watch",
+    "Fire ignition watch — upper 80s today under NIFC above-normal designation Day 2; OR Fire Day 26",
+    "Sound Transit $34.5B gap — additional revenue measures (fare gates, carbon credits) timeline; Ballard extension funding path",
+    "Longview CSB investigation — 90,000 gallons white liquor in unstable tank; contamination assessment ongoing",
+    "Measles school exposure window — 5 days remaining (June 2–6); WA DOH update watch; elimination status at risk",
+    "Portland City Council budget — T-29 to July 1 FY start; service reduction decisions approaching",
+    "Green card labor intersection — arriving this week; USCIS guidance pending; fire crew + harvest labor converging",
+    "Warsh Day 19 — any Fed communication; 14 days to inaugural FOMC; rate hike odds building",
+    "Acting DNI Day 12 — replacement announcement restores IC coordination authority"
+  ],
+  "sources": [
+    {"title": "CNN — Trump insists talks continue after Iran suspended negotiations (June 1, 2026)", "url": "https://www.cnn.com/2026/06/01/world/live-news/iran-trump-lebanon-war-news"},
+    {"title": "Washington Post — Trump says Israel and Hezbollah have agreed to dial back fighting", "url": "https://www.washingtonpost.com/world/2026/06/01/lebanon-israel-hezbollah-netanyahu-dahiyeh-rubio-ceasefire-airstrikes/78a49cb2-5d98-11f1-9c46-d6211372eede_story.html"},
+    {"title": "Al Jazeera — Trump says Israel and Hezbollah agree to halt hostilities, Lebanon invasion", "url": "https://www.aljazeera.com/news/2026/6/1/washington-proposes-roadmap-for-de-escalation-in-lebanon-us-official"},
+    {"title": "Wikipedia — 2026 Israel-Lebanon peace talks", "url": "https://en.wikipedia.org/wiki/2026_Israel%E2%80%93Lebanon_peace_talks"},
+    {"title": "Wikipedia — 2026 Israel-Lebanon ceasefire", "url": "https://en.wikipedia.org/wiki/2026_Israel%E2%80%93Lebanon_ceasefire"},
+    {"title": "Wikipedia — 2025-2026 Iran-United States negotiations", "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations"},
+    {"title": "PBS News — Israel and Lebanon agree to 45-day extension of ceasefire", "url": "https://www.pbs.org/newshour/world/israel-and-lebanon-agree-to-45-day-extension-of-ceasefire-u-s-state-department-says"},
+    {"title": "Axios — Exclusive: What's inside the Iran deal Trump is close to signing", "url": "https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear"},
+    {"title": "Axios — Scoop: U.S. and Iran reach deal but need Trump's final approval", "url": "https://www.axios.com/2026/05/28/iran-peace-deal-trump-approval"},
+    {"title": "Euronews — Iran-US deal nears finish line but Trump and Khamenei must say yes", "url": "https://www.euronews.com/2026/05/29/iran-us-deal-nears-finish-line-but-trump-and-khamenei-must-say-yes"},
+    {"title": "Trading Economics — Brent Crude Oil Price June 2 2026 ($94.58)", "url": "https://tradingeconomics.com/commodity/brent-crude-oil"},
+    {"title": "Federal Reserve — April 28-29 2026 FOMC Statement", "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm"},
+    {"title": "Chase — Kevin Warsh Is the New Chair of the Federal Reserve", "url": "https://www.chase.com/personal/investments/learning-and-insights/article/kevin-warsh-is-the-new-chair-of-the-federal-reserve"},
+    {"title": "CME Group — FedWatch Tool", "url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html"},
+    {"title": "Roll Call — This week: Reconciliation round two? (June 1, 2026)", "url": "https://rollcall.com/2026/06/01/this-week-reconciliation-round-two/"},
+    {"title": "NLIHC — Republicans Return to Reconciliation Negotiations After Memorial Day Recess", "url": "https://nlihc.org/resource/republicans-return-reconciliation-negotiations-after-memorial-day-recess"},
+    {"title": "Conference Board — Policy Backgrounder: Senate Passes Reconciliation Bill", "url": "https://www.conference-board.org/research/ced-policy-backgrounders/senate-passes-reconciliation-bill"},
+    {"title": "KING5 — 'No longer affordable': Sound Transit outlines future of light rail projects", "url": "https://www.king5.com/article/news/local/no-longer-affordable-sound-transit-outlines-future-light-rail-projects/281-fa5e0784-8a33-4636-80dd-4227476b8a29"},
+    {"title": "Axios Seattle — Sound Transit delays Ballard light rail extension amid $35B budget gap", "url": "https://www.axios.com/local/seattle/2026/05/29/sound-transit-ballard-light-rail-delay-st3-budget-shortfall-second-downtown-tunnel"},
+    {"title": "KOMO News — Sound Transit plans to close $34.5B shortfall over 2 decades", "url": "https://komonews.com/news/local/sound-transit-light-rail-massive-budget-shortfall-future-expansion-plans-cuts-seattle-everett-lynnwood-pierce-snohomish-county-federal-way-tacoma-fife-stations-car-tab-fees"},
+    {"title": "Capitol Hill Seattle — Officials float proposals for cutting Sound Transit costs", "url": "https://www.capitolhillseattle.com/2026/05/officials-float-proposals-for-cutting-sound-transit-costs-including-canceled-stations-parking-cuts-and-debt/"},
+    {"title": "NIFC — Predictive Services Monthly Seasonal Outlook (June 1, 2026)", "url": "https://www.nifc.gov/nicc-files/predictive/outlooks/monthly_seasonal_outlook.pdf"},
+    {"title": "NWCC — Northwest Coordination Center Home", "url": "https://gacc.nifc.gov/nwcc/"},
+    {"title": "OPB — Forest Service axes research stations as severe fire season threatens Pacific Northwest", "url": "https://www.opb.org/article/2026/04/11/forest-service-axes-research-stations-pnw/"},
+    {"title": "Nugget News — 2026 Oregon wildfire forecast is dire", "url": "https://www.nuggetnews.com/story/2026/04/15/news/2026-oregon-wildfire-forecast-is-dire/38941.html"},
+    {"title": "US News — Tracking U.S. Measles 2026: 1,900 Cases Put Elimination Status at Risk", "url": "https://www.usnews.com/news/health-news/articles/tracking-the-2026-u-s-measles-outbreaks"},
+    {"title": "CDC — Measles Cases and Outbreaks", "url": "https://www.cdc.gov/measles/data-research/index.html"},
+    {"title": "Johns Hopkins Bloomberg School — Why Review of U.S. Measles Elimination Status Has Been Delayed", "url": "https://publichealth.jhu.edu/2026/why-review-of-the-uss-measles-elimination-status-has-been-delayed"},
+    {"title": "KOIN — Mild, dry end to May 2026 in Portland", "url": "https://www.koin.com/video/mild-dry-end-to-may-2026-in-portland/11838872/"},
+    {"title": "OPB — 'Something dramatically wrong': Questions but few answers after Longview mill tragedy", "url": "https://www.opb.org/article/2026/05/30/what-caused-longview-mill-chemical-plant-questions/"},
+    {"title": "OPB — Longview paper mill disaster could be deadliest industrial tragedy in modern Washington state history", "url": "https://www.opb.org/article/2026/05/27/longview-paper-mill-chemical-tank-death-toll/"}
+  ]
+}
