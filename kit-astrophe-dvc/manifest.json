@@ -674,6 +674,16 @@
       "generated_at": "2026-06-02T07:00:00-07:00"
     },
     {
+      "id": "2026-06-03-morning",
+      "date": "2026-06-03",
+      "session": "morning",
+      "file": "reports/2026-06-03-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Iran Comms Suspension Day 2 → Resolving: CNN Source Talks Back on Track, Rubio Khamenei 'More Active'; Lebanon Talks Final Session Today; Warsh Trimmed-Mean Signal; King County Transit Measles Case; NIFC Above-Normal Day 3; Vibe 3 Firmer Floor",
+      "generated_at": "2026-06-03T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-03-evening",
       "date": "2026-06-03",
       "session": "evening",
