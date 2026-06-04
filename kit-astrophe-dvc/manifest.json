@@ -694,6 +694,16 @@
       "generated_at": "2026-06-03T20:00:00-07:00"
     },
     {
+      "id": "2026-06-04-morning",
+      "date": "2026-06-04",
+      "session": "morning",
+      "file": "reports/2026-06-04-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 97: Iran Comms Resolving Day 3 — Beirut-Suburbs Truce Day 1; WPA Day 96 Day 6 Past Deadline; Warsh Day 21 Silent 12 Days to FOMC; NIFC Above-Normal Day 4; Iowa Primary Today; Vibe 3",
+      "generated_at": "2026-06-04T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-04-evening",
       "date": "2026-06-04",
       "session": "evening",
