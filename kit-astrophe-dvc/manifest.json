@@ -692,7 +692,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Iran Comms Suspension Resolving — Rubio: Khamenei 'More Active,' Trump: Deal 'Over Next Week'; Lebanon Partial Beirut Truce; NIFC Above-Normal Day 3; Reconciliation 2.0 Anti-Weaponization Deadlock; Warsh Day 20; Vibe 3 Firmer",
       "generated_at": "2026-06-03T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-04-evening",
+      "date": "2026-06-04",
+      "session": "evening",
+      "file": "reports/2026-06-04-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Iran Comms Suspension RESOLVED — Confirmed; Beirut-Suburbs Truce Day 2 Intact; MOU Unsigned Day 7; Reconciliation 'First Real GOP Resistance'; Iowa Feenstra Primary Loss; Warsh Day 21 Silent 12 Days to FOMC; NIFC Above-Normal Day 4; Vibe 3 Holding",
+      "generated_at": "2026-06-04T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-03T20:00:00-07:00"
+  "last_updated": "2026-06-04T20:00:00-07:00"
 }
