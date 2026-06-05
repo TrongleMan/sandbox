@@ -714,6 +714,16 @@
       "generated_at": "2026-06-04T20:00:00-07:00"
     },
     {
+      "id": "2026-06-05-morning",
+      "date": "2026-06-05",
+      "session": "morning",
+      "file": "reports/2026-06-05-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 98: Iran Comms Resolved Day 1 — Hezbollah REJECTS Full Lebanon Framework; WPA House 215-208; Beirut Partial Truce Day 3 Overnight Clean; Iowa Lahn Defeats Trump-Backed Feenstra; Warsh Day 22 Silent 11 Days to FOMC; NIFC Above-Normal Day 5; Vibe 3",
+      "generated_at": "2026-06-05T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-05-evening",
       "date": "2026-06-05",
       "session": "evening",
@@ -724,5 +734,5 @@
       "generated_at": "2026-06-05T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-05T20:00:00-07:00"
+  "last_updated": "2026-06-05T07:00:00-07:00"
 }
