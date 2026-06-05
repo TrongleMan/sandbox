@@ -712,7 +712,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Iran Comms Suspension RESOLVED — Confirmed; Beirut-Suburbs Truce Day 2 Intact; MOU Unsigned Day 7; Reconciliation 'First Real GOP Resistance'; Iowa Feenstra Primary Loss; Warsh Day 21 Silent 12 Days to FOMC; NIFC Above-Normal Day 4; Vibe 3 Holding",
       "generated_at": "2026-06-04T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-05-evening",
+      "date": "2026-06-05",
+      "session": "evening",
+      "file": "reports/2026-06-05-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Trump MOU Amendment Counter-Demand Day 1 — Immediate Hormuz Transfer + Tighter Nuclear Terms; Mojtaba Khamenei Template Endorsement Confirmed; Philly Fed Q2 CPI 6.0% Annualized; Washington Statewide Drought Emergency (4th Year); Super El Niño 1-in-4; Warsh Day 22 Silent 11 Days to FOMC; Vibe 3",
+      "generated_at": "2026-06-05T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-04T20:00:00-07:00"
+  "last_updated": "2026-06-05T20:00:00-07:00"
 }
