@@ -734,6 +734,16 @@
       "generated_at": "2026-06-05T20:00:00-07:00"
     },
     {
+      "id": "2026-06-06-morning",
+      "date": "2026-06-06",
+      "session": "morning",
+      "file": "reports/2026-06-06-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Senate DHS/ICE 52-47 Overnight; Ghalibaf 'Concessions Via Missiles'; MOU Breaches 8 of 10 Khamenei Conditions; Sunday June 7 Signing Window; Hormuz D-99 D-100 Tomorrow; Measles 2,030 Dispersal Tomorrow; NIFC Above-Normal Day 6 East Cascades; Washington Drought Emergency Day 2; FIFA T-5; Vibe 3",
+      "generated_at": "2026-06-06T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-06-evening",
       "date": "2026-06-06",
       "session": "evening",
@@ -744,5 +754,5 @@
       "generated_at": "2026-06-06T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-06T20:00:00-07:00"
+  "last_updated": "2026-06-06T07:00:00-07:00"
 }
