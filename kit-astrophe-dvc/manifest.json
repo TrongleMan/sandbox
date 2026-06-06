@@ -732,7 +732,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Trump MOU Amendment Counter-Demand Day 1 — Immediate Hormuz Transfer + Tighter Nuclear Terms; Mojtaba Khamenei Template Endorsement Confirmed; Philly Fed Q2 CPI 6.0% Annualized; Washington Statewide Drought Emergency (4th Year); Super El Niño 1-in-4; Warsh Day 22 Silent 11 Days to FOMC; Vibe 3",
       "generated_at": "2026-06-05T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-06-evening",
+      "date": "2026-06-06",
+      "session": "evening",
+      "file": "reports/2026-06-06-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Ghalibaf 'Concessions Via Missiles'; Draft MOU Breaches 8 of 10 Khamenei Conditions; Sunday June 7 Signing Window Referenced; Senate DHS/ICE Reconciliation 52-47 Final; T-HUD -10.4% Markup Confirmed; Measles 2,030 School Dispersal Day 1; Hormuz D-99; Vibe 3 Lower Edge",
+      "generated_at": "2026-06-06T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-05T07:00:00-07:00"
+  "last_updated": "2026-06-06T20:00:00-07:00"
 }
