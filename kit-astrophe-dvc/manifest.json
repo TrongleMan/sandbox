@@ -754,6 +754,16 @@
       "generated_at": "2026-06-06T20:00:00-07:00"
     },
     {
+      "id": "2026-06-07-morning",
+      "date": "2026-06-07",
+      "session": "morning",
+      "file": "reports/2026-06-07-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 100: Sunday MOU Signing Window Open — Iran Amendment Counter-Demand Day 2; Armenia Elections Underway; Peru Runoff Today; Warsh Day 24 Silent 9 Days to FOMC; NIFC Above-Normal Day 7; East Cascades Above Normal; Oregon 83% Drought; Washington Drought Emergency Day 3; FIFA T-4; Vibe 3",
+      "generated_at": "2026-06-07T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-07-evening",
       "date": "2026-06-07",
       "session": "evening",
@@ -764,5 +774,5 @@
       "generated_at": "2026-06-07T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-07T20:00:00-07:00"
+  "last_updated": "2026-06-07T07:00:00-07:00"
 }
