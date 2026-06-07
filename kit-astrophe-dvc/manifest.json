@@ -752,7 +752,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Ghalibaf 'Concessions Via Missiles'; Draft MOU Breaches 8 of 10 Khamenei Conditions; Sunday June 7 Signing Window Referenced; Senate DHS/ICE Reconciliation 52-47 Final; T-HUD -10.4% Markup Confirmed; Measles 2,030 School Dispersal Day 1; Hormuz D-99; Vibe 3 Lower Edge",
       "generated_at": "2026-06-06T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-07-evening",
+      "date": "2026-06-07",
+      "session": "evening",
+      "file": "reports/2026-06-07-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 100: Sunday Signing Window Passes Without Confirmed Deal — US-Iran Gap Narrowing; Beirut Truce Day 5; Armenia Elections Pashinyan; Oregon 83% Drought; NSF Ocean Observatories Going Dark Off PNW Coast; Warsh Day 24 Silent; NIFC Above-Normal Day 7; FIFA T-4; Vibe 3 Lower Edge",
+      "generated_at": "2026-06-07T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-06T07:00:00-07:00"
+  "last_updated": "2026-06-07T20:00:00-07:00"
 }
