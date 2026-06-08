@@ -774,6 +774,16 @@
       "generated_at": "2026-06-07T20:00:00-07:00"
     },
     {
+      "id": "2026-06-08-morning",
+      "date": "2026-06-08",
+      "session": "morning",
+      "file": "reports/2026-06-08-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 101 Morning: Sunday Window Missed, Counter-Demand Day 3 — Armenia Pashinyan Projected; Peru Fujimori Leading ONPE; CPI Wednesday T-2; WPA Day 100 Milestone; Warsh Day 25 FOMC T-8; FIFA T-3 Co-Response Window NOW LIVE; Washington Drought Day 4; NOAA Geomagnetic Storm Warning PNW; Vibe 3",
+      "generated_at": "2026-06-08T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-08-evening",
       "date": "2026-06-08",
       "session": "evening",
@@ -784,5 +794,5 @@
       "generated_at": "2026-06-08T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-08T20:00:00-07:00"
+  "last_updated": "2026-06-08T07:00:00-07:00"
 }
