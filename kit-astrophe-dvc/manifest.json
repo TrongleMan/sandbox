@@ -794,6 +794,16 @@
       "generated_at": "2026-06-08T20:00:00-07:00"
     },
     {
+      "id": "2026-06-09-morning",
+      "date": "2026-06-09",
+      "session": "morning",
+      "file": "reports/2026-06-09-morning.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 102 — Counter-Demand Day 5: Tuesday Open No New Iranian Response; Peru Sanchez ONPE Reversal Overnight (50.10%); May CPI T-1 (June 10); House DHS/ICE Floor Vote Window Opens Today; WPA Day 101 Day 11 Past Deadline; Warsh Day 26 FOMC T-7; FIFA T-2 Co-Response Live Day 2; Washington Drought Day 5; Brent $93–94; Vibe 3",
+      "generated_at": "2026-06-09T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-09-evening",
       "date": "2026-06-09",
       "session": "evening",
