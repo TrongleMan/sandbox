@@ -792,7 +792,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 101 — MOU Counter-Demand Day 4 Monday No New Response; WPA Day 100 Milestone; FIFA T-3 Co-Response Window Now Live; Warsh Day 25 FOMC T-8; Beirut Truce Day 6; Peru Fujimori Leading ONPE; Measles CIDRAP Slowing Signal; Vibe 3 Lower Edge",
       "generated_at": "2026-06-08T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-09-evening",
+      "date": "2026-06-09",
+      "session": "evening",
+      "file": "reports/2026-06-09-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 102 — Counter-Demand Day 5; Peru SANCHEZ REVERSAL (50.10% vs Fujimori 49.90%); Seattle CCTV Activated 'Credible Threats'; Brent $95–97 Upper-Register; May CPI T-1 (June 10); FIFA T-2 Co-Response Live; Warsh Day 26 FOMC T-7; Vibe 3 Lower Edge",
+      "generated_at": "2026-06-09T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-08T07:00:00-07:00"
+  "last_updated": "2026-06-09T20:00:00-07:00"
 }
