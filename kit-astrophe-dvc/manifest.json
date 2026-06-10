@@ -812,7 +812,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 102 — Counter-Demand Day 5; Peru SANCHEZ REVERSAL (50.10% vs Fujimori 49.90%); Seattle CCTV Activated 'Credible Threats'; Brent $95–97 Upper-Register; May CPI T-1 (June 10); FIFA T-2 Co-Response Live; Warsh Day 26 FOMC T-7; Vibe 3 Lower Edge",
       "generated_at": "2026-06-09T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-10-evening",
+      "date": "2026-06-10",
+      "session": "evening",
+      "file": "reports/2026-06-10-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "May CPI 4.2% YoY — Highest Since April 2023; House DHS/ICE PASSES 214-212; Hormuz Counter-Demand Day 6 No Response; FIFA Global Opening T-1; Brent ~$94 Easing; Warsh Day 27 FOMC T-6; Vibe 3 Firmer",
+      "generated_at": "2026-06-10T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-09T20:00:00-07:00"
+  "last_updated": "2026-06-10T20:00:00-07:00"
 }
