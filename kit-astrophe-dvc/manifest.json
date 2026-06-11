@@ -832,7 +832,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "May CPI 4.2% YoY — Highest Since April 2023; House DHS/ICE PASSES 214-212; Hormuz Counter-Demand Day 6 No Response; FIFA Global Opening T-1; Brent ~$94 Easing; Warsh Day 27 FOMC T-6; Vibe 3 Firmer",
       "generated_at": "2026-06-10T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-11-evening",
+      "date": "2026-06-11",
+      "session": "evening",
+      "file": "reports/2026-06-11-evening.json",
+      "vibe": 3,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 104: FIFA World Cup Opens Day 1 — Mexico City Match Clean; NATO Incirlik Strike Reported (Unconfirmed); Counter-Demand Day 7 No Response; DHS/ICE En Route to Trump; FOMC T-5; Warsh Day 28 Silent; WA Drought Day 7; Vibe 3 Lower Edge",
+      "generated_at": "2026-06-11T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-10T07:00:00-07:00"
+  "last_updated": "2026-06-11T20:00:00-07:00"
 }
