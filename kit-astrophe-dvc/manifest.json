@@ -854,6 +854,16 @@
       "generated_at": "2026-06-11T20:00:00-07:00"
     },
     {
+      "id": "2026-06-13-morning",
+      "date": "2026-06-13",
+      "session": "morning",
+      "file": "reports/2026-06-13-morning.json",
+      "vibe": 4,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Pakistani PM 'Final Text' Known by Morning; Trump 4 C-17s Depart for Europe — Vance Geneva Prep; Iran FM 'No Final Decision'; Extreme Heat Warning June 14-16 T-24 — FIFA Seattle Opener T-2; FOMC T-3 Pre-Meeting Weekend Quiet; Measles 2,073; Vibe 4",
+      "generated_at": "2026-06-13T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-13-evening",
       "date": "2026-06-13",
       "session": "evening",
