@@ -852,7 +852,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 104: FIFA World Cup Opens Day 1 — Mexico City Match Clean; NATO Incirlik Strike Reported (Unconfirmed); Counter-Demand Day 7 No Response; DHS/ICE En Route to Trump; FOMC T-5; Warsh Day 28 Silent; WA Drought Day 7; Vibe 3 Lower Edge",
       "generated_at": "2026-06-11T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-13-evening",
+      "date": "2026-06-13",
+      "session": "evening",
+      "file": "reports/2026-06-13-evening.json",
+      "vibe": 4,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Pakistani PM 'Final, Agreed-Upon Text' Reached; Trump 'Weekend in Europe' Signing Window; June 12 US Shoots Down 2 Iranian Drones; Extreme Heat Warning June 14-16 Lands on FIFA Seattle Opener; FOMC T-3 Warsh Inaugural; Vibe 4",
+      "generated_at": "2026-06-13T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-11T07:00:00-07:00"
+  "last_updated": "2026-06-13T20:00:00-07:00"
 }
