@@ -872,7 +872,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Pakistani PM 'Final, Agreed-Upon Text' Reached; Trump 'Weekend in Europe' Signing Window; June 12 US Shoots Down 2 Iranian Drones; Extreme Heat Warning June 14-16 Lands on FIFA Seattle Opener; FOMC T-3 Warsh Inaugural; Vibe 4",
       "generated_at": "2026-06-13T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-14-morning",
+      "date": "2026-06-14",
+      "session": "morning",
+      "file": "reports/2026-06-14-morning.json",
+      "vibe": 4,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Trump Names June 14 Signing Date; Qatari Mediators In Tehran; Brent $86.5 Pre-Pricing Deal; MOU: Hormuz Immediate Reopening + $25B + Oil Sanctions Waived; Heat Warning Day 1 Active; FIFA Opener T-1 Under Peak Heat; FOMC T-2 SEP Dot Plot; Vibe 4 Upper Edge",
+      "generated_at": "2026-06-14T07:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-13T20:00:00-07:00"
+  "last_updated": "2026-06-14T07:00:00-07:00"
 }
