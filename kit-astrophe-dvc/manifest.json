@@ -884,6 +884,16 @@
       "generated_at": "2026-06-14T07:00:00-07:00"
     },
     {
+      "id": "2026-06-15-morning",
+      "date": "2026-06-15",
+      "session": "morning",
+      "file": "reports/2026-06-15-morning.json",
+      "vibe": 5,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Deal Declared 'Now Complete' June 14 — Naval Blockade Dissolution Day 1; Signing June 19 Geneva; Israel Strikes Beirut Trump 'Don't Blow It'; FOMC T-1 Warsh SEP; FIFA Seattle TODAY Noon Peak Heat Day 2; Measles Peak Amplification Day; Vibe 5",
+      "generated_at": "2026-06-15T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-15-evening",
       "date": "2026-06-15",
       "session": "evening",
