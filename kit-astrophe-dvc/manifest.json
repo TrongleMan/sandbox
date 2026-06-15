@@ -882,7 +882,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Trump Names June 14 Signing Date; Qatari Mediators In Tehran; Brent $86.5 Pre-Pricing Deal; MOU: Hormuz Immediate Reopening + $25B + Oil Sanctions Waived; Heat Warning Day 1 Active; FIFA Opener T-1 Under Peak Heat; FOMC T-2 SEP Dot Plot; Vibe 4 Upper Edge",
       "generated_at": "2026-06-14T07:00:00-07:00"
+    },
+    {
+      "id": "2026-06-15-evening",
+      "date": "2026-06-15",
+      "session": "evening",
+      "file": "reports/2026-06-15-evening.json",
+      "vibe": 5,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Trump Declares Deal 'Now Complete' June 14 — Naval Blockade Dissolution Day 1; Signing June 19 Switzerland; Israel Strikes Beirut 3 Dead — Trump 'Don't Blow It'; FOMC T-1 Warsh Inaugural SEP; Seattle 90°F FIFA Opener Complete; Military Jet Wildfire Rimrock Lake Suppressed; Vibe 5",
+      "generated_at": "2026-06-15T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-14T07:00:00-07:00"
+  "last_updated": "2026-06-15T20:00:00-07:00"
 }
