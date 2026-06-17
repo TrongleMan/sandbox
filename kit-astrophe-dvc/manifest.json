@@ -922,7 +922,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 109 — Deal T-3: Lebanon Quiet Day 1; WTI $81 Monday Open Confirmed; FOMC Day 1 Warsh SEP In Session; Juniper Dunes + Twin Sisters (WA) 6,000+ Acres 0% Containment; PNW Peak Heat Day 95-100°F; Vibe 5",
       "generated_at": "2026-06-16T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-17-evening",
+      "date": "2026-06-17",
+      "session": "evening",
+      "file": "reports/2026-06-17-evening.json",
+      "vibe": 5,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 110 — Deal T-2: Lebanon Quiet Day 2; FOMC Hold Confirmed — Warsh Inaugural Press Conference Delivered; G7 Évian Concluding; Heat Wave Breaking; NEW: Lake Sutherland Fire Olympic Peninsula Day 1; Juniper Dunes + Twin Sisters First Containment Window; Vibe 5",
+      "generated_at": "2026-06-17T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-16T20:00:00-07:00"
+  "last_updated": "2026-06-17T20:00:00-07:00"
 }
