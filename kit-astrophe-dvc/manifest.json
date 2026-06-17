@@ -924,6 +924,16 @@
       "generated_at": "2026-06-16T20:00:00-07:00"
     },
     {
+      "id": "2026-06-17-morning",
+      "date": "2026-06-17",
+      "session": "morning",
+      "file": "reports/2026-06-17-morning.json",
+      "vibe": 5,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 110 — Deal T-2: Lebanon Quiet Day 1 Cleared; G7 Évian Final Day; FOMC PENDING 2PM Warsh Inaugural Presser; Oregon Wildfire Emergency EO 26-10 Day 2; Extreme Heat Warning Active; FERC Large Load Decision Tomorrow; Vibe 5",
+      "generated_at": "2026-06-17T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-17-evening",
       "date": "2026-06-17",
       "session": "evening",

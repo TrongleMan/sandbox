@@ -1,0 +1,359 @@
+{
+  "report_id": "2026-06-17-morning",
+  "generated_at": "2026-06-17T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 110 — Deal T-2: Lebanon Quiet Day 1 CLEARED Overnight; Day 2 Underway — Primary Pre-Signing Performance Test In Progress; G7 Évian Summit Day 3 (FINAL) — Trump 'Wall Not Road' Framing Consolidating Allied Alignment; Geneva Signing June 19 T-2; CENTCOM Blockade Dissolution Day 3; Nuclear 60-Day Window T-2; FOMC June 17 Decision PENDING — 2:00 PM ET Hold 3.50-3.75% Expected (~97%); Warsh Inaugural Press Conference 2:30 PM ET — Session's Primary Market Event; Dot Plot Pre-Deal Baseline Risk; May CPI 4.2%; May Retail Sales +0.9% vs +0.5% Expected; WTI Deflationary Impulse Day 2 Continuing; Brent ~$84; Oil Sanctions Waiver T-2 At Signing; Reconciliation 2.0 — 17 Days to July 4 No Floor Date; Freedom Caucus Leverage Dissolving; Secure America Act Law Day 4; H.R. 6938 Signed (FY26 Energy/Water + Commerce/Justice/Science Appropriations); Pacific Fishing Proclamation Issued June 17; CISA Day 47 Clean; Shamkhani Cyber Day 24; Acting DNI Day 27; WPA Day 109 Day 19 Past Hard Constitutional Deadline — Deal Pathway Moot; JD Vance CoS Nick Luna Day 1; Measles 2,073 — Post-FIFA Monitoring Window Day 2, Incubation Clock Day 3; CIDRAP Slowing Signal Day 11; Oklahoma Senate Primary + Georgia House Runoff Results Rolling In; CRITICAL PNW: Oregon Wildfire Emergency ACTIVE — EO 26-10 Signed June 15 by Gov. Kotek (Day 2 This Morning); 414 Fires YTD, 8,000+ Acres Burned, Multiple Evacuations; Oregon 83% Drought Coverage; Washington Drought Year 4 Active; Above-Normal Wildfire Potential OR/WA/ID Through August (NIFC); Extreme Heat Warning ACTIVE — Expiring Midnight Tonight June 16-17 (Seattle Metro + Eastern WA); Heat Mortality 24-48h Lag Window ACTIVE From June 16 Peak (95-100°F); NIFC-FIFA Co-Response Day 10; Washington DNR 215+ Fires YTD; BPA Hydropower Demand Elevated; Pacific Power PSPS Risk This Week; Ocean Observatory Dismantling Ongoing — Newport OR ~11 Days; Seattle FIFA T-2 — US vs Australia June 19 Lumen Field Pride Weekend; FERC Large Load Interconnection Decision TOMORROW June 18; Washington Drought Day 13 (4th Year); NSF Newport OR ~11 Days to Removal. Wednesday June 17, 2026 morning. The June 17 morning session opens with Lebanon quiet Day 1 confirmed overnight — the first of two required pre-signing performance tests cleared without new Israeli military action in Lebanon. Day 2 is now in progress. The session's defining live event is the FOMC decision at 2:00 PM ET followed by Warsh's inaugural press conference at 2:30 PM ET: analytically dense given the dot plot will be finalized against a pre-deal geopolitical baseline, the 4.2% May CPI print, and the June 14 deal declaration that is already altering the energy-price outlook. In the Pacific Northwest, Oregon's wildfire emergency (EO 26-10 Day 2) enters its highest-risk window with the extreme heat warning still active through midnight — 414 fires YTD, 83% drought coverage, above-normal fire potential through August.",
+  "vibe": {
+    "score": 5,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 5 — morning session consistent with June 16 evening trajectory; no overnight escalation events materialized. Lebanon quiet Day 1 cleared: the first of two required pre-signing performance tests passed without new Israeli Lebanon strikes or Iranian kinetic response. Day 2 is in progress and must hold through tonight. FOMC hold is ~97% implied but Warsh's inaugural press conference is today's domestic tail-risk — pre-deal dot plot projections could trigger bond market reaction if not competently contextualized. No upside to 6 before June 19 signing confirmation + Lebanon quiet Day 3 + Hormuz physical reopening announcement. Downside trigger to 4: new confirmed Israeli Lebanon strikes before Geneva; Warsh presser bond dislocation (low probability but live); new major PNW wildfire ignition in Seattle exurbs during extreme heat window. PNW compound risk: Oregon wildfire emergency active Day 2, extreme heat warning through midnight, heat mortality 24-48h lag from June 16 peak — the domestic analog to the geopolitical pre-signing fragility window."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 110 — Deal T-2: Lebanon Quiet Day 1 CLEARED Overnight; Day 2 In Progress — Primary Pre-Signing Performance Test Active; G7 Évian Summit Day 3 (FINAL) — Trump 'Wall Not Road' Framing Consolidating; Geneva Signing June 19 T-2; CENTCOM Blockade Dissolution Day 3; Iran Military Response Not Executed Through Day 1; Nuclear 60-Day Window T-2; WPA Day 109 Day 19 Past Hard Deadline — Moot By Deal Pathway; Iran Comms Resolved Day 16; Acting DNI Day 27; Shamkhani Cyber Day 24; CISA Day 47 Clean.",
+      "items": [
+        {
+          "headline": "Hormuz Day 110 — Deal T-2: Lebanon Quiet Day 1 CLEARED Overnight; Day 2 Underway — G7 Évian Summit Concluding Today; CENTCOM Blockade Dissolution Day 3; Geneva Signing June 19; No Confirmed Iranian Kinetic Response Overnight",
+          "summary": "The June 17 morning session opens with Lebanon quiet Day 1 confirmed as the overnight's defining signal. Since Trump's June 14 Dahiyeh condemnation and 'don't blow it' warning to Netanyahu, no confirmed new Israeli military action in Lebanon occurred through the overnight cycle. Hezbollah launched no additional drone attacks into northern Israel. Iran's threatened kinetic response to the Dahiyeh strikes — active since June 14 — remains unexecuted through Day 1. The first of two required pre-signing performance tests is cleared. Lebanon quiet Day 2 is now in progress as of the morning session; it must hold through tonight for the primary deal-collapse scenario to remain inactive entering June 19 signing. The analytical weight of Day 1 clearance is meaningful: Netanyahu restraint appears operative rather than tactical. The primary fragility window — Israeli-initiated Lebanon escalation before Geneva — remains open through Day 2 and Day 3 (T-1). Deal structure remains intact: US-Iran MOU declared June 14-15; Trump and Vance virtually signed the agreement on June 15; formal signing ceremony June 19 Geneva; 60-day nuclear negotiation window activates at signing. Iran's 110-day Hormuz closure — which effectively shut down approximately 20% of the world's oil supply — enters its final pre-resolution days. The G7 Évian summit enters its third and final day today. Trump's 'wall not road to a nuclear weapon' framing — distinguishing his MOU architecture from the 2015 JCPOA — has provided the rhetorical scaffold for French, German, and UK partners to absorb the deal. No joint communiqué was planned from the outset; bilateral alignment signals are the operative output. CENTCOM blockade dissolution continues Day 3; US Navy assets repositioning from Hormuz enforcement posture. Iran comms channel Day 16 resolved — diplomatic architecture intact.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "JD Vance", "Benjamin Netanyahu", "Abbas Araghchi", "Steve Witkoff", "CENTCOM", "IRGC", "IDF", "Hezbollah", "Khamenei", "Emmanuel Macron", "Olaf Scholz", "G7 leaders", "Acting DNI"],
+          "metrics": {
+            "hormuz_closed_days": 110,
+            "deal_days_to_signing": 2,
+            "signing_ceremony_date": "2026-06-19",
+            "signing_ceremony_location": "Geneva, Switzerland",
+            "mou_declared_date": "2026-06-14",
+            "mou_virtual_signing_date": "2026-06-15",
+            "lebanon_quiet_day1_cleared": true,
+            "lebanon_quiet_day2_in_progress": true,
+            "new_israeli_lebanon_strikes_confirmed_overnight": false,
+            "hezbollah_northern_israel_drone_attacks_overnight": false,
+            "iran_military_response_executed": false,
+            "iran_military_response_threat_status": "ACTIVE — threatened June 14; unexecuted through Day 1",
+            "primary_deal_collapse_scenario_triggered": false,
+            "naval_blockade_dissolution_day": 3,
+            "project_freedom_pause_day": 43,
+            "centcom_standown_execution_day": 3,
+            "hormuz_unescorted_commercial_transits_status": "NOT YET — contingent on June 19 formal signing",
+            "g7_summit_evian_day": "3 of 3 — FINAL DAY",
+            "g7_summit_dates": "2026-06-15 to 2026-06-17",
+            "trump_iran_framing_g7": "WALL NOT ROAD — contrasting MOU with 2015 JCPOA",
+            "trump_iran_reconstruction_commitment": "NONE — denied US will put 'any money' into Iran",
+            "g7_joint_communique_planned": false,
+            "g7_allied_iran_alignment": "CONSOLIDATING",
+            "iran_comms_resolved_day": 16,
+            "acting_dni_vacancy_day": 27,
+            "nuclear_60day_window_status": "T-2 — activates June 19 at formal signing",
+            "wpa_day": 109,
+            "wpa_days_past_hard_90day_deadline": 19,
+            "wpa_enforcement_action_taken": false,
+            "wpa_deal_moot_pathway": "ACTIVATED — June 19 signing = full resolution",
+            "cisa_clean_streak_days": 47,
+            "shamkhani_cyber_risk_day": 24,
+            "fbi_ic3_flash_issued_overnight": false,
+            "deal_fragility_assessment": "MANAGEABLE — Lebanon Day 1 cleared; Day 2 in progress; primary collapse vector not triggered",
+            "deal_remaining_fragility_window_days": 2,
+            "vibe_6_upgrade_trigger": "June 19 formal signing confirmed + Lebanon quiet Day 3 + Hormuz physical reopening announced"
+          }
+        },
+        {
+          "headline": "G7 Évian Day 3 Final — Allied Iran Alignment Forming Without Joint Communiqué; WPA Day 109 Day 19 Past Constitutional Deadline — Precedent Locking; Acting DNI Day 27; CISA Day 47 Clean; Peru ONPE Certified Result Pending",
+          "summary": "G7 Évian summit concludes today — Day 3 of 3. No joint communiqué was planned from the outset; bilateral signals of deal alignment are the operative outputs. France, Germany, UK absorbing deal's nuclear architecture through Trump's 'wall not road' framing — giving allied partners the rhetorical scaffold to endorse the deal without relitigating JCPOA comparisons publicly. France's VivaTech sovereign technology declaration (Paris, June 17-20) runs alongside the summit's final day — allied digital sovereignty framework advancing concurrent with Iran deal normalization. WPA advances to Day 109 — Day 19 past the hard 90-day constitutional deadline. Senate has blocked WPA enforcement four times. Deal-moot pathway: June 19 signing renders enforcement debate academic, but the constitutional erosion precedent is locking in regardless. Acting DNI vacancy at Day 27 — peak IC verification demand moment: Khamenei MOU authorization verification, Lebanon hostility monitoring, Iran nuclear baseline for 60-day window, IRGC stand-down execution assessment — all requiring maximum output from a leaderless directorate. CISA clean streak Day 47; no confirmed critical infrastructure cyber incident. Shamkhani IRGC cyber threat window Day 24 concurrent with FIFA hacktivist period (NIFC-FIFA co-response Day 10). Peru ONPE certified result still pending: Sanchez 50.10% / Fujimori 49.90%; Andean resource nationalism risk in abeyance.",
+          "significance": "MODERATE",
+          "actors": ["G7 Leaders", "Emmanuel Macron", "Olaf Scholz", "Acting DNI", "CISA", "IRGC Cyber Electronic Command", "ONPE Peru", "Roberto Sanchez", "Keiko Fujimori"],
+          "metrics": {
+            "g7_summit_status": "DAY 3 — FINAL; no joint communiqué planned",
+            "g7_iran_alignment": "FORMING — bilateral signals dominant",
+            "wpa_day": 109,
+            "wpa_days_past_hard_90day_deadline": 19,
+            "wpa_senate_blocks_count": 4,
+            "wpa_constitutional_erosion_precedent": "LOCKING — Day 19 past hard deadline with no enforcement",
+            "iran_comms_resolved_day": 16,
+            "cisa_clean_streak_days": 47,
+            "shamkhani_cyber_risk_day": 24,
+            "shamkhani_irgc_formal_standown_confirmed": false,
+            "fbi_ic3_flash_issued_overnight": false,
+            "acting_dni_vacancy_day": 27,
+            "peru_onpe_status": "PENDING — Sanchez 50.10% / Fujimori 49.90%",
+            "nato_europe_fracture_status": "DISSOLVING — G7 Day 3 alignment forming",
+            "vivatech_paris_dates": "June 17-20 — France-Germany sovereign tech declaration concurrent with G7 final day"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "FOMC June 17 Decision PENDING — 2:00 PM ET; Hold 3.50-3.75% Expected (~97% Implied); Warsh Inaugural Press Conference 2:30 PM ET — Session's Primary Market Event; Dot Plot First Under Warsh — Pre-Deal Baseline Risk: Finalized Before June 14 Declaration; May CPI 4.2% (Energy-Driven); May Retail Sales +0.9% vs +0.5% Expected; Unemployment ~4.3%; WTI Deflationary Impulse Day 2 Continuing; Brent ~$84; Oil Sanctions Waiver T-2 At Signing; Gasoline Relief 2-4 Weeks Post-Signing; Reconciliation 2.0 — 17 Days to July 4 No Floor Date; Secure America Act Law Day 4; H.R. 6938 Signed; Warsh Tenure Day 34.",
+      "items": [
+        {
+          "headline": "FOMC Decision PENDING 2:00 PM ET — Hold 3.50-3.75% Expected (~97%); Warsh Inaugural Press Conference 2:30 PM ET — Pre-Deal Dot Plot Baseline Risk; May CPI 4.2%; Retail Sales +0.9%; WTI Deflationary Impulse Day 2",
+          "summary": "The session's primary scheduled market event is the FOMC decision at 2:00 PM ET, followed by Chair Warsh's inaugural press conference at 2:30 PM ET. Hold at 3.50-3.75% is the consensus call with approximately 97% implied probability. The rate number is the least analytically interesting element; the consequential outputs are the dot plot and Warsh's inaugural presser. The June SEP dot plot — Warsh's first as Chair — was finalized before the June 14 deal declaration. It will embed an energy-price baseline already being materially revised by WTI's trajectory since the deal announcement. At least Bank of America has flagged at least three members projecting 2026 rate hikes in the dots — a read that will immediately be parsed as a pre-deal artifact, but only if Warsh's presser provides that framing. Warsh has publicly criticized forward guidance and is expected not to submit his own dot entry. His inaugural press conference — the most analytically complex Fed communication event of the 2026 cycle — requires him to contextualize pre-deal projections against a supply-shock resolution pathway in real time, without over-committing a forward rate path. May CPI at 4.2% year-over-year (elevated, energy-driven by Hormuz closure) and unemployment at approximately 4.3% together justify the hold consensus. May retail sales: +0.9% vs +0.5% expected — a resilient consumer signal that reinforces the 'hold and wait' posture. WTI deflationary impulse Day 2: oil markets pricing continued deal progression toward June 19 signing; Brent approximately $84; WTI tracking toward the $78-82 post-signing target range. Oil sanctions waiver on deck T-2 at Geneva signing; Iranian supply re-entry expected to reduce energy CPI pressure within 2-4 weeks of signing — meaning the June dot plot is capturing a peak distortion that is already unwinding. September FOMC is the operative rate-path decision event. The energy-CPI unwind is visible from this morning's vantage but contingent on Lebanon Day 2 holding and June 19 signing proceeding as scheduled.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "FOMC", "Federal Reserve", "BLS", "CME FedWatch", "Treasury", "Goldman Sachs", "Bank of America", "JP Morgan"],
+          "metrics": {
+            "fed_funds_target_range": "3.50-3.75%",
+            "fomc_june17_decision_status": "PENDING — 2:00 PM ET",
+            "fomc_presser_time_et": "14:30 ET",
+            "fomc_hold_probability_pct": 97,
+            "warsh_tenure_days": 34,
+            "warsh_confirmation_date": "2026-05-13",
+            "warsh_sworn_in_date": "2026-05-22",
+            "warsh_confirmation_vote": "54-45 — most partisan Fed chair confirmation in history",
+            "warsh_dot_submission_expected": false,
+            "dot_plot_pre_deal_baseline_risk": "HIGH — finalized before June 14 declaration",
+            "dot_plot_projected_2026_hike_members_minimum": 3,
+            "may_cpi_yoy_pct": 4.2,
+            "may_cpi_primary_driver": "Energy price spike from 110-day Hormuz closure",
+            "may_retail_sales_mom_pct": 0.9,
+            "may_retail_sales_expectation_pct": 0.5,
+            "may_retail_sales_prior_pct": 0.4,
+            "unemployment_rate_approx_pct": 4.3,
+            "brent_crude_approx_usd": 84,
+            "wti_deflationary_impulse_day": 2,
+            "oil_sanctions_waiver_status": "T-2 — activates at June 19 signing",
+            "gasoline_relief_timeline_weeks_post_signing": "2-4",
+            "fomc_consecutive_holds": 4,
+            "fomc_prior_dissent_count": 4,
+            "next_fomc_sep_event": "September 2026 — operative rate-path decision"
+          }
+        },
+        {
+          "headline": "Reconciliation 2.0 — 17 Days to July 4, No Floor Date; H.R. 6938 Signed (FY26 Appropriations + New Nuclear); Secure America Act Law Day 4; Pacific Fishing Proclamation Effective June 17",
+          "summary": "Fiscal and legislative threading. Reconciliation 2.0 — the administration's second major legislative vehicle — has 17 days to an informal July 4 target with no floor date set. Senate vote-counting continues; Freedom Caucus leverage is assessed as dissolving in the post-deal environment as the deal declaration resets domestic political energy. H.R. 6938 signed into law: the FY26 Commerce, Justice, Science and Energy and Water Development Appropriations Act, centering on energy dominance — new nuclear expansion nationwide, modernizing energy infrastructure, American-made energy investment. The bill interacts directly with the FERC large load interconnection decision scheduled tomorrow (June 18) and the ongoing grid capacity debate. Secure America Act (immigration enforcement package) entered law Day 4 — DHS implementation mechanisms activating. A proclamation restoring American commercial fishing in the Pacific was issued June 17 — effective immediately — with downstream relevance to PNW port economies and commercial fishing fleets in Oregon and Washington (Newport, Astoria, Coos Bay). Trump administration Africa embassy consolidation: reducing from approximately 50 posts to 20 regional hubs for visa processing, effective June 2026 — an operational diplomatic footprint reduction. JD Vance's new chief of staff Nick Luna assumes duties Day 1 today — senior White House staffing change in the middle of the deal signing window.",
+          "significance": "MEDIUM",
+          "actors": ["House Freedom Caucus", "Senate Majority Leader", "President Trump", "OMB", "DHS", "JD Vance", "Nick Luna", "State Department"],
+          "metrics": {
+            "reconciliation_20_days_to_july4_deadline": 17,
+            "reconciliation_floor_date": "NONE SET",
+            "freedom_caucus_leverage_assessment": "DISSOLVING — post-deal declaration resets political energy",
+            "hr6938_signed": true,
+            "hr6938_session": "FY26 Energy/Water Development + Commerce/Justice/Science",
+            "hr6938_new_nuclear_provisions": true,
+            "pacific_fishing_proclamation_date": "2026-06-17",
+            "pacific_fishing_proclamation_status": "EFFECTIVE",
+            "secure_america_act_law_day": 4,
+            "secure_america_act_dhs_implementation_status": "ACTIVATING",
+            "vance_cos_nick_luna_day": 1,
+            "africa_embassy_posts_from": 50,
+            "africa_embassy_posts_to": 20,
+            "africa_embassy_consolidation_effective": "June 2026"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "FERC Large Load Interconnection Decision TOMORROW June 18 — Grid Capacity Threshold Ruling Pending; Historic Grid Queue Backlog — Gigawatts Waiting Multi-Year; Federal Judge Reinstates Wind/Solar Tax Credit 5% Threshold; USDOT Grant Deadlines This Week (June 19/22/26); IIJA EV Charging + Smart Highway Deployment Ongoing; Ocean Observatory Dismantling — Newport OR ~11 Days; Cascadia Subduction Zone Monitoring Degrading; H.R. 6938 New Nuclear + Infrastructure Investment.",
+      "items": [
+        {
+          "headline": "FERC Large Load Interconnection Decision TOMORROW June 18 — Historic Queue Backlog; Federal Judge Reinstates Wind/Solar 5% Tax Credit Threshold; USDOT Grant Deadlines Concentrate This Week",
+          "summary": "The FERC large load interconnection decision is scheduled for June 18 — tomorrow — setting parameters for how large loads (data centers, EV manufacturing, AI infrastructure) connect to the transmission grid, affecting interconnection timelines for gigawatts of committed demand. The grid interconnection queue has grown to historic levels: gigawatts of ready-to-build renewable projects are waiting years for grid connection studies and upgrades; transmission lines for solar and battery delivery require a decade or more from permitting to construction. A federal judge ruled this week that the Trump administration acted unreasonably in eliminating the 5% total cost threshold as a route for wind and solar projects to prove tax credit eligibility — reinstating a prior clean-energy finance pathway. This ruling interacts with H.R. 6938's new nuclear investment provisions and the broader energy-grid modernization framework now authorized under the FY26 appropriations. USDOT grant application deadlines concentrate this week: June 19 (Reduction of Truck Emissions at Port Facilities), June 22 (Consolidated Rail Infrastructure and Safety Improvements; Aircraft Pilots Workforce Development; Pipeline Emergency Response Grants), June 26 (Port Infrastructure Development Program). IIJA-funded projects — EV charging infrastructure, smart highways, intelligent traffic systems — continue deployment, requiring new power and data connections against the backdrop of the interconnection queue backlog. The post-deal energy price outlook (Iranian oil re-entry within 2-4 weeks of June 19 signing) will alter investment calculus for grid expansion projects tied to energy cost assumptions.",
+          "significance": "MEDIUM-HIGH",
+          "actors": ["FERC", "USDOT", "DOE", "Federal Judge (unnamed)", "Grid operators", "IIJA program offices", "Renewable developers"],
+          "metrics": {
+            "ferc_large_load_decision_date": "2026-06-18",
+            "ferc_large_load_decision_status": "PENDING — tomorrow",
+            "grid_interconnection_queue_status": "HISTORIC BACKLOG — gigawatts waiting; multi-year delays",
+            "wind_solar_5pct_threshold_ruling": "REINSTATED — federal judge ruled Trump administration elimination unreasonable",
+            "usdot_grant_deadline_june19": "Reduction of Truck Emissions at Port Facilities",
+            "usdot_grant_deadline_june22": "Rail Infrastructure + Aircraft Pilot Workforce Development + Pipeline Emergency Response",
+            "usdot_grant_deadline_june26": "Port Infrastructure Development Program",
+            "iija_ev_charging_deployment_status": "ONGOING",
+            "iija_smart_highway_deployment_status": "ONGOING",
+            "transmission_line_lead_time_years": "10+",
+            "hr6938_new_nuclear_provisions": true,
+            "post_deal_energy_price_effect_on_grid_investment": "ALTERING — Iranian oil re-entry 2-4 weeks post-June 19 signing"
+          }
+        },
+        {
+          "headline": "Pacific Northwest Ocean Observatories Dismantling — Newport OR ~11 Days; Washington Station Already Removed; Cascadia Subduction Zone Real-Time Monitoring Degrading",
+          "summary": "The Trump administration has directed removal of ocean observatories from Pacific Northwest coastal waters. The Oregon coastal station operated by NSF's Ocean Observatories Initiative (OOI) at Newport is approximately 11 days from removal — with full pull expected before end of June 2026. The Washington state offshore station has already been removed. These observatories provided real-time monitoring of Cascadia Subduction Zone seismic activity, ocean temperature and chemistry data, and early-warning infrastructure for tsunami precursors. Their removal creates a scientific monitoring gap in the highest-risk subduction zone in North America — a zone scientists project could generate a magnitude 9.0+ earthquake and 100-foot tsunami within the next 50 years. OPB reported the removal on June 4; scientific community response has been sharply critical. No replacement monitoring infrastructure has been announced. The observatory dismantling is a compounding PNW infrastructure-risk factor alongside the active wildfire emergency and drought conditions.",
+          "significance": "MEDIUM-HIGH",
+          "actors": ["Trump administration", "NSF", "Ocean Observatories Initiative", "NOAA", "USGS", "OPB", "Oregon and Washington coastal communities"],
+          "metrics": {
+            "nso_oregon_newport_days_to_removal_approx": 11,
+            "washington_offshore_station_status": "REMOVED",
+            "oregon_station_removal_deadline": "End of June 2026",
+            "cascadia_subduction_zone_monitoring_status": "DEGRADING — real-time observatory coverage reducing",
+            "replacement_monitoring_announced": false,
+            "scientific_community_response": "SHARPLY CRITICAL",
+            "opb_report_date": "2026-06-04",
+            "cascadia_earthquake_magnitude_projected": "9.0+",
+            "cascadia_tsunami_height_projected_ft": 100,
+            "cascadia_rupture_probability_next_50yr": "HIGH — scientists' consensus"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "H.R. 6938 Signed (FY26 Energy/Water + Commerce/Justice/Science — New Nuclear + Infrastructure); Pacific Fishing Proclamation Effective June 17; Reconciliation 2.0 — 17 Days to July 4 No Floor Date; Secure America Act Law Day 4; Africa Embassy Consolidation ~50 to 20 Posts Effective June 2026; JD Vance CoS Nick Luna Day 1; Measles 2,073 — Post-FIFA Window Day 2, Incubation Clock Day 3; CIDRAP Slowing Signal Day 11; Oklahoma Senate Primary + Georgia House Runoff Results Rolling In; Acting DNI Day 27.",
+      "items": [
+        {
+          "headline": "H.R. 6938 Signed — FY26 Appropriations; Pacific Fishing Proclamation June 17; Reconciliation 2.0 No Floor Date 17 Days; Secure America Act Law Day 4; Nick Luna CoS Day 1",
+          "summary": "President Trump signed H.R. 6938 — the FY26 Commerce, Justice, Science and Energy and Water Development Appropriations Act — centering on energy dominance: new nuclear expansion nationwide, infrastructure modernization, and American-made energy investment. The bill interacts directly with the FERC large load interconnection decision scheduled tomorrow (June 18). A proclamation restoring American commercial fishing in the Pacific was issued June 17 — effective immediately — with downstream relevance to PNW port economies and commercial fishing fleets (Newport, Astoria, Coos Bay). Reconciliation 2.0 remains 17 days from the informal July 4 target with no floor date set; Freedom Caucus leverage is dissolving post-deal. Secure America Act Law Day 4: DHS implementation mechanisms activating; port-of-entry operational changes expected within 30-60 days. JD Vance's new chief of staff Nick Luna assumes duties Day 1 today — a senior West Wing staffing change in the middle of the deal signing window. Trump administration Africa embassy consolidation: reducing from approximately 50 posts to 20 regional hubs for visa processing, effective June 2026.",
+          "significance": "MEDIUM",
+          "actors": ["President Trump", "Congress", "DHS", "OMB", "JD Vance", "Nick Luna", "House Freedom Caucus", "Senate Majority Leader", "State Department"],
+          "metrics": {
+            "hr6938_signed": true,
+            "hr6938_session": "FY26 Energy/Water Development + Commerce/Justice/Science",
+            "hr6938_new_nuclear": true,
+            "pacific_fishing_proclamation_date": "2026-06-17",
+            "pacific_fishing_proclamation_status": "EFFECTIVE",
+            "reconciliation_20_days_to_july4": 17,
+            "reconciliation_floor_date": "NONE SET",
+            "secure_america_act_law_day": 4,
+            "secure_america_act_dhs_implementation_status": "ACTIVATING",
+            "vance_cos_nick_luna_day": 1,
+            "freedom_caucus_leverage_status": "DISSOLVING — post-deal",
+            "africa_embassy_posts_from": 50,
+            "africa_embassy_posts_to": 20,
+            "africa_embassy_consolidation_effective": "June 2026"
+          }
+        },
+        {
+          "headline": "Measles 2,073 — Post-FIFA Window Day 2, Incubation Clock Day 3; CIDRAP Slowing Signal Day 11; Oklahoma Senate Primary + Georgia House Runoff Rolling In; Acting DNI Day 27",
+          "summary": "Public health thread: measles case count at 2,073 entering the morning session. Post-FIFA World Cup monitoring window Day 2: mass-gathering incubation window (7-14 days) has entered Day 3. CIDRAP slowing signal Day 11 — eleven consecutive days of deceleration in case growth rate; the most sustained plateau signal of the 2026 outbreak arc. However, Seattle FIFA US vs Australia (June 19, Lumen Field, Pride Weekend) represents a re-seeding risk vector within active incubation window. CDC and local health authorities at elevated surveillance readiness. Acting DNI vacancy Day 27 at peak IC authentication demand — no replacement confirmed. Oklahoma Senate primary results and Georgia House runoff results rolling in overnight/morning — post-deal election cycle Day 2; early results will be mapped against deal political valence in red-state and purple-district dynamics. JD Vance CoS transition: Nick Luna Day 1 — no policy continuity disruption expected but senior West Wing staffing change during deal signing window is a low-level watch item.",
+          "significance": "MEDIUM",
+          "actors": ["CDC", "CIDRAP", "Acting DNI", "DHS", "JD Vance", "Nick Luna", "Oklahoma GOP primary candidates", "Georgia runoff candidates", "King County DOH"],
+          "metrics": {
+            "measles_total_cases": 2073,
+            "post_fifa_monitoring_window_day": 2,
+            "measles_incubation_clock_day": 3,
+            "cidrap_slowing_signal_consecutive_days": 11,
+            "cidrap_signal_assessment": "MOST SUSTAINED PLATEAU OF 2026 ARC",
+            "seattle_fifa_event_date": "2026-06-19",
+            "seattle_fifa_event": "US vs Australia, Lumen Field, Pride Weekend",
+            "measles_reseed_risk_seattle_fifa": "ELEVATED — mass gathering during active incubation window",
+            "acting_dni_vacancy_day": 27,
+            "vance_cos_nick_luna_day": 1,
+            "oklahoma_senate_primary_status": "RESULTS ROLLING IN",
+            "georgia_house_runoff_status": "RESULTS ROLLING IN",
+            "post_deal_election_cycle_day": 2
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "CRITICAL: Oregon Wildfire Emergency ACTIVE — EO 26-10 Day 2; 414 Fires YTD, 8,000+ Acres Burned, Multiple Evacuations; Oregon 83% Drought Coverage; Washington Drought Year 4 Active (Day 13); Above-Normal Wildfire Potential OR/WA/ID Through August (NIFC); Extreme Heat Warning ACTIVE — Expiring Midnight June 16-17 (Seattle Metro + Eastern WA); Heat Mortality 24-48h Lag Window ACTIVE; BPA Hydropower Demand Elevated; Washington DNR 215+ Fires YTD; NIFC-FIFA Co-Response Day 10; Pacific Power PSPS Risk This Week; Ocean Observatories Dismantling — Newport OR ~11 Days; Seattle FIFA T-2 — US vs Australia June 19 Lumen Field Pride Weekend; Pacific Fishing Proclamation PNW Port Economy Positive.",
+      "items": [
+        {
+          "headline": "Oregon Wildfire Emergency ACTIVE — EO 26-10 Day 2; 414 Fires YTD, 8,000+ Acres; Oregon 83% Drought; Above-Normal Fire Potential OR/WA/ID Through August; Extreme Heat Warning Active Through Midnight; Heat Mortality Lag Window OPEN",
+          "summary": "Oregon Governor Tina Kotek's Executive Order 26-10, signed June 15, declared a wildfire state of emergency for the entire state — entering Day 2 this morning. The declaration activates all available firefighting resources: aerial support, ground crews, emergency personnel, and the Oregon Comprehensive Emergency Management Plan. The EO remains in effect through end of October 2026 or fire season end. Context: Oregon has experienced 414 fires this season through mid-June, burning more than 8,000 acres with multiple evacuations already conducted. The US Drought Monitor (June 4) showed drought covering 83% of Oregon — near-record low snowpack entering the season. NIFC projects above-normal wildfire potential for all of Oregon, Washington, and Idaho through August, driven by El Niño warmth residuals, heavy spring grass growth as standing fuel, and below-normal snowpack. Washington is in its 4th consecutive drought year (Day 13 of active monitoring window). Eastern Washington grassland fuel moisture levels are critically low — elevated ignition risk across eastern Oregon and Washington concurrent with the wildfire emergency declaration. Extreme heat warning remains active through midnight June 16-17 in Seattle metro and eastern Washington; temperatures peaked at 95-100°F on June 16. The 24-48 hour heat mortality lag window is open this morning — the primary period for heat-related hospitalization and mortality reporting from yesterday's peak. BPA hydropower demand remains elevated with air conditioning load at peak. Pacific Power is implementing proactive wildfire risk reduction: power-line de-energization protocols (PSPS) expected in high-risk conditions this week across its Oregon and Washington service territory.",
+          "significance": "HIGH",
+          "actors": ["Gov. Tina Kotek", "Oregon Dept. of Forestry", "Oregon OEM", "NIFC", "Washington DNR", "BPA", "Pacific Power", "NWS Portland", "NWS Seattle"],
+          "metrics": {
+            "oregon_wildfire_eo_26_10_status": "ACTIVE — Day 2",
+            "oregon_wildfire_eo_signed_date": "2026-06-15",
+            "oregon_wildfire_eo_expiration": "End of October 2026 or fire season end",
+            "oregon_fires_ytd": 414,
+            "oregon_acres_burned_ytd": "8,000+",
+            "oregon_evacuations_conducted": true,
+            "oregon_drought_monitor_coverage_pct": 83,
+            "oregon_drought_monitor_date": "2026-06-04",
+            "washington_drought_year": 4,
+            "washington_drought_active_days": 13,
+            "nifc_above_normal_fire_potential_states": ["OR", "WA", "ID"],
+            "nifc_above_normal_fire_potential_through": "August 2026",
+            "extreme_heat_warning_status": "ACTIVE — expiring midnight June 16-17",
+            "heat_wave_peak_temp_f_range": "95-100",
+            "heat_wave_peak_date": "2026-06-16",
+            "heat_mortality_lag_window_status": "OPEN — 24-48 hours from June 16 peak",
+            "bpa_hydropower_demand_status": "ELEVATED — AC load peak",
+            "washington_dnr_fires_ytd": "215+",
+            "nifc_fifa_co_response_day": 10,
+            "pacific_power_psps_status": "EXPECTED — high-risk conditions this week",
+            "snowpack_status": "BELOW NORMAL — near-record low entering season",
+            "el_nino_warmth_residuals": true,
+            "spring_grass_fuel_moisture": "CRITICALLY LOW — eastern OR and WA"
+          }
+        },
+        {
+          "headline": "Seattle FIFA T-2 — US vs Australia June 19 Lumen Field Pride Weekend; Ocean Observatories Dismantling Newport OR ~11 Days; Cascadia Monitoring Gap; Pacific Fishing Proclamation PNW Port Economy Positive",
+          "summary": "Seattle FIFA watch: US vs Australia kicks off June 19 at Lumen Field — T-2 from this morning. The match falls on Pride Weekend in Seattle, creating a compound mass-gathering event at elevated measles surveillance moment (incubation Day 3). NIFC-FIFA co-response operational posture Day 10 — fire management resources are split between regional wildfire response and FIFA venue security planning. Ocean observatory dismantling: the NSF OOI Oregon coastal station at Newport is approximately 11 days from removal (full pull expected before end of June). The Washington offshore station is already removed. Real-time Cascadia Subduction Zone seismic and oceanographic monitoring is degrading with no replacement infrastructure announced — a compounding long-term infrastructure risk for the region. Scientific community response remains sharply critical of the removal timeline. The Pacific fishing proclamation issued today (June 17) represents a near-term positive for PNW coastal port economies: commercial fishing fleet reactivation will support Newport, Astoria, Coos Bay, and other Pacific coast communities. This has mild economic counterweight value against the drought and wildfire stress context. Oregon's 83% drought and Washington's 4th consecutive drought year continue to press hydropower generation capacity and agricultural water allocations entering summer peak demand season.",
+          "significance": "MEDIUM-HIGH",
+          "actors": ["Seattle FIFA organizing committee", "NIFC", "NSF OOI", "CDC", "King County DOH", "NWS Seattle", "BPA", "Pacific Power", "Washington DNR", "Oregon coastal port authorities"],
+          "metrics": {
+            "seattle_fifa_event": "US vs Australia — June 19, Lumen Field",
+            "seattle_fifa_days_to_event": 2,
+            "seattle_pride_weekend_overlap": true,
+            "nifc_fifa_co_response_day": 10,
+            "measles_incubation_day_entering_event_window": 3,
+            "nso_oregon_newport_days_to_removal_approx": 11,
+            "washington_offshore_observatory_status": "REMOVED",
+            "cascadia_monitoring_status": "DEGRADING — real-time coverage reducing",
+            "replacement_monitoring_announced": false,
+            "pacific_fishing_proclamation_pnw_effect": "POSITIVE — Newport, Astoria, Coos Bay port economy reactivation",
+            "oregon_drought_coverage_pct": 83,
+            "washington_drought_consecutive_year": 4,
+            "bpa_hydropower_demand_status": "ELEVATED",
+            "eastern_wa_fuel_moisture_status": "CRITICALLY LOW"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "June 17 morning opens at Vibe 5 with Lebanon quiet Day 1 cleared overnight and two session-defining scheduled events: the G7 Évian summit's final day and the FOMC decision at 2:00 PM ET. The deal's primary fragility vector — Israeli Lebanon strikes triggering Iranian response before Geneva — did not materialize overnight; Day 2 is now in progress and must hold through tonight. The deal framework is structurally intact: MOU declared June 14-15, Geneva signing June 19 (T-2), 60-day nuclear negotiation window activating at signing, CENTCOM blockade dissolution Day 3. The energy-supply-shock resolution pathway is visible — WTI deflationary impulse Day 2, Brent ~$84, oil sanctions waiver T-2 — but the CPI impact (May: 4.2%) will not unwind for 2-4 weeks post-signing. The FOMC is expected to hold rates at 3.50-3.75% this afternoon, but Warsh's inaugural press conference is today's domestic tail-risk: the dot plot will contain pre-deal projections that markets will assess against a materially altered energy-price outlook. A competent Warsh presser — contextualizing dots as pre-deal artifacts without over-committing a forward path — should contain bond market reaction. In the Pacific Northwest, Oregon's wildfire emergency (EO 26-10 Day 2) enters its highest-risk window: extreme heat warning still active through midnight, 414 fires YTD with 8,000+ acres burned, 83% drought coverage, above-normal fire potential through August across OR/WA/ID. Heat mortality reports from June 16's 95-100°F peak are expected through today's 24-48 hour lag window. Seattle has two days until US vs Australia at Lumen Field — a Pride Weekend FIFA mass gathering running concurrent with measles incubation Day 3. The FERC large load interconnection decision tomorrow (June 18) and NSF Newport observatory removal (~11 days) are the secondary infrastructure watch items. The compound PNW stress picture — drought, wildfire, heat, mass gathering, observatory dismantling — is the domestic analog to the geopolitical pre-signing fragility window: high-stakes, time-bounded, multiple simultaneous clocks.",
+  "watch_items": [
+    {
+      "item": "FOMC Decision 2:00 PM ET — Warsh Inaugural Press Conference 2:30 PM ET",
+      "priority": "HIGH",
+      "rationale": "First dot plot and inaugural presser under Warsh; pre-deal dot plot baseline may signal 2026 hike risk if not contextualized by Warsh; bond market reaction is the tail-risk domestic event of the session",
+      "watch_for": "Number of dot plot members projecting 2026 hike; Warsh energy-CPI gap framing; 10-year Treasury yield post-presser; whether Warsh withholds or submits his own dot; any forward guidance departure from prior FOMC language"
+    },
+    {
+      "item": "Lebanon Quiet Day 2 — Must Hold Through Tonight",
+      "priority": "CRITICAL",
+      "rationale": "Second consecutive required performance test before June 19 Geneva signing; Israeli Lebanon strikes triggering Iranian response remains the primary deal-collapse scenario",
+      "watch_for": "IDF operations in Lebanon; Hezbollah drone launches into northern Israel; Iranian kinetic response declaration; Netanyahu public statement on Lebanon; Witkoff diplomatic status"
+    },
+    {
+      "item": "G7 Évian Final Day — Allied Iran Alignment Signals",
+      "priority": "MEDIUM-HIGH",
+      "rationale": "Day 3 concludes today; no joint communiqué planned; bilateral signals from France, Germany, UK on deal alignment are the operative outputs from today's final session",
+      "watch_for": "Trump joint statement on Iran at Évian; allied public dissent from deal framework (none expected); communiqué language on nuclear architecture; VivaTech sovereign tech declaration Paris"
+    },
+    {
+      "item": "Oregon Wildfire Ignitions — Extreme Heat Warning Active Through Midnight",
+      "priority": "HIGH",
+      "rationale": "EO 26-10 Day 2 with extreme heat warning still active; June 16 peak temperatures (95-100°F) maximize ignition risk today; heat mortality 24-48h lag window open from yesterday's peak",
+      "watch_for": "New fire ignitions in eastern Oregon and eastern Washington; evacuation orders; Pacific Power PSPS activation; heat mortality and hospitalization reporting from June 16 lag; BPA demand spike"
+    },
+    {
+      "item": "FERC Large Load Interconnection Decision — Tomorrow June 18",
+      "priority": "MEDIUM",
+      "rationale": "FERC ruling tomorrow sets parameters for data center and large industrial grid access; material for AI infrastructure, EV manufacturing, and clean energy deployment timelines",
+      "watch_for": "FERC ruling parameters; interconnection threshold changes; utility and developer responses; interaction with H.R. 6938 new nuclear provisions"
+    },
+    {
+      "item": "Measles Pre-FIFA Surveillance — Incubation Day 3 Entering Seattle Event Window",
+      "priority": "MEDIUM",
+      "rationale": "US vs Australia at Lumen Field June 19 (T-2) is a mass gathering during active incubation window; Seattle Pride Weekend adds to gathering density; CIDRAP slowing signal must be monitored against re-seeding risk",
+      "watch_for": "New measles cluster reports in Pacific Northwest; King County DOH advisory; CDC elevated surveillance alerts; FIFA venue health screening protocols"
+    }
+  ],
+  "sources": [
+    {"title": "U.S. and Iran reach framework deal to end war and reopen the Strait of Hormuz | NBC News", "url": "https://www.nbcnews.com/news/us-news/deal-reached-united-states-iran-war-rcna350039"},
+    {"title": "June 15, 2026 — Trump and Vance virtually sign US-Iran agreement | CNN", "url": "https://www.cnn.com/2026/06/15/world/live-news/iran-war-g7-summit"},
+    {"title": "U.S. and Iran announce initial deal to end the war and reopen Strait of Hormuz | NPR", "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates"},
+    {"title": "Is Trump's agreement with Iran a peace deal? | Politifact", "url": "https://www.politifact.com/article/2026/jun/15/Iran-nuclear-peace-deal-Obama-Strait-Hormuz/"},
+    {"title": "2026 Strait of Hormuz crisis | Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"},
+    {"title": "G7 summit, Évian, France, 15-17 June 2026 | European Council", "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/06/15-17/"},
+    {"title": "52nd G7 summit | Wikipedia", "url": "https://en.wikipedia.org/wiki/52nd_G7_summit"},
+    {"title": "G7 priorities for the Évian Summit | France in the US", "url": "https://us.diplomatie.gouv.fr/en/g7-priorities-evian-summit"},
+    {"title": "Fed Rate Decision June 17, 2026: What to Watch | StockTitan", "url": "https://www.stocktitan.net/articles/fed-rate-decision-june-17-2026"},
+    {"title": "Kevin Warsh set to lead his first Federal Reserve interest rate meeting | CBS News", "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/"},
+    {"title": "Federal Reserve June 2026 Meeting: Warsh Set to Drop Dot as Hike Risk Climbs | TechTimes", "url": "https://www.techtimes.com/articles/318527/20260616/federal-reserve-june-2026-meeting-warsh-set-drop-dot-hike-risk-climbs.htm"},
+    {"title": "Inflation, Kevin Warsh take the stage at Fed's rate meeting | NBC News", "url": "https://www.nbcnews.com/business/economy/inflation-kevin-warsh-fed-fomc-meeting-rcna350411"},
+    {"title": "US market drivers in June: Inflation, rates and policy credibility | GO Markets", "url": "https://www.gomarkets.com/en/articles/us-market-drivers-june-2026"},
+    {"title": "Utilities under pressure: 6 power sector trends to watch in 2026 | Utility Dive", "url": "https://www.utilitydive.com/news/utility-power-sector-trends-2026/808782/"},
+    {"title": "Infrastructure Outlook for 2026: Energy, Transportation, Public Works | MRINetwork", "url": "https://mrinetwork.com/hiring-talent-strategy/infrastructure-outlook-energy-transportation-2026/"},
+    {"title": "Advancing American Strength: President Trump Signs H.R. 6938 | House Appropriations", "url": "https://appropriations.house.gov/news/press-releases/advancing-american-strength-president-trump-signs-hr-6938-law"},
+    {"title": "Oregon Gov. Tina Kotek declares emergency due to wildfire threat | OPB", "url": "https://www.opb.org/article/2026/06/16/oregon-governor-kotek-declares-emergency-wildfire-threat/"},
+    {"title": "Gov. Kotek declares state of emergency over wildfire threat | KGW", "url": "https://www.kgw.com/article/news/local/wildfire/oregon-governor-kotek-declares-state-of-emergency-wildfire-threat/283-7b9932a8-c6ea-477d-97ca-36e55d52adfc"},
+    {"title": "Governor declares wildfire emergency — what Central Oregon needs to know | KTVZ", "url": "https://ktvz.com/news/top-stories/2026/06/16/governor-declares-wildfire-emergency-what-central-oregon-needs-to-know/"},
+    {"title": "Oregon governor declares state of emergency over wildfire threat | OPB via JPR", "url": "https://www.ijpr.org/wildfire/2026-06-16/oregon-governor-declares-state-of-emergency-over-wildfire-threat"},
+    {"title": "Drought worsening in Oregon, rest of Pacific Northwest | Capital Press", "url": "https://capitalpress.com/2026/06/04/drought-worsening-in-oregon-rest-of-pacific-northwest/"},
+    {"title": "Ocean observatories go dark off Pacific Northwest coast | OPB", "url": "https://www.opb.org/article/2026/06/04/ocean-observatories-pacific-northwest/"},
+    {"title": "Pacific Power taking steps to reduce wildfire risk in service area | Apple Valley News", "url": "https://www.applevalleynewsnow.com/news/pacific-power-taking-steps-to-reduce-risk-of-wildfires-in-service-area/article_553f7c33-48f6-47bd-a263-df8ba43cb7ee.html"},
+    {"title": "Pacific Northwest counties prepare for 'The Big One' | NACO", "url": "https://www.naco.org/news/pacific-northwest-counties-prepare-big-one"},
+    {"title": "Federal Register — Wednesday June 17, 2026", "url": "https://www.federalregister.gov/"}
+  ]
+}
