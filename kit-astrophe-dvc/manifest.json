@@ -942,7 +942,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 110 — Deal T-2: Lebanon Quiet Day 2; FOMC Hold Confirmed — Warsh Inaugural Press Conference Delivered; G7 Évian Concluding; Heat Wave Breaking; NEW: Lake Sutherland Fire Olympic Peninsula Day 1; Juniper Dunes + Twin Sisters First Containment Window; Vibe 5",
       "generated_at": "2026-06-17T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-18-evening",
+      "date": "2026-06-18",
+      "session": "evening",
+      "file": "reports/2026-06-18-evening.json",
+      "vibe": 6,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 111 — Deal T-1: Lebanon Quiet Day 3 CLEARED — All Pre-Signing Tests Passed; Geneva Signing T-0 Tomorrow; WTI ~$75 Fifth Decline; Upriver Fire Spokane WUI Day 2 (11K+ Evacuations, 15+ Homes Lost, FEMA Request); Juniper Dunes 20% + Twin Sisters 65% BREAKTHROUGH; Multnomah Co. 4 Heat Deaths; Georgia: Trump-Backed Jones Loses Governor Runoff; Vibe 6",
+      "generated_at": "2026-06-18T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-17T20:00:00-07:00"
+  "last_updated": "2026-06-18T20:00:00-07:00"
 }
