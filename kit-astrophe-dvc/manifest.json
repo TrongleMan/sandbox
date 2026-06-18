@@ -944,6 +944,16 @@
       "generated_at": "2026-06-17T20:00:00-07:00"
     },
     {
+      "id": "2026-06-18-morning",
+      "date": "2026-06-18",
+      "session": "morning",
+      "file": "reports/2026-06-18-morning.json",
+      "vibe": 5,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 111 — Deal T-1: Lebanon Quiet Day 2 CLEARED; Day 3 Final Performance Test In Progress; Geneva Signing T-1; Warsh Inaugural Presser HAWKISH (9 Dots, Dow -507); FERC Large Load Decision TODAY; Upriver Fire WUI Day 2 — 11K+ Evacuations, 15+ Homes; Heat Wave Expiring; Vibe 5",
+      "generated_at": "2026-06-18T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-18-evening",
       "date": "2026-06-18",
       "session": "evening",
