@@ -964,6 +964,16 @@
       "generated_at": "2026-06-18T20:00:00-07:00"
     },
     {
+      "id": "2026-06-19-morning",
+      "date": "2026-06-19",
+      "session": "morning",
+      "file": "reports/2026-06-19-morning.json",
+      "vibe": 5,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 112 — Geneva Signing T-0: Lebanon Overnight Violence Threatens Physical Ceremony; Digital Signing Protocol Active; Juneteenth Markets Closed; FERC Large Load Show Cause Orders to 6 ISOs/RTOs June 18; Upriver Fire Day 3 — 1 Confirmed Dead, Evacuation Levels Dropping; Obama Presidential Center Opens; Vibe 5",
+      "generated_at": "2026-06-19T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-19-evening",
       "date": "2026-06-19",
       "session": "evening",
@@ -974,5 +984,5 @@
       "generated_at": "2026-06-19T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-19T20:00:00-07:00"
+  "last_updated": "2026-06-19T07:00:00-07:00"
 }
