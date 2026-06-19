@@ -1,0 +1,414 @@
+{
+  "report_id": "2026-06-19-evening",
+  "generated_at": "2026-06-19T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 112 — Deal SIGNED: MOU Executed Digitally; Geneva Formal Ceremony CANCELLED — Iran Foreign Ministry Confirms Digital Execution; Vance/Witkoff/Kushner Geneva Trip Moot; Hormuz Tanker Traffic UNCHANGED — Commercial Reopening Lag Active; WTI ~$74 Sixth Consecutive Decline; Lebanon Quiet Day 4 (Day 1 Post-Signing); CENTCOM Stand-Down Day 5; 60-Day Compliance Clock Running; Shipping Backlog Weeks to Clear; WPA Day 111 Day 21 Past Deadline — MOOT CONFIRMED; Acting DNI Day 29; CISA Day 49 Clean; Shamkhani Cyber Day 26; UPRIVER FIRE DAY 3 — POSSIBLE HUMAN REMAINS FOUND IN DESTROYED HOME — First Casualty Investigation of 2026 PNW Fire Season; Spokane County Medical Examiner Active; Evacuation Levels Partially Downgraded; Reconciliation 2.0: Johnson Signals July 2 Floor Date — 15 Days Out; Secure America Act Law Day 6; Seattle FIFA T-0 TODAY — USA vs Australia Match 32 Group D Lumen Field 12pm Completed — NIFC-FIFA Co-Response Day 12 PEAK; Measles 2,073 Post-FIFA Monitoring Window Day 4 (Incubation Day 5 of 14); CIDRAP Slowing Signal Day 13; Washington Drought Day 15 (4th Year); Oregon 83% Drought; NSF Newport OR ~9 Days; Longview CSB Day 25. Friday June 19, 2026 evening. The June 19 evening brief closes at Vibe 6 — maintained from June 18. The deal is signed, but the manner of signing and the silence of the strait define the session. The June 19 MOU execution is the single most consequential legal event of the 112-day Hormuz arc: the ceasefire is now in force, the 60-day compliance clock is running, sanctions relief is activated, and the conflict that began in early March is formally over by treaty. But the method of execution carries analytical weight that must be calibrated. The formal Geneva signing ceremony — anticipated, planned, and publicly announced as the June 19 capstone event — did not happen. Iran's foreign ministry spokesperson Esmaeil Baghaei confirmed the MOU was executed digitally; the planned Vance/Witkoff/Kushner Geneva travel was cancelled or rendered moot. Earlier on June 19, Iran had denied approval of the text — a last-minute ambiguity that compressed the pre-signing window and ultimately resolved in favor of digital execution rather than the ceremonial format. This is not a collapse: the digital execution is legally equivalent to a physical signing. But the ceremony was the symbolic anchor that markets, shipping companies, and insurance underwriters had been treating as the operational 'go' signal. Without the ceremony's visual confirmation and press-conference infrastructure, the commercial response has been muted. The result is the session's defining tension: Hormuz tanker traffic remains unchanged through the June 19 evening cycle. Commercial shipping has not resumed. Insurance underwriters have not announced rate normalization. The 100+ vessels stuck in or near the Gulf have not been confirmed moving. The deal is signed; the strait is commercially closed. Industry analysts project the backlog will take 10-15 days to begin clearing and potentially weeks to normalize throughput. WTI has continued its decline into approximately the $74 range — the oil market's authoritative signal that the deal is real — but the physical supply chain has not yet responded. The second defining development of the June 19 session is the Upriver Fire fatality investigation. In the June 18 brief, one person was reported missing after declining to evacuate a Level 3 zone northeast of Spokane. On June 19, investigators searching a home destroyed by the Upriver Fire discovered what appear to be human remains. The Spokane County Medical Examiner's Office is now active; detectives and fire investigators are working to confirm the identity and manner of death. If confirmed, this marks the first confirmed fire fatality of the 2026 PNW wildfire season — the precise human outcome NIFC's above-normal season assessment flagged as the WUI failure mode risk. Evacuation levels for some Spokane Valley homes have been partially downgraded as overnight humidity provided crews a limited suppression window, a conditional positive. The third development of note: Speaker Johnson has publicly signaled a July 2 House floor date for Reconciliation 2.0 — the first confirmed floor date signal in the June legislative arc. At T-15 days before the July 4 target, a July 2 floor date is arithmetically viable but leaves no margin for error. Seattle's first-ever World Cup match at Lumen Field concluded today: USA defeated Australia in Match 32 (Group D, 12pm local) — no confirmed security incident at the venue through the evening cycle; NIFC-FIFA co-response Day 12 executed under maximum concurrent-fire operational complexity.",
+  "vibe": {
+    "score": 6,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 6 — maintained from June 18. The June 19 brief holds at 6 rather than upgrading to 7 because two of the three Vibe 7 conditions from the June 18 framework have been met while the third remains unresolved, and a fourth factor has emerged that prevents upgrade. Condition 1 (formal signing confirmed): MET — the MOU was executed digitally on June 19 with Iran Foreign Ministry confirmation; the deal is in legal force and the 60-day compliance clock is running. Condition 2 (Hormuz physical reopening to unescorted commercial transits announced): NOT MET — tanker traffic through the strait is unchanged as of the June 19 evening cycle; shipping companies and insurance underwriters have not announced a posture shift; the 10-15 day clearing timeline is a projection, not a confirmed resumption event. Condition 3 (no overnight deal-disrupting event): CONDITIONALLY MET with significant qualification — no Iranian MOU repudiation occurred and no Israeli Lebanon strike triggered a response in the June 18-19 window; Lebanon Quiet Day 4 cleared; but Iran's pre-signing denial of the 'approved text' and the last-minute format shift from ceremony to digital execution introduced ambiguity that compressed the window and partially unsettled the expected T-0 signal architecture. Fourth factor (new): possible human remains discovered in Upriver Fire burn zone introduces the first confirmed-casualty-investigation of the 2026 PNW season; the humanitarian weight prevents a stability score upgrade concurrent with an active fatality investigation by the Spokane County Medical Examiner. Upgrade to Vibe 7 requires: first confirmed unescorted commercial Hormuz transit announced (tanker or LNG carrier begins transit without naval escort) + insurance underwriter rate normalization signal from Lloyd's or equivalent + Upriver Fire remains identity confirmed and casualty toll stabilized. Drop to Vibe 5 requires: Iranian MOU breach within the 60-day window, confirmed Israeli Lebanon kinetic action triggering Iranian response, or Upriver Fire fatality confirmation concurrent with escalation of active fire threat to additional structures or persons."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 112 — Deal SIGNED: MOU Executed Digitally June 19; Geneva Formal Ceremony Cancelled; Iran Foreign Ministry Confirms Execution; Vance/Witkoff/Kushner Geneva Trip Moot; 60-Day Compliance Clock Running; Hormuz Tanker Traffic UNCHANGED — Commercial Reopening Lag; WTI ~$74 Sixth Consecutive Decline; Lebanon Quiet Day 4 (Day 1 Post-Signing); CENTCOM Stand-Down Day 5; Blockade Dissolution Day 5; WPA Day 111 Day 21 Past Deadline — MOOT CONFIRMED; Acting DNI Day 29; CISA Day 49 Clean; Shamkhani Cyber Day 26.",
+      "items": [
+        {
+          "headline": "Hormuz Day 112 — MOU SIGNED DIGITALLY: Deal in Legal Force June 19; Geneva Ceremony Cancelled; Iran Confirms Digital Execution After Pre-Signing Text Dispute; 60-Day Clock Running; Hormuz Tanker Traffic Unchanged — Commercial Reopening Lag Active; WTI ~$74 Sixth Consecutive Decline; Lebanon Quiet Day 4; CENTCOM Stand-Down Day 5",
+          "summary": "The June 19 geopolitical session delivers the conclusion of the 112-day Hormuz arc: the MOU is signed and in legal force. The deal was executed digitally on June 19 rather than via the formal Geneva signing ceremony that had been announced and planned as the capstone event. Iran's foreign ministry spokesperson Esmaeil Baghaei confirmed the digital execution of the memorandum, stating that while the negotiating teams' travel to Geneva remained on the schedule through the day, the MOU had been signed in digital format and no formal physical ceremony would take place in Switzerland. Earlier in the June 19 cycle, Iran's foreign ministry had denied approval of the 'approved text,' introducing a last-minute ambiguity that compressed the pre-signing window. That dispute appears to have been resolved in the hours before digital execution was confirmed. The deal's legal architecture is now fully activated: the ceasefire extends through the 60-day window including Lebanon, Hormuz is to remain open without tolls, Iranian sanctions relief is tied to compliance verification, and nuclear negotiations are to commence within the 60-day window. The 60-day compliance clock began running on June 19. Vice President Vance, Steve Witkoff, and Jared Kushner did not travel to Geneva; the planned US delegation presence at the signing ceremony was rendered moot by the format shift. The analytical distinction between digital execution and formal ceremony is not legal but operational: the ceremony was the symbolic focal point that shipping companies and insurance underwriters had designated as their operational 'go' trigger. With digital execution rather than a press-conference ceremony as the execution mechanism, the commercial response has been muted. Hormuz tanker traffic remains unchanged through the June 19 evening cycle — the same assessment as the June 18 brief. CENTCOM confirms the stand-down is in its fifth day and safe pathways remain available, but unescorted commercial transits have not been confirmed. Industry analysts project the initial backlog clearing will take 10-15 days and full throughput normalization could take weeks, pending insurance rate adjustments. WTI has declined for a sixth consecutive session to approximately $74 per barrel — deepening the deal-completion pricing trend — but the physical supply-side response has not yet materialized. Lebanon Quiet Day 4 has cleared without incident, now tracking as Day 1 of the 60-day post-signing ceasefire window. No new Israeli military operations in Lebanon were confirmed in the June 19 cycle. Hezbollah conducted no additional northern Israel operations. The primary deal-collapse scenario is now legally moot.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "JD Vance", "Steve Witkoff", "Jared Kushner", "Esmaeil Baghaei", "Abbas Araghchi", "Benjamin Netanyahu", "Mohammad Bagher Ghalibaf", "Muhammad Shehbaz Sharif", "CENTCOM", "IRGC", "IDF", "Hezbollah", "Khamenei", "Lloyd's of London"],
+          "metrics": {
+            "hormuz_closed_days": 112,
+            "mou_signed": true,
+            "mou_signing_method": "DIGITAL — formal Geneva ceremony cancelled",
+            "mou_signing_date": "2026-06-19",
+            "sixty_day_clock_start": "2026-06-19",
+            "sixty_day_clock_end_projected": "2026-08-18",
+            "iran_fm_digital_execution_confirmed": true,
+            "iran_fm_spokesperson": "Esmaeil Baghaei",
+            "iran_text_dispute_june19": true,
+            "iran_text_dispute_resolved": true,
+            "us_delegation_geneva_travel": "CANCELLED — digital execution rendered ceremony moot",
+            "deal_collapse_scenario_status": "LEGALLY MOOT — MOU in force",
+            "lebanon_quiet_day": 4,
+            "lebanon_post_signing_day": 1,
+            "new_israeli_lebanon_strikes_june19": false,
+            "hezbollah_northern_israel_operations_june19": false,
+            "naval_blockade_dissolution_day": 5,
+            "centcom_standown_day": 5,
+            "project_freedom_pause_day": 45,
+            "centcom_safe_pathways_status": "ACTIVE — unescorted commercial transits not yet confirmed",
+            "hormuz_commercial_traffic_resumed": false,
+            "hormuz_tanker_traffic_june19": "UNCHANGED — wait-and-see posture persisting post-digital-signing",
+            "shipping_backlog_clearing_projected_days": "10-15 initial clearing; weeks to full normalization",
+            "insurance_rate_normalization_status": "PENDING — no Lloyd's announcement in June 19 cycle",
+            "wti_june19_estimate": "~$74",
+            "wti_consecutive_decline_sessions": 6,
+            "wti_total_decline_since_deal_declaration": "~$7",
+            "wti_post_signing_target_range": "$74-78",
+            "brent_june19_estimate": "~$79",
+            "iran_comms_resolved_day": 18,
+            "wpa_day": 111,
+            "wpa_days_past_hard_90day_deadline": 21,
+            "wpa_status": "MOOT — MOU signed; constitutional erosion precedent locked at Day 21",
+            "acting_dni_vacancy_day": 29,
+            "cisa_clean_streak_days": 49,
+            "shamkhani_cyber_risk_day": 26,
+            "vibe_7_upgrade_trigger": "First confirmed unescorted commercial Hormuz transit + insurance rate normalization announcement"
+          }
+        },
+        {
+          "headline": "60-Day Compliance Window Begins: Nuclear Talks to Commence; Sanctions Relief Activating; WPA Day 111 Legally Moot; Acting DNI Day 29 at Peak IC Compliance Verification Load; CISA Day 49 Clean; Shamkhani Cyber Day 26; Peru ONPE Still Pending; NATO-Europe Alignment Holding Post-Signing",
+          "summary": "Four secondary geopolitical threads entering June 19 evening. First: the deal's 60-day compliance architecture begins operating. Within the 60-day window: Hormuz remains open without tolls; Iran's sanctions relief is tied to verification milestones; Iran-US nuclear negotiations are to commence within the window; the ceasefire including Lebanon extends for 60 days from June 19 (projected end approximately August 18). The structure of the compliance window — what verification looks like, who certifies Iranian compliance, how the sanctions relief triggers are sequenced — is the operative analytical focus for the next 60-day arc, now replacing the deal-or-no-deal binary that has governed the brief since early March. Second: WPA Day 111, 21st consecutive day past the hard 90-day constitutional deadline. The MOU's execution on June 19 renders the WPA enforcement debate fully moot — there is no longer a live constitutional question about whether emergency war powers are being exercised illegally, because the legal basis for those powers (the conflict) has been terminated by treaty. The constitutional erosion precedent — 21 days past hard deadline, Senate blocked four times, no enforcement mechanism invoked — is now permanently locked into the institutional record regardless of the diplomatic outcome. Third: Acting DNI vacancy advances to Day 29 at maximum IC compliance verification load. The 60-day clock beginning today means IRGC stand-down verification, Lebanon ceasefire monitoring, Iranian nuclear declaration requirements, and sanctions relief milestone certification are all live IC workloads for a leaderless directorate. CISA advances to Day 49 clean — no confirmed critical infrastructure cyber incident. Shamkhani cyber risk Day 26: the immediate last-ditch-before-signing window has passed; the residual cyber risk profile shifts from pre-signing disruption to post-signing sanctions-relief-phase retaliation or intelligence operations. Fourth: Peru ONPE result pending (Sanchez 50.10% vs. Fujimori 49.90%); no certified result in the June 19 cycle; Andean resource nationalism premium remains in abeyance. NATO-Europe alignment holding — no allied public break from deal framing post-digital signing.",
+          "significance": "MODERATE",
+          "actors": ["Acting DNI", "CISA", "NSA", "IRGC", "IAEA", "ONPE Peru", "Roberto Sanchez", "Keiko Fujimori", "NATO allies"],
+          "metrics": {
+            "sixty_day_compliance_window_active": true,
+            "sixty_day_window_end_projected": "2026-08-18",
+            "nuclear_talks_commencement_deadline": "Within 60 days from 2026-06-19",
+            "wpa_day": 111,
+            "wpa_days_past_hard_90day_deadline": 21,
+            "wpa_constitutional_erosion_precedent": "LOCKED PERMANENTLY — 21 days past deadline; conflict terminated by treaty",
+            "acting_dni_vacancy_day": 29,
+            "ic_compliance_workloads_active": ["IRGC stand-down verification", "Lebanon ceasefire monitoring", "Iranian nuclear declaration", "sanctions relief milestone certification"],
+            "cisa_clean_streak_days": 49,
+            "shamkhani_cyber_risk_phase": "SHIFTED — from pre-signing disruption to post-signing retaliation/intelligence profile",
+            "fbi_ic3_flash_issued": false,
+            "peru_onpe_status": "PENDING — Sanchez 50.10% / Fujimori 49.90%; no June 19 certification",
+            "nato_europe_post_signing_alignment": "HOLDING — no allied break post-digital signing"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "WTI ~$74 Sixth Consecutive Decline — Physical Supply-Side Lag Persists; Hormuz Backlog 10-15 Days Minimum to Begin Clearing; Tanker Traffic Unchanged; Insurance Rate Normalization Pending; Gasoline Relief 2-4 Weeks; Reconciliation 2.0: Johnson Signals July 2 Floor Date — 15 Days to July 4 — FC Leverage Dissolving Day 5; Secure America Act Law Day 6; Nasdaq Holding Post-Signing; 30-Year Near 5%.",
+      "items": [
+        {
+          "headline": "WTI ~$74 Sixth Consecutive Decline — Deal Priced; Physical Hormuz Lag Persisting; Tanker Traffic Unchanged; Backlog Weeks to Clear; Brent ~$79; Insurance Rate Normalization Pending; Gasoline Relief 2-4 Weeks Post-Implementation; September FOMC Operative Rate Update Event",
+          "summary": "Oil markets on June 19 have extended the deal-completion pricing trend for a sixth consecutive session — WTI has moved to approximately $74 per barrel, entering the lower bound of the $74-78 post-signing target range identified in prior briefs. The deal is now in legal force, and the oil price trajectory confirms markets are treating the MOU as legitimate and executable. However, the physical implementation lag is now the defining tension. Hormuz tanker traffic remains unchanged as of the June 19 evening cycle — unchanged from the June 18 brief, and unchanged from before the MOU was executed. Shipping companies and insurance underwriters have not signaled a posture shift following the digital execution. Industry analysts and shipping executives have warned that clearing the Strait's backlog will take a minimum of 10-15 days for initial clearing and potentially several weeks to normalize throughput — the initial burst of tanker repositioning may create a visible traffic spike but will not translate into supply-side normalization for some time. Lloyd's and other underwriters have not announced rate reductions in the June 19 cycle. The 100+ oil-laden ships stuck in or near the Gulf remain in a holding pattern. The digital signing's muted commercial signal — compared to what a formal ceremony with press-conference messaging would have provided — is a partial explanation for the persistence of the wait-and-see posture. US gasoline prices (Oregon $5.35, national $4.564) will not see supply-driven relief for 2-4 weeks post-implementation. The pump relief timeline now extends from June 19 out to mid-to-late July. The June FOMC dot plot (Warsh, HOLD at 3.50-3.75%, at-least-three 2026 hike dots) remains the pre-deal artifact assessment from prior briefs; September SEP is the operative rate-path update event when energy-CPI gap from deal execution will be fully incorporated. The 30-year yield remains near 5%, not yet reflecting the full deflationary impulse of the supply-shock resolution.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "FOMC", "Federal Reserve", "OPEC+", "Iran NOC", "Tanker operators", "Lloyd's of London", "CENTCOM", "CME FedWatch", "CNBC", "Argus Media"],
+          "metrics": {
+            "wti_june19_estimate": "~$74",
+            "wti_consecutive_decline_sessions": 6,
+            "wti_total_decline_since_deal_declaration": "~$7",
+            "wti_post_signing_target_range": "$74-78",
+            "wti_at_lower_bound_of_target_range": true,
+            "brent_june19_estimate": "~$79",
+            "hormuz_commercial_traffic_resumed": false,
+            "hormuz_tanker_traffic_june19": "UNCHANGED",
+            "hormuz_backlog_clearing_initial_days": "10-15",
+            "hormuz_backlog_full_normalization": "WEEKS — throughput normalization timeline",
+            "hormuz_stuck_ships_est": "100+",
+            "stuck_ships_status": "HOLDING — not confirmed moving as of June 19 evening",
+            "insurance_rate_normalization_status": "PENDING — no Lloyd's announcement",
+            "gasoline_relief_timeline": "2-4 weeks post-implementation from June 19",
+            "gasoline_pump_relief_est_date": "Mid-to-late July 2026",
+            "oregon_gas_price_usd": 5.35,
+            "national_gas_price_usd": 4.564,
+            "fomc_june_decision": "HOLD 3.50-3.75%",
+            "fomc_dot_plot_2026_hike_dots_min": 3,
+            "dot_plot_assessment": "PRE-DEAL ARTIFACT — September SEP is operative update event",
+            "treasury_30yr_yield_approx": "~5.0%",
+            "iran_oil_reentry_sanctions_relief": "ACTIVATED — tied to compliance verification milestones"
+          }
+        },
+        {
+          "headline": "Reconciliation 2.0: Johnson Signals July 2 Floor Date — 15 Days to July 4 — First Confirmed Floor Date Signal in June Arc; FC Leverage Dissolving Day 5; Nasdaq Holding Post-Signing; Secure America Act Law Day 6",
+          "summary": "Four secondary economic threads entering June 19 evening. First and most significant: Speaker Johnson has publicly signaled a July 2 House floor date for Reconciliation 2.0 — the first confirmed floor date signal in the June legislative arc. At T-15 days before the July 4 hard target, a July 2 floor date is arithmetically viable but leaves zero calendar margin for procedural failures, Freedom Caucus holds, or Senate reconciliation complications. Johnson's July 2 signal represents a material shift from the 'no floor date confirmed' status that persisted through June 14-18; it suggests that the Speaker's whip count has reached the threshold where a date can be named publicly without generating immediate revolt. Freedom Caucus Iran-war-cost leverage dissolves to Day 5 — the signed MOU eliminates the last coherent fiscal-restraint-pending-war-cost argument available to FC members who were tying Reconciliation 2.0 concessions to Iran expenditure uncertainty. Outstanding FC demands (spending caps, Medicaid work requirements, anti-weaponization provisions) remain unresolved, but the political environment has shifted materially with each post-signing day. A July 2 floor attempt requires floor rule adoption by June 30 at latest — the next procedural marker to watch. Second: Nasdaq and broader equity markets are holding the deal-completion bid into the post-signing session — no multiple-compression event from the ceremony format change; markets appear to have treated digital signing as equivalent to formal ceremony for valuation purposes, consistent with the oil price signal. Third: Secure America Act advances to Law Day 6 — DHS ($70B through FY2029) operational implementation underway; ICE/CBP deployment timeline proceeding independent of Reconciliation 2.0. Fourth: Georgia governor-elect Rick Jackson (who defeated Trump-backed Lt. Gov. Burt Jones in the June 16 GOP runoff) is advancing into the general election — the first Trump-endorsed statewide loss in the post-deal primary cycle enters its first post-primary week.",
+          "significance": "MODERATE",
+          "actors": ["Speaker Mike Johnson", "House Freedom Caucus", "Senate Finance Committee", "Rick Jackson", "Kevin Warsh"],
+          "metrics": {
+            "reconciliation_20_july4_deadline_days_out": 15,
+            "reconciliation_20_house_floor_date_signal": "July 2, 2026 — first confirmed signal",
+            "reconciliation_20_floor_date_signal_day": "2026-06-19",
+            "reconciliation_20_floor_rule_adoption_deadline": "By 2026-06-30",
+            "reconciliation_20_calendar_margin_days": 0,
+            "freedom_caucus_iran_leverage_dissolving_day": 5,
+            "freedom_caucus_outstanding_issues": ["spending caps", "Medicaid work requirements", "anti-weaponization provisions"],
+            "secure_america_act_law_day": 6,
+            "secure_america_act_value_bn": 70,
+            "nasdaq_post_signing_session": "HOLDING — no multiple-compression from ceremony format change",
+            "georgia_governor_general_election": "Rick Jackson (R) advancing to general — first Trump-endorsed statewide loss in post-deal primary cycle",
+            "post_deal_primary_differentiation": "CONFIRMED — Hern win (OK Senate) + Jones loss (GA Governor) persisting into general-election arc"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CRITICAL: Upriver Fire Day 3 (Spokane NE) — POSSIBLE HUMAN REMAINS FOUND IN DESTROYED HOME — First Casualty Investigation of 2026 PNW Fire Season; Spokane County Medical Examiner Active; Evacuation Levels Partially Downgraded; Overnight Humidity Provided Limited Suppression Window; Juniper Dunes Containment Holding ~20%; Twin Sisters Advancing Toward Control ~65%+; Lake Sutherland Day 3 Status Uncertain; Multnomah County 4 Heat Deaths Investigation Continues; BPA Grid Stable; NIFC-FIFA Co-Response Day 12 PEAK; NSF Newport OR ~9 Days to Removal; Longview CSB Day 25.",
+      "items": [
+        {
+          "headline": "CRITICAL: Upriver Fire Day 3 (Spokane NE) — POSSIBLE HUMAN REMAINS FOUND IN DESTROYED HOME — First Casualty Investigation of 2026 PNW Season; Spokane County Medical Examiner Active; Evacuation Levels Partially Downgraded; Fire ~222-350 Acres, ~10-15% Containment — Overnight Humidity Window Utilized",
+          "summary": "The Upriver Fire's Day 3 session delivers the 2026 PNW fire season's most consequential single development: investigators searching a home destroyed in the Upriver Fire burn zone have discovered what appear to be human remains. Detectives and fire investigators are working with the Spokane County Medical Examiner's Office to confirm the person's identity and determine the cause and manner of death. The missing person reported in the June 17-18 cycle — a family member had filed a welfare check after the individual declined to evacuate a Level 3 'Go Now' zone — is the presumed subject of the investigation. If the remains are confirmed as a fatality, this marks the first confirmed fire death of the 2026 PNW wildfire season and the first human remains discovery at a WUI structure-loss fire in Washington state this year, confirming the precise failure mode NIFC's above-normal season assessment identified as the highest-consequence risk. The investigation is active and no final determination has been announced through the June 19 evening cycle. On the operational side, the June 19 session carries a conditional positive signal: evacuation levels for some Spokane Valley homes have been partially downgraded following overnight humidity that provided crews a limited suppression window. The fire burned approximately 222-350 acres through the June 17-18 cycle — the variation in reporting reflects different perimeter measurement methods in fast-moving WUI terrain — and containment has been estimated at approximately 10-15% as crews established lines in the cooling overnight window. Approximately 12,000 residents remain under some level of evacuation order. Level 2 'Get Ready' and Level 3 'Go Now' zones have been partially modified, with some Level 3 areas downgraded to Level 2. At least 15 homes have been confirmed burned; approximately 500 remain threatened. Governor Ferguson's FEMA fire management assistance declaration request is pending federal approval. Washington DNR and Spokane County emergency management are co-managing the response.",
+          "significance": "CRITICAL",
+          "actors": ["Governor Bob Ferguson", "FEMA", "Washington DNR", "Spokane County Emergency Management", "Spokane County Medical Examiner", "Washington State Patrol", "NWS Spokane", "NIFC", "Washington EMD"],
+          "metrics": {
+            "upriver_fire": {
+              "location": "Northeast Spokane, near Upriver Drive and Felts Field, Spokane County, WA",
+              "ignition_date": "2026-06-17",
+              "day_since_ignition": 3,
+              "acres": "222-350 (perimeter variation in reporting)",
+              "containment_pct": "~10-15% — overnight humidity utilized",
+              "evacuation_orders_people": "~12,000",
+              "structures_under_evacuation": "2,340",
+              "homes_confirmed_burned": "15+",
+              "homes_threatened": "~500",
+              "evacuation_levels_status": "PARTIALLY DOWNGRADED — some Level 3 areas reduced to Level 2",
+              "possible_human_remains_found": true,
+              "remains_investigation_agency": "Spokane County Medical Examiner / Detectives / Fire Investigators",
+              "remains_identity_confirmed": false,
+              "fatality_cause_determined": false,
+              "missing_person_context": "Welfare check filed after individual declined to evacuate Level 3 zone June 17",
+              "season_significance": "FIRST CASUALTY INVESTIGATION OF 2026 PNW FIRE SEASON — confirmed if remains identified",
+              "fire_cause": "Human-caused (WA DNR classification)",
+              "fire_type": "WUI — Wildland-Urban Interface",
+              "governor_fema_declaration_status": "PENDING FEDERAL APPROVAL",
+              "fema_declaration_type": "Fire Management Assistance Declaration"
+            }
+          }
+        },
+        {
+          "headline": "Juniper Dunes ~20% Containment Holding; Twin Sisters Advancing ~65%+ Toward Control; Lake Sutherland Day 3 Status Uncertain; Multnomah County 4 Heat Deaths Investigation Active; BPA Grid Stable; NSF Newport OR ~9 Days; NIFC-FIFA Co-Response Day 12 Peak",
+          "summary": "Five secondary infrastructure threads entering June 19 evening. First: Juniper Dunes and Twin Sisters containment holding and likely advancing into Day 7. Juniper Dunes (Franklin County, near Juniper Dunes Wilderness, ~10 miles NE of Pasco) was 20% contained at 13,144 acres as of June 18; the moderate overnight and morning conditions on June 19 provide a continued suppression window in what remains challenging roadless Wilderness terrain requiring hand-tool operations. Level 2 evacuations remain in place for adjacent areas. Twin Sisters (Highway 730 area, eastern Washington) was 65% contained at 8,262 acres as of June 18 and is advancing toward full control — the aerial and ground resource operations in the June 17-18 weather window have not been reversed by any June 19 wind event in available reporting. Level 3 evacuations at Hatch Grade may be easing. Both fires are now in consolidation rather than active-suppression mode. Second: Lake Sutherland Fire (Olympic Peninsula, Day 3 from June 17 ignition) — no confirmed acreage update or containment percentage is available through the June 19 evening cycle for the third consecutive brief. Olympic National Park and Olympic National Forest resources are responding; the continued absence of escalating reporting is conditionally reassuring but remains non-confirmatory without a formal InciWeb or incident report. Third: Multnomah County heat mortality investigation continues — the four suspected heat-related deaths from the June 14-16 event remain under medical examiner review. No additional Portland-area or King County heat fatalities have been confirmed in the June 18-19 window; if no additional deaths are confirmed, the documented toll of four represents the closed human cost of the heat event. King County monitoring through June 19 has not produced a confirmed fatality. Fourth: BPA grid remains stable through Day 6 of the post-heat-event normalization period — demand has moderated with temperatures, and no emergency grid event has materialized. The hydropower system's absorption of the season's first major demand surge without a rotating outage is confirmed as a genuine operational success under drought-year-4 hydropower constraints. Fifth: NSF Newport OR ocean observatory has approximately 9 days before its end-of-June removal — the June 19 FIFA match at Lumen Field is the last major summer crowd-surge event for which the Newport data will be operationally available; July's events will operate without this coastal atmospheric anchor.",
+          "significance": "HIGH",
+          "actors": ["NIFC", "USFS", "BLM", "Washington DNR", "Olympic National Park", "Multnomah County Medical Examiner", "King County Public Health", "BPA", "NWS Seattle", "NWS Portland", "NSF", "FEMA", "FIFA"],
+          "metrics": {
+            "juniper_dunes_fire": {
+              "location": "Near Juniper Dunes Wilderness, Franklin County, NE of Pasco, Eastern WA",
+              "ignition_date": "2026-06-13",
+              "day_since_ignition": 7,
+              "acres": 13144,
+              "containment_pct": "~20% — holding and advancing in moderate conditions",
+              "status": "CONSOLIDATING — hand-tool operations in Wilderness terrain; June 19 suppression window active",
+              "evacuation_level": "Level 2"
+            },
+            "twin_sisters_fire": {
+              "location": "Highway 730 area, Eastern Washington",
+              "ignition_date": "2026-06-13",
+              "day_since_ignition": 7,
+              "acres": 8262,
+              "containment_pct": "~65%+ — advancing toward control",
+              "status": "ADVANCING TO CONTROL — aerial and ground resources not reversed by June 19 conditions"
+            },
+            "lake_sutherland_fire": {
+              "location": "Near Lake Crescent, Northern Olympic Peninsula, Washington",
+              "ignition_date": "2026-06-17",
+              "day_since_ignition": 3,
+              "acres": "UNKNOWN — third consecutive brief without acreage update",
+              "containment_pct": "UNKNOWN",
+              "status": "MONITORING — absence of escalating reports conditionally reassuring"
+            },
+            "heat_mortality": {
+              "multnomah_county_suspected_deaths": 4,
+              "multnomah_county_investigation_status": "ACTIVE",
+              "king_county_heat_deaths_confirmed": 0,
+              "additional_deaths_june19": false,
+              "heat_event_toll_status": "CONDITIONALLY CLOSED — 4 confirmed investigations; no additional deaths in June 18-19 cycle"
+            },
+            "bpa_grid_status": "STABLE — Day 6 post-heat-event; no emergency event; drought-year-4 success confirmed",
+            "bpa_outage_confirmed": false,
+            "nsf_newport_or_status": "OPERATIONAL — ~9 days to removal",
+            "nsf_monitoring_gap_eta": "~2026-06-28",
+            "nsf_last_major_event_covered": "2026-06-19 USA vs Australia Lumen Field",
+            "nifc_fifa_co_response_day": 12,
+            "nifc_above_normal_day": 19,
+            "longview_csb_day": 25,
+            "longview_vapor_pressure_risk": "CLOSED — acute window expired June 16; structural compromise monitoring continues"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "Reconciliation 2.0: Johnson July 2 Floor Date Signal — 15 Days to July 4 — FIRST CONFIRMED FLOOR DATE IN JUNE ARC; FC Leverage Dissolving Day 5; WPA Day 111 Day 21 Past Deadline — MOOT; Acting DNI Day 29; Vance CoS Nick Luna Day 3; We Won Frame Day 5; Upriver Fire Possible Fatality — FEMA Declaration Pending; Measles 2,073 Post-FIFA Monitoring Window Day 4 (Incubation Day 5 of 14); CIDRAP Slowing Signal Day 13; No New Clusters From June 15 Lumen Field Match.",
+      "items": [
+        {
+          "headline": "Johnson Signals July 2 Reconciliation 2.0 Floor Date — First Confirmed Signal in June Arc; WPA Day 111 Moot; Vance CoS Luna Day 3; We Won Frame Day 5; Post-Deal Primary Day 4 — Georgia Jackson Absorbing; Secure America Act Law Day 6",
+          "summary": "Four primary domestic threads entering June 19 evening. First and most significant domestic development: Speaker Johnson has publicly signaled a July 2 House floor date for Reconciliation 2.0 — the first floor date signal of the June legislative arc. This is analytically significant as a shift from the 'no floor date confirmed' posture that persisted through June 14-18 in prior briefs. Johnson's ability to name a date publicly — rather than maintaining deliberate ambiguity — suggests the whip operation has advanced to a confidence threshold, though a 15-day runway to July 4 with zero calendar margin leaves the Johnson operation extremely vulnerable to Freedom Caucus procedural holds or last-minute concession demands. Floor rule adoption by approximately June 30 is required for a July 2 floor attempt. The Freedom Caucus Iran-war-cost leverage has now fully dissolved with the MOU signed: no coherent argument remains for conditioning fiscal packages on war-cost uncertainty. Second: WPA Day 111, 21st consecutive day past the hard 90-day constitutional deadline — fully moot with the deal signed June 19. The precedent (Senate blocked four times, no enforcement mechanism invoked, 21 days past hard deadline) is now locked into institutional memory as a permanent record of constitutional emergency-powers practice. Third: JD Vance's Chief of Staff Nick Luna advances to Day 3 — Vance's independent political infrastructure continues consolidating in the post-deal period of maximum political capital. The 'We Won' frame advances to Day 5 — the administration's post-deal political environment messaging is now processing through the first full week of the Reconciliation floor-scheduling period. Fourth: post-deal primary cycle Day 4 — Georgia governor-elect Rick Jackson is entering the general-election phase following his defeat of Trump-backed Lt. Gov. Burt Jones. No Trump response to the Jones loss has been flagged as significantly disrupting the 'We Won' frame through the June 19 cycle.",
+          "significance": "MODERATE",
+          "actors": ["Speaker Mike Johnson", "House Freedom Caucus", "JD Vance", "Nick Luna", "Donald Trump", "Rick Jackson", "Lt. Gov. Burt Jones (defeated)", "Kevin Hern", "Senate Finance Committee"],
+          "metrics": {
+            "reconciliation_20_july4_deadline_days_out": 15,
+            "reconciliation_20_floor_date_signal": "2026-07-02",
+            "reconciliation_20_floor_date_signal_source": "Speaker Johnson public statement June 19",
+            "reconciliation_20_floor_date_confirmed": false,
+            "reconciliation_20_floor_rule_adoption_deadline": "By 2026-06-30",
+            "reconciliation_20_calendar_margin_days": 0,
+            "freedom_caucus_iran_leverage_dissolving_day": 5,
+            "freedom_caucus_iran_leverage_status": "EXTINGUISHED — MOU signed; no coherent war-cost argument remains",
+            "secure_america_act_law_day": 6,
+            "wpa_day": 111,
+            "wpa_days_past_hard_90day_deadline": 21,
+            "wpa_status": "MOOT CONFIRMED — MOU in force June 19",
+            "acting_dni_vacancy_day": 29,
+            "vance_cos_nick_luna_day": 3,
+            "we_won_frame_day": 5,
+            "post_deal_election_cycle_day": 4,
+            "georgia_governor_general_election": "Rick Jackson (R) vs TBD (D)",
+            "trump_jones_loss_response": "NOT FLAGGED — no disruption to We Won frame through June 19 cycle"
+          }
+        },
+        {
+          "headline": "Measles 2,073 Post-FIFA Monitoring Window Day 4 (Incubation Day 5 of 14); CIDRAP Slowing Signal Day 13; No New Clusters From June 15 Lumen Field Match; June 19 USA vs Australia No Immediate Security Incident; Upriver Fire Fatality Investigation Active; Heat Deaths Multnomah County at 4 Confirmed",
+          "summary": "Four secondary domestic threads entering June 19 evening. First: measles post-FIFA mass event monitoring advances to Day 4 of the 14-day incubation window from the June 15 Belgium vs Egypt Lumen Field match; the incubation clock is Day 5 of 14. No new Snohomish County or King County measles clusters traced to the June 15 gathering have been confirmed through the June 19 evening cycle. CIDRAP slowing signal advances to Day 13 — the longest sustained deceleration streak of the outbreak arc; national case count remains 2,073 (CDC June 11 update; next update expected June 18 or 25). The cluster identification window for the June 15 event is June 22-29; no actionable data will emerge before June 22. Georgetown University's FIFA surveillance platform (wastewater DNA sequencing, ER data, social media fusion) remains the primary real-time public health intelligence mechanism given CDC institutional capacity gaps. The June 19 USA vs Australia match at Lumen Field adds a second mass-gathering event to the 14-day measles incubation monitoring calendar; the cluster identification window for the June 19 match runs July 3-10. Second: no confirmed security incident at Lumen Field during the June 19 USA vs Australia match through the evening cycle — the NIFC-FIFA co-response Day 12 executed without a flagged event. The concurrent Spokane WUI fire emergency created the most complex resource split of the FIFA co-response arc to date. Third: Upriver Fire fatality investigation — the domestic human impact of the 2026 PNW fire season has now produced its first potential confirmed death; the investigation by the Spokane County Medical Examiner is the dominant domestic humanitarian data point of the June 19 brief. FEMA fire management assistance declaration pending federal approval. Fourth: Multnomah County heat mortality investigation — four suspected heat-related deaths from the June 14-16 event continue under medical examiner review; no additional deaths confirmed in the June 18-19 cycle.",
+          "significance": "MODERATE",
+          "actors": ["CDC", "CIDRAP", "Georgetown University", "Snohomish County Health District", "King County Public Health", "Multnomah County Medical Examiner", "Spokane County Medical Examiner", "FEMA", "Governor Bob Ferguson", "HHS Secretary RFK Jr.", "Seattle OEM", "FIFA"],
+          "metrics": {
+            "measles_national_case_count": 2073,
+            "measles_cdc_update_date": "2026-06-11",
+            "measles_next_update_expected": "2026-06-18 or 2026-06-25",
+            "measles_post_fifa_monitoring_window_day": 4,
+            "measles_incubation_clock_day": 5,
+            "measles_incubation_period_days": 14,
+            "measles_cluster_id_window_june15": "2026-06-22 to 2026-06-29",
+            "measles_cluster_id_window_june19": "2026-07-03 to 2026-07-10",
+            "measles_new_clusters_june19": false,
+            "measles_cidrap_slowing_signal_day": 13,
+            "measles_cidrap_signal_assessment": "LONGEST STREAK — fragile; June 15 + June 19 mass-event incubation windows active simultaneously",
+            "georgetown_fifa_surveillance_ops": "ACTIVE — wastewater DNA + ER data + social media fusion",
+            "lumen_field_june19_security_incident": false,
+            "nifc_fifa_coop_response_day_12_status": "EXECUTED — no flagged incident; max concurrent-fire complexity",
+            "upriver_fire_remains_investigation": "ACTIVE — Spokane County Medical Examiner",
+            "upriver_fire_fema_declaration_status": "PENDING FEDERAL APPROVAL",
+            "multnomah_county_heat_deaths_status": "4 CONFIRMED INVESTIGATIONS — no additional deaths June 18-19 cycle",
+            "heat_event_toll_status": "CONDITIONALLY CLOSED AT 4"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "CRITICAL: Upriver Fire Day 3 (Spokane NE) — POSSIBLE HUMAN REMAINS FOUND — First Casualty Investigation of 2026 PNW Season; Spokane County Medical Examiner Active; Evacuation Partially Downgraded; Juniper Dunes ~20% Holding; Twin Sisters ~65%+ Advancing to Control; Lake Sutherland Day 3 Unknown; NIFC Above-Normal Day 19; NIFC-FIFA Co-Response Day 12 PEAK — USA vs Australia Lumen Field Completed No Incident; Multnomah County 4 Heat Deaths; King County No Confirmed Deaths; BPA Grid Stable; East Cascades Fuel Drying T-10; Washington Drought Day 15 (4th Year); Oregon 83% Drought; El Niño 61%; NSF Newport OR ~9 Days; Longview CSB Day 25.",
+      "items": [
+        {
+          "headline": "CRITICAL: Upriver Fire Day 3 — Possible Human Remains Found; Evacuation Partially Downgraded; Juniper Dunes + Twin Sisters Consolidating; Seattle FIFA USA vs Australia Completed No Incident; NIFC-FIFA Co-Response Day 12 Peak Executed; Multnomah County 4 Heat Deaths; BPA Stable",
+          "summary": "June 19 delivers the 2026 PNW fire season's most consequential humanitarian development alongside the first successful execution of a peak FIFA co-response day under maximum concurrent-fire complexity. The Upriver Fire's Day 3 session has produced a possible fatality: investigators found what appear to be human remains in a destroyed home in the burn zone, with the Spokane County Medical Examiner's Office working to confirm identity and cause of death. If confirmed, this is the first fire death of the 2026 PNW season and the outcome most feared in the NIFC above-normal season assessment: a WUI fire in populated terrain claiming a civilian who declined to evacuate. Evacuation levels have been partially downgraded for some Spokane Valley homes following overnight humidity that provided crews a limited suppression window — approximately 12,000 residents remain under some order level, down from 11,000-12,000 at peak. Juniper Dunes (~20%, 13,144 acres) and Twin Sisters (~65%+, 8,262 acres) continue consolidating their June 17-18 containment breakthroughs in the June 19 moderate weather window. Lake Sutherland (Olympic Peninsula, Day 3) has not generated new escalating reports through the evening cycle for the third consecutive brief — conditionally reassuring. On the FIFA side: the June 19 NIFC-FIFA co-response Day 12 has now executed as the most operationally complex co-response day of the 2026 arc. USA vs Australia at Lumen Field (Match 32, Group D, 12pm local) proceeded with Pride Weekend attendance under moderate post-heat-wave temperatures. No confirmed security incident at Lumen Field through the evening cycle. The concurrent management of: (a) the Upriver Fire WUI crisis, (b) three ongoing eastern Washington fires, (c) Lake Sutherland on the Olympic Peninsula, and (d) the peak-attendance FIFA match at Lumen Field represents the maximum multi-front operational posture of the June 2026 PNW emergency management arc. BPA grid remains stable — Day 6 post-heat-event without a confirmed outage, confirming the hydropower system's performance under drought-year-4 constraint.",
+          "significance": "CRITICAL",
+          "actors": ["Governor Bob Ferguson", "FEMA", "Washington DNR", "Spokane County Emergency Management", "Spokane County Medical Examiner", "NWS Spokane", "NIFC", "USFS", "BLM", "BPA", "Olympic National Park", "King County Public Health", "Multnomah County Medical Examiner", "Seattle OEM", "FIFA", "Washington EMD"],
+          "metrics": {
+            "upriver_fire": {
+              "location": "Northeast Spokane, near Upriver Drive / Felts Field, Spokane County",
+              "ignition_date": "2026-06-17",
+              "day_since_ignition": 3,
+              "acres": "222-350",
+              "containment_pct": "~10-15%",
+              "evacuation_orders_people": "~12,000",
+              "homes_burned": "15+",
+              "homes_threatened": "~500",
+              "possible_human_remains_found": true,
+              "medical_examiner_active": true,
+              "evacuation_partially_downgraded": true,
+              "fema_request_status": "PENDING FEDERAL APPROVAL",
+              "fire_type": "WUI",
+              "season_significance": "FIRST CASUALTY INVESTIGATION OF 2026 PNW FIRE SEASON"
+            },
+            "juniper_dunes_fire": {
+              "location": "Franklin County near Juniper Dunes Wilderness, Eastern WA",
+              "acres": 13144,
+              "containment_pct": "~20% — holding and advancing",
+              "status": "CONSOLIDATING — moderate weather window active"
+            },
+            "twin_sisters_fire": {
+              "location": "Highway 730 / Eastern Washington",
+              "acres": 8262,
+              "containment_pct": "~65%+ — advancing to control",
+              "status": "ADVANCING TO CONTROL"
+            },
+            "lake_sutherland_fire": {
+              "location": "Near Lake Crescent, Olympic Peninsula, Northern WA",
+              "day_since_ignition": 3,
+              "acres": "UNKNOWN",
+              "status": "MONITORING — no escalating reports Day 3"
+            },
+            "concurrent_active_high_complexity_wa_fires": 4,
+            "nifc_fifa_co_response_day": 12,
+            "nifc_fifa_co_response_day_12_status": "EXECUTED — most complex co-response day of 2026 arc; no flagged incident",
+            "seattle_fifa_june19_match": "USA vs Australia — Match 32 Group D — 12pm Lumen Field — COMPLETED",
+            "seattle_fifa_june19_incident": false,
+            "seattle_fifa_pride_weekend": true,
+            "heat_mortality": {
+              "multnomah_county_suspected_deaths": 4,
+              "king_county_confirmed_deaths": 0,
+              "additional_deaths_june19": false,
+              "heat_event_toll_status": "CONDITIONALLY CLOSED AT 4"
+            },
+            "bpa_grid_status": "STABLE — Day 6 post-heat-event; no outage confirmed across full event window",
+            "nifc_above_normal_day": 19,
+            "washington_drought_emergency_day": 15,
+            "washington_drought_consecutive_years": 4,
+            "measles_post_fifa_monitoring_active": true,
+            "measles_incubation_day": 5
+          }
+        },
+        {
+          "headline": "NIFC Above-Normal Day 19 — Four Active High-Complexity WA Fires; East Cascades Fuel Drying T-10; Washington Drought Day 15 (4th Year); El Niño 61%; NSF Newport OR ~9 Days; Longview CSB Day 25; Gray Whale Washup Pace Above Normal",
+          "summary": "Five secondary PNW environmental threads entering June 19 evening. First: NIFC above-normal Day 19 with Washington managing four simultaneously active high-complexity fires (Upriver, Juniper Dunes, Twin Sisters, Lake Sutherland). The Upriver Fire's casualty investigation adds a qualitative dimension to the concurrent-fire management challenge that acreage and containment metrics alone do not capture: structure loss, mass evacuation, fatality investigation, and federal emergency assistance are all active simultaneously with the eastern Washington containment operations. The operational focus has fully shifted to Upriver as the priority event. East Cascades fuel drying: the June 14-16 heat event added 3-5 additional drying days; the T-10 estimate from the June 19 brief places the east Cascades fire onset scenario in the June 29-July 1 range — entering the window where the Reconciliation 2.0 floor scheduling and the July 4 legislative target overlap with the projected season onset. Second: Washington drought emergency Day 15 (4th consecutive year, 50% snowpack) — soil moisture deficits remain acute; no precipitation relief projected through June; fire season risk envelope extends to October 2026. Oregon 83% drought monitor coverage with 12-county emergency. El Niño probability 61% (super El Niño 1-in-4 through summer). Third: Longview CSB Day 25 — the 90,000-gallon hazardous material storage tank's acute vapor pressure risk window is closed; structural compromise monitoring continues; next elevated risk window is the next significant heat event projected in approximately 3-4 weeks. Fourth: NSF Newport OR ocean observatory is approximately 9 days from its end-of-June removal. The June 19 USA vs Australia match was the final major summer crowd-surge event for which Newport data is operationally available in real time; July events will begin without this coastal atmospheric anchor. Fifth: Oregon and Washington gray whale washup pace continues above expected annual pace (Oregon 21 YTD, Washington 17 YTD); NOAA Pacific prey availability monitoring remains active.",
+          "significance": "MODERATE",
+          "actors": ["NIFC", "USFS", "BLM", "Washington DNR", "Oregon Governor Tina Kotek", "Washington Governor Bob Ferguson", "NWS Seattle", "NWS Portland", "BPA", "NOAA", "NSF", "CSB", "Washington DOE"],
+          "metrics": {
+            "nifc_above_normal_day": 19,
+            "concurrent_active_high_complexity_fires_wa": 4,
+            "east_cascades_fire_onset_target_days_out": 10,
+            "east_cascades_fire_onset_window": "June 29 – July 1, 2026",
+            "east_cascades_fuel_drying_advance": "ACCELERATED — 10-14 days ahead of historical onset; heat event added 3-5 days",
+            "columbia_gorge_fire_risk": "HIGH — secondary watch zone",
+            "longview_csb_day": 25,
+            "longview_peak_vapor_pressure_risk_status": "CLOSED",
+            "longview_incident_confirmed": false,
+            "longview_next_elevated_risk_window": "Next significant heat event (~T-3 to T-4 weeks)",
+            "nsf_newport_or_status": "OPERATIONAL — ~9 days to removal",
+            "nsf_monitoring_gap_eta": "~2026-06-28",
+            "nsf_last_major_event_covered": "2026-06-19 USA vs Australia Lumen Field — COMPLETED",
+            "el_nino_probability_summer_pct": 61,
+            "super_el_nino_probability_pct": 25,
+            "washington_drought_emergency_day": 15,
+            "washington_drought_consecutive_years": 4,
+            "washington_snowpack_vs_normal_pct": 50,
+            "oregon_drought_monitor_pct": 83,
+            "oregon_drought_emergency_counties": 12,
+            "fire_season_risk_envelope_end": "October 2026",
+            "oregon_gray_whale_washups_2026_ytd": 21,
+            "washington_gray_whale_washups_2026_ytd": 17
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "June 19, 2026 evening closes at Vibe 6 — maintained from June 18. The session's architecture is defined by two major developments that pull in opposite directions. The MOU is signed and the deal is in legal force: the 60-day compliance clock began running June 19, sanctions relief is activating, nuclear talks are to commence, and the ceasefire including Lebanon is in effect. The war is over by treaty. But the method of the signing — digital execution after Iran's last-minute denial of the 'approved text' collapsed the planned formal Geneva ceremony — has muted the commercial response that the ceremony was expected to trigger. Hormuz tanker traffic is unchanged. Shipping companies and insurance underwriters remain in a wait-and-see posture. The physical strait reopening lag is now the defining watch item of the post-signing period: the deal's legal execution and its operational implementation are running on separate timelines, and the 10-15 day backlog-clearing estimate means that supply-side relief — at the pump, in insurance markets, in the LNG and crude supply chain — remains weeks away. WTI at approximately $74 is the market's authoritative confirmation that the deal is real; the physical signal will follow. On the PNW side, the session delivers the 2026 fire season's first potential confirmed fatality: possible human remains have been found in a home destroyed by the Upriver Fire in northeast Spokane. The Spokane County Medical Examiner is active. This is the outcome NIFC's above-normal season assessment explicitly flagged as the primary catastrophic WUI risk — a civilian who declined to evacuate a Level 3 zone and appears to have died in structure loss. Evacuation levels are partially downgrading, and overnight humidity has given crews a limited window, but the Upriver Fire's human cost is now under investigation as a confirmed casualty event. Separately, Speaker Johnson's July 2 floor date signal is the most significant domestic legislative data point of the June arc — a confirmed date would represent the beginning of the final countdown to the July 4 Reconciliation 2.0 target, at zero calendar margin. The USA vs Australia FIFA match at Lumen Field executed without a confirmed security incident — NIFC-FIFA co-response Day 12 peak successfully navigated under the most complex concurrent-fire posture of the 2026 arc. Three primary watch items for the June 20-22 window: first, Hormuz commercial traffic resumption — the first confirmed unescorted tanker transit and a Lloyd's rate normalization announcement are the physical confirmation signals the deal's implementation is proceeding; continued traffic lag beyond June 22-23 would begin to suggest the wait-and-see posture is structural rather than transitional; second, Upriver Fire remains confirmation — the Medical Examiner's determination of identity and cause is the most consequential humanitarian data point of the next 24-hour cycle; any confirmation of fatality escalates the federal and state response tier and confirms the 2026 PNW fire season has claimed its first life; third, Reconciliation 2.0 floor rule — for a July 2 floor date to hold, the House Rules Committee needs to move by approximately June 30, which means the whip operation and Freedom Caucus negotiation must resolve outstanding demands (spending caps, Medicaid work requirements, anti-weaponization provisions) in the next 10 days.",
+  "watch_items": [
+    "Hormuz commercial traffic resumption — the first confirmed unescorted commercial transit (tanker or LNG carrier) is the physical confirmation signal that the digital MOU is operationally implemented, not just legally executed; Lloyd's rate normalization announcement is the insurance market confirmation; both are required before the commercial reopening lag can be declared resolved; sustained unchanged traffic through June 22-23 would suggest the wait-and-see posture is structural",
+    "Upriver Fire remains confirmation — Spokane County Medical Examiner determination of identity and cause of death is the most consequential humanitarian data point of the June 19-20 cycle; any confirmed fatality escalates the federal response tier, activates the FEMA disaster declaration track, and marks the 2026 PNW fire season's first confirmed death; if remains are excluded (not human or not the missing person), the season's direct mortality count remains at Multnomah County heat deaths",
+    "Upriver Fire containment Day 4 — overnight into June 20 is the second critical operational window; the partial evacuation downgrade suggests some confidence in current lines; any renewed wind event or easterly return could reverse the June 19 progress; the 15+ homes already lost and 500 threatened define the stakes for the next 12-18 hours",
+    "Reconciliation 2.0 floor rule — Speaker Johnson's July 2 floor date signal requires Rules Committee action by approximately June 30; Freedom Caucus demands (spending caps, Medicaid work requirements, anti-weaponization) remain unresolved; any floor scheduling announcement from Speaker Johnson this week = countdown activated; any FC public hold announcement = July 4 deadline in acute jeopardy",
+    "WTI/Brent June 20 — $74 range = deal pricing holding; any sustained recovery above $78 = commercial traffic delay discount; first physical Hormuz shipping data will be more informative than price signal alone; watch Argus Media, gCaptain, and ship tracking services for first unescorted transit reports",
+    "Measles post-FIFA incubation Day 6-14 — no new clusters from June 15 Lumen Field match through Day 5 (June 19); June 22-29 is the cluster identification window for the June 15 event; June 19's USA vs Australia match opens a second incubation window (July 3-10); Georgetown surveillance platform is the primary early-warning mechanism; CIDRAP slowing signal Day 13 fragile under dual-mass-event monitoring",
+    "Iran 60-day compliance window — the MOU's implementation begins with the Hormuz operational opening, which has not yet materialized; the first compliance verification milestone (Hormuz open without tolls, IRGC naval stand-down confirmed, ceasefire in Lebanon Day 4 holding) defines whether the 60-day arc begins with compliance or dispute; Acting DNI Day 29 at peak IC verification load",
+    "Lake Sutherland Fire Day 4 (Olympic Peninsula) — three consecutive briefs without acreage or containment data; Day 4 reporting is the first opportunity to determine whether the Olympic Peninsula ignition remained manageable or has expanded toward Highway 101 or Olympic National Park infrastructure",
+    "East Cascades fire onset T-10 — June 29 – July 1 is the projected onset window for east Cascades shrub-steppe fire conditions; this window overlaps with the Reconciliation 2.0 floor scheduling period and the July 4 legislative deadline; any early-onset east Cascades ignitions in this window would compound the Upriver + Juniper Dunes + Twin Sisters + Lake Sutherland multi-front management posture",
+    "FEMA Upriver Fire declaration — Governor Ferguson's fire management assistance request is pending federal approval; declaration approval would activate federal cost-sharing for the response and elevate the Upriver Fire to full federal emergency status; watch FEMA announcement in the June 19-20 window",
+    "Reconciliation 2.0 Freedom Caucus negotiation — with Iran-war-cost leverage extinguished (Day 5), FC members must now make demands on domestic fiscal terms alone; spending caps and Medicaid work requirements are the operative sticking points; any FC floor hold announcement between June 19-30 collapses the July 2 date and forces Johnson into July 4 or beyond"
+  ],
+  "sources": [
+    {"title": "Geneva signing ceremony will not be held as memorandum is signed digitally — Iran International", "url": "https://www.iranintl.com/en/202606173503"},
+    {"title": "Vance Named to Sign Iran Deal in Geneva as Tehran Denies Approved Text — House of Saud", "url": "https://houseofsaud.com/vance-named-to-sign-iran-deal-in-geneva-as-tehran-denies-approved-text/"},
+    {"title": "U.S.-Iran deal explained: What we know — CNBC", "url": "https://www.cnbc.com/2026/06/15/us-iran-deal-hormuz-markets.html"},
+    {"title": "Hormuz tanker traffic unchanged after US-Iran deal — Argus Media", "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2839545-hormuz-tanker-traffic-unchanged-after-us-iran-deal"},
+    {"title": "Strait of Hormuz reopening may take weeks to ease shipping backlog — CNBC", "url": "https://www.cnbc.com/amp/2026/06/18/strait-hormuz-reopening-shipping-oil.html"},
+    {"title": "Hormuz Is Reopening. Shipping's Old Playbook Isn't. — gCaptain", "url": "https://gcaptain.com/hormuz-is-reopening-shippings-old-playbook-isnt/"},
+    {"title": "The Strait of Hormuz is reopening, but global shipping won't return to normal for months — The Conversation", "url": "https://theconversation.com/the-strait-of-hormuz-is-reopening-but-global-shipping-wont-return-to-normal-for-months-285313"},
+    {"title": "What's in the Iran deal Trump says he's ready to sign — Axios", "url": "https://www.axios.com/2026/06/12/iran-deal-mou-strait-open-sanctions-relief"},
+    {"title": "2026 Strait of Hormuz crisis — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"},
+    {"title": "Geneva to host Iran-US deal event — Al Jazeera", "url": "https://www.aljazeera.com/amp/news/2026/6/16/geneva-to-host-iran-us-deal-event-what-other-pacts-have-been-signed-there"},
+    {"title": "Possible human remains found in home destroyed by Upriver Fire — KOMO News", "url": "https://komonews.com/news/wildfire/possible-human-remains-found-in-home-destroyed-by-upriver-fire-federal-assistance-scso-law-enforcement-medical-examiners-office-level-3-go-now-evacuation-order"},
+    {"title": "Spokane Upriver Fire evacuation levels drop for some Spokane Valley homes — KHQ", "url": "https://www.khq.com/news/upriver-fire-evacuation-levels-drop-for-some-spokane-valley-homes/article_8b89eba3-b527-4629-a630-2df4a62778d3.html"},
+    {"title": "One dead, at least 15 homes lost in Upriver fire — The Spokesman-Review", "url": "https://www.spokesman.com/stories/2026/jun/17/upriver-fire-remained-steady-overnight-night-evacu/"},
+    {"title": "Upriver Fire threatening 500 homes in Spokane Co, 10% containment — KXLY", "url": "https://www.kxly.com/news/upriver-fire-threatening-500-homes-in-spokane-co-no-containment/article_ab448bf2-e3d2-47d5-9017-da1dd237906f.html"},
+    {"title": "USA vs Australia — FIFA World Cup Match 32 Group D Preview — ESPN", "url": "https://www.espn.com/soccer/story/_/id/49093966/fifa-world-cup-2026-usmnt-vs-australia-channel-how-watch-kickoff-live-stream-referee-predicted-lineups"},
+    {"title": "USAvAUS 101 Preview: USA faces Australia at Lumen Field — Seattle Sounders FC", "url": "https://www.soundersfc.com/news/usavaus-101-preview-all-you-need-to-know-when-usa-faces-australia-in-fifa-world-cup-2026tm-at-lumen-field"},
+    {"title": "Johnson quashes farm bill rebellion to pass budget blueprint for reconciliation 2.0 — The Hill", "url": "https://thehill.com/homenews/5856068-budget-blueprint-reconciliation-dhs-farm-bill/"},
+    {"title": "June FOMC Preview: Meet the Warsh Fed — Conference Board", "url": "https://www.conference-board.org/research/global-economy-briefs/fomc-preview-june-2026"},
+    {"title": "2026 U.S. Power Grid Vulnerability — Generator Source", "url": "https://generatorsource.com/backup-power/2026-u-s-power-grid-vulnerability/"},
+    {"title": "July 2026 Outlook Period — NIFC", "url": "https://www.nifc.gov/nicc-files/predictive/outlooks/monthly_seasonal_outlook.pdf"},
+    {"title": "2026 Oregon wildfire forecast is dire — The Nugget Newspaper", "url": "https://www.nuggetnews.com/story/2026/04/15/news/2026-oregon-wildfire-forecast-is-dire/38941.html"},
+    {"title": "World Cup 2026 Disease Surveillance: Georgetown Fills Gap Left by CDC Cuts — TechTimes", "url": "https://www.techtimes.com/articles/318421/20260615/world-cup-2026-disease-surveillance-georgetown-fills-gap-left-cdc-cuts.htm"}
+  ]
+}

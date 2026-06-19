@@ -962,7 +962,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 111 — Deal T-1: Lebanon Quiet Day 3 CLEARED — All Pre-Signing Tests Passed; Geneva Signing T-0 Tomorrow; WTI ~$75 Fifth Decline; Upriver Fire Spokane WUI Day 2 (11K+ Evacuations, 15+ Homes Lost, FEMA Request); Juniper Dunes 20% + Twin Sisters 65% BREAKTHROUGH; Multnomah Co. 4 Heat Deaths; Georgia: Trump-Backed Jones Loses Governor Runoff; Vibe 6",
       "generated_at": "2026-06-18T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-19-evening",
+      "date": "2026-06-19",
+      "session": "evening",
+      "file": "reports/2026-06-19-evening.json",
+      "vibe": 6,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 112 — Deal SIGNED DIGITALLY: MOU in Force; Geneva Ceremony Cancelled; Tanker Traffic Unchanged — Commercial Lag Active; WTI ~$74; Upriver Fire Day 3 — Possible Human Remains Found (First Casualty Investigation 2026 PNW Season); Evacuation Partially Downgraded; Johnson Signals July 2 Reconciliation 2.0 Floor Date; Seattle FIFA USA vs Australia Completed No Incident; Vibe 6",
+      "generated_at": "2026-06-19T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-18T20:00:00-07:00"
+  "last_updated": "2026-06-19T20:00:00-07:00"
 }
