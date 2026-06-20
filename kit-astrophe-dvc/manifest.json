@@ -982,7 +982,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 112 — Deal SIGNED DIGITALLY: MOU in Force; Geneva Ceremony Cancelled; Tanker Traffic Unchanged — Commercial Lag Active; WTI ~$74; Upriver Fire Day 3 — Possible Human Remains Found (First Casualty Investigation 2026 PNW Season); Evacuation Partially Downgraded; Johnson Signals July 2 Reconciliation 2.0 Floor Date; Seattle FIFA USA vs Australia Completed No Incident; Vibe 6",
       "generated_at": "2026-06-19T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-20-evening",
+      "date": "2026-06-20",
+      "session": "evening",
+      "file": "reports/2026-06-20-evening.json",
+      "vibe": 6,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 113 — First Tanker Traffic Resumes (20+ Vessels; WTI ~$77 Recovering); Upriver Fire Fatality CONFIRMED (1 Dead; First 2026 PNW Season); 39% Containment Breakthrough; Reconciliation 2.0 July 2 T-12; Colombia Runoff Tomorrow; FERC Large Load Show Cause Orders 6 ISOs; Vibe 6",
+      "generated_at": "2026-06-20T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-19T07:00:00-07:00"
+  "last_updated": "2026-06-20T20:00:00-07:00"
 }
