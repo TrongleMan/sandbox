@@ -94,16 +94,6 @@
       "generated_at": "2026-04-19T20:00:00-07:00"
     },
     {
-      "id": "2026-05-02-evening",
-      "date": "2026-05-02",
-      "session": "evening",
-      "file": "reports/2026-05-02-evening.json",
-      "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
-      "headline": "Hormuz Day 63: War Powers Clock Expired; Iran Proposes Strait-for-Blockade Trade; Shadow Fleet Confirmed; PCE Inflation Surges to 3.5%; Portland ICE Protests",
-      "generated_at": "2026-05-02T20:00:00-07:00"
-    },
-    {
       "id": "2026-05-02-morning",
       "date": "2026-05-02",
       "session": "morning",
@@ -112,6 +102,16 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 63: Khamenei Hardens; FOMC 8-4 Hold, Powell's Last Meeting, Warsh Vote May 11; WA Measles 40 Cases; Reconciliation 2.0 Floor Vote Week of May 11",
       "generated_at": "2026-05-02T07:00:00-07:00"
+    },
+    {
+      "id": "2026-05-02-evening",
+      "date": "2026-05-02",
+      "session": "evening",
+      "file": "reports/2026-05-02-evening.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 63: War Powers Clock Expired; Iran Proposes Strait-for-Blockade Trade; Shadow Fleet Confirmed; PCE Inflation Surges to 3.5%; Portland ICE Protests",
+      "generated_at": "2026-05-02T20:00:00-07:00"
     },
     {
       "id": "2026-05-03-morning",
@@ -244,16 +244,6 @@
       "generated_at": "2026-05-09T20:00:00-07:00"
     },
     {
-      "id": "2026-05-10-evening",
-      "date": "2026-05-10",
-      "session": "evening",
-      "file": "reports/2026-05-10-evening.json",
-      "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
-      "headline": "Iran Response 96+ Hrs Overdue; Nuclear Rhetoric Unretracted; Portland Confirms 90°F; Triple-Convergence Week Opens Tomorrow; Oregon Fire Day 3; Vibe 4",
-      "generated_at": "2026-05-10T20:00:00-07:00"
-    },
-    {
       "id": "2026-05-10-morning",
       "date": "2026-05-10",
       "session": "morning",
@@ -262,6 +252,16 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Iran FM Baqaei: 'Grotesque Absurdity'; Saturday Naval Exchange Unresolved; MOU 72+ Hrs Overdue; Portland 90°F Forecast; Triple-Convergence Week Tomorrow; Vibe 4",
       "generated_at": "2026-05-10T07:00:00-07:00"
+    },
+    {
+      "id": "2026-05-10-evening",
+      "date": "2026-05-10",
+      "session": "evening",
+      "file": "reports/2026-05-10-evening.json",
+      "vibe": 4,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Iran Response 96+ Hrs Overdue; Nuclear Rhetoric Unretracted; Portland Confirms 90°F; Triple-Convergence Week Opens Tomorrow; Oregon Fire Day 3; Vibe 4",
+      "generated_at": "2026-05-10T20:00:00-07:00"
     },
     {
       "id": "2026-05-11-evening",
@@ -324,16 +324,6 @@
       "generated_at": "2026-05-14T20:00:00-07:00"
     },
     {
-      "id": "2026-05-15-evening",
-      "date": "2026-05-15",
-      "session": "evening",
-      "file": "reports/2026-05-15-evening.json",
-      "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
-      "headline": "Trump Departs Beijing — Post-Summit IRGC Cyber Window Opens; Warsh Day 1 Faces PPI +1.4% vs. 0.4% Consensus; Israel-Hezbollah 48-Hour Clock; WPA Day 16; Finance Deadline Today; Vibe 2",
-      "generated_at": "2026-05-15T20:00:00-07:00"
-    },
-    {
       "id": "2026-05-15-morning",
       "date": "2026-05-15",
       "session": "morning",
@@ -342,6 +332,16 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Convergence Day: Trump Departs Beijing, Post-Summit IRGC Window Opens; Warsh Day 1 PPI +1.4% vs. 0.4% Consensus; Finance Deadline; Israel-Lebanon 48-Hr Clock; WPA Day 16; Vibe 2",
       "generated_at": "2026-05-15T07:00:00-07:00"
+    },
+    {
+      "id": "2026-05-15-evening",
+      "date": "2026-05-15",
+      "session": "evening",
+      "file": "reports/2026-05-15-evening.json",
+      "vibe": 2,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Trump Departs Beijing — Post-Summit IRGC Cyber Window Opens; Warsh Day 1 Faces PPI +1.4% vs. 0.4% Consensus; Israel-Hezbollah 48-Hour Clock; WPA Day 16; Finance Deadline Today; Vibe 2",
+      "generated_at": "2026-05-15T20:00:00-07:00"
     },
     {
       "id": "2026-05-16-morning",
@@ -670,7 +670,7 @@
       "file": "reports/2026-06-02-morning.json",
       "vibe": 3,
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
-      "headline": "Iran Suspends Communications Day 1 — Brent $94.58; June 2–3 Israel-Lebanon Talks Today; Reconciliation 2.0 Stuck; Sound Transit $34.5B Gap; Warsh Day 19; WPA Day 94 Day 4 Past Deadline; Vibe 3 Lower Edge",
+      "headline": "Iran Suspends Communications Day 1 — Brent $94.58; June 2–3 Israel-Lebanon Talks Today; Reconciliation 2.0 Stuck; Sound Transit $34.5B Gap; Warsh Day 19; WPA Day 94 Day 4 Past Deadline; Vibe 3",
       "generated_at": "2026-06-02T07:00:00-07:00"
     },
     {
@@ -984,6 +984,16 @@
       "generated_at": "2026-06-19T20:00:00-07:00"
     },
     {
+      "id": "2026-06-20-morning",
+      "date": "2026-06-20",
+      "session": "morning",
+      "file": "reports/2026-06-20-morning.json",
+      "vibe": 6,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 113 — MOU Signed, In Force, Nuclear 60-Day Clock Day 1; First Commercial Tankers Transit Hormuz (Chinese-Led, 18+ Transits); CENTCOM Dissolution Day 6; Markets Weekend Closed — Monday June 22 First Session; Upriver Fire Day 4 — Fatality Confirmed, Containment Advancing Rapidly; Reconciliation 2.0 July 2 T-12; Vibe 6",
+      "generated_at": "2026-06-20T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-20-evening",
       "date": "2026-06-20",
       "session": "evening",
@@ -994,5 +1004,5 @@
       "generated_at": "2026-06-20T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-20T20:00:00-07:00"
+  "last_updated": "2026-06-20T07:00:00-07:00"
 }
