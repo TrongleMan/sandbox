@@ -1004,6 +1004,16 @@
       "generated_at": "2026-06-20T20:00:00-07:00"
     },
     {
+      "id": "2026-06-21-morning",
+      "date": "2026-06-21",
+      "session": "morning",
+      "file": "reports/2026-06-21-morning.json",
+      "vibe": 6,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 114 — Nuclear 60-Day Clock Day 3; Tanker Traffic 20+ Vessels, Kpler 40/Day Projection; June 22 First Full Market Session T-1; Colombia Runoff TODAY; Heat Advisory WA/OR June 22-23 (Seattle 90°F / Portland 100°F+); Upriver Fire Day 5 60% Contained; Measles 2,104 Cluster ID Window T-1; Vibe 6",
+      "generated_at": "2026-06-21T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-21-evening",
       "date": "2026-06-21",
       "session": "evening",
@@ -1014,5 +1024,5 @@
       "generated_at": "2026-06-21T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-21T20:00:00-07:00"
+  "last_updated": "2026-06-21T07:00:00-07:00"
 }

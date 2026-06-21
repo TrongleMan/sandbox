@@ -1,0 +1,460 @@
+{
+  "report_id": "2026-06-21-morning",
+  "generated_at": "2026-06-21T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 114 — Nuclear 60-Day Clock Day 3: The June 21 morning session opens in a materially improved strategic environment compared to any morning since early February. The MOU is signed and in force (Day 3). Iranian supertankers are reactivating transponders — the highest-confidence compliance signal of the post-signing period. Kpler projects 40+ transits per day within 30 days, up from 20+ vessels confirmed transiting as of June 20. The northern and southern Hormuz routes are fully open for commercial transit; the central route is being actively de-mined (estimated 80 mines, 30-day Iranian clearance commitment). The 60-day nuclear negotiation window — the hardest and most consequential phase of the MOU architecture — begins in earnest this week. Colombia's presidential runoff (de la Espriella vs. Cepeda) is underway today on Father's Day / Juneteenth +2; early cycle tracking from the June 20 session favors far-right candidate de la Espriella. Monday June 22 is the first full US equity and Treasury market session since the deal was signed digitally on June 19 — all of the deal's oil price, inflation, and geopolitical risk-premium implications arrive simultaneously in a single open. FOMC hawkish dot-plot overhang (9 dots for 2026 hike, pre-deal baseline) will collide with post-deal WTI trajectory (~$78-79 recovering from ~$74 low) in Monday's session. In the Pacific Northwest: the Upriver Fire enters Day 5 at 60% containment with all evacuations downgraded to Level 1 — a dramatic de-escalation from the Day 1-2 WUI crisis. Juniper Dunes has reached 20% containment (13,144 acres, Franklin County Wilderness); Twin Sisters is at 65% (8,262 acres, Highway 730). The post-heat-break suppression window is fully operational. A new Heat Advisory has been issued for Western Washington June 22-23 (Seattle 90°F+, Portland 93-100°F+) — the next thermal wave, potentially more dangerous for the east Cascades fuel load than the June 14-16 event given cumulatively reduced vegetation moisture. Measles advances to 2,104 confirmed US cases (CDC June 18 update), closing within 184 cases of the 2025 full-year record of 2,288; the cluster identification window from the June 15 Belgium-Egypt Lumen Field match opens tomorrow June 22, running through June 29. Sunday, June 21, 2026. Father's Day. Juneteenth +2. Reconciliation 2.0 T-11 to July 2 floor target, Freedom Caucus signaling yes. CISA clean streak Day 51. Warsh Day 38 post-inaugural. WPA Day 113 moot. NIFC Above-Normal Day 21. Washington Drought Day 17 (4th consecutive year). Oregon 83% drought, EO 26-10 Day 6. NSF Newport OR ~7 days to removal.",
+  "vibe": {
+    "score": 6,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 6 — holds the floor established at deal-signing confirmation (June 19 evening) and sustained through June 20. The MOU is in force (Day 3), tanker traffic is accelerating, Iranian supertankers are reactivating transponders, and the three primary PNW wildfires all show meaningful containment progress: Upriver 60%, Twin Sisters 65%, Juniper Dunes 20%. No negative inflection signals emerged overnight. The ceiling below 7 is held by four concurrent risks: (1) nuclear 60-day negotiations are explicitly the 'hardest part still ahead' — multiple US and Iranian officials confirm the deal opening is not the deal resolution; enrichment levels, HEU stockpile disposition, IAEA verification mechanics, and sanctions lift sequencing are all deferred into a 60-day window that begins with no agreed negotiating framework; (2) a new Heat Advisory for Western WA/Portland June 22-23 arrives before the June 14-16 event's ecological recovery is complete — east Cascades fuel load is cumulatively drier than historical precedent and the post-deal emergency management bandwidth is constrained; (3) Monday June 22 is the first full US market session post-deal — FOMC hawkish overhang (9 dots, pre-deal artifact at $95-100 oil baseline) meets the post-deal oil trajectory (~$78-79) in a single session open, creating two-sided volatility risk; (4) measles cluster identification window opens June 22 from the June 15 Lumen Field mass-gathering event, and the June 19 US-Australia sequential incubation window runs through July 3 — Georgetown surveillance is the primary active monitoring mechanism given CDC operational constraints. Downside to 5 triggers: nuclear negotiation breakdown signal or Iranian MOU compliance repudiation; Lebanon escalation drawing IRGC back in; June 22 market session extreme volatility (>5% equity decline or >50bps rate spike); CISA clean streak broken on post-deal complacency window (Day 51). Upside to 7 triggers: first nuclear negotiation session delivers productive signal; Colombia de la Espriella decisive win with US-aligned foreign policy commitments; June 22 market session clean rally confirming deal+inflation-unwind thesis; measles cluster ID window first week passes without confirmed FIFA-linked cluster."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 114 — Nuclear 60-Day Clock Day 3; MOU In Force, Tanker Traffic Accelerating (20+ Vessels, Saudi Supertankers Awtad/Jaham/Shaden Confirmed Transited June 19); Northern and Southern Routes Fully Open; Central Route De-Mining Active (~80 Mines, 30-Day Commitment); Iranian Supertankers Reactivating Transponders (Highest-Confidence Compliance Signal); Kpler Projects 40 Transits/Day in 30 Days; Lebanon Quiet Sustained; Colombia Runoff TODAY; CISA Clean Streak Day 51; WPA Day 113 Moot.",
+      "items": [
+        {
+          "headline": "Hormuz Day 114 — Nuclear 60-Day Clock Day 3: Tanker Traffic Accelerating; Iranian Supertankers Reactivating Transponders; De-Mining Underway; Hardest Negotiations Still Ahead",
+          "summary": "The June 21 morning session opens with the MOU in force and tanker traffic in active acceleration. Iranian supertankers are reactivating their AIS transponders — the highest-confidence compliance signal of the post-signing period, indicating Tehran's operational decision to resume commercial participation in the strait rather than passively allow US-escorted traffic. Kpler's current trajectory projects 40 transits per day within 30 days, up from approximately 20+ vessels confirmed transiting as of June 20. Three Saudi supertankers — Awtad, Jaham, and Shaden — carrying a combined estimated 6 million barrels of crude transited on June 19, the first commercial cargo-delivery transit since the closure began in late February. Hormuz's physical routing architecture post-MOU: the northern route (through Iranian waters) and southern route (through Omani waters) are fully open and commercially active. The central route — the main deepwater channel — has an estimated 80 mines requiring clearance; Iran has committed to a 30-day mine-clearance timeline. Iran is holding working-level talks with Oman on the strait's longer-term co-administration framework. Shipping insurance underwriters are in the process of reassessing war-risk premiums; the formal policy normalization will lag physical transit re-entry by 2-4 weeks and is keyed to the IAEA verification schedule rather than the physical mine count. The 60-day nuclear negotiation window is the MOU's central unresolved architecture. The mechanism for verifying enrichment suspension, the fate of Iran's existing HEU stockpile, the IAEA access framework, the duration of any moratorium, and the sanctions-lift sequencing are all deferred. Multiple US and Iranian officials have characterized the nuclear phase as the 'hardest negotiations still ahead' — the MOU's opening value is geopolitical de-escalation and oil price normalization; the strategic value is contingent on nuclear resolution in 60 days. CENTCOM blockade dissolution continues; WPA Day 113 remains formally moot with deal framework operative.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "Steve Witkoff", "Khamenei", "Abbas Araghchi", "IRGC", "CENTCOM", "Kpler", "IAEA", "Oman"],
+          "metrics": {
+            "hormuz_closed_days": 114,
+            "mou_status": "SIGNED AND IN FORCE — digital signing June 19",
+            "nuclear_60day_clock_day": 3,
+            "nuclear_60day_clock_start_date": "2026-06-19",
+            "nuclear_60day_clock_expiry": "2026-08-18",
+            "iranian_supertanker_transponder_status": "REACTIVATING — highest-confidence compliance signal",
+            "kpler_daily_transit_projection_30day": 40,
+            "kpler_current_daily_transits": "20+",
+            "confirmed_saudi_supertanker_transits_june19": ["Awtad", "Jaham", "Shaden"],
+            "confirmed_cargo_june19_barrels_estimated": 6000000,
+            "hormuz_northern_route_status": "FULLY OPEN — through Iranian waters",
+            "hormuz_southern_route_status": "FULLY OPEN — through Omani waters",
+            "hormuz_central_route_status": "DE-MINING ACTIVE — estimated 80 mines; 30-day Iranian commitment",
+            "oman_strait_administration_talks": "ACTIVE — working level",
+            "shipping_insurance_normalization_timeline": "2-4 weeks behind physical transit; keyed to IAEA schedule",
+            "nuclear_60day_deferred_items": ["enrichment suspension mechanism", "HEU stockpile disposition", "IAEA access framework", "moratorium duration", "sanctions-lift sequencing"],
+            "irgc_compliance_posture": "COOPERATIVE — transponder reactivation is operational signal",
+            "iran_mou_repudiation_signal": false,
+            "centcom_dissolution_day": 7,
+            "wpa_day": 113,
+            "wpa_status": "MOOT — deal in force",
+            "cisa_clean_streak_day": 51,
+            "us_analyst_assessment_nuclear_phase": "Hardest negotiations still ahead — deal opening is not deal resolution"
+          }
+        },
+        {
+          "headline": "Colombia Runoff TODAY — de la Espriella (Far-Right) vs. Cepeda (Left); Early Cycle Tracking Favors de la Espriella; US-Colombia Policy Inflection Point",
+          "summary": "Colombia's presidential runoff is underway today, June 21, 2026. The two-candidate contest pits far-right political outsider Abelardo de la Espriella (43.7% first-round, May 31) against left-wing Senator Iván Cepeda, President Gustavo Petro's chosen successor (40.9% first-round). De la Espriella outperformed all pre-election polling, which had forecast a Cepeda first-round lead. He is running on a hardline anti-crime, anti-Petro platform with an explicit outsider brand; Cepeda is framing himself as the continuation of the Petro social reform agenda. The US-Colombia strategic dimension is significant: Petro repeatedly clashed with the Trump administration in 2025 over deportation flights, sanctions threats, and bilateral trade access. A de la Espriella victory would shift Colombian foreign policy toward alignment with the US-led regional posture — reducing a Venezuela-Colombia corridor risk that has been an intermittent intelligence concern during the Iran crisis period. A Cepeda victory maintains the Petro foreign policy orientation and resets relations with Washington to managed adversarialism. Early tracking from the June 20-21 cycle (per evening brief context) favors de la Espriella. Official RNEC results are expected June 21 evening PDT.",
+          "significance": "MODERATE",
+          "actors": ["Abelardo de la Espriella", "Iván Cepeda", "Gustavo Petro", "RNEC Colombia", "US State Department", "JD Vance"],
+          "metrics": {
+            "colombia_runoff_date": "2026-06-21",
+            "colombia_candidate_far_right": "Abelardo de la Espriella",
+            "colombia_candidate_left": "Iván Cepeda",
+            "espriella_first_round_pct": 43.7,
+            "cepeda_first_round_pct": 40.9,
+            "first_round_date": "2026-05-31",
+            "early_tracking_advantage": "de la Espriella — per June 20 evening cycle",
+            "official_results_expected": "2026-06-21 evening PDT",
+            "us_policy_implication_espriella_win": "Colombia realignment toward US-led regional posture; deportation cooperation restored",
+            "us_policy_implication_cepeda_win": "Petro continuity; managed US-Colombia adversarialism sustained",
+            "petro_us_flashpoints_2025": ["deportation flight refusals", "sanctions threats", "bilateral trade disputes"]
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "June 22 FIRST FULL US MARKET SESSION POST-DEAL T-1; WTI ~$78-79 Recovering from ~$74 Low; Brent ~$79.59; FOMC Hawkish Dot-Plot Overhang (9 Dots, Pre-Deal Artifact) Meets Post-Deal Oil-CPI Unwind in Monday Open; Iran Oil Sanctions Waiver Active — Iranian Re-Entry 3-6 Weeks; Retail Gas Relief 2-4 Weeks (OR $5.35 / National $4.564); Reconciliation 2.0 July 2 Floor Target T-11 — FC Signaling Yes; FERC Large Load Show Cause Orders Day 3.",
+      "items": [
+        {
+          "headline": "June 22 T-1: First Full US Market Session Post-Deal Monday — FOMC Hawkish Dot-Plot Overhang Meets Oil-Deal Tailwind; WTI ~$78-79 Recovering; Two-Sided Open Volatility Risk",
+          "summary": "Monday June 22 is the first full US equity, fixed income, and commodities market session since the MOU was signed digitally on June 19. The Juneteenth holiday (June 19) and the weekend (June 20-21) have deferred the market's full pricing of the deal's implications to a single Monday open. The analytical setup is two-sided: on one side, a FOMC hawkish dot-plot overhang from the June 17 inaugural Warsh press conference (9 dots projecting 2026 rate hike, Dow -507 on June 17, 2-year yield +16bps to 4.216%); on the other, post-deal oil trajectory now running ~$78-79 WTI (recovering from the ~$74 post-signing low), well below the $95-100 baseline implicit in the June SEP dot plot. The deal-oil tailwind directly undermines the inflationary premise of the hawkish dot projection: if energy CPI unwinds 2-4 weeks after full commercial Hormuz reopening (the IEA June 2026 projection), the June SEP's implied 2026 hike path becomes analytically suspect ahead of the September dot plot. The two forces will compete in a single open — the Monday session is the first market-based verdict on whether the deal's disinflationary energy impact outweighs the Warsh hawkish signal. WTI current estimate ~$78-79 (recovering from ~$74 signing-day low, as tanker traffic acceleration reduces the geopolitical premium and Iranian oil re-entry becomes calendar-visible at 3-6 weeks). Brent ~$79.59 per barrel per June 20 settlement. Iran oil sanctions waiver is active as of June 19 signing; Iranian crude re-entry into commercial flows is 3-6 weeks from signing. Retail gasoline relief is 2-4 weeks post-signing — Oregon $5.35, national average $4.564.",
+          "significance": "HIGH",
+          "actors": ["Federal Reserve", "Kevin Warsh", "NYSE", "NASDAQ", "CME", "IEA", "OPEC+", "Iranian oil exporters", "Shipping insurance underwriters"],
+          "metrics": {
+            "june22_market_session_significance": "FIRST FULL US EQUITY + TREASURY + COMMODITY SESSION POST-DEAL SIGNING",
+            "june22_session_date": "2026-06-22 Monday",
+            "wti_june21_estimate": "~$78-79",
+            "wti_june19_signing_low": "~$74",
+            "wti_recovery_from_signing_low": "~$4-5 per barrel",
+            "brent_june20_settlement": "$79.59",
+            "fomc_dot_plot_2026_hike_dots": 9,
+            "fomc_june17_dow_decline": -507,
+            "fomc_june17_2yr_yield_move_bps": 16,
+            "fomc_june17_2yr_yield_level_pct": 4.216,
+            "fomc_dot_plot_oil_baseline_implicit": "$95-100",
+            "fomc_dot_plot_vs_actual_wti_gap": "~$16-21 per barrel below dot baseline",
+            "fomc_dot_plot_pre_deal_artifact": true,
+            "next_operative_sep_dot_plot": "September 2026 — first post-deal dot plot",
+            "iran_oil_sanctions_waiver_status": "ACTIVE — operative as of June 19 signing",
+            "iran_oil_reentry_timeline_weeks": "3-6 post-signing",
+            "retail_gasoline_relief_timeline": "2-4 weeks post-signing",
+            "oregon_gas_price_usd": 5.35,
+            "national_gas_price_usd": 4.564,
+            "iea_june2026_q3_supply_surplus": "Projected — conditional on full Hormuz physical reopening",
+            "two_sided_volatility_assessment": "HIGH — FOMC hawkish overhang vs. deal oil-CPI unwind compete in single open"
+          }
+        },
+        {
+          "headline": "Reconciliation 2.0 T-11 to July 2 Floor Target — Freedom Caucus Signaling Yes; DHS/ICE Bill at Trump's Desk; FERC Large Load Show Cause Orders Day 3",
+          "summary": "Three secondary economic-legislative threads entering June 21 morning. First: Reconciliation 2.0 is T-11 days from the July 2 House floor target announced by Speaker Johnson. The Freedom Caucus has shifted from resistance to a 'yes' signal as of the June 20-21 cycle — a significant inflection given FC members were the primary anti-weaponization and spending-cap holdouts. The outstanding FC demands (anti-weaponization fund, Medicaid work requirements, spending caps) appear to be reaching resolution or procedural accommodation. The Iran war-cost FC leverage dissolved at deal-signing. FC's 'yes' signal materially improves the July 2 floor probability; a floor date hold remains the primary risk if outstanding demands re-surface during this week's member negotiations. Second: the DHS/ICE $69.5B bill (passed House 214-212 on June 10, sent to Senate) is at Trump's desk or in final legislative transit. This is Reconciliation 2.0's immigration enforcement tranche — $38B+ for ICE, $26B+ for CBP, and the contested anti-weaponization fund that delayed Senate action. The bill's passage and signing represent a legislative deliverable that reduces FC leverage on the broader Reconciliation 2.0 bill. Third: FERC large load interconnection show cause orders enter Day 3 — the Section 206 orders issued June 18 (bipartisan 5-0) to all six ISOs/RTOs (PJM, MISO, SPP, CAISO, ISO-NE, NYISO) are now in the operator response pipeline. DOE Secretary Wright's endorsement is on the record; grid operator legal counsel reviews are underway. The BPA position (not directly subject to FERC show cause but affected by Northwest interconnection economics) remains a watch item for regional hyperscaler cost allocation.",
+          "significance": "MEDIUM-HIGH",
+          "actors": ["Speaker Mike Johnson", "House Freedom Caucus", "Donald Trump", "Senate GOP", "FERC", "PJM", "MISO", "SPP", "CAISO", "ISO-NE", "NYISO", "BPA"],
+          "metrics": {
+            "reconciliation_20_floor_date_target": "2026-07-02",
+            "reconciliation_20_days_to_floor": 11,
+            "reconciliation_20_fc_signal": "YES — as of June 20-21 cycle",
+            "reconciliation_20_outstanding_fc_demands": ["anti-weaponization fund", "Medicaid work requirements", "spending caps"],
+            "reconciliation_20_iran_war_leverage_status": "DISSOLVED — deal in force",
+            "dhs_ice_bill_amount_bn": 69.5,
+            "dhs_ice_ice_funding_bn": 38,
+            "dhs_ice_cbp_funding_bn": 26,
+            "dhs_ice_house_vote": "214-212 — June 10",
+            "dhs_ice_status": "AT TRUMP'S DESK / FINAL LEGISLATIVE TRANSIT",
+            "ferc_show_cause_day": 3,
+            "ferc_decision_date": "2026-06-18",
+            "ferc_vote": "5-0 BIPARTISAN UNANIMOUS",
+            "ferc_affected_isos": ["PJM", "MISO", "SPP", "CAISO", "ISO-NE", "NYISO"],
+            "ferc_bpa_position": "NOT SUBJECT TO SHOW CAUSE — NW interconnection economics watch item",
+            "ferc_operator_legal_review_status": "UNDERWAY"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CRITICAL IMPROVING: Upriver Fire Day 5 — 60% Containment; All Evacuations Level 1 (Get Ready); 14 Homes Destroyed; 1 Fatality Confirmed; Evacuation Center Closed; Juniper Dunes 13,144 Acres 20% Contained; Twin Sisters 8,262 Acres 65% Contained; Heat Advisory June 22-23 Next Suppression Window Threat; FERC Large Load Show Cause Day 3; NSF Newport OR ~7 Days to Removal; BPA Normalizing; Oregon EO 26-10 Day 6.",
+      "items": [
+        {
+          "headline": "Upriver Fire Day 5 — 60% Containment, All Evacuations Level 1, Evacuation Center Closed; 14 Homes Destroyed; 1 Fatality; Rapid De-Escalation from WUI Crisis; Juniper Dunes 20% / Twin Sisters 65% Containment Breakthrough Holding",
+          "summary": "The Upriver Fire northeast of Spokane enters Day 5 in dramatically improved operational posture. As of Friday June 19-20, the fire reached 60% containment with no reported fire growth since June 16. All evacuations have been downgraded to Level 1 (Get Ready) — no active Level 2 or Level 3 orders remain in effect — and the evacuation center at Pasadena Park Church of the Nazarene has been closed following the reduced evacuation posture. The final damage assessment is stable: 14 primary residences and 4 secondary structures destroyed. One fatality confirmed — human remains recovered June 18 from a burned structure on Upriver Drive; the Spokane County medical examiner is processing. The 2026 PNW wildfire season's first confirmed wildfire death stands. Governor Ferguson's FEMA fire management assistance declaration (first of the 2026 PNW season) has been submitted; approval status as of June 21 morning remains the watch item for federal disaster resource unlock. Fire officials are hosting public information sessions June 20-21 at Pasadena Park Church (9 AM - 4 PM) covering fire updates, recovery assistance, and disaster resources. The rapid de-escalation from the Day 1-2 WUI crisis (12,000+ evacuations, active fire run, 15+ initial reports of structure loss) to Day 5's Level-1-only posture and 60% containment reflects both improved fire weather post-heat-wave break and effective suppression operations. The June 22-23 Heat Advisory (Seattle 90°F, Portland 100°F+) is the primary re-escalation risk for Upriver's final 40% containment perimeter. East Cascades fuel load is cumulatively drier than historical precedent. Concurrent PNW fires: Juniper Dunes (Franklin County Wilderness, 13,144 acres, 20% containment — first post-heat breakthrough) and Twin Sisters (Highway 730, 8,262 acres, 65% containment — sustained from June 18 evening breakthrough). Both fires remain active. Juniper Dunes' Wilderness designation continues to constrain suppression to hand tools only; the 20% figure represents meaningful initial progress but the fire remains largely uncontained. Twin Sisters' 65% represents the session's most operationally advanced containment outcome.",
+          "significance": "HIGH",
+          "actors": ["Governor Bob Ferguson", "FEMA", "Washington DNR", "Spokane County Emergency Management", "Spokane County Medical Examiner", "NIFC", "USFS", "BLM", "NWS Spokane"],
+          "metrics": {
+            "upriver_fire": {
+              "location": "Northeast Spokane, near Upriver Drive / Felts Field, Spokane County, WA",
+              "ignition_date": "2026-06-17",
+              "day_since_ignition": 5,
+              "acres_estimate": "~213-350",
+              "containment_pct": 60,
+              "fire_growth_since_june16": false,
+              "confirmed_fatalities": 1,
+              "fatality_status": "Medical examiner processing — Spokane County",
+              "structures_destroyed_primary": 14,
+              "structures_destroyed_secondary": 4,
+              "evacuation_level_1_only": true,
+              "evacuation_center_status": "CLOSED — June 18",
+              "fema_declaration_status": "PENDING — Governor Ferguson request submitted; federal approval watch item",
+              "public_info_sessions": "Pasadena Park Church June 20-21, 9 AM-4 PM",
+              "re_escalation_risk": "June 22-23 Heat Advisory on residual 40% uncontained perimeter"
+            },
+            "juniper_dunes_fire": {
+              "location": "Juniper Dunes Wilderness, Franklin County, Eastern WA",
+              "ignition_date": "2026-06-13",
+              "day_since_ignition": 9,
+              "acres": 13144,
+              "containment_pct": 20,
+              "terrain_constraint": "WILDERNESS — hand-tool operations only",
+              "status": "FIRST CONTAINMENT BREAKTHROUGH — post-heat; limited suppression throughput"
+            },
+            "twin_sisters_fire": {
+              "location": "Highway 730, Eastern WA",
+              "ignition_date": "2026-06-13",
+              "day_since_ignition": 9,
+              "acres": 8262,
+              "containment_pct": 65,
+              "status": "SUSTAINED BREAKTHROUGH — aerial and ground access; most contained fire of the active complex"
+            },
+            "nifc_above_normal_day": 21,
+            "extreme_heat_warning_status": "EXPIRED — June 14-16 event resolved",
+            "heat_advisory_june2223_status": "ISSUED — Seattle 90°F+; Portland 93-100°F+ possible",
+            "east_cascades_cumulative_fuel_drying": "CRITICAL — 10-14 days ahead of historical onset; heat wave-compounded",
+            "oregon_eo_2610_day": 6,
+            "nifc_bpa_grid_status": "NORMALIZING — post-heat demand reduction; no outage during June 14-16 event",
+            "nsf_newport_or_days_to_removal": 7,
+            "nsf_removal_date_estimate": "~2026-06-28",
+            "cascadia_monitoring_status": "DEGRADING — no federal replacement announced; offshore seismic coverage reducing"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "Measles 2,104 Confirmed Cases (CDC June 18) — 184 from 2025 Full-Year Record (2,288); Cluster ID Window T-1 (June 22-29 from June 15 FIFA Match); June 19 New Sequential Incubation Window Through July 3; CIDRAP Slowing Signal Fragile; Colombia Runoff TODAY; Reconciliation 2.0 T-11 FC Yes; Acting DNI Vacancy Day 31; Father's Day; Juneteenth +2.",
+      "items": [
+        {
+          "headline": "Measles 2,104 Cases (CDC June 18) — 184 Short of 2025 Full-Year Record; Cluster ID Window T-1 from June 15 FIFA Match; June 19 US-Australia Sequential Window Through July 3; Georgetown Surveillance Active",
+          "summary": "The national measles case count reached 2,104 confirmed cases per the CDC's June 18 update — the most recent available federal reporting. The US is now 184 cases from the 2025 full-year record of 2,288, and approaching a rate of spread that risks formal elimination status loss (the CDC's threshold is a continuously maintained chain of transmission over 12 months). Ninety-three percent of 2026 cases (1,957 of 2,104) are outbreak-associated across 30 active outbreak clusters. Ongoing high-activity outbreaks in Florida, Pennsylvania, Utah, and Virginia remain the primary endemic source clusters. The FIFA World Cup overlay is the principal current epidemiological multiplier: the June 15 Belgium vs. Egypt match at Lumen Field in Seattle (Pride Weekend) created a mass-gathering exposure event with an incubation window of 7-14 days. The cluster identification window from the June 15 event opens tomorrow June 22, running through June 29 — the analytical period during which any Seattle-area cases from that event will become symptomatic and diagnosable. This is the first evidence window for FIFA-linked domestic cluster formation. Georgetown University's non-governmental surveillance operation (wastewater DNA + ER data + social media fusion) is the primary active monitoring mechanism during this window given CDC operational constraints. CIDRAP's slowing signal for the overall national arc remains active but is analytically fragile against FIFA incubation exposure — mass-gathering seeding events can reverse a deceleration trend in a single incubation cycle. The June 19 US-Australia Lumen Field match (Pride Weekend) opens a second sequential incubation window running through July 3 — a concurrent monitoring demand beginning July 3-10.",
+          "significance": "HIGH",
+          "actors": ["CDC", "CIDRAP", "Georgetown University", "King County Public Health", "Snohomish County Health", "FIFA Medical", "NWS"],
+          "metrics": {
+            "measles_national_case_count": 2104,
+            "measles_cdc_update_date": "2026-06-18",
+            "measles_cases_to_2025_record": 184,
+            "measles_2025_full_year_record": 2288,
+            "measles_outbreak_associated_pct": 93,
+            "measles_active_outbreaks": 30,
+            "measles_high_activity_states": ["Florida", "Pennsylvania", "Utah", "Virginia"],
+            "measles_elimination_status": "AT RISK — approaching continuous transmission threshold",
+            "measles_cluster_id_window_start": "2026-06-22",
+            "measles_cluster_id_window_end": "2026-06-29",
+            "measles_june15_lumenfield_event": "Belgium vs. Egypt — mass gathering; incubation Day 7 T-1 to detection window",
+            "measles_june19_lumenfield_event": "US vs. Australia — new sequential window through 2026-07-03",
+            "measles_cidrap_slowing_signal": "ACTIVE BUT FRAGILE — FIFA seeding risk",
+            "measles_cidrap_assessment": "Mass-gathering events can reverse deceleration in single incubation cycle",
+            "georgetown_surveillance_status": "ACTIVE — wastewater + ER + social media fusion",
+            "cdc_operational_constraints": "ACTIVE — non-governmental surveillance primary monitor",
+            "unvaccinated_case_pct": 93
+          }
+        },
+        {
+          "headline": "Colombia Runoff Ongoing; Father's Day / Juneteenth +2; Reconciliation 2.0 T-11; Acting DNI Day 31 — Post-Deal Nuclear Verification Maximum Demand",
+          "summary": "Four secondary domestic threads entering June 21 morning. First: Colombia runoff is ongoing today. De la Espriella (43.7% first-round) versus Cepeda (40.9%); early tracking from the June 20 cycle favors de la Espriella. Official RNEC results are expected June 21 evening PDT. The US strategic implication: a de la Espriella win aligns Colombia's foreign policy with the US-led regional posture and repairs the Trump-Petro fracture; a Cepeda win maintains managed adversarialism. Second: June 21 is Father's Day and Juneteenth +2. Juneteenth federal holiday is in force (June 19). Obama Presidential Center is open to the public in Chicago following its June 19 Juneteenth opening. Third: Reconciliation 2.0 is T-11 to the July 2 floor target with the Freedom Caucus now signaling yes. Congress returns from the weekend on Monday; FC floor negotiations this week are the critical legislative gate. Fourth: the acting DNI vacancy has reached approximately Day 31 — the maximum nuclear verification demand phase. The 60-day nuclear negotiation window that began June 19 requires continuous IC verification capacity: Khamenei authorization monitoring, IRGC compliance assessment, enrichment facility surveillance, and sanctions-evasion detection. A leaderless DNI directorate is processing maximum-demand IC output in the most consequential post-conflict verification period of the 2026 cycle.",
+          "significance": "MODERATE",
+          "actors": ["Abelardo de la Espriella", "Iván Cepeda", "Congress", "Speaker Mike Johnson", "House Freedom Caucus", "Acting DNI", "IAEA", "Barack Obama"],
+          "metrics": {
+            "colombia_runoff_status": "ONGOING — June 21; RNEC results expected evening PDT",
+            "colombia_early_tracking": "de la Espriella leading — per June 20 cycle",
+            "father_day": true,
+            "juneteenth_plus_days": 2,
+            "obama_presidential_center_status": "OPEN — Juneteenth June 19 opening; public access Day 3",
+            "reconciliation_20_days_to_floor": 11,
+            "reconciliation_20_fc_signal": "YES",
+            "reconciliation_20_floor_date": "2026-07-02",
+            "congress_returns_monday": "2026-06-22",
+            "fc_floor_negotiations_this_week": "CRITICAL GATE for July 2 attempt",
+            "acting_dni_vacancy_day": 31,
+            "acting_dni_nuclear_verification_demand": "MAXIMUM — 60-day nuclear window Day 3; enrichment surveillance + IRGC compliance + Khamenei authorization monitoring",
+            "acting_dni_leaderless_assessment": "Maximum operational demand period with vacant IC leadership"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Heat Advisory Western WA June 22-23 T-1 — Seattle 90°F+, Portland 93-100°F+ (Record Risk); East Cascades Fire Fuel Compounding Risk; Upriver Fire Day 5 60% Contained Level 1 Only; Juniper Dunes 13,144 Acres 20% / Twin Sisters 8,262 Acres 65%; Oregon EO 26-10 Day 6; NIFC Above-Normal Day 21; Washington Drought Day 17 (4th Consecutive Year); Oregon 83% Drought; NSF Newport OR ~7 Days; BPA Normalizing.",
+      "items": [
+        {
+          "headline": "Heat Advisory June 22-23 T-1 — Seattle 90°F+ (Record), Portland 93-100°F+ (Record Risk); East Cascades Cumulative Fire Fuel Loading at Critical Level; BPA Grid Demand Peak Tomorrow",
+          "summary": "A new Heat Advisory has been issued for Western Washington for Sunday-Monday June 21-22 (the advisory period extends into Tuesday June 23 for the Portland-Vancouver metro area). NWS data shows Seattle forecast to reach 87-90°F on Sunday June 21 (breaking the June 21 daily record of 86°F from 1988), and approximately 90°F on Monday June 22 (breaking the June 22 daily record of 88°F from 1963). For Portland: high-confidence (>90%) forecasts of 90°F+ across the Willamette Valley and southwest Washington lowlands Monday-Tuesday, with a 20-40% chance of 100°F+ from Salem to Portland-Vancouver on Monday, rising to 40-60% on Tuesday. This is the second significant heat event to strike the PNW in June 2026, following the June 14-16 Extreme Heat Warning. The analytical compounding risk: vegetation and soil moisture has not recovered from the June 14-16 event; the east Cascades fuel load is already 10-14 days ahead of historical onset on the fire season calendar; any new ignition during June 22-23 under heat-and-low-humidity conditions will encounter fuel drier than any comparable June in the instrumented record. For BPA: post-June 14-16 demand normalization will be interrupted by a return to peak cooling demand Monday-Tuesday. BPA's drought-year-4 constrained hydropower position (50% below-average snowpack, 4th consecutive drought year) means generation headroom is limited. The extreme heat suppression window that made Upriver, Juniper Dunes, and Twin Sisters containment possible over June 19-21 will be temporarily suspended during the June 22-23 event.",
+          "significance": "HIGH",
+          "actors": ["NWS Seattle", "NWS Portland", "BPA", "Governor Bob Ferguson", "Governor Tina Kotek", "NIFC", "Washington DNR"],
+          "metrics": {
+            "heat_advisory_issued_for": "Western Washington",
+            "heat_advisory_dates": "2026-06-21 to 2026-06-23",
+            "seattle_june21_forecast_f": "87-90",
+            "seattle_june21_record_previous_f": 86,
+            "seattle_june21_record_year": 1988,
+            "seattle_june22_forecast_f": "~90",
+            "seattle_june22_record_previous_f": 88,
+            "seattle_june22_record_year": 1963,
+            "portland_monday_forecast_range_f": "93-98",
+            "portland_monday_100f_probability_pct": "20-40",
+            "portland_tuesday_100f_probability_pct": "40-60",
+            "willamette_valley_90f_probability_pct": ">90",
+            "second_june_heat_event": true,
+            "prior_event": "June 14-16 Extreme Heat Warning",
+            "vegetation_recovery_from_june1416": "INSUFFICIENT — moisture deficit unresolved",
+            "east_cascades_fuel_onset_ahead_days": "10-14",
+            "east_cascades_cumulative_risk": "CRITICAL — compound of 2 heat events on drought-year-4 backdrop",
+            "bpa_drought_year": 4,
+            "bpa_snowpack_pct_average": 50,
+            "bpa_peak_demand_expected": "June 22-23 Monday-Tuesday",
+            "containment_window_interruption": "June 22-23 heat resumes aggressive fire weather for remaining uncontained perimeters"
+          }
+        },
+        {
+          "headline": "Upriver Fire Day 5 — 60% Contained, Level 1 Only, Evacuation Center Closed; Juniper Dunes 20% / Twin Sisters 65%; Oregon EO 26-10 Day 6; Drought Day 17; NSF Newport ~7 Days",
+          "summary": "Five PNW environmental and emergency threads entering June 21 morning. First: the Upriver Fire's rapid containment progress (10% → 60% over June 17-20) represents the strongest operational outcome of the early 2026 fire season — and its principal remaining risk is the June 22-23 Heat Advisory resuspending aggressive fire weather on the residual 40% uncontained perimeter. The FEMA fire management assistance declaration (pending federal approval) remains the outstanding federal disaster resource trigger. Second: Juniper Dunes (Franklin County Wilderness, 13,144 acres, 20% containment) has achieved its first post-heat breakthrough, constrained by Wilderness terrain (hand-tool operations only) but showing forward progress. Twin Sisters (Highway 730, 8,262 acres, 65% containment) is the session's most contained active fire and represents the clearest operational success of the June heat-wave-break suppression window. Both fires face the same Heat Advisory re-escalation risk as Upriver. Third: Oregon's statewide wildfire emergency EO 26-10 (Governor Tina Kotek, signed June 16) enters Day 6 — the 12-county coordination umbrella covering the east Cascades corridor provides Oregon's institutional framework for managing fire resource conflicts with Washington during the heat event. Fourth: Washington drought emergency is Day 17 (statewide declaration, 4th consecutive year, 50% snowpack). Oregon drought stands at 83% coverage. No precipitation relief projected through late June. Fifth: NSF Newport OR ocean observatories advance to approximately 7 days before scheduled decommission (~June 28). No federal intervention has been announced. The Cascadia Subduction Zone real-time offshore monitoring network — a 38-instrument array off the Oregon and Washington coasts — continues its degradation path. The loss of real-time seismic and oceanographic monitoring in a zone where the full-margin CSZ rupture remains the primary Pacific Northwest catastrophic risk is a structural infrastructure concern with a closing action window.",
+          "significance": "HIGH",
+          "actors": ["Governor Bob Ferguson", "Governor Tina Kotek", "FEMA", "Washington DNR", "Oregon OEM", "NIFC", "USFS", "BPA", "NSF OOI", "NOAA", "Pacific Power", "Avista"],
+          "metrics": {
+            "upriver_fire": {
+              "day_since_ignition": 5,
+              "containment_pct": 60,
+              "evacuation_level": "1 ONLY — all Level 2 and Level 3 orders lifted",
+              "evacuation_center": "CLOSED",
+              "fema_declaration": "PENDING FEDERAL APPROVAL",
+              "next_threat": "June 22-23 Heat Advisory on residual 40% uncontained perimeter"
+            },
+            "juniper_dunes_fire": {
+              "acres": 13144,
+              "containment_pct": 20,
+              "terrain": "WILDERNESS — hand-tool only",
+              "status": "FIRST BREAKTHROUGH — June 22-23 heat re-escalation risk"
+            },
+            "twin_sisters_fire": {
+              "acres": 8262,
+              "containment_pct": 65,
+              "status": "BEST-CONTAINED ACTIVE FIRE — June 22-23 heat re-escalation risk"
+            },
+            "oregon_eo_2610_day": 6,
+            "oregon_eo_2610_counties_covered": 12,
+            "washington_drought_emergency_day": 17,
+            "washington_drought_consecutive_years": 4,
+            "washington_snowpack_pct_average": 50,
+            "oregon_drought_coverage_pct": 83,
+            "nifc_above_normal_day": 21,
+            "nsf_newport_or_days_to_removal": 7,
+            "nsf_removal_date_estimate": "~2026-06-28",
+            "nsf_csz_monitoring_instruments": 38,
+            "csz_monitoring_federal_intervention": false,
+            "bpa_grid_status": "NORMALIZING — Heat Advisory peak demand June 22-23 incoming",
+            "heat_advisory_june2223_fire_suppression_impact": "RE-ESCALATION RISK — three active fires; east Cascades cumulatively drier than June 14-16 event onset"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "June 21, 2026 morning opens at Vibe 6, consistent with the June 20 baseline: the MOU is signed and in force (Day 3), tanker traffic is accelerating past 20 vessels with Kpler projecting 40 transits per day within a month, Iranian supertankers are reactivating transponders, and PNW wildfire containment has made measurable progress across all three active fires — Upriver (60%), Twin Sisters (65%), Juniper Dunes (20%). The session's primary watch item is not a crisis signal but a structural transition: the 60-day nuclear negotiation window that began June 19 is the hardest and most consequential phase of the MOU architecture, and it enters Day 3 with no agreed negotiating framework, deferred enrichment mechanics, and an acting DNI vacancy constraining IC verification capacity. The second structural watch item is Monday June 22 — the first full US market session post-deal — where the FOMC's pre-deal hawkish dot-plot (9 hike dots, $95-100 oil baseline) meets the post-deal WTI trajectory (~$78-79 and declining) in a single two-sided open. The PNW heat environment provides a third compounding concern: a new Heat Advisory for June 22-23 (Seattle 90°F+, Portland 93-100°F+ possible) arrives before ecological recovery from June 14-16, on east Cascades fuels that are already 10-14 days ahead of historical onset. The measles surveillance cycle enters its most analytically sensitive phase tomorrow: the June 22-29 cluster identification window from the June 15 Lumen Field mass gathering is T-1. Georgetown University's non-governmental surveillance platform is the primary active detection system. Colombia's presidential runoff (de la Espriella vs. Cepeda) concludes today with early tracking favoring the far-right candidate — a potential US-Colombia foreign policy realignment. The week ahead is operationally intensive on all five domains despite the geopolitical de-escalation: nuclear negotiations, market re-pricing, heat emergency, measles detection window, and Reconciliation 2.0 floor negotiations (T-11 to July 2) all converge in a 72-hour window starting June 22.",
+  "watch_items": [
+    {
+      "item": "Nuclear 60-Day Window Day 3 — First Negotiating Session Signals; Enrichment Architecture; HEU Disposition",
+      "priority": "CRITICAL",
+      "rationale": "The 60-day nuclear negotiation window is the MOU's central unresolved architecture; it begins with no agreed framework for enrichment suspension verification, HEU stockpile removal, IAEA access, or moratorium duration; the 'hardest negotiations still ahead' assessment is consensus across US and Iranian officials; acting DNI vacancy constrains IC verification capacity at maximum demand",
+      "watch_for": "First formal nuclear negotiation session announcement; US or Iranian position statement on enrichment levels; IAEA Director General Grossi public statement on verification framework; any Khamenei signal on nuclear concession limits; Iran Parliament hardliner opposition to enrichment compromise; acting DNI nomination announcement"
+    },
+    {
+      "item": "June 22 First Full US Market Session Post-Deal — FOMC Hawkish Overhang vs. Oil-Deal Tailwind",
+      "priority": "HIGH",
+      "rationale": "First equity, Treasury, and commodity session since deal signing; FOMC 9-dot pre-deal artifact at $95-100 oil baseline vs. WTI ~$78-79 declining; market pricing of deal-inflation unwind sets the Fed's September SEP political environment; two-sided volatility risk in a single open",
+      "watch_for": "S&P 500 and Nasdaq open direction; 2-year and 10-year Treasury yield movement; WTI and Brent oil reaction to Monday session; any Federal Reserve governor pre-FOMC communication adjusting dot guidance; IEA commentary on post-deal supply surplus timeline; shipping stock and energy sector differential"
+    },
+    {
+      "item": "Heat Advisory June 22-23 — PNW Re-Escalation Risk on Active Fire Perimeters and BPA Grid",
+      "priority": "HIGH",
+      "rationale": "Second June heat event on east Cascades fuel load that is 10-14 days ahead of historical onset and ecologically unrecovered from June 14-16; Upriver (40% uncontained), Juniper Dunes (80% uncontained), Twin Sisters (35% uncontained) all at risk; BPA drought-year-4 constrained generation headroom; Portland 100°F+ possible",
+      "watch_for": "NWS heat advisory upgrade to Excessive Heat Warning for Portland-Vancouver metro; BPA transmission stress during peak Monday-Tuesday cooling demand; new fire ignitions in east Cascades during heat window; evacuation order escalation at Upriver, Juniper Dunes, or Twin Sisters; red flag warnings for east Cascades shrub-steppe"
+    },
+    {
+      "item": "Measles Cluster ID Window T-1 — June 22-29 from June 15 Lumen Field Match; Georgetown Surveillance",
+      "priority": "HIGH",
+      "rationale": "June 15 Belgium-Egypt Lumen Field match incubation window opens June 22 — first evidence window for FIFA-linked cluster formation; measles at 2,104 cases, 184 from 2025 full-year record; CIDRAP slowing signal fragile against mass-gathering seeding; Georgetown surveillance primary monitoring mechanism",
+      "watch_for": "King County DOH or Snohomish County cluster reports; Georgetown wastewater flag from June 15 event area codes; any CDC interim advisory on FIFA-linked measles; hospital ER data from Seattle area; CIDRAP assessment update; June 19 US-Australia window concurrent monitoring (through July 3)"
+    },
+    {
+      "item": "Colombia Runoff Results — de la Espriella vs. Cepeda; US-Colombia Policy Inflection",
+      "priority": "MODERATE",
+      "rationale": "Far-right de la Espriella leading on June 20 tracking; a win represents a meaningful shift in Colombia's US-aligned foreign policy posture and repairs the Trump-Petro fracture; a Cepeda win sustains managed adversarialism; RNEC results expected tonight",
+      "watch_for": "RNEC official preliminary results; de la Espriella margin (>10% is decisive win signal); any fraud or irregularity claims by Cepeda campaign; Trump or Rubio statement on Colombia result; Petro statement on transition or concession; US State Department readout"
+    },
+    {
+      "item": "Reconciliation 2.0 T-11 — FC Negotiations This Week; Floor Date Confirmation",
+      "priority": "MODERATE",
+      "rationale": "Freedom Caucus has signaled yes but outstanding demands (anti-weaponization, Medicaid work requirements, spending caps) require floor resolution; Congress returns Monday; a floor date confirmation this week is required to lock the July 2 window",
+      "watch_for": "Speaker Johnson floor date official confirmation; FC member public statements on outstanding demands; Rules Committee scheduling signals; whip count leaks Monday-Tuesday; any new HC or moderate resistance emerging as FC moves yes"
+    },
+    {
+      "item": "NSF Newport OR — ~7 Days to Ocean Observatory Removal; Cascadia Monitoring Closure",
+      "priority": "MODERATE",
+      "rationale": "38-instrument Cascadia Subduction Zone real-time offshore monitoring network approaching decommission (~June 28); no federal intervention announced; loss of real-time CSZ seismic and oceanographic coverage is a structural PNW infrastructure risk with a closing action window",
+      "watch_for": "NSF reprieve announcement; Congressional action to extend funding; NOAA or USGS alternative monitoring framework announcement; scientific community formal objection escalation to Congress; any seismic activity in CSZ during the decommission window"
+    },
+    {
+      "item": "Upriver Fire FEMA Declaration — Federal Disaster Resource Unlock Pending",
+      "priority": "LOW-MODERATE",
+      "rationale": "Governor Ferguson's FEMA fire management assistance declaration is first of 2026 PNW season; 60% containment and Level 1 only reduces urgency but confirmed fatality and 14 home losses support federal declaration; June 22-23 Heat Advisory re-escalation risk is secondary case for declaration",
+      "watch_for": "FEMA federal declaration approval or denial; any declaration denial triggering state-only recovery process; June 22-23 heat escalation changing declaration urgency; Spokane County recovery resource gaps"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Iran Deal Has Reopened Hormuz. The Hardest Negotiations Are Still Ahead | HNGN",
+      "url": "https://www.hngn.com/articles/271654/20260620/us-iran-agreement-eases-immediate-risks-focus-shifts-nuclear-talks.htm"
+    },
+    {
+      "title": "Trump, Iran agree to memorandum of understanding opening Strait of Hormuz | ABC News",
+      "url": "https://abcnews.com/Politics/trump-iran-agree-memorandum-understanding-opening-strait-hormuz/story?id=133896143"
+    },
+    {
+      "title": "Saudi Oil Tankers Resume Strait of Hormuz Crossings After Iran Deal | Discovery Alert",
+      "url": "https://discoveryalert.com.au/strait-hormuz-saudi-tankers-iran-deal-oil-markets-2026/"
+    },
+    {
+      "title": "U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking | NPR",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz"
+    },
+    {
+      "title": "Trump and Iran's president sign initial deal to end war, open Strait of Hormuz | NBC News",
+      "url": "https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513"
+    },
+    {
+      "title": "The Deal That Finally Held: What's In It, What's Missing, and What Happens Next | Hormuz Strait Monitor",
+      "url": "https://hormuzstraitmonitor.com/blog/deal-that-finally-held/"
+    },
+    {
+      "title": "Brent rises after U.S.-Iran peace talks in Geneva are abruptly postponed | CNBC",
+      "url": "https://www.cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html"
+    },
+    {
+      "title": "Oil Prices Plunge as U.S. and Iran Reach Deal to Reopen Strait of Hormuz | OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-as-US-and-Iran-Reach-Deal-to-Reopen-Strait-of-Hormuz.html"
+    },
+    {
+      "title": "2026 Colombian presidential election | Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colombian_presidential_election"
+    },
+    {
+      "title": "Colombian presidency goes to runoff election that could redefine relations with the US | CNN",
+      "url": "https://www.cnn.com/2026/05/31/americas/colombia-runoff-espriella-cepeda-latam-intl"
+    },
+    {
+      "title": "Celebration, shock and scepticism follow Colombia's presidential election | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election"
+    },
+    {
+      "title": "Measles Surge Hits 2,030 U.S. Cases as New York City Prepares for World Cup Influx | Medical Daily",
+      "url": "https://www.medicaldaily.com/measles-2030-cases-new-york-city-world-cup-2026-475552"
+    },
+    {
+      "title": "Tracking U.S. Measles 2026: 2,000 Cases Put Elimination Status at Risk | U.S. News",
+      "url": "https://www.usnews.com/news/health-news/articles/tracking-the-2026-u-s-measles-outbreaks"
+    },
+    {
+      "title": "World Cup 2026: Health officials focused on Ebola, measles | CNBC",
+      "url": "https://www.cnbc.com/2026/06/04/world-cup-2026-health-officials-focused-on-ebola-measles.html"
+    },
+    {
+      "title": "Upriver Fire reaches 60% containment as all evacuations are downgraded to Level One | KREM",
+      "url": "https://www.krem.com/article/news/local/wildfire/beacon-hill-fire-level-3-evacuations/293-c5da0d84-ddfa-4d8c-ae45-38a88454cbf5"
+    },
+    {
+      "title": "Upriver Fire 39% contained, evacuations downgraded in Spokane Valley | KHQ",
+      "url": "https://www.khq.com/news/upriver-fire-39-contained-evacuations-downgraded-in-spokane-valley/article_8b89eba3-b527-4629-a630-2df4a62778d3.html"
+    },
+    {
+      "title": "One dead, at least 15 homes lost in Upriver fire | The Spokesman-Review",
+      "url": "https://www.spokesman.com/stories/2026/jun/17/upriver-fire-remained-steady-overnight-night-evacu/"
+    },
+    {
+      "title": "Wildfire map spotlight: Tule, Juniper Dunes, and Twin Sisters fires, Washington | IQAir",
+      "url": "https://www.iqair.com/newsroom/wildfire-map-spotlight-tule-fire-juniper-dunes-fire-and-twin-sisters-fire-washington"
+    },
+    {
+      "title": "Juniper Dunes Fire grows to 10,577 acres | Apple Valley News Now",
+      "url": "https://www.applevalleynewsnow.com/news/fire-agencies-battling-600-acre-fire-at-juniper-dunes-in-franklin-county/article_764112b3-37a0-4880-b0b9-12e38e986975.html"
+    },
+    {
+      "title": "Washington Smoke Blog: Smoke travels westward as wildfires flare up in the Columbia Basin | WA Smoke Blog",
+      "url": "https://wasmoke.blogspot.com/2026/06/smoke-travels-westward-as-wildfires.html"
+    },
+    {
+      "title": "Pinpoint Alert Day: Hottest temperatures yet for 2026 are around the corner | MyNorthwest",
+      "url": "https://mynorthwest.com/pacific-northwest-weather/seattle-weather-5/4247320"
+    },
+    {
+      "title": "NOAA Graphical Forecast for Pacific Northwest | NOAA",
+      "url": "https://graphical.weather.gov/sectors/pacnorthwest.php"
+    },
+    {
+      "title": "FERC Takes Action to Supercharge America's Grid | FERC.gov",
+      "url": "https://www.ferc.gov/news-events/news/fact-sheet-ferc-takes-action-supercharge-americas-grid-efficiency-reliability-and"
+    },
+    {
+      "title": "The Department of Energy Applauds FERC's Action on Large Load Interconnection Reform | DOE",
+      "url": "https://www.energy.gov/articles/department-energy-applauds-fercs-action-large-load-interconnection-reform"
+    },
+    {
+      "title": "This week on The Hill: Congress scrambles on reconciliation 2.0 and FISA | The Hill",
+      "url": "https://thehill.com/homenews/house/5912887-republicans-immigration-fisa-crunch/"
+    }
+  ]
+}
