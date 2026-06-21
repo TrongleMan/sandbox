@@ -1002,7 +1002,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 113 — First Tanker Traffic Resumes (20+ Vessels; WTI ~$77 Recovering); Upriver Fire Fatality CONFIRMED (1 Dead; First 2026 PNW Season); 39% Containment Breakthrough; Reconciliation 2.0 July 2 T-12; Colombia Runoff Tomorrow; FERC Large Load Show Cause Orders 6 ISOs; Vibe 6",
       "generated_at": "2026-06-20T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-21-evening",
+      "date": "2026-06-21",
+      "session": "evening",
+      "file": "reports/2026-06-21-evening.json",
+      "vibe": 6,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 114 — Iranian Supertankers Reactivating Transponders (Highest-Confidence Compliance Signal); Kpler 40-Transits/Day In 30 Days; HEAT ADVISORY Western WA June 22-23 (Seattle 90°F; Portland 100°F+; East Cascades T-8); Colombia Runoff Concluded (Early Returns Favor de la Espriella); Measles Cluster ID Window Opens June 22; Reconciliation 2.0 T-11 FC Signaling Yes; Vibe 6",
+      "generated_at": "2026-06-21T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-20T07:00:00-07:00"
+  "last_updated": "2026-06-21T20:00:00-07:00"
 }
