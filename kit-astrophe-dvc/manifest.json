@@ -1032,7 +1032,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 115 — Iran CONTESTED RE-CLOSURE (Lebanon MOU Breach); CENTCOM Confirms 55 Vessels Transited; Switzerland Talks CANCELED Day 1 (Vance; Swiss FM); New Israel-Hezbollah Ceasefire In Force; WTI $76.46 Open; Monday Equity Futures DOWN; NEW Kartar Fire WA 11,679 Acres 15% Contained; Six Concurrent WA Fires; Upriver 75% + FEMA Approved; Measles Window Day 1 Clean; Colombia De La Espriella Leading Escrutinio; Vibe 5",
       "generated_at": "2026-06-22T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-23-morning",
+      "date": "2026-06-23",
+      "session": "morning",
+      "file": "reports/2026-06-23-morning.json",
+      "vibe": 5,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 116 — Lebanon Ceasefire Night 1 Nominal (Hour ~14 Of 48h Threshold); Witkoff/Araghchi Partial Swiss Technical Contact (NOT Formal Round 1); Kartar Fire ~11,700 Acres 15% — Red Flag Day 2 Acute Spread Test; WTI $74-76 Modest Decline; Heat Advisory Final Day; Reconciliation 2.0 T-9 Rules Committee T-7; Measles Window Day 2 Clean; Vibe 5",
+      "generated_at": "2026-06-23T06:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-22T20:00:00-07:00"
+  "last_updated": "2026-06-23T06:00:00-07:00"
 }
