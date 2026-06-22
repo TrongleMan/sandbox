@@ -1022,7 +1022,17 @@
       "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
       "headline": "Hormuz Day 114 — Iranian Supertankers Reactivating Transponders (Highest-Confidence Compliance Signal); Kpler 40-Transits/Day In 30 Days; HEAT ADVISORY Western WA June 22-23 (Seattle 90°F; Portland 100°F+; East Cascades T-8); Colombia Runoff Concluded (Early Returns Favor de la Espriella); Measles Cluster ID Window Opens June 22; Reconciliation 2.0 T-11 FC Signaling Yes; Vibe 6",
       "generated_at": "2026-06-21T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-22-evening",
+      "date": "2026-06-22",
+      "session": "evening",
+      "file": "reports/2026-06-22-evening.json",
+      "vibe": 5,
+      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "headline": "Hormuz Day 115 — Iran CONTESTED RE-CLOSURE (Lebanon MOU Breach); CENTCOM Confirms 55 Vessels Transited; Switzerland Talks CANCELED Day 1 (Vance; Swiss FM); New Israel-Hezbollah Ceasefire In Force; WTI $76.46 Open; Monday Equity Futures DOWN; NEW Kartar Fire WA 11,679 Acres 15% Contained; Six Concurrent WA Fires; Upriver 75% + FEMA Approved; Measles Window Day 1 Clean; Colombia De La Espriella Leading Escrutinio; Vibe 5",
+      "generated_at": "2026-06-22T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-21T07:00:00-07:00"
+  "last_updated": "2026-06-22T20:00:00-07:00"
 }
