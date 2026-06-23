@@ -9,7 +9,13 @@
       "session": "evening",
       "file": "reports/2026-04-02-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Liberation Day Anniversary: Tariff Architecture Contested, DOGE Clock Running, PNW Compound Stress",
       "generated_at": "2026-04-02T20:00:00-07:00"
     },
@@ -19,7 +25,13 @@
       "session": "evening",
       "file": "reports/2026-04-05-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 36: Oil Shock Rivals 1970s, Recession at 45%, SCOTUS Expands Executive Power, PNW Drought at Record Low",
       "generated_at": "2026-04-05T20:00:00-07:00"
     },
@@ -29,7 +41,13 @@
       "session": "morning",
       "file": "reports/2026-04-06-morning.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 37: Ultimatum Expires Tonight at 8 PM ET; Ceasefire Talks Unverified, Markets Hesitant, Vibe 2",
       "generated_at": "2026-04-06T07:00:00-07:00"
     },
@@ -39,7 +57,13 @@
       "session": "evening",
       "file": "reports/2026-04-06-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 37: Trump Pulls Ultimatum, Iran Denies Talks; Cyberattacks Scale, PNW Agriculture in Compound Squeeze",
       "generated_at": "2026-04-06T20:00:00-07:00"
     },
@@ -49,7 +73,13 @@
       "session": "evening",
       "file": "reports/2026-04-07-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 38: Iran Rejects Islamabad Accord, Markets Freefall, Maduro Captured, PNW Heat Dome Record",
       "generated_at": "2026-04-07T20:00:00-07:00"
     },
@@ -59,7 +89,13 @@
       "session": "morning",
       "file": "reports/2026-04-10-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Vance Airborne to Islamabad; Trump Attacks Iran's 'Dishonorable' Hormuz Non-Compliance; Day 41",
       "generated_at": "2026-04-10T07:00:00-07:00"
     },
@@ -69,7 +105,13 @@
       "session": "evening",
       "file": "reports/2026-04-10-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 41: Ceasefire Agreed but Contested, Strait Still Closed, Vance to Pakistan Saturday",
       "generated_at": "2026-04-10T20:00:00-07:00"
     },
@@ -79,7 +121,13 @@
       "session": "evening",
       "file": "reports/2026-04-14-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 45: Ceasefire Dead, Naval Blockade Active, Oil at $99, Strikes Under Review",
       "generated_at": "2026-04-14T20:00:00-07:00"
     },
@@ -89,7 +137,13 @@
       "session": "evening",
       "file": "reports/2026-04-19-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 50: Iran Cyber Attacks Active on US Infrastructure, Ukraine May Financing Cliff, Forest Service Cuts PNW Fire Science",
       "generated_at": "2026-04-19T20:00:00-07:00"
     },
@@ -99,7 +153,13 @@
       "session": "morning",
       "file": "reports/2026-05-02-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 63: Khamenei Hardens; FOMC 8-4 Hold, Powell's Last Meeting, Warsh Vote May 11; WA Measles 40 Cases; Reconciliation 2.0 Floor Vote Week of May 11",
       "generated_at": "2026-05-02T07:00:00-07:00"
     },
@@ -109,7 +169,13 @@
       "session": "evening",
       "file": "reports/2026-05-02-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 63: War Powers Clock Expired; Iran Proposes Strait-for-Blockade Trade; Shadow Fleet Confirmed; PCE Inflation Surges to 3.5%; Portland ICE Protests",
       "generated_at": "2026-05-02T20:00:00-07:00"
     },
@@ -119,7 +185,13 @@
       "session": "morning",
       "file": "reports/2026-05-03-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 64: Iran 14-Point Proposal; Trump 'Not Paid Big Enough Price'; OFAC Toll Sanctions Warning; Portland 92°F Heat Wave Today",
       "generated_at": "2026-05-03T07:00:00-07:00"
     },
@@ -129,7 +201,13 @@
       "session": "evening",
       "file": "reports/2026-05-03-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 64: NATO-Germany Fracture; SCOTUS Guts VRA Section 2; Iran War at $25B/$50B, No Exit; DHS Shutdown Ends Day 76; PNW Heat Wave Incoming",
       "generated_at": "2026-05-03T20:00:00-07:00"
     },
@@ -139,7 +217,13 @@
       "session": "morning",
       "file": "reports/2026-05-04-morning.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Project Freedom Day 1: First Convoys Moving Through Hormuz; Iran Claims Missile Strike on US Frigate (Denied); UAE Energy Vessel Hit; Vibe 2",
       "generated_at": "2026-05-04T07:00:00-07:00"
     },
@@ -149,7 +233,13 @@
       "session": "evening",
       "file": "reports/2026-05-04-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 65: Project Freedom Launches — 15,000 Troops, Destroyers, 100+ Aircraft Begin Hormuz Escorts; Iran 'Will Not Back Down'; NATO Drawdown 'Only Just Begun'",
       "generated_at": "2026-05-04T20:00:00-07:00"
     },
@@ -159,7 +249,13 @@
       "session": "morning",
       "file": "reports/2026-05-05-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Project Freedom Day 2: 6 Iranian Boats Destroyed, No US Ships Struck; ADP Hiring Decelerates; DOJ Drops Powell Probe, Warsh Path Clear; 459 PNW Communities Upgraded Wildfire Risk",
       "generated_at": "2026-05-05T07:00:00-07:00"
     },
@@ -169,7 +265,13 @@
       "session": "morning",
       "file": "reports/2026-05-06-morning.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Axios: US-Iran Closing In on 14-Point MOU; Oil Falls 6-7%; Trump 'Bombing Starts' Ultimatum; CMA CGM San Antonio Struck; IRGC 'New Procedures'; Vibe 4",
       "generated_at": "2026-05-06T07:00:00-07:00"
     },
@@ -179,7 +281,13 @@
       "session": "evening",
       "file": "reports/2026-05-06-evening.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Project Freedom PAUSED Day 3: Trump Cites 'Great Progress' Toward Iran Deal; UAE Attacked Day 2; CISA CI Fortify Launches; Jobs Report Eve; Vibe 4",
       "generated_at": "2026-05-06T20:00:00-07:00"
     },
@@ -189,7 +297,13 @@
       "session": "morning",
       "file": "reports/2026-05-07-morning.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 68: MOU Framework Advancing, Iran Response Imminent; Trump Threatens Escalation if No Deal; Warsh Path Cleared; PNW Drought Forecast Severe May-July",
       "generated_at": "2026-05-07T07:00:00-07:00"
     },
@@ -199,7 +313,13 @@
       "session": "evening",
       "file": "reports/2026-05-07-evening.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Axios MOU Scoop: US-Iran Closest to Deal Since Day 1; Oil -7% to $95; Markets at Records; Cyber Window Closes Clean; BLS April Jobs Tomorrow; Vibe 5",
       "generated_at": "2026-05-07T20:00:00-07:00"
     },
@@ -209,7 +329,13 @@
       "session": "morning",
       "file": "reports/2026-05-08-morning.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 69: Overnight Clash Confirmed, Parliament Calls MOU 'Wish List', Response Overdue; April Jobs Beat 177K/4.2%; Oregon 9 Counties Emergency; Vibe 4",
       "generated_at": "2026-05-08T07:00:00-07:00"
     },
@@ -219,7 +345,13 @@
       "session": "evening",
       "file": "reports/2026-05-08-evening.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Jobs Beat: 177K NFP, 4.2% Unemployment; Iran 48-Hr Window Expires Without Answer; Parliament Calls MOU 'Wish List'; Oregon Fire Season Declared; Vibe 5",
       "generated_at": "2026-05-08T20:00:00-07:00"
     },
@@ -229,7 +361,13 @@
       "session": "morning",
       "file": "reports/2026-05-09-morning.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 70: US Strikes 2 Iranian Tankers Overnight; Israel-Lebanon Escalation Opens; MOU Response 90+ Hrs Overdue; CIT Invalidates Section 122 Tariffs; Canvas Breach 9K Schools; Vibe 4",
       "generated_at": "2026-05-09T07:00:00-07:00"
     },
@@ -239,7 +377,13 @@
       "session": "evening",
       "file": "reports/2026-05-09-evening.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Trump: 'One Big Glow Out of Iran'; Brent Rebounds to $101.73; Naval Exchange During Pause; Warsh Vote Confirmed May 11 5:30 PM; Portland 90°F Sunday; Vibe 4",
       "generated_at": "2026-05-09T20:00:00-07:00"
     },
@@ -249,7 +393,13 @@
       "session": "morning",
       "file": "reports/2026-05-10-morning.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Iran FM Baqaei: 'Grotesque Absurdity'; Saturday Naval Exchange Unresolved; MOU 72+ Hrs Overdue; Portland 90°F Forecast; Triple-Convergence Week Tomorrow; Vibe 4",
       "generated_at": "2026-05-10T07:00:00-07:00"
     },
@@ -259,7 +409,13 @@
       "session": "evening",
       "file": "reports/2026-05-10-evening.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Iran Response 96+ Hrs Overdue; Nuclear Rhetoric Unretracted; Portland Confirms 90°F; Triple-Convergence Week Opens Tomorrow; Oregon Fire Day 3; Vibe 4",
       "generated_at": "2026-05-10T20:00:00-07:00"
     },
@@ -269,7 +425,13 @@
       "session": "evening",
       "file": "reports/2026-05-11-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Trump Rejects Iran Counteroffer 'TOTALLY UNACCEPTABLE'; Brent $104.49 +3%; Gulf Drones UAE/Qatar/Kuwait; Wright Telegraphs Military Return; Warsh Vote Tonight; Vibe 3",
       "generated_at": "2026-05-11T20:00:00-07:00"
     },
@@ -279,7 +441,13 @@
       "session": "morning",
       "file": "reports/2026-05-12-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "WTI Breaks $100 ($101.37) / Brent $107.58; Gulf Drone Cluster Day 1 Unresolved; Qatar Breaks Neutral; Trump-Xi Meeting This Week as Off-Ramp Wildcard; Warsh Cloture Cleared; WPA Day 13; Vibe 3",
       "generated_at": "2026-05-12T07:00:00-07:00"
     },
@@ -289,7 +457,13 @@
       "session": "evening",
       "file": "reports/2026-05-12-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Trump: Ceasefire '1% Chance,' Leans Military; New Iran Sanctions; Warsh Cloture 49-44; Oregon Measles First Hospitalization; Vibe 2",
       "generated_at": "2026-05-12T20:00:00-07:00"
     },
@@ -299,7 +473,13 @@
       "session": "morning",
       "file": "reports/2026-05-13-morning.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 74: Trump-Xi Summit Opens Beijing; Brent $107.05 Pre-Summit Pullback; Warsh Chair Vote 1 Day; Finance Text 2 Days; BLM Campfire Restrictions Today; Vibe 2",
       "generated_at": "2026-05-13T07:00:00-07:00"
     },
@@ -309,7 +489,13 @@
       "session": "evening",
       "file": "reports/2026-05-13-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Trump in Beijing for Xi Summit; Iran War Cost $29B; Brent $107.77 Post-Launch High; Warsh Chair Vote Tomorrow; Finance Text Absent 2 Days to Deadline; Vibe 2",
       "generated_at": "2026-05-13T20:00:00-07:00"
     },
@@ -319,7 +505,13 @@
       "session": "evening",
       "file": "reports/2026-05-14-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Warsh Confirmed Fed Chair 54-45; 52 Senators + 177 House Members Demand Zero Iran Enrichment; Xi Summit Day 2 No Iran Commitment; BLM Full OR/WA Restrictions Active; Vibe 2",
       "generated_at": "2026-05-14T20:00:00-07:00"
     },
@@ -329,7 +521,13 @@
       "session": "morning",
       "file": "reports/2026-05-15-morning.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Convergence Day: Trump Departs Beijing, Post-Summit IRGC Window Opens; Warsh Day 1 PPI +1.4% vs. 0.4% Consensus; Finance Deadline; Israel-Lebanon 48-Hr Clock; WPA Day 16; Vibe 2",
       "generated_at": "2026-05-15T07:00:00-07:00"
     },
@@ -339,7 +537,13 @@
       "session": "evening",
       "file": "reports/2026-05-15-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Trump Departs Beijing — Post-Summit IRGC Cyber Window Opens; Warsh Day 1 Faces PPI +1.4% vs. 0.4% Consensus; Israel-Hezbollah 48-Hour Clock; WPA Day 16; Finance Deadline Today; Vibe 2",
       "generated_at": "2026-05-15T20:00:00-07:00"
     },
@@ -349,7 +553,13 @@
       "session": "morning",
       "file": "reports/2026-05-16-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Israel-Lebanon Ceasefire Extended 45 Days — Second-Front Risk Off; No Day-1 Resumption Order; Trump New Iran Proposal; S&P Loses 7,500, 10yr at 4.55%, Hike Odds 45%; Finance Slip; WPA Day 17; Vibe 3",
       "generated_at": "2026-05-16T07:00:00-07:00"
     },
@@ -359,7 +569,13 @@
       "session": "evening",
       "file": "reports/2026-05-16-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Israel-Lebanon Ceasefire Extended 45 Days — Second-Front Risk Off; No Day-1 Resumption Order; Markets Sell Off on Yields/Hike Odds; Oregon Fire Season First Red Flags; Finance Slip Confirmed; Vibe 3",
       "generated_at": "2026-05-16T20:00:00-07:00"
     },
@@ -369,7 +585,13 @@
       "session": "morning",
       "file": "reports/2026-05-17-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 78: Trump New Iran Proposal Awaits Response; Warsh Day 3 Opens Silent; Oregon Season First Red Flags Confirmed; 7th WPA Vote 49-50 (Fetterman); Finance 'Expected Today' Per Punchbowl; Vibe 3",
       "generated_at": "2026-05-17T07:00:00-07:00"
     },
@@ -379,7 +601,13 @@
       "session": "evening",
       "file": "reports/2026-05-17-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 78: US-Iran 'Closing In' on Permanent Framework Despite Trump Bomb Threats; Warsh Day 3 — No Statement, Bond Warning; Finance Text 'Expected Today'; Oregon Fire Day 10; WPA Day 18; Vibe 3",
       "generated_at": "2026-05-17T20:00:00-07:00"
     },
@@ -389,7 +617,13 @@
       "session": "morning",
       "file": "reports/2026-05-18-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 79: Formal Ceasefire Expired — Pause Day 13 on Executive Discretion; Times of Israel Deal Signal 12+ Hrs Unconfirmed; Trump 'Clock Is Ticking'; Warsh Day 4 Silent; OPB Wildfire Funding Gap; Vibe 3",
       "generated_at": "2026-05-18T07:00:00-07:00"
     },
@@ -399,7 +633,13 @@
       "session": "evening",
       "file": "reports/2026-05-18-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 79: Deal Signal Day 2 — Confirmation Vacuum Holds; Warsh Day 4 Silent; CISA Day 15 Clean; Oregon Fire 14 Days to Onset; WPA Day 19; Vibe 3",
       "generated_at": "2026-05-18T20:00:00-07:00"
     },
@@ -409,7 +649,13 @@
       "session": "morning",
       "file": "reports/2026-05-19-morning.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Strike Called Off: Trump Confirms 'Very Major Attack' Planned for Today, Held at Gulf Allies' Request; Saudi Arabia, Qatar, UAE Say Deal 'Very Close'; 2-3 Day Countdown Begins; Warsh Day 5 Silent; Vibe 4",
       "generated_at": "2026-05-19T07:00:00-07:00"
     },
@@ -419,7 +665,13 @@
       "session": "evening",
       "file": "reports/2026-05-19-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 81: ToI Deal Signal Day 3 Unconfirmed, 48+ Hr Vacuum; Warsh Day 5 Silent, 30-Yr Yield 5%+, Nowcast Worsening; WPA Day 20; Oregon Fire 13 Days to Onset; Vibe 3",
       "generated_at": "2026-05-19T20:00:00-07:00"
     },
@@ -429,7 +681,13 @@
       "session": "morning",
       "file": "reports/2026-05-20-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Countdown Day 2: No Iranian Response in 36+ Hours; 2-3 Day Window Closes Thursday-Friday; War Renewal Signals Surfacing; Warsh Day 6 Silent; DOE $1.9B Grid Deadline Today; Vibe 3",
       "generated_at": "2026-05-20T07:00:00-07:00"
     },
@@ -439,7 +697,13 @@
       "session": "evening",
       "file": "reports/2026-05-20-evening.json",
       "vibe": 2,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 82: US-Israel Prepping War Renewal 'As Soon as Next Week'; Israel Readying Nuclear Site Strikes; Trump 2-3 Day Countdown Day 2; Warsh Day 6, 10-Yr 4.595%; WPA Day 21; Vibe 2",
       "generated_at": "2026-05-20T20:00:00-07:00"
     },
@@ -449,7 +713,13 @@
       "session": "morning",
       "file": "reports/2026-05-21-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Countdown Day 3 / Nominal Expiry: Iran Responds — Gaps 'Reduced to Some Extent'; Trump 'Final Stages,' Few More Days; CNN: Iran MIB Rebuilding Faster Than Expected, Drones In Production; Brent -5.16% to $105.54; WA Drought Emergency; Warsh Day 7 Silent; Vibe 3",
       "generated_at": "2026-05-21T07:00:00-07:00"
     },
@@ -459,7 +729,13 @@
       "session": "morning",
       "file": "reports/2026-05-22-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "House War Powers Vote Canceled — Bipartisan Majority Real; Moratorium Converges 12-15 Years; Pakistan Army Chief to Tehran; WPA 90-Day Deadline May 29; 30-Year at 5.18% (2007 High); Warsh Day 8 Silent; Vibe 3",
       "generated_at": "2026-05-22T07:00:00-07:00"
     },
@@ -469,7 +745,13 @@
       "session": "evening",
       "file": "reports/2026-05-22-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "House GOP Cancels Iran WPA Vote — Democrats Had Votes; Golden Flipping Yes; Next Attempt June — After 90-Day Deadline May 29; Trump 'Few Days' Patience; Moratorium Narrows 12-15 Yrs; Warsh Day 8 Silent; Vibe 3",
       "generated_at": "2026-05-22T20:00:00-07:00"
     },
@@ -479,7 +761,13 @@
       "session": "morning",
       "file": "reports/2026-05-23-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "5th Round 'Complicated' — Pakistan Army Chief in Tehran; WPA 90-Day Deadline 6 Days; Warsh Day 9 Weekend Silent; Gas Record 2026 Highs OR $5.353 / National $4.564; OR Fire Day 16; Vibe 3",
       "generated_at": "2026-05-23T07:00:00-07:00"
     },
@@ -489,7 +777,13 @@
       "session": "evening",
       "file": "reports/2026-05-23-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 85: Talks 'Complicated'; WPA 90-Day Deadline 6 Days Out; Congress Returns May 26 — 3 Days Before; Gas Record 2026 Highs OR $5.353 / National $4.564; Warsh Day 9 Silent; Memorial Day Weekend; Vibe 3",
       "generated_at": "2026-05-23T20:00:00-07:00"
     },
@@ -499,7 +793,13 @@
       "session": "evening",
       "file": "reports/2026-05-24-evening.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 86: Trump 'Largely Negotiated' — War End + Hormuz + Blockade Lift + 30-60-Day Nuclear Window; Iran Fars Dismisses 'Incomplete'; No Khamenei Confirmation; WPA 5 Days; Warsh Day 10 Silent; OR Gas $5.35 Record; Fire Day 17; Vibe 4",
       "generated_at": "2026-05-24T20:00:00-07:00"
     },
@@ -509,7 +809,13 @@
       "session": "morning",
       "file": "reports/2026-05-25-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 87: Khamenei Rejects US Enrichment Demand as 'Excessive'; Iran AND US Play Down Imminent Deal; Rubio 'Another Way' From New Delhi; WTI -5% to $91 / Brent $100 Floor; WPA 4 Days; OR Fire Day 18; Vibe 3",
       "generated_at": "2026-05-25T09:00:00-07:00"
     },
@@ -519,7 +825,13 @@
       "session": "evening",
       "file": "reports/2026-05-25-evening.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 87: Nuclear Enters Deal Framework — Iran Agrees 'Never Pursue Nuclear Weapons' + Negotiate Enrichment Suspension + HEU Removal; No Khamenei Confirmation; Brent $102-106; WPA 4 Days; OR Fire Day 18 Memorial Day Peak Ignition Risk; Vibe 4 Firmer",
       "generated_at": "2026-05-25T20:00:00-07:00"
     },
@@ -529,7 +841,13 @@
       "session": "morning",
       "file": "reports/2026-05-26-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Overnight: CENTCOM Self-Defense Strikes IRGC Mine-Laying Boats + Bandar Abbas SAM Site; IRGC Shoots Down MQ-9, Warns Retaliation; Ceasefire Fraying but Not Over; WPA 3 Days; Congress Returns; Columbia Gorge Fires; Warsh Oath Today; Vibe 3",
       "generated_at": "2026-05-26T07:00:00-07:00"
     },
@@ -539,7 +857,13 @@
       "session": "evening",
       "file": "reports/2026-05-26-evening.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 88: Washington Reports Khamenei Endorsed Deal Template; Markets Rally Dow +294; Warsh Operational Oath; Austria Intel Asserts Iran Nuclear Program; WPA 3 Days Hard Deadline; Congress Returns; OR Fire Day 19; PNW Summer Hotspot; Vibe 5",
       "generated_at": "2026-05-26T20:00:00-07:00"
     },
@@ -549,7 +873,13 @@
       "session": "morning",
       "file": "reports/2026-05-27-morning.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "CBS: Khamenei in Hiding, Communicates Via Couriers — Deal Latency Structural Not Collapse; May 26 Endorsement Stands; CPI 3.7% Due 8:30 AM; WPA T-2; Gorge Both-Sides Fire; Portland 78°F Today; Vibe 4",
       "generated_at": "2026-05-27T07:00:00-07:00"
     },
@@ -559,7 +889,13 @@
       "session": "evening",
       "file": "reports/2026-05-27-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Shamkhani Calls Nuclear Control 'Fantasy'; Araghchi 'Unsure If Imminent'; April CPI 3.8% Above Forecast; WPA T-2; Warsh Day 13 Silent; I-84 Biggs Junction Fire Contained; PNW 80°F Thursday; Vibe 3",
       "generated_at": "2026-05-27T20:00:00-07:00"
     },
@@ -569,7 +905,13 @@
       "session": "morning",
       "file": "reports/2026-05-28-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 90 = WPA T-1: Israel-Lebanon Ceasefire Day 12 Fraying — Waves of Strikes Hit Tyre/Sidon/Dahiyeh; PCE Core 3.3% In-Line; Trump 'Won't Be Rushed,' Threatens Oman; Portland First 80°F; Vibe 3",
       "generated_at": "2026-05-28T07:00:00-07:00"
     },
@@ -579,7 +921,13 @@
       "session": "evening",
       "file": "reports/2026-05-28-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "WPA T-1: Final Pre-Deadline Day Closes Without Emergency Session; Portland Confirms First 80°F Day; Cleveland Nowcast 4.18%; Shamkhani Nuclear Challenge Day 1 Unresolved; Warsh Day 14 Silent; Vibe 3",
       "generated_at": "2026-05-28T20:00:00-07:00"
     },
@@ -589,7 +937,13 @@
       "session": "morning",
       "file": "reports/2026-05-29-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "WPA Day 90 Hard Constitutional Deadline Arrives — Trump MOU Sign-Off 'Still TBD' (Vance); Hormuz Day 91; Warsh Day 15 Silent 17 Days to FOMC; Portland 61°F Cooling Before Sunday 90°F; Fire Day 22 T-3 to East Cascades Onset; Vibe 3",
       "generated_at": "2026-05-29T07:00:00-07:00"
     },
@@ -599,7 +953,13 @@
       "session": "evening",
       "file": "reports/2026-05-29-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "WPA Day 90 Arrives Without Escalation; Iran 'Broad Principles' 60-Day MOU Agreed at Negotiator Level — Khamenei Gap Persists; Trump 'Time Is On Our Side'; May 28 S&P/Nasdaq Records; Portland 61°F Temperature Turbulence; Vibe 3",
       "generated_at": "2026-05-29T20:00:00-07:00"
     },
@@ -609,7 +969,13 @@
       "session": "morning",
       "file": "reports/2026-05-30-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Situation Room Concludes Without Decision — 'Final Determination' Pending; Khamenei Gap Day 1; WPA Day 91 No Enforcement; S&P 7,580 / Nasdaq 26,972 / Dow 51,032 Records; Portland Heat Advisory Sunday 92°F; NIFC June 1 Onset T-2; Vibe 3",
       "generated_at": "2026-05-30T07:00:00-07:00"
     },
@@ -619,7 +985,13 @@
       "session": "evening",
       "file": "reports/2026-05-30-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Trump Situation Room Concludes Without Decision — 'Final Determination' Pending; Khamenei Gap Day 2; Deal 'Nears Finish Line' But Both Principals Unsigned; Nasdaq 26,972 Record; Portland Heat Advisory Sunday 92°F; NIFC June 1 Onset T-1; Vibe 3",
       "generated_at": "2026-05-30T20:00:00-07:00"
     },
@@ -629,7 +1001,13 @@
       "session": "morning",
       "file": "reports/2026-05-31-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Longview Paper Mill Implosion Day 6 — 11 Dead (WA Deadliest Since 1930); Heat Advisory Imminent 8 AM 92°F; NIFC June 1 Onset T-1; Trump 'Final Determination' Pending Day 3; Khamenei Gap Day 3; WPA Day 92; Reconciliation 2.0 T-1; Vibe 3",
       "generated_at": "2026-05-31T07:00:00-07:00"
     },
@@ -639,7 +1017,13 @@
       "session": "evening",
       "file": "reports/2026-05-31-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Heat Advisory Materializes Sunday 92°F — Record Potential; NIFC June 1 Onset T-1; Trump 'Final Determination' Pending Day 3; Khamenei Gap Day 3; Hormuz Day 93; Shangri-La Dialogue Closes; Q1 GDP Revised to 1.6%; Vibe 3",
       "generated_at": "2026-05-31T20:00:00-07:00"
     },
@@ -649,7 +1033,13 @@
       "session": "morning",
       "file": "reports/2026-06-01-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "NIFC June 1 T-0: Above-Normal Fire Formal Today; FEMA Hurricane Season Opens Shorthanded; Trump Final Determination Day 4; WPA Day 93 Day 3 Past Deadline; Reconciliation Floor Target Today; Measles At 2,000; Vibe 3",
       "generated_at": "2026-06-01T07:00:00-07:00"
     },
@@ -659,7 +1049,13 @@
       "session": "evening",
       "file": "reports/2026-06-01-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "NIFC June 1 Above-Normal Fire Formal; Measles 2,000 Threshold Crossed; Reconciliation 2.0 Slipped; Trump Editing Iran Deal Text Day 4; FEMA Hurricane Season Opens Degraded; Longview All 11 Recovered; Vibe 3",
       "generated_at": "2026-06-01T20:00:00-07:00"
     },
@@ -669,7 +1065,13 @@
       "session": "morning",
       "file": "reports/2026-06-02-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Iran Suspends Communications Day 1 — Brent $94.58; June 2–3 Israel-Lebanon Talks Today; Reconciliation 2.0 Stuck; Sound Transit $34.5B Gap; Warsh Day 19; WPA Day 94 Day 4 Past Deadline; Vibe 3",
       "generated_at": "2026-06-02T07:00:00-07:00"
     },
@@ -679,7 +1081,13 @@
       "session": "morning",
       "file": "reports/2026-06-03-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Iran Comms Suspension Day 2 → Resolving: CNN Source Talks Back on Track, Rubio Khamenei 'More Active'; Lebanon Talks Final Session Today; Warsh Trimmed-Mean Signal; King County Transit Measles Case; NIFC Above-Normal Day 3; Vibe 3 Firmer Floor",
       "generated_at": "2026-06-03T07:00:00-07:00"
     },
@@ -689,7 +1097,13 @@
       "session": "evening",
       "file": "reports/2026-06-03-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Iran Comms Suspension Resolving — Rubio: Khamenei 'More Active,' Trump: Deal 'Over Next Week'; Lebanon Partial Beirut Truce; NIFC Above-Normal Day 3; Reconciliation 2.0 Anti-Weaponization Deadlock; Warsh Day 20; Vibe 3 Firmer",
       "generated_at": "2026-06-03T20:00:00-07:00"
     },
@@ -699,7 +1113,13 @@
       "session": "morning",
       "file": "reports/2026-06-04-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 97: Iran Comms Resolving Day 3 — Beirut-Suburbs Truce Day 1; WPA Day 96 Day 6 Past Deadline; Warsh Day 21 Silent 12 Days to FOMC; NIFC Above-Normal Day 4; Iowa Primary Today; Vibe 3",
       "generated_at": "2026-06-04T07:00:00-07:00"
     },
@@ -709,7 +1129,13 @@
       "session": "evening",
       "file": "reports/2026-06-04-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Iran Comms Suspension RESOLVED — Confirmed; Beirut-Suburbs Truce Day 2 Intact; MOU Unsigned Day 7; Reconciliation 'First Real GOP Resistance'; Iowa Feenstra Primary Loss; Warsh Day 21 Silent 12 Days to FOMC; NIFC Above-Normal Day 4; Vibe 3 Holding",
       "generated_at": "2026-06-04T20:00:00-07:00"
     },
@@ -719,7 +1145,13 @@
       "session": "morning",
       "file": "reports/2026-06-05-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 98: Iran Comms Resolved Day 1 — Hezbollah REJECTS Full Lebanon Framework; WPA House 215-208; Beirut Partial Truce Day 3 Overnight Clean; Iowa Lahn Defeats Trump-Backed Feenstra; Warsh Day 22 Silent 11 Days to FOMC; NIFC Above-Normal Day 5; Vibe 3",
       "generated_at": "2026-06-05T07:00:00-07:00"
     },
@@ -729,7 +1161,13 @@
       "session": "evening",
       "file": "reports/2026-06-05-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Trump MOU Amendment Counter-Demand Day 1 — Immediate Hormuz Transfer + Tighter Nuclear Terms; Mojtaba Khamenei Template Endorsement Confirmed; Philly Fed Q2 CPI 6.0% Annualized; Washington Statewide Drought Emergency (4th Year); Super El Niño 1-in-4; Warsh Day 22 Silent 11 Days to FOMC; Vibe 3",
       "generated_at": "2026-06-05T20:00:00-07:00"
     },
@@ -739,7 +1177,13 @@
       "session": "morning",
       "file": "reports/2026-06-06-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Senate DHS/ICE 52-47 Overnight; Ghalibaf 'Concessions Via Missiles'; MOU Breaches 8 of 10 Khamenei Conditions; Sunday June 7 Signing Window; Hormuz D-99 D-100 Tomorrow; Measles 2,030 Dispersal Tomorrow; NIFC Above-Normal Day 6 East Cascades; Washington Drought Emergency Day 2; FIFA T-5; Vibe 3",
       "generated_at": "2026-06-06T07:00:00-07:00"
     },
@@ -749,7 +1193,13 @@
       "session": "evening",
       "file": "reports/2026-06-06-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Ghalibaf 'Concessions Via Missiles'; Draft MOU Breaches 8 of 10 Khamenei Conditions; Sunday June 7 Signing Window Referenced; Senate DHS/ICE Reconciliation 52-47 Final; T-HUD -10.4% Markup Confirmed; Measles 2,030 School Dispersal Day 1; Hormuz D-99; Vibe 3 Lower Edge",
       "generated_at": "2026-06-06T20:00:00-07:00"
     },
@@ -759,7 +1209,13 @@
       "session": "morning",
       "file": "reports/2026-06-07-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 100: Sunday MOU Signing Window Open — Iran Amendment Counter-Demand Day 2; Armenia Elections Underway; Peru Runoff Today; Warsh Day 24 Silent 9 Days to FOMC; NIFC Above-Normal Day 7; East Cascades Above Normal; Oregon 83% Drought; Washington Drought Emergency Day 3; FIFA T-4; Vibe 3",
       "generated_at": "2026-06-07T07:00:00-07:00"
     },
@@ -769,7 +1225,13 @@
       "session": "evening",
       "file": "reports/2026-06-07-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 100: Sunday Signing Window Passes Without Confirmed Deal — US-Iran Gap Narrowing; Beirut Truce Day 5; Armenia Elections Pashinyan; Oregon 83% Drought; NSF Ocean Observatories Going Dark Off PNW Coast; Warsh Day 24 Silent; NIFC Above-Normal Day 7; FIFA T-4; Vibe 3 Lower Edge",
       "generated_at": "2026-06-07T20:00:00-07:00"
     },
@@ -779,7 +1241,13 @@
       "session": "morning",
       "file": "reports/2026-06-08-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 101 Morning: Sunday Window Missed, Counter-Demand Day 3 — Armenia Pashinyan Projected; Peru Fujimori Leading ONPE; CPI Wednesday T-2; WPA Day 100 Milestone; Warsh Day 25 FOMC T-8; FIFA T-3 Co-Response Window NOW LIVE; Washington Drought Day 4; NOAA Geomagnetic Storm Warning PNW; Vibe 3",
       "generated_at": "2026-06-08T07:00:00-07:00"
     },
@@ -789,7 +1257,13 @@
       "session": "evening",
       "file": "reports/2026-06-08-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 101 — MOU Counter-Demand Day 4 Monday No New Response; WPA Day 100 Milestone; FIFA T-3 Co-Response Window Now Live; Warsh Day 25 FOMC T-8; Beirut Truce Day 6; Peru Fujimori Leading ONPE; Measles CIDRAP Slowing Signal; Vibe 3 Lower Edge",
       "generated_at": "2026-06-08T20:00:00-07:00"
     },
@@ -799,7 +1273,13 @@
       "session": "morning",
       "file": "reports/2026-06-09-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 102 — Counter-Demand Day 5: Tuesday Open No New Iranian Response; Peru Sanchez ONPE Reversal Overnight (50.10%); May CPI T-1 (June 10); House DHS/ICE Floor Vote Window Opens Today; WPA Day 101 Day 11 Past Deadline; Warsh Day 26 FOMC T-7; FIFA T-2 Co-Response Live Day 2; Washington Drought Day 5; Brent $93–94; Vibe 3",
       "generated_at": "2026-06-09T07:00:00-07:00"
     },
@@ -809,7 +1289,13 @@
       "session": "evening",
       "file": "reports/2026-06-09-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 102 — Counter-Demand Day 5; Peru SANCHEZ REVERSAL (50.10% vs Fujimori 49.90%); Seattle CCTV Activated 'Credible Threats'; Brent $95–97 Upper-Register; May CPI T-1 (June 10); FIFA T-2 Co-Response Live; Warsh Day 26 FOMC T-7; Vibe 3 Lower Edge",
       "generated_at": "2026-06-09T20:00:00-07:00"
     },
@@ -819,7 +1305,13 @@
       "session": "morning",
       "file": "reports/2026-06-10-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "May CPI 4.2% YoY In-Line (Highest Since April 2023); Counter-Demand Day 6 No Overnight Response; FIFA Global Opening T-1; Seattle CCTV Activated; NIFC-FIFA Co-Response Live Day 3; Warsh Day 27 FOMC T-6; Vibe 3 Firmer",
       "generated_at": "2026-06-10T07:00:00-07:00"
     },
@@ -829,7 +1321,13 @@
       "session": "evening",
       "file": "reports/2026-06-10-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "May CPI 4.2% YoY — Highest Since April 2023; House DHS/ICE PASSES 214-212; Hormuz Counter-Demand Day 6 No Response; FIFA Global Opening T-1; Brent ~$94 Easing; Warsh Day 27 FOMC T-6; Vibe 3 Firmer",
       "generated_at": "2026-06-10T20:00:00-07:00"
     },
@@ -839,7 +1337,13 @@
       "session": "morning",
       "file": "reports/2026-06-11-morning.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "FIFA World Cup Global Opening Today; May PPI +1.1% vs +0.7% Consensus (12-Month 6.5%); DHS/ICE 214-212 En Route to Trump; Counter-Demand Day 7 No Overnight Response; NIFC-FIFA Co-Response FULLY ACTIVE; Warsh Day 28 Silent FOMC T-5; Vibe 3 Lower Edge",
       "generated_at": "2026-06-11T07:00:00-07:00"
     },
@@ -849,7 +1353,13 @@
       "session": "evening",
       "file": "reports/2026-06-11-evening.json",
       "vibe": 3,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 104: FIFA World Cup Opens Day 1 — Mexico City Match Clean; NATO Incirlik Strike Reported (Unconfirmed); Counter-Demand Day 7 No Response; DHS/ICE En Route to Trump; FOMC T-5; Warsh Day 28 Silent; WA Drought Day 7; Vibe 3 Lower Edge",
       "generated_at": "2026-06-11T20:00:00-07:00"
     },
@@ -859,7 +1369,13 @@
       "session": "morning",
       "file": "reports/2026-06-13-morning.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Pakistani PM 'Final Text' Known by Morning; Trump 4 C-17s Depart for Europe — Vance Geneva Prep; Iran FM 'No Final Decision'; Extreme Heat Warning June 14-16 T-24 — FIFA Seattle Opener T-2; FOMC T-3 Pre-Meeting Weekend Quiet; Measles 2,073; Vibe 4",
       "generated_at": "2026-06-13T07:00:00-07:00"
     },
@@ -869,7 +1385,13 @@
       "session": "evening",
       "file": "reports/2026-06-13-evening.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Pakistani PM 'Final, Agreed-Upon Text' Reached; Trump 'Weekend in Europe' Signing Window; June 12 US Shoots Down 2 Iranian Drones; Extreme Heat Warning June 14-16 Lands on FIFA Seattle Opener; FOMC T-3 Warsh Inaugural; Vibe 4",
       "generated_at": "2026-06-13T20:00:00-07:00"
     },
@@ -879,7 +1401,13 @@
       "session": "morning",
       "file": "reports/2026-06-14-morning.json",
       "vibe": 4,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Trump Names June 14 Signing Date; Qatari Mediators In Tehran; Brent $86.5 Pre-Pricing Deal; MOU: Hormuz Immediate Reopening + $25B + Oil Sanctions Waived; Heat Warning Day 1 Active; FIFA Opener T-1 Under Peak Heat; FOMC T-2 SEP Dot Plot; Vibe 4 Upper Edge",
       "generated_at": "2026-06-14T07:00:00-07:00"
     },
@@ -889,7 +1417,13 @@
       "session": "morning",
       "file": "reports/2026-06-15-morning.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Deal Declared 'Now Complete' June 14 — Naval Blockade Dissolution Day 1; Signing June 19 Geneva; Israel Strikes Beirut Trump 'Don't Blow It'; FOMC T-1 Warsh SEP; FIFA Seattle TODAY Noon Peak Heat Day 2; Measles Peak Amplification Day; Vibe 5",
       "generated_at": "2026-06-15T07:00:00-07:00"
     },
@@ -899,7 +1433,13 @@
       "session": "evening",
       "file": "reports/2026-06-15-evening.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Trump Declares Deal 'Now Complete' June 14 — Naval Blockade Dissolution Day 1; Signing June 19 Switzerland; Israel Strikes Beirut 3 Dead — Trump 'Don't Blow It'; FOMC T-1 Warsh Inaugural SEP; Seattle 90°F FIFA Opener Complete; Military Jet Wildfire Rimrock Lake Suppressed; Vibe 5",
       "generated_at": "2026-06-15T20:00:00-07:00"
     },
@@ -909,7 +1449,13 @@
       "session": "morning",
       "file": "reports/2026-06-16-morning.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 109 — Deal T-3 Lebanon Quiet Day 1; FOMC Day 1 Warsh SEP Opens; WTI $81 Dissolution Phase 1 Confirmed; Juniper Dunes + Twin Sisters WA 0% Containment Emerging; Extreme Heat Warning Day 3 Final; Vibe 5",
       "generated_at": "2026-06-16T07:00:00-07:00"
     },
@@ -919,7 +1465,13 @@
       "session": "evening",
       "file": "reports/2026-06-16-evening.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 109 — Deal T-3: Lebanon Quiet Day 1; WTI $81 Monday Open Confirmed; FOMC Day 1 Warsh SEP In Session; Juniper Dunes + Twin Sisters (WA) 6,000+ Acres 0% Containment; PNW Peak Heat Day 95-100°F; Vibe 5",
       "generated_at": "2026-06-16T20:00:00-07:00"
     },
@@ -929,7 +1481,13 @@
       "session": "morning",
       "file": "reports/2026-06-17-morning.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 110 — Deal T-2: Lebanon Quiet Day 1 Cleared; G7 Évian Final Day; FOMC PENDING 2PM Warsh Inaugural Presser; Oregon Wildfire Emergency EO 26-10 Day 2; Extreme Heat Warning Active; FERC Large Load Decision Tomorrow; Vibe 5",
       "generated_at": "2026-06-17T07:00:00-07:00"
     },
@@ -939,7 +1497,13 @@
       "session": "evening",
       "file": "reports/2026-06-17-evening.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 110 — Deal T-2: Lebanon Quiet Day 2; FOMC Hold Confirmed — Warsh Inaugural Press Conference Delivered; G7 Évian Concluding; Heat Wave Breaking; NEW: Lake Sutherland Fire Olympic Peninsula Day 1; Juniper Dunes + Twin Sisters First Containment Window; Vibe 5",
       "generated_at": "2026-06-17T20:00:00-07:00"
     },
@@ -949,7 +1513,13 @@
       "session": "morning",
       "file": "reports/2026-06-18-morning.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 111 — Deal T-1: Lebanon Quiet Day 2 CLEARED; Day 3 Final Performance Test In Progress; Geneva Signing T-1; Warsh Inaugural Presser HAWKISH (9 Dots, Dow -507); FERC Large Load Decision TODAY; Upriver Fire WUI Day 2 — 11K+ Evacuations, 15+ Homes; Heat Wave Expiring; Vibe 5",
       "generated_at": "2026-06-18T07:00:00-07:00"
     },
@@ -959,7 +1529,13 @@
       "session": "evening",
       "file": "reports/2026-06-18-evening.json",
       "vibe": 6,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 111 — Deal T-1: Lebanon Quiet Day 3 CLEARED — All Pre-Signing Tests Passed; Geneva Signing T-0 Tomorrow; WTI ~$75 Fifth Decline; Upriver Fire Spokane WUI Day 2 (11K+ Evacuations, 15+ Homes Lost, FEMA Request); Juniper Dunes 20% + Twin Sisters 65% BREAKTHROUGH; Multnomah Co. 4 Heat Deaths; Georgia: Trump-Backed Jones Loses Governor Runoff; Vibe 6",
       "generated_at": "2026-06-18T20:00:00-07:00"
     },
@@ -969,7 +1545,13 @@
       "session": "morning",
       "file": "reports/2026-06-19-morning.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 112 — Geneva Signing T-0: Lebanon Overnight Violence Threatens Physical Ceremony; Digital Signing Protocol Active; Juneteenth Markets Closed; FERC Large Load Show Cause Orders to 6 ISOs/RTOs June 18; Upriver Fire Day 3 — 1 Confirmed Dead, Evacuation Levels Dropping; Obama Presidential Center Opens; Vibe 5",
       "generated_at": "2026-06-19T07:00:00-07:00"
     },
@@ -979,7 +1561,13 @@
       "session": "evening",
       "file": "reports/2026-06-19-evening.json",
       "vibe": 6,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 112 — Deal SIGNED DIGITALLY: MOU in Force; Geneva Ceremony Cancelled; Tanker Traffic Unchanged — Commercial Lag Active; WTI ~$74; Upriver Fire Day 3 — Possible Human Remains Found (First Casualty Investigation 2026 PNW Season); Evacuation Partially Downgraded; Johnson Signals July 2 Reconciliation 2.0 Floor Date; Seattle FIFA USA vs Australia Completed No Incident; Vibe 6",
       "generated_at": "2026-06-19T20:00:00-07:00"
     },
@@ -989,7 +1577,13 @@
       "session": "morning",
       "file": "reports/2026-06-20-morning.json",
       "vibe": 6,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 113 — MOU Signed, In Force, Nuclear 60-Day Clock Day 1; First Commercial Tankers Transit Hormuz (Chinese-Led, 18+ Transits); CENTCOM Dissolution Day 6; Markets Weekend Closed — Monday June 22 First Session; Upriver Fire Day 4 — Fatality Confirmed, Containment Advancing Rapidly; Reconciliation 2.0 July 2 T-12; Vibe 6",
       "generated_at": "2026-06-20T07:00:00-07:00"
     },
@@ -999,7 +1593,13 @@
       "session": "evening",
       "file": "reports/2026-06-20-evening.json",
       "vibe": 6,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 113 — First Tanker Traffic Resumes (20+ Vessels; WTI ~$77 Recovering); Upriver Fire Fatality CONFIRMED (1 Dead; First 2026 PNW Season); 39% Containment Breakthrough; Reconciliation 2.0 July 2 T-12; Colombia Runoff Tomorrow; FERC Large Load Show Cause Orders 6 ISOs; Vibe 6",
       "generated_at": "2026-06-20T20:00:00-07:00"
     },
@@ -1009,7 +1609,13 @@
       "session": "morning",
       "file": "reports/2026-06-21-morning.json",
       "vibe": 6,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 114 — Nuclear 60-Day Clock Day 3; Tanker Traffic 20+ Vessels, Kpler 40/Day Projection; June 22 First Full Market Session T-1; Colombia Runoff TODAY; Heat Advisory WA/OR June 22-23 (Seattle 90°F / Portland 100°F+); Upriver Fire Day 5 60% Contained; Measles 2,104 Cluster ID Window T-1; Vibe 6",
       "generated_at": "2026-06-21T07:00:00-07:00"
     },
@@ -1019,7 +1625,13 @@
       "session": "evening",
       "file": "reports/2026-06-21-evening.json",
       "vibe": 6,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 114 — Iranian Supertankers Reactivating Transponders (Highest-Confidence Compliance Signal); Kpler 40-Transits/Day In 30 Days; HEAT ADVISORY Western WA June 22-23 (Seattle 90°F; Portland 100°F+; East Cascades T-8); Colombia Runoff Concluded (Early Returns Favor de la Espriella); Measles Cluster ID Window Opens June 22; Reconciliation 2.0 T-11 FC Signaling Yes; Vibe 6",
       "generated_at": "2026-06-21T20:00:00-07:00"
     },
@@ -1029,7 +1641,13 @@
       "session": "evening",
       "file": "reports/2026-06-22-evening.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 115 — Iran CONTESTED RE-CLOSURE (Lebanon MOU Breach); CENTCOM Confirms 55 Vessels Transited; Switzerland Talks CANCELED Day 1 (Vance; Swiss FM); New Israel-Hezbollah Ceasefire In Force; WTI $76.46 Open; Monday Equity Futures DOWN; NEW Kartar Fire WA 11,679 Acres 15% Contained; Six Concurrent WA Fires; Upriver 75% + FEMA Approved; Measles Window Day 1 Clean; Colombia De La Espriella Leading Escrutinio; Vibe 5",
       "generated_at": "2026-06-22T20:00:00-07:00"
     },
@@ -1039,10 +1657,32 @@
       "session": "morning",
       "file": "reports/2026-06-23-morning.json",
       "vibe": 5,
-      "domains": ["geopolitical", "economic", "infrastructure", "domestic", "local_pnw"],
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
       "headline": "Hormuz Day 116 — Lebanon Ceasefire Night 1 Nominal (Hour ~14 Of 48h Threshold); Witkoff/Araghchi Partial Swiss Technical Contact (NOT Formal Round 1); Kartar Fire ~11,700 Acres 15% — Red Flag Day 2 Acute Spread Test; WTI $74-76 Modest Decline; Heat Advisory Final Day; Reconciliation 2.0 T-9 Rules Committee T-7; Measles Window Day 2 Clean; Vibe 5",
       "generated_at": "2026-06-23T06:00:00-07:00"
+    },
+    {
+      "id": "2026-06-23-evening",
+      "date": "2026-06-23",
+      "session": "evening",
+      "file": "reports/2026-06-23-evening.json",
+      "vibe": 5,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 116 — Lebanon Ceasefire Hour ~24 Of 48-Hour Threshold (Nominal; Approaching Critical Midpoint); Witkoff/Araghchi Switzerland Technical Talks CONFIRMED; SCOTUS 6-3 Louisiana v. Callais (VRA Section 2 Bar Raised; Alabama Map Applied; CRITICAL DOMESTIC SHOCK); Super El Niño Warning Emerging (KLCC; Critically Dry 2026-27 PNW Winter); Heat Advisory Expiring Tonight; Kartar Fire Post-Daytime Test (ICS-209 Pending); Weather Relief T-1; Measles Day 2 Clean; Vibe 5",
+      "generated_at": "2026-06-23T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-23T06:00:00-07:00"
+  "last_updated": "2026-06-23T20:00:00-07:00"
 }
