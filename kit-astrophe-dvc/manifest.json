@@ -1698,7 +1698,23 @@
       ],
       "headline": "Hormuz Day 117 — Kartar Fire 40% Contained OVERNIGHT (Level 3 Evacuations Downgraded To Level 2; Major Progress); WTI $73.67 Breaks $74 Normalization Floor (Market Confidence Signal Active); Lebanon Ceasefire Hour ~36 Of 48h Threshold (Approaching Clearance Window Today); NBC: First Round US-Iran Negotiations Concluded; Weather Relief ARRIVING TODAY; SCOTUS Birthright Citizenship + Mail Ballot Outstanding (~June 30); Reconciliation 2.0 T-8 / Rules T-6; Vibe 6",
       "generated_at": "2026-06-24T07:00:00-07:00"
+    },
+    {
+      "id": "2026-06-24-evening",
+      "date": "2026-06-24",
+      "session": "evening",
+      "file": "reports/2026-06-24-evening.json",
+      "vibe": 5,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 117 Compliance Day 6 — Lebanon Ceasefire Hour ~52 (48h Threshold PASSED; No Formal Void Declaration; Iran Re-Closure NOT Retracted); Nuclear Inspection Dispute EMERGING (IAEA Bombed Sites; Fund Control; Switzerland Round 2 Complicated); S&P 500 -1.44% (7,365.46) / Nasdaq -2.21% (25,587.04) June 23 Close — Tech/Semiconductor Selloff; WTI Second Day Below $74 (~$73.7); Kartar Fire 40% Holding (Weather Relief CONFIRMED ARRIVED; Thursday Night Showers T-1); East Cascades Onset T-4; NSF Newport OR T-3 To Monitoring Gap (IMMINENT); Reconciliation 2.0 T-5 Rules (Wednesday Scheduling PASSED Unresolved); SCOTUS Birthright + Mail Ballot Outstanding (~June 30); Measles Day 4 CLEAN; Vibe 5",
+      "generated_at": "2026-06-24T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-24T07:00:00-07:00"
+  "last_updated": "2026-06-24T20:00:00-07:00"
 }
