@@ -1714,7 +1714,23 @@
       ],
       "headline": "Hormuz Day 117 Compliance Day 6 — Lebanon Ceasefire Hour ~52 (48h Threshold PASSED; No Formal Void Declaration; Iran Re-Closure NOT Retracted); Nuclear Inspection Dispute EMERGING (IAEA Bombed Sites; Fund Control; Switzerland Round 2 Complicated); S&P 500 -1.44% (7,365.46) / Nasdaq -2.21% (25,587.04) June 23 Close — Tech/Semiconductor Selloff; WTI Second Day Below $74 (~$73.7); Kartar Fire 40% Holding (Weather Relief CONFIRMED ARRIVED; Thursday Night Showers T-1); East Cascades Onset T-4; NSF Newport OR T-3 To Monitoring Gap (IMMINENT); Reconciliation 2.0 T-5 Rules (Wednesday Scheduling PASSED Unresolved); SCOTUS Birthright + Mail Ballot Outstanding (~June 30); Measles Day 4 CLEAN; Vibe 5",
       "generated_at": "2026-06-24T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-25-evening",
+      "date": "2026-06-25",
+      "session": "evening",
+      "file": "reports/2026-06-25-evening.json",
+      "vibe": 5,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 118 Compliance Day 7 — Iran Parliament Ratification Vote Window CLOSED JUNE 25 (Outcome Not Confirmed); Kartar Fire 80% MILESTONE (40→80pp In 24h; Thursday Showers Delivered; All Evacuations Downgraded); Lebanon Ceasefire Hour ~76 (72h CLEARED; 96h T-~20); SCOTUS June 25 Anticipated Opinion Day (Trump v. Barbara + Watson v. RNC Possibly Issued; No Confirmed Ruling); Wall Street Rebounds (PCE June 27 EXPECTED; Wells Fargo 4.1% Annual); NSF Newport OR T-2 To Monitoring Gap (~June 28); East Cascades Onset T-3; Reconciliation 2.0 T-4 Rules (Friday Critical); Measles Day 5 CLEAN; Vibe 5",
+      "generated_at": "2026-06-25T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-24T20:00:00-07:00"
+  "last_updated": "2026-06-25T20:00:00-07:00"
 }

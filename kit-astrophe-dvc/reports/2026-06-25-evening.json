@@ -1,0 +1,397 @@
+{
+  "report_id": "2026-06-25-evening",
+  "generated_at": "2026-06-25T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 118 Compliance Day 7 — Iran Parliament Ratification Vote WINDOW CLOSED JUNE 25 (Outcome Not Confirmed; Passage Unlocks Executive/IRGC Re-Closure Retraction Pathway); Lebanon Ceasefire Hour ~76 (72h Threshold CLEARED; 96h T-~20 Hours; No Formal Void Declaration; Tactical Violations Ongoing; Trajectory: Nominal Hold); Iran Re-Closure STILL FORMALLY OPERATIVE (Not Retracted; Lloyd's Blocked; CENTCOM Transit Day 7; Market Intelligence: Symbolic Character — 25 AIS Transits June 22); Nuclear Inspection Dispute ONGOING (IAEA Bombed Sites; Pakistan Mediating; Switzerland Round 2 Framing Active); Netanyahu Withdrawal Timeline Announcement EXPECTED JUNE 25 (Ceasefire Structural Gate; Not Confirmed Through Evening Brief); WTI Day 3 Below $74 (~$73.7 Range; Iranian 60-Day License Active; Gulf Producers Lifting; Pump Relief Gated On Lloyd's); Wall Street REBOUNDING (June 25 Intraday; PCE DATA JUNE 27 EXPECTED — Wells Fargo +0.5% MoM / 4.1% Annual; Micron Earnings Awaited); Warsh Hold 3.50-3.75% (9 Hike Dots; PCE 3.6% SEP); Kartar Fire 80% Containment MILESTONE (Thursday Showers DELIVERED; All Evacuations DOWNGRADED OR LIFTED; Personnel 260→210; Aerial Resources HALTED; Ground Consolidating; MAJOR PNW WIN; 40→80pp In 24h); East Cascades Onset T-3 (~June 29; Kartar Compounding Risk MATERIALLY REDUCED); NSF Newport OR T-2 To Monitoring Gap (~June 28; No Bridge Announced; IMMINENT; Opens During Onset T-3); BPA Grid STABLE Day 5 Post-Advisory; NIFC PL3 Day 8; Oregon EO 26-10 Day 11; SCOTUS June 25 Anticipated Opinion Day (Trump v. Barbara + Watson v. RNC POSSIBLY ISSUED; No Confirmed Ruling Through Evening Brief; Term-Ending Concentration; Louisiana v. Callais Operative); Reconciliation 2.0 T-4 Rules / T-6 Floor (Thursday PASSED UNRESOLVED; Friday Now Critical T-3 Rules); Measles CDC June 25 Update PENDING (FIRST Since FIFA Window; Window Day 5 CLEAN Through Brief Time); Super El Niño Watch Active (25% Probability); Washington Drought Day 22 (4th Year; 50% Snowpack); L-Pod Orca Calf Week 3 / Entering Week 4 ALIVE; Oregon 21st Gray Whale Washup; Echinococcus Surveillance Active; Acting DNI Day 36; Secure America Act Day 13; Colombia Escrutinio Day 5 (No Certification; Lead Holding); Ukraine Deadlocked; Peru ONPE Day 20; Amazon WA WARN Ongoing. Thursday June 25, 2026 evening. Vibe 5 — one-session hold. The June 25 evening brief is shaped by a bifurcated picture: the PNW fire-risk axis produced its most significant single-session operational milestone of the June period (Kartar Fire 40%→80% on Thursday showers delivery), while the geopolitical normalization chain has not materially advanced from the June 24 evening position. Iran's formal Hormuz re-closure declaration remains operative on Day 7 of contested compliance. The parliament ratification vote window closed June 25 without a publicly confirmed outcome — ratification would be the procedural upstream mechanism enabling an executive or IRGC re-closure modification, which is the Lloyd's normalization gate. Lebanon ceasefire cleared 72 hours and is approaching 96 without a formal void declaration. Wall Street rebounds from June 23's semiconductor selloff with PCE and Micron as the week's remaining economic catalysts. SCOTUS may have issued opinions on Trump v. Barbara and Watson v. RNC today — no confirmed rulings in the evening brief window. Reconciliation 2.0 Thursday scheduling slipped unresolved; Friday is the critical date.",
+  "vibe": {
+    "score": 5,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 5 — one-session hold from June 24 evening's Vibe 5. The hold reflects a session where one axis delivered a genuine milestone while the primary normalization gating conditions remained unchanged. The positive: Kartar Fire jumped from 40% to 80% containment in 24 hours, driven by the Thursday night showers that delivered on schedule — the most rapid single-day containment improvement of the fire period and the most significant PNW operational win since the acute June 22-23 escalation. All evacuations are downgraded or lifted; aerial resources have halted; personnel reduced to 210. The fire is tracking toward full containment ahead of the East Cascades onset window (T-3, approximately June 29). This materially reduces the compounding-resource-demand risk that has defined the PNW axis since June 22. Lebanon ceasefire has cleared the 72-hour stability threshold and is approaching the 96-hour mark — further consolidating the clearance of the first of three Vibe 7 conditions. Wall Street is rebounding from the June 23 semiconductor selloff, which removes the acute equity-market negative that characterized the June 24 evening. The reasons this does not upgrade to Vibe 6: (1) Iran's formal Hormuz re-closure retraction has not been issued. Day 7 of contested compliance with the parliament ratification window closed June 25 but no publicly confirmed outcome. Ratification is the procedural upstream condition for a downstream IRGC- or executive-level position change — that downstream action has not been announced. Lloyd's war-risk normalization remains blocked. The 118-tanker backlog and Kpler's normalization trajectory remain gated on Iran's formal move. (2) Nuclear inspection dispute between the US and Iran over IAEA access to bombed nuclear sites has not resolved — this is the most credible complication for Switzerland Round 2 framing and the 60-day MOU timeline. (3) SCOTUS June 25 anticipated opinion day introduced acute domestic uncertainty — Trump v. Barbara (birthright citizenship) and Watson v. RNC (mail ballot counting) possibly dropped today; no confirmed rulings through the evening brief window, but the combined legal concentration with Louisiana v. Callais operative creates the brief cycle's highest domestic legal risk density. (4) NSF Newport OR now T-2 from the monitoring gap (~June 28) — opening during the East Cascades T-3 onset window with no bridge announced. Kartar's 80% reduces but does not eliminate the risk. (5) Reconciliation 2.0 Thursday window passed unresolved; Friday is the last practical pre-deadline date before the June 30 Rules Committee deadline. Vibe 6 trigger conditions (any one sufficient): Iran parliament ratification confirmed AND downstream re-closure modification announced; Iran executive-level conditional suspension of re-closure declaration; Lloyd's preliminary war-risk normalization signal; SCOTUS term-end decisions clear without a major enforcement-mechanism ruling. Vibe 4 trigger conditions: Lebanon ceasefire formal collapse with resumed Hezbollah-IDF escalation; Iran IRGC active physical interdiction of Hormuz transit (absent through Day 7); SCOTUS birthright citizenship ruling with broad immediate enforcement mechanism triggering mass-litigation wave."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 118 Compliance Day 7 — Iran Parliament Ratification Vote Window CLOSED JUNE 25 (Outcome Not Confirmed; Passage Required For Executive/IRGC Re-Closure Retraction Pathway); Lebanon Ceasefire Hour ~76 (72h CLEARED; 96h T-~20; Nominal Hold; Tactical Violations Ongoing); Iran Re-Closure Formally OPERATIVE (Not Retracted; Lloyd's Blocked; CENTCOM Transit Day 7; Symbolic Character Per Market Intelligence); Nuclear Inspection Dispute Ongoing (IAEA Bombed Sites; Pakistan; Switzerland Round 2 Framing); Netanyahu Withdrawal Announcement Expected June 25; WTI Day 3 Below $74; Colombia Escrutinio Day 5; Ukraine Deadlocked; Peru ONPE Day 20; Acting DNI Day 36.",
+      "items": [
+        {
+          "headline": "Hormuz Day 118 Compliance Day 7 — Iran Parliament Ratification Vote Window Closes June 25 (Outcome Not Confirmed; Passage Unlocks Re-Closure Retraction); Lebanon Ceasefire Hour ~76 (72h CLEARED; 96h T-~20; No Void Declaration); Iran Re-Closure Formally Operative (CENTCOM Transit Day 7; Symbolic Not Physical Per Market Intelligence); Nuclear Inspection Dispute; WTI Day 3 Below $74; Netanyahu Withdrawal Expected June 25",
+          "summary": "The June 25 evening geopolitical picture is defined by three interlocking elements: the Lebanon ceasefire consolidating past the 72-hour threshold toward the 96-hour mark, Iran's parliament completing its MOU ratification vote window without a publicly confirmed outcome, and Iran's formal Hormuz re-closure declaration remaining operative for a seventh consecutive compliance day. The Lebanon ceasefire has held approximately 76 hours without a formal void declaration from either Israel or Hezbollah. Tactical violations continue on both sides — IDF infrastructure strikes in Lebanon persist; Hezbollah maintains rocket and anti-tank response against Israeli military positions — but the operative distinction between tactical violations and declared ceasefire collapse has held through the 72-hour threshold. The 96-hour mark (~20 hours out from the evening brief) is the next durability milestone. Netanyahu's withdrawal timeline announcement was identified in the June 24 watch list as the ceasefire's most consequential structural test: a credible phased-withdrawal commitment provides the political scaffolding for Iran's re-closure retraction to be domestically defensible. No confirmed Netanyahu announcement was available through the evening brief window. On Iran's parliament: the Majlis ratification vote was expected to conclude by June 25. Ratification is the procedural mechanism formally authorizing the Iranian executive and IRGC to comply with the MOU, including modifying the Hormuz re-closure declaration. A parliamentary rejection or conditional approval would materially complicate the MOU's 60-day framework. No confirmed outcome was available as of the evening brief. On the re-closure's operational character: market intelligence from Windward AI and Kpler AIS data continues to confirm that Iran's June 20-21 re-closure declaration functions as symbolic leverage rather than a physically enforced closure — 25 AIS-visible transits were recorded June 22, including French- and Qatari-linked LNG carriers, against CENTCOM's ongoing operational transit confirmation. The contested-but-open frame holds through Compliance Day 7. Lloyd's war-risk normalization remains the commercial gate: insurance premiums have not normalized; the 118-tanker backlog cannot be released commercially without Lloyd's announcement, which is gated on Iran's formal position change. WTI is trading approximately $73.7 — a third consecutive day below the $74 normalization-confidence floor, confirming sustained market repricing of normalization probability. The Swiss technical talks Round 2 framework remains complicated by the nuclear inspection dispute (IAEA access to bombed sites, contested between the US and Iran) and the Iranian challenge to the unfrozen asset control framework. Pakistan continues mediating. The US Treasury's 60-day suspension of Iranian oil sanctions remains active, and Gulf producers (Kuwait, ADNOC) continue lifting output.",
+          "significance": "CRITICAL",
+          "actors": ["Iran IRGC", "Iranian Majlis", "CENTCOM", "JD Vance", "Steve Witkoff", "Abbas Araghchi", "Masoud Pezeshkian", "Benjamin Netanyahu", "IDF", "Hezbollah", "Lebanese Armed Forces", "Lloyd's of London", "Kpler", "Windward AI", "IAEA", "Pakistan", "Qatar", "Swiss Foreign Ministry"],
+          "metrics": {
+            "hormuz_crisis_day": 118,
+            "mou_signed_date": "2026-06-17",
+            "mou_compliance_day": 7,
+            "iran_re_closure_declaration": "FORMALLY OPERATIVE — not retracted; Day 7; symbolic rather than physically enforced per market intelligence",
+            "iran_re_closure_physical_enforcement": "NOT CONFIRMED — CENTCOM transit operative Day 7; 25 AIS-visible transits June 22",
+            "centcom_transit_operative": true,
+            "contested_compliance_status": "OPERATIVE — Iran re-closure unretracted; Lloyd's blocked; Day 7",
+            "iran_parliament_ratification_vote_window": "CLOSED JUNE 25 — outcome not publicly confirmed as of evening brief",
+            "iran_parliament_ratification_significance": "PASSAGE required for downstream executive/IRGC formal re-closure retraction authorization",
+            "iran_re_closure_retraction_status": "NOT ISSUED — parliament window closed; no downstream retraction through evening brief",
+            "lloyds_normalization_announced": false,
+            "lloyds_gate_remaining": "Iran formal position change required — still operative Day 7",
+            "kpler_stuck_tanker_count": 118,
+            "wti_approximate": 73.7,
+            "wti_day3_below_74_floor": true,
+            "wti_normalization_floor": 74,
+            "wti_reescalation_ceiling": 82,
+            "wti_post_normalization_range_est": "$65-70",
+            "wti_full_reopening_supply_release_mn_bbl": 80,
+            "iran_60day_oil_sanctions_suspended": true,
+            "gulf_producers_lifting_output": true,
+            "kuwait_force_majeure_lifted": true,
+            "adnoc_supply_operations_resumed": true,
+            "lebanon_ceasefire_hour_approx": 76,
+            "lebanon_ceasefire_72h_threshold_cleared": true,
+            "lebanon_ceasefire_96h_threshold_hours_out": 20,
+            "lebanon_ceasefire_formal_void_declared": false,
+            "lebanon_ceasefire_status": "NOMINAL HOLD — Hour ~76; 72h cleared; 96h T-~20; tactical violations continuing; no declared failure",
+            "netanyahu_withdrawal_timeline_announcement": "EXPECTED JUNE 25 — ceasefire structural gate; not confirmed through evening brief",
+            "nuclear_inspection_dispute": "ONGOING — IAEA access to bombed Iranian nuclear sites; US-Iran disagreement; Pakistan mediating",
+            "iran_unfrozen_assets_dispute": "ACTIVE — Bahreini framework challenge; Iran asserts exclusive asset control",
+            "switzerland_round2_status": "FRAMING ACTIVE — nuclear inspection and asset disputes remain friction points",
+            "sixty_day_compliance_window_day": 7,
+            "sixty_day_window_end_projected": "2026-08-18",
+            "pgsa_transit_fees_waived": true,
+            "acting_dni_vacancy_day": 36,
+            "wpa_day": 118,
+            "wpa_status": "MOOT — MOU in force"
+          }
+        },
+        {
+          "headline": "Colombia Escrutinio Day 5 (No Certification; De La Espriella Lead Holding; Cepeda Contest Active); Ukraine Deadlocked; Peru ONPE Day 20 (Sanchez 50.10% / Fujimori 49.90%; Uncertified); NY House Balance Districts FINALIZED; Acting DNI Day 36",
+          "summary": "Secondary geopolitical threads on June 25 evening. Colombia escrutinio advances to Day 5 without a certification announcement. De La Espriella's 0.95-point preconteo lead (49.65% vs. Cepeda 48.70%) continues through formal vote review without a disqualifying counting irregularity finding. Cepeda's judicial contest remains active. Election law timelines project certification within the coming week absent an extraordinary irregularity. Inauguration remains August 7. Ukraine-Russia remains formally deadlocked: Russia's June 11 rejection of EU/Ukraine dialogue conditions stands unreversed; no formal multilateral session is scheduled. Frontline engagement continues attritionally. Peru ONPE advances to Day 20 — the 50.10%/49.90% working count remains uncertified, with the full official count expected early July. The margin is narrow enough that the complete count is operationally meaningful. New York House balance district primary results (NY-3, NY-4, NY-12, NY-17, NY-19) have finalized through the June 24-25 tabulation window. These define the DCCC/NRCC November 2026 resource allocation battlegrounds; finalized results enable summer fundraising targeting. Acting DNI advances to Day 36 — six consecutive weeks without Senate-confirmed IC leadership concurrent with the most complex multi-theater intelligence workload of the post-MOU period: Iran nuclear verification, Lebanon ceasefire monitoring, Switzerland technical intelligence, Colombia electoral security, Ukraine-Russia frontline tracking, and Peru electoral-fraud assessment.",
+          "significance": "MODERATE",
+          "actors": ["Abelardo de la Espriella", "Iván Cepeda", "Registraduría Nacional del Estado Civil", "Volodymyr Zelenskyy", "Vladimir Putin", "Roberto Sanchez", "Keiko Fujimori", "ONPE Peru", "DCCC", "NRCC", "Acting DNI"],
+          "metrics": {
+            "colombia_escrutinio_day": 5,
+            "colombia_preconteo_espriella_pct": 49.65,
+            "colombia_preconteo_cepeda_pct": 48.70,
+            "colombia_preconteo_margin_pp": 0.95,
+            "colombia_certification_status": "ONGOING — no certification; no disqualifying irregularity through Day 5",
+            "colombia_inauguration_date": "2026-08-07",
+            "peru_onpe_sanchez_pct": 50.10,
+            "peru_onpe_fujimori_pct": 49.90,
+            "peru_onpe_certified": false,
+            "peru_onpe_day": 20,
+            "ukraine_russia_status": "FORMALLY DEADLOCKED — Russia June 11 rejection stands; no session scheduled",
+            "ukraine_russia_victory_day_ceasefire": "EXPIRED — May 8-9; no follow-through",
+            "ny_house_balance_districts": ["NY-3", "NY-4", "NY-12", "NY-17", "NY-19"],
+            "ny_house_results_status": "FINALIZED — tabulation complete through June 25",
+            "acting_dni_vacancy_day": 36
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Wall Street REBOUNDING (June 25 Intraday Recovery From June 23 Selloff; PCE DATA JUNE 27 EXPECTED — Wells Fargo +0.5% MoM / 4.1% Annual; Micron Earnings Awaited); WTI Day 3 Below $74 (~$73.7; Pump Relief Gated On Lloyd's; Iran License Active; Gulf Output Lifting); Warsh Hold 3.50-3.75% Operative (9 Hike Dots; PCE 3.6% SEP); Reconciliation 2.0 T-4 Rules / T-6 Floor (Thursday UNRESOLVED; Friday Critical); FERC AI Large Load Day 8 (T-22 ~July 18); Amazon WA WARN Ongoing; Secure America Act Day 13.",
+      "items": [
+        {
+          "headline": "Wall Street Rebounding June 25 (PCE Data June 27 EXPECTED; Micron Earnings; Wells Fargo Projects PCE +0.5% MoM / 4.1% Annual); WTI Day 3 Below $74 (~$73.7); Iranian Oil License Active; Gulf Output Lifting; Pump Relief Timeline Still Gated On Lloyd's; Warsh Hold Operative",
+          "summary": "The June 25 evening economic picture reflects a market rebound from the June 23 semiconductor-driven selloff, with forward attention concentrating on two imminent data catalysts: May PCE inflation data (expected Friday June 27 at 08:30 ET) and Micron earnings. Wall Street is rebounding intraday on June 25, reversing a portion of the -1.44% S&P 500 and -2.21% Nasdaq losses from June 23. The Schwab session framing — 'Wall Street Rebounds Awaiting Micron, PCE Prices' — captures the dual-driver character: memory chip names stabilizing after South Korean market losses, and PCE data anticipated as the week's most consequential Fed-policy data point. Wells Fargo economists project May PCE up 0.5% month-over-month, which would push the annual PCE rate to 4.1% — meaningfully above the Federal Reserve's 2% target and consistent with the hawkish tone of Chair Warsh's June 17 FOMC press conference. An above-forecast PCE print would confirm energy-cost passthrough from the Hormuz closure into consumption prices with a lag, providing empirical support for the nine FOMC members who projected at least one 2026 rate hike in the June Summary of Economic Projections. A below-forecast print would reduce the immediate hawkish pressure and support the current Warsh hold framing. The July 27 PCE data will set the trading frame heading into the July 4 holiday weekend. The European Central Bank and Bank of Japan are also in a tightening posture for June, with June hikes followed by further moves in Scandinavia and New Zealand expected next quarter — creating a synchronized global tightening backdrop that constrains the Fed's ability to hold if US PCE runs hot. WTI holds approximately $73.7 for a third consecutive session below the $74 normalization-confidence floor. This confirms sustained market repricing of normalization probability rather than a single-session anomaly. However, pump relief for consumers requires Lloyd's normalization, not WTI pricing alone. The downstream chain — Iran retraction → Lloyd's announcement → 118-tanker backlog release → WTI $65-70 supply pulse → pump relief — remains gated on Iran's formal move. Oregon pump price at approximately $5.35/gallon; national at approximately $4.56/gallon. The Federal Reserve macro framework is unchanged: Warsh hold at 3.50-3.75%, nine of 19 FOMC members projecting at least one 2026 hike, PCE SEP projection at 3.6%, GDP 2.2%. Bank Indonesia raised its key rate 25 basis points to 5.75% at its June meeting — third increase in roughly a month — reflecting the global inflation-fighting context.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "FOMC", "Wells Fargo", "Micron", "Lloyd's of London", "Kuwait KUNA", "ADNOC Abu Dhabi", "Kpler", "US Treasury", "CME FedWatch", "BEA", "ECB", "Bank of Japan", "Bank Indonesia"],
+          "metrics": {
+            "wall_street_june25_direction": "REBOUNDING — intraday recovery from June 23 semiconductor selloff",
+            "pce_data_release_expected": "2026-06-27 (Friday) at 08:30 ET",
+            "pce_wells_fargo_mom_forecast_pct": 0.5,
+            "pce_wells_fargo_annual_forecast_pct": 4.1,
+            "pce_fed_sep_projection_2026_pct": 3.6,
+            "micron_earnings": "AWAITED — memory chip sector recovery signal; South Korean chip losses context",
+            "wti_approximate": 73.7,
+            "wti_day3_below_74_floor": true,
+            "wti_normalization_floor": 74,
+            "wti_post_normalization_range_est": "$65-70",
+            "wti_full_reopening_supply_mn_bbl": 80,
+            "iran_60day_oil_license_active": true,
+            "lloyds_normalization_announced": false,
+            "pump_relief_timeline_status": "GATED ON LLOYD'S — WTI below floor Day 3; Iran retraction missing link",
+            "oregon_gas_price_est_usd": 5.35,
+            "national_gas_price_est_usd": 4.56,
+            "fomc_decision_operative": "HOLD 3.50-3.75%",
+            "fomc_warsh_sep_median_ye_pct": 3.8,
+            "fomc_warsh_hike_dots_min": 9,
+            "fomc_warsh_pce_forecast_2026_pct": 3.6,
+            "fomc_warsh_gdp_forecast_2026_pct": 2.2,
+            "may_cpi_headline_yoy_pct": 4.2,
+            "may_cpi_core_yoy_pct": 2.9,
+            "gdp_q1_revised_annualized_pct": 1.6,
+            "bank_indonesia_rate_pct": 5.75,
+            "global_tightening_posture": "SYNCHRONIZED — ECB, BoJ, BI all tightening; constrains Fed hold space if PCE runs hot"
+          }
+        },
+        {
+          "headline": "Reconciliation 2.0 T-4 Rules / T-6 Floor (Thursday PASSED UNRESOLVED; Friday June 26 Now Critical; June 30 Deadline Compressing); FERC AI Large Load Day 8 (T-22 ~July 18); Amazon WA WARN Ongoing; Secure America Act Day 13",
+          "summary": "Secondary economic and legislative threads on June 25 evening. Reconciliation 2.0 advances to T-4 days before the June 30 Rules Committee deadline and T-6 before the July 2 House floor date. Thursday — identified in the June 24 brief as the critical scheduling window following Wednesday's missed opportunity — has passed without a Rules Committee announcement for Reconciliation 2.0. This compresses the operative window to Friday June 26 as the final practical business day before the June 30 deadline without a weekend emergency intervention. The Freedom Caucus 'major changes' demand to the Senate version remains publicly unresolved. The July 4 abortion-provider-funding lapse — the most powerful legislative forcing function in the whip operation — has still not been formally activated as the primary argument at T-4 before the June 30 deadline. A Friday Rules Committee scheduling announcement would enable a June 30 committee session and July 1-2 floor window before the Independence Day recess. Continued absence through Friday positions the June 30 deadline as a structural failure point requiring an emergency Saturday or Monday scheduling operation. FERC large load show cause orders (issued June 18) advance to Day 8. The AI data center pathway explanation deadline stands at T-22 days (~July 18). US data center electricity demand at approximately 5% of national load. NERC Level 3 alert from abrupt Virginia/Texas demand shifts remains operative. PJM capacity stress continues flagged. Amazon Washington State WARN (2,198 positions, April 28-June 2026) continues as the PNW tech-labor bifurcation backdrop. Secure America Act (DHS $70B) advances to Law Day 13.",
+          "significance": "MODERATE",
+          "actors": ["Speaker Mike Johnson", "House Freedom Caucus", "House Rules Committee", "Senate Finance Committee", "Donald Trump", "FERC", "NERC", "Amazon", "Microsoft", "PJM"],
+          "metrics": {
+            "reconciliation_20_house_floor_t_minus": 6,
+            "reconciliation_20_rules_committee_deadline": "2026-06-30",
+            "reconciliation_20_rules_committee_days_out": 4,
+            "reconciliation_20_thursday_scheduling": "PASSED UNRESOLVED — Friday June 26 now critical",
+            "reconciliation_20_friday_critical": true,
+            "reconciliation_20_rules_scheduled": false,
+            "freedom_caucus_demand": "Major changes — publicly unresolved through Thursday",
+            "july4_abortion_forcing_function": "UNDEPLOYED — most powerful lever; not activated at T-4",
+            "secure_america_act_law_day": 13,
+            "secure_america_act_value_bn": 70,
+            "ferc_large_load_show_cause_day": 8,
+            "ferc_ai_pathway_deadline_date": "~2026-07-18",
+            "ferc_ai_pathway_days_out": 22,
+            "ferc_target_interconnection_days": 90,
+            "nerc_alert_level": 3,
+            "us_data_center_electricity_pct": 5,
+            "amazon_wa_warn_positions": 2198,
+            "amazon_total_corporate_layoffs_since_oct2025": 30000,
+            "amazon_2026_capex_bn": 200,
+            "pnw_tech_labor_dynamic": "STRUCTURAL BIFURCATION — AI capex accelerating while headcount contracts"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "Kartar Fire 80% Containment MILESTONE (Thursday Showers DELIVERED; All Evacuations DOWNGRADED OR LIFTED; Personnel 260→210; Aerial Resources HALTED; Ground Consolidating; ~11,746 Acres; +40pp In 24h; MAJOR WIN); East Cascades Onset T-3 (~June 29; Kartar Compounding Risk MATERIALLY REDUCED); NSF Newport OR T-2 To Monitoring Gap (~June 28; No Bridge Announced; IMMINENT During Onset); BPA Grid STABLE Day 5; NIFC PL3 Day 8; Oregon EO 26-10 Day 11; Six WA Large Fires (Tule Road ~95%; Juniper Dunes ~90%; Upriver Mop-Up); FERC AI Emergency Orders Day 8; Longview CSB Day 32.",
+      "items": [
+        {
+          "headline": "Kartar Fire 80% Containment MILESTONE — Thursday Showers Delivered; All Evacuations Downgraded or Lifted; Aerial Resources Halted; Personnel 260→210; Ground Consolidating; East Cascades T-3 Compounding Risk MATERIALLY REDUCED; BPA Stable Day 5",
+          "summary": "The June 25 evening infrastructure picture is dominated by the Kartar Fire's jump to 80% containment — the most significant single-session operational improvement of the PNW fire period. The Thursday night showers (June 25) delivered on schedule as NWS Seattle and Portland had forecast since early in the week. The combined effect of the Gulf of Alaska system's cooling and delivered precipitation has materially improved fire behavior conditions across eastern Washington. At 80% containment and approximately 11,746 acres, the fire has secured roughly 9,400 acres inside defensible perimeter lines — a 40-percentage-point jump from 40% in the June 24 evening brief. All evacuation notices in the Kartar Valley, Columbia River Road, Kartar Road, and Omak Lake Road zones have been downgraded or lifted, enabling displaced residents to return to assessed areas. Aerial resources have halted water and retardant drops — the standard milestone transition indicating that fire behavior has been suppressed to the point where air support is no longer operationally required. Personnel have decreased from 260 to 210, consistent with the transition from active suppression to ground consolidation. The incident management team (Type 3 Northeast Washington Interagency) continues direct attack and perimeter-bolstering operations. The remaining approximately 20% uncontained perimeter requires continued ground work before lines can be declared complete. The operational significance for the East Cascades onset window (T-3, approximately June 29): the principal risk identified in prior briefs — that an active, under-contained Kartar Fire combined with new East Cascades onset ignitions would exceed NIFC PL3 resource allocation capacity — is now materially reduced. The fire is tracking toward full containment ahead of the onset window. This does not eliminate onset-window ignition risk for new fires across the east Cascades and Columbia Basin, but it removes the compounding factor that defined the June 22-24 risk calculation. BPA grid is stable on Day 5 post-heat-advisory with no forced outages. NIFC PL3 Day 8. Oregon EO 26-10 Day 11 at 414 fires and 8,000+ acres YTD.",
+          "significance": "HIGH",
+          "actors": ["NIFC", "Washington DNR", "NWS Seattle", "NWS Portland", "BPA", "Governor Bob Ferguson", "Oregon Governor Tina Kotek", "USFS Okanogan-Wenatchee NF", "Okanogan County Emergency Management", "WECC", "Washington EMD"],
+          "metrics": {
+            "kartar_fire": {
+              "location": "Southeast of Omak, Okanogan County, WA (Colville Indian Reservation)",
+              "acres_approx": 11746,
+              "containment_pct": 80,
+              "containment_prior_brief_pct": 40,
+              "containment_change_24h_pp": 40,
+              "containment_status": "MILESTONE — 40→80pp in 24h; showers-driven; trajectory toward full containment",
+              "evacuation_status": "ALL DOWNGRADED OR LIFTED — major improvement from Level 2 June 24",
+              "aerial_resources_status": "HALTED — water and retardant drops ceased; behavior suppressed to ground-attack phase",
+              "personnel_assigned": 210,
+              "personnel_prior_brief": 260,
+              "personnel_change": "REDUCED — consolidation-phase transition",
+              "management_team": "Type 3 Northeast Washington Interagency IMT",
+              "trajectory": "TOWARD FULL CONTAINMENT — ahead of East Cascades onset T-3"
+            },
+            "kartar_east_cascades_compounding_risk": "MATERIALLY REDUCED — 80% tracking toward resolution before onset window opens",
+            "tule_road_fire": {
+              "containment_pct": 95,
+              "status": "NEAR CONTROLLED"
+            },
+            "upriver_fire": {
+              "status": "LOCAL CONTROL — mop-up continuing"
+            },
+            "juniper_dunes_fire": {
+              "containment_pct": 90,
+              "status": "NEAR RESOLUTION"
+            },
+            "active_wa_large_fires_count": 6,
+            "thursday_showers_delivered": true,
+            "thursday_showers_effect": "Fine-fuel moisture improvement; fire behavior reduction; active suppression window extended through onset period",
+            "east_cascades_onset_days_out": 3,
+            "east_cascades_onset_date": "~June 29, 2026",
+            "bpa_grid_status": "STABLE — Day 5 post-heat-advisory; no forced outages",
+            "bpa_drought_year": 4,
+            "bpa_snowpack_vs_normal_pct": 50,
+            "nifc_preparedness_level": 3,
+            "nifc_preparedness_level_day": 8,
+            "oregon_eo_26_10_day": 11,
+            "oregon_fires_ytd": 414,
+            "oregon_acres_ytd_approx": 8000
+          }
+        },
+        {
+          "headline": "NSF Newport OR T-2 To Monitoring Gap (~June 28 — GAP OPENING DURING EAST CASCADES T-3 ONSET; No Bridge Announced; Coordination Window Effectively Closed); FERC AI Emergency Orders Day 8 (T-22 ~July 18); Longview CSB Day 32",
+          "summary": "Secondary infrastructure threads on June 25 evening. NSF Newport OR ocean observatory advances to T-2 days from the monitoring gap opening (~June 28). Thursday has now passed without a bridge monitoring arrangement announcement — the practical coordination window that the June 24 brief described as 'functionally closed' at T-3 has narrowed further. Two days is not sufficient time for normal federal procurement or coordination pathways to produce a replacement coastal data feed. The NSF Newport station is the Pacific Northwest's primary coastal atmospheric anchor for real-time meteorological data feeding fire-weather models. Its removal coincides with the East Cascades fire onset window (T-3, approximately June 29-July 1). The structural concern: fire management agencies will operate without the coastal data anchor at the onset period's most consequential moment — new ignitions across the east Cascades and Columbia Basin during the onset window will be modeled without the Newport station's data feed. The Kartar Fire's 80% containment milestone reduces the net risk compared to the June 24 evening assessment — fewer simultaneous active fires will be in acute suppression operations when the gap opens — but new onset-window ignitions will still require fire-weather modeling without this data source. No emergency NSF-NWS-USFS coordination has been publicly announced. Any mitigation now requires an emergency-track federal decision, not a normal pathway. Absence through Friday (June 26) confirms the gap will open without mitigation on approximately June 28. FERC large load show cause orders advance to Day 8, with the AI data center pathway deadline at T-22 days (~July 18). NERC Level 3 alert from abrupt Virginia/Texas demand shifts remains operative. PJM capacity stress continues flagged. Longview CSB advances to Day 32 at post-advisory structural baseline — no acute vapor pressure risk re-emergence.",
+          "significance": "MODERATE",
+          "actors": ["NSF", "NWS Portland", "NWS Seattle", "USFS", "FERC", "NERC", "PJM", "BPA", "CSB", "Washington DNR"],
+          "metrics": {
+            "nsf_newport_or_days_to_removal": 2,
+            "nsf_monitoring_gap_date": "~2026-06-28",
+            "nsf_monitoring_gap_status": "IMMINENT — T-2; no bridge arrangement announced; coordination window effectively closed",
+            "nsf_monitoring_gap_risk": "HIGH — opens during East Cascades T-3 onset; Kartar 80% reduces but does not eliminate risk; new onset ignitions will still lack coastal anchor",
+            "nsf_last_mitigation_window": "Friday June 26 — emergency-track federal decision only remaining pathway",
+            "longview_csb_day": 32,
+            "longview_post_advisory_status": "STRUCTURAL BASELINE — no acute vapor pressure risk",
+            "ferc_large_load_show_cause_day": 8,
+            "ferc_ai_pathway_deadline_days_out": 22,
+            "ferc_ai_pathway_deadline_date": "~2026-07-18",
+            "ferc_target_interconnection_days": 90,
+            "nerc_alert_level": 3,
+            "pjm_capacity_stress": "FLAGGED — AI data center load absorption risk ongoing"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "SCOTUS June 25 Anticipated Opinion Day — Trump v. Barbara (Birthright Citizenship) + Watson v. RNC (Mail Ballot) POSSIBLY ISSUED TODAY (No Confirmed Ruling Through Evening Brief; Term-Ending Concentration); Louisiana v. Callais Operative (VRA 6-3; Alabama Map Deployed; Senate Response Active); Reconciliation 2.0 T-4 Rules / T-6 Floor (Thursday UNRESOLVED; Friday Critical); NY House Balance Districts FINALIZED; Measles CDC June 25 Update PENDING (First Since FIFA Window; Day 5 CLEAN Through Brief); Acting DNI Day 36; Secure America Act Day 13.",
+      "items": [
+        {
+          "headline": "SCOTUS June 25 Anticipated Opinion Day — Trump v. Barbara (Birthright) + Watson v. RNC (Mail Ballot) Possibly Issued Today (No Confirmed Ruling Through Evening Brief); Louisiana v. Callais Operative (VRA 6-3; Alabama Map Deployed); Reconciliation 2.0 T-4 Rules (Friday Critical); NY Balance Districts Finalized",
+          "summary": "The June 25 evening domestic landscape is dominated by acute SCOTUS concentration — Thursday June 25 is an anticipated opinion day for the remaining term-end cases, with Trump v. Barbara (birthright citizenship, EO 14160) and Watson v. RNC (mail ballot counting) potentially issuing at any point during Thursday sessions or the remaining term days. No confirmed rulings were available as of the evening brief window, but the Court's end-of-June-term pattern typically produces consecutive opinion days in the final week, and both cases have been outstanding since April oral argument. The combined legal concentration — Louisiana v. Callais operative since June 23, Trump v. Barbara and Watson v. RNC outstanding — represents the highest domestic legal risk density of the brief cycle. Trump v. Barbara tests EO 14160 (signed January 20, 2025), which would deny automatic birthright citizenship to US-born children unless at least one parent holds US citizenship or LPR status. Every lower court has found EO 14160 violates the 14th Amendment citizenship clause. Oral argument questioning (April 1, 2026) was described as 'icy' toward the government's position. The 6-3 conservative supermajority creates irreducible outcome uncertainty despite the lower-court consensus. Watson v. RNC determines whether states can count ballots postmarked by Election Day but received after — the operational mechanics of mail-ballot counting for November 2026 midterms. Whichever way Watson lands, it reshapes state election administration planning with less than five months to November. Louisiana v. Callais (issued June 23, 6-3) remains operative: the Alabama discriminatory congressional map is being applied to 2026 elections per the SCOTUS order, the Section 2 VRA evidentiary bar has been substantially raised, and Senate Democrats under Schumer are exploring a new VRA legislative pathway with uncertain prospects in the 119th Congress. New York House balance district primaries (NY-3, NY-4, NY-12, NY-17, NY-19) have finalized through the June 24-25 tabulation window. Reconciliation 2.0: T-4 to the Rules Committee June 30 deadline; Thursday has passed without a scheduling announcement, making Friday June 26 the final practical pre-deadline date. Trump administration has received court authorization to resume nationwide expedited deportation operations following a Tuesday federal appeals court ruling, operationalizing a further element of Secure America Act implementation.",
+          "significance": "CRITICAL",
+          "actors": ["Supreme Court", "Chief Justice John Roberts", "Trump Administration", "DOJ Civil Rights Division", "Senate Majority Leader Chuck Schumer", "NAACP Legal Defense Fund", "Common Cause", "Alabama Attorney General", "Speaker Mike Johnson", "House Freedom Caucus", "House Rules Committee", "Acting DNI"],
+          "metrics": {
+            "scotus_trump_v_barbara_status": "OUTSTANDING — June 25 anticipated opinion day; no confirmed ruling through evening brief",
+            "scotus_trump_v_barbara_lower_court_position": "UNANIMOUS against EO 14160 in all courts reviewed",
+            "scotus_trump_v_barbara_oral_arg_climate": "Icy toward government position (April 1, 2026 argument)",
+            "scotus_watson_v_rnc_status": "OUTSTANDING — June 25 anticipated opinion day; mail ballot counting rules for November 2026",
+            "scotus_louisiana_v_callais_status": "OPERATIVE — issued June 23, 6-3; Section 2 VRA bar raised; Alabama discriminatory map deployed for 2026",
+            "scotus_term_end_expected": "Late June / early July 2026",
+            "scotus_combined_legal_concentration": "HIGHEST OF BRIEF CYCLE — three high-stakes rulings in 3-day window",
+            "senate_vra_legislative_response": "ACTIVE — Schumer exploring pathway; legislative prospects uncertain in 119th Congress",
+            "deportation_expedited_resumption": "AUTHORIZED — federal appeals court Tuesday ruling allows nationwide expedited deportations",
+            "ny_house_balance_districts": ["NY-3", "NY-4", "NY-12", "NY-17", "NY-19"],
+            "ny_house_results_status": "FINALIZED — tabulation complete through June 25",
+            "reconciliation_20_rules_t_minus": 4,
+            "reconciliation_20_floor_t_minus": 6,
+            "reconciliation_20_rules_deadline": "2026-06-30",
+            "reconciliation_20_thursday_scheduling": "PASSED UNRESOLVED",
+            "reconciliation_20_friday_critical": true,
+            "acting_dni_vacancy_day": 36
+          }
+        },
+        {
+          "headline": "Measles CDC June 25 Update PENDING (FIRST Since FIFA Window; Day 5 CLEAN Through Evening Brief; Window Closes June 29); Acting DNI Day 36; Secure America Act Day 13; WPA Day 118 MOOT",
+          "summary": "Secondary domestic threads on June 25 evening. Measles cluster identification window advances to Day 5 following the June 15 Lumen Field FIFA World Cup event. No confirmed King County or Snohomish County clusters through the evening brief window. The CDC national case count update (previously 2,104 as of June 18) was scheduled for June 25 — the first update since the FIFA exposure window opened. The June 25 update is operationally significant: any spike in Washington State or King/Snohomish County case counts in this data represents the first statistical signal of FIFA-linked transmission. As of the evening brief, the CDC update result was either pending or had not produced a cluster confirmation through accessible channels. Georgetown University wastewater/ED/social media surveillance continues active. The window closes June 29; Day 5 CLEAN through the brief cycle. Acting DNI advances to Day 36 — six full weeks without Senate-confirmed IC leadership during the brief cycle's most complex concurrent multi-theater workload. Secure America Act (DHS $70B) advances to Law Day 13 with ICE/CBP deployment infrastructure continuing to operationalize. WPA Day 118 remains formally MOOT with the MOU in force.",
+          "significance": "MODERATE",
+          "actors": ["CDC", "Georgetown University", "King County Public Health", "Snohomish County Health", "Washington DOH", "Acting DNI", "DHS", "ICE", "CBP"],
+          "metrics": {
+            "measles_cluster_window_day": 5,
+            "measles_window_closes": "2026-06-29",
+            "measles_king_county_clusters_confirmed": false,
+            "measles_snohomish_clusters_confirmed": false,
+            "measles_cdc_june25_update_status": "PENDING — first update since FIFA window opened; result not confirmed through evening brief",
+            "measles_prior_national_case_count": 2104,
+            "measles_prior_count_date": "2026-06-18",
+            "measles_georgetown_surveillance": "ACTIVE",
+            "acting_dni_vacancy_day": 36,
+            "secure_america_act_law_day": 13,
+            "secure_america_act_value_bn": 70,
+            "wpa_day": 118,
+            "wpa_status": "MOOT — MOU in force"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Kartar Fire 80% Containment MILESTONE (Thursday Showers DELIVERED; All Evacuations DOWNGRADED OR LIFTED; Personnel 210; Aerial Resources HALTED; MAJOR WIN; 40→80pp In 24h); East Cascades Onset T-3 (~June 29; Compounding Risk MATERIALLY REDUCED); NSF Newport OR T-2 To Monitoring Gap (~June 28; No Bridge; IMMINENT); BPA Grid STABLE Day 5; NIFC PL3 Day 8; Oregon EO 26-10 Day 11; Super El Niño Watch Active (25% Probability); Washington Drought Day 22 (4th Year; 50% Snowpack); Oregon 21st Gray Whale Washup; L-Pod Orca Calf Week 3 / Entering Week 4 ALIVE; Echinococcus Surveillance Active; Amazon WA WARN Ongoing.",
+      "items": [
+        {
+          "headline": "Kartar Fire 80% Containment MILESTONE — Thursday Showers Delivered; All Evacuations Downgraded or Lifted; Aerial Resources Halted; Personnel 260→210; East Cascades Onset T-3 (~June 29); Compounding Risk MATERIALLY REDUCED; BPA Stable Day 5; Oregon EO 26-10 Day 11; Six WA Fires Progressing",
+          "summary": "The June 25 evening PNW picture is shaped by the Kartar Fire's milestone containment jump — the brief cycle's most significant single-session PNW operational development. Thursday night showers delivered as forecast, and the fire's response has exceeded expectations: 40 percentage points of containment gained in 24 hours represents the most rapid single-day improvement since the fire's ignition on June 16. All evacuation notices in the Kartar Valley zone have been downgraded or lifted, with many previously closed roads now reopened. Aerial resources have halted water and retardant drops — the transition signal indicating fire behavior has been suppressed to the point where ground operations are primary. Ground crews (210 personnel, down from 260) are consolidating perimeter lines toward full containment declaration. The operational significance for the East Cascades onset window (T-3, approximately June 29): the compounding-resource-demand risk that has defined the PNW axis since June 22 — an active, under-contained Kartar Fire meeting new East Cascades onset ignitions — is now materially reduced. The fire is tracking toward full containment ahead of the onset window. This does not eliminate onset-window ignition risk for new fires across the broader east Cascades and Columbia Basin, but it removes the compounding factor. BPA grid is stable on Day 5 post-heat-advisory with no forced outages and temperatures near seasonal normal. NIFC PL3 Day 8. Oregon EO 26-10 Day 11 at 414 fires and 8,000+ acres YTD. Six concurrent large fires in Washington continue progressing toward resolution: Tule Road at approximately 95%, Juniper Dunes at approximately 90%, Upriver in mop-up. Oregon coast has seen its 21st gray whale washup in 2026 near Lincoln City — a continuing signal of marine ecosystem stress that has tracked throughout the brief cycle. Six orca sightings have been reported along the Oregon coast this period.",
+          "significance": "HIGH",
+          "actors": ["NWS Seattle", "NWS Portland", "BPA", "NIFC", "Washington DNR", "Washington EMD", "Governor Bob Ferguson", "Oregon Governor Tina Kotek", "Okanogan County Emergency Management", "USFS Okanogan-Wenatchee NF", "WECC", "ODFW"],
+          "metrics": {
+            "kartar_fire_containment_pct": 80,
+            "kartar_fire_containment_prior_brief_pct": 40,
+            "kartar_fire_containment_change_24h_pp": 40,
+            "kartar_fire_acres_approx": 11746,
+            "kartar_fire_evacuation_status": "ALL DOWNGRADED OR LIFTED",
+            "kartar_fire_aerial_resources": "HALTED — fire behavior suppressed to ground-attack phase",
+            "kartar_fire_personnel": 210,
+            "kartar_fire_personnel_prior": 260,
+            "kartar_fire_trajectory": "TOWARD FULL CONTAINMENT — ahead of East Cascades T-3 onset",
+            "thursday_showers_delivered": true,
+            "active_wa_large_fires": 6,
+            "tule_road_containment_pct": 95,
+            "juniper_dunes_containment_pct": 90,
+            "upriver_fire_status": "MOP-UP local control",
+            "east_cascades_onset_days_out": 3,
+            "east_cascades_onset_date": "~June 29, 2026",
+            "east_cascades_kartar_compounding_risk": "MATERIALLY REDUCED — 80% tracking toward resolution before onset opens",
+            "oregon_eo_26_10_day": 11,
+            "oregon_fires_ytd": 414,
+            "oregon_gray_whale_washups_2026": 21,
+            "nifc_preparedness_level": 3,
+            "nifc_preparedness_level_day": 8,
+            "bpa_day5_post_advisory_forced_outages": 0,
+            "bpa_grid_status": "STABLE",
+            "bpa_drought_year": 4,
+            "bpa_snowpack_vs_normal_pct": 50
+          }
+        },
+        {
+          "headline": "NSF Newport OR T-2 To Monitoring Gap (IMMINENT; No Bridge Announced; Opens ~June 28 During East Cascades T-3 Onset); Super El Niño Watch Active (25% Probability); Washington Drought Day 22 (4th Year; 50% Snowpack); L-Pod Orca Calf Entering Week 4 ALIVE; Echinococcus Surveillance Active; Amazon WA WARN Ongoing",
+          "summary": "Secondary PNW environmental and regional threads on June 25 evening. NSF Newport OR ocean observatory now T-2 days from the monitoring gap opening (~June 28). The practical window for an emergency bridge monitoring arrangement has narrowed to Friday June 26 as the last possible business day for a federal emergency coordination decision. Two days is not sufficient for normal procurement pathways. The gap will open during the East Cascades onset window (T-3, approximately June 29-July 1), removing the coastal atmospheric anchor for fire-weather modeling at the onset period's most consequential moment. The Kartar Fire's 80% containment milestone slightly reduces the net risk profile — fewer simultaneous active suppression operations will require coastal-atmospheric-anchored fire-weather modeling when the gap opens — but new onset-window ignitions will still lack the Newport station's data feed. Super El Niño watch continues at 25% probability (KLCC/OPB June 22). The strong El Niño base probability is 61%; the 'very strong' designation carries a 25% overlay per NOAA. No new ENSO consensus shift since the KLCC report; next formal update expected early July. A Super El Niño in 2026-2027 would produce a critically dry, warm fifth consecutive PNW drought winter — 2027 fire conditions structurally exceeding the elevated 2026 baseline. Thursday's showers provide fine-fuel moisture benefit for active suppression but carry no drought-meaningful precipitation quantity; aquifer and snowpack recharge pathways remain closed until fall. Washington drought emergency advances to Day 22 — fourth consecutive year, 12 emergency counties, 50% statewide snowpack vs. normal. Oregon drought affects approximately 83% of the state, including 17 counties under emergency order. L-Pod orca calf is entering its fourth week alive — a continued positive for the critically endangered Southern Resident Killer Whale population whose reproductive success has been near zero for multiple years. The 21st Oregon gray whale washup is the marine mammal stress backdrop for a broader marine ecosystem concern across the Pacific Northwest coast. Echinococcus multilocularis peri-urban surveillance in Washington State coyote populations continues active with no new confirmed spread events. Amazon Washington State WARN (2,198 positions) continues as the structural PNW tech-labor bifurcation backdrop.",
+          "significance": "MODERATE",
+          "actors": ["NOAA", "NWS Seattle", "Governor Bob Ferguson", "Oregon Governor Tina Kotek", "NSF", "WDFW", "ODFW", "Amazon", "BPA"],
+          "metrics": {
+            "nsf_newport_or_days_to_removal": 2,
+            "nsf_monitoring_gap_date": "~2026-06-28",
+            "nsf_monitoring_gap_status": "IMMINENT — T-2; no bridge announced; Friday is last emergency-track window",
+            "nsf_monitoring_gap_onset_coincidence": "Gap opens during East Cascades T-3 onset — Kartar 80% reduces but does not eliminate net risk",
+            "super_el_nino_probability_pct": 25,
+            "el_nino_base_probability_pct": 61,
+            "super_el_nino_source": "KLCC/Oregon Public Broadcasting June 22, 2026",
+            "super_el_nino_pnw_winter_forecast": "Critically dry, warm — 2026-27 reduced snowpack; 5th consecutive drought year",
+            "next_enso_monitoring_update": "Early July 2026 (NOAA/NWS)",
+            "thursday_showers_drought_value": "MINIMAL — fine fuel moisture benefit only; no aquifer or snowpack recharge",
+            "washington_drought_emergency_day": 22,
+            "washington_drought_consecutive_years": 4,
+            "washington_snowpack_vs_normal_pct": 50,
+            "washington_drought_emergency_counties": 12,
+            "oregon_drought_pct_state_affected": 83,
+            "oregon_drought_emergency_counties": 17,
+            "oregon_gray_whale_washups_2026": 21,
+            "southern_resident_orca_l_pod_calf_alive": true,
+            "southern_resident_orca_calf_entering_week": 4,
+            "echinococcus_surveillance": "ACTIVE — no new confirmed spread events June 25",
+            "amazon_wa_warn_positions": 2198,
+            "pnw_tech_labor_dynamic": "STRUCTURAL BIFURCATION — AI capex accelerating while headcount contracts"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "June 25, 2026 evening closes at Vibe 5 — one-session hold from the June 24 evening Vibe 5 position, and the brief cycle's fourth consecutive Vibe 5 session. The session's operational headline is the Kartar Fire's jump to 80% containment following the delivery of Thursday night's showers — a 40-percentage-point improvement in 24 hours that is the most significant single-session PNW operational development of the June fire period. All evacuations in the Kartar Valley are downgraded or lifted; aerial resources have halted; personnel reduced to 210. The fire is tracking toward full containment ahead of the East Cascades onset window (T-3, approximately June 29). The compounding-resource-demand risk that has defined the PNW axis since the June 22 acute escalation is now materially reduced. Against this genuine win, the geopolitical normalization chain's core missing link remains unchanged on Day 7 of contested compliance: Iran's formal Hormuz re-closure retraction has still not been issued. The parliament ratification vote window closed June 25 without a publicly confirmed outcome — passage would have been the upstream procedural mechanism for a downstream executive- or IRGC-level re-closure modification, which is the Lloyd's normalization gate. Lloyd's remains blocked. The 118-tanker backlog remains stranded. The nuclear inspection dispute between the US and Iran over IAEA access to bombed nuclear sites continues to complicate Switzerland Round 2 framing. Lebanon ceasefire has cleared the 72-hour threshold and is approaching the 96-hour mark without a formal void declaration — directionally positive but not the downstream action that triggers normalization. WTI holds below $74 for a third consecutive day, confirming sustained market pricing of normalization probability, while Wall Street rebounds from the June 23 selloff ahead of PCE data on June 27 (Wells Fargo projects +0.5% MoM, 4.1% annual — a hawkish upside scenario). Domestically, June 25 was an anticipated SCOTUS opinion day for Trump v. Barbara and Watson v. RNC — no confirmed rulings through the evening brief, but both cases remain outstanding as the term approaches its close, creating the brief cycle's highest domestic legal concentration alongside the operative Louisiana v. Callais. Reconciliation 2.0 Thursday window slipped; Friday June 26 is the final practical pre-deadline scheduling window before the June 30 Rules Committee deadline. NSF Newport OR advances to T-2 before the monitoring gap opens (~June 28) — with no bridge arrangement announced, the coastal atmospheric anchor for fire-weather modeling will be lost during the East Cascades onset window.",
+  "watch_items": [
+    "Iran parliament ratification outcome — the June 25 vote window has closed; confirmation of Majlis passage is the upstream mechanism for downstream executive or IRGC re-closure modification, which is the Lloyd's normalization gate; any Friday Iranian government statement about parliamentary ratification or downstream re-closure modification is the most consequential geopolitical data point of the overnight-into-Friday window",
+    "Iran re-closure retraction or conditional suspension — the core Vibe 6/7 gate: with parliament ratification potentially cleared, an executive or IRGC-level formal position change is the next required step; overnight Geneva hours (Friday morning Swiss time) remain the operative announcement window; any conditional suspension or formal retraction triggers the Lloyd's normalization pathway and the 118-tanker backlog release",
+    "SCOTUS Trump v. Barbara and Watson v. RNC — Friday June 26 is the next anticipated opinion day; Trump v. Barbara (birthright citizenship, EO 14160) is the single highest-uncertainty domestic legal event of the brief cycle; Watson v. RNC determines November 2026 mail-ballot counting operations for all 50 states; any Friday ruling is the highest-priority domestic development of the pre-June 30 window",
+    "Reconciliation 2.0 Rules Committee scheduling — T-3 to June 30 deadline as of Friday; Friday is the final practical business day for a Rules Committee scheduling announcement before the deadline; any Friday announcement activates the June 30 committee session and July 1-2 floor countdown; continued absence through Friday requires a weekend emergency scheduling operation and positions the July 2 floor date at risk",
+    "PCE May 2026 data release — Friday June 27 at 08:30 ET; Wells Fargo projects +0.5% MoM and 4.1% annual; an above-forecast print confirms energy-cost passthrough into consumption prices and validates the BofA rate hike warning, potentially accelerating the nine FOMC hike-dots toward an imminent move; a below-forecast print supports the Warsh hold framing and provides equity relief",
+    "NSF Newport OR monitoring gap — T-2 days to gap opening (~June 28); Friday June 26 is the last window for an emergency NSF-NWS-USFS coordination announcement; any emergency bridge monitoring announcement Friday would be the infrastructure axis's most significant positive; absence through Friday confirms the gap opens without mitigation during the East Cascades T-2 onset window",
+    "Lebanon ceasefire Hour 96 threshold — approximately 20 hours out from the evening brief; clearing the 96-hour threshold without a formal void declaration further dissolves Iran's Lebanon-war procedural rationale for maintaining the re-closure and moves the ceasefire toward durable-enough status for downstream normalization actions; any formal void declaration or dramatic escalation before Hour 96 is the Vibe 4 trigger",
+    "Kartar Fire full containment declaration — at 80% with aerial resources halted and ground crews consolidating, full containment is expected in the next 1-3 days; full containment before the East Cascades onset window (June 29) eliminates the compounding risk factor entirely and frees PNW fire-suppression resources for onset-period ignitions; the fire's trajectory is the PNW axis's primary positive signal through the pre-July 4 window",
+    "Netanyahu withdrawal timeline announcement — flagged as a June 25 anticipated development but not confirmed through the evening brief; a credible phased-withdrawal commitment is the political scaffolding enabling Iran's re-closure retraction to be domestically defensible in Tehran; absence or insufficiency of a Netanyahu commitment is the factor most likely to delay the Iranian formal position change beyond the overnight window",
+    "Measles CDC June 25 update result — the first CDC national case count update since the June 15 FIFA World Cup Lumen Field exposure event; if published and showing no Washington State spike, the cluster window continues clean through Day 5; the window closes June 29; any confirmed cluster in King or Snohomish counties is the first statistical signal of FIFA-linked transmission and activates the public health response axis"
+  ],
+  "sources": [
+    {"title": "Iran war updates: Rubio calls Gulf discussions frank; Iran talks next week — Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz"},
+    {"title": "Iran war updates: Pezeshkian says no negotiation on ballistic missiles — Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds"},
+    {"title": "Live updates: Vance says nuclear agency will come to Iran 'this week' — MS.now", "url": "https://www.ms.now/liveblog/iran-news-trump-israel-war-june-22-2026"},
+    {"title": "June 23 2026 — Strait of Hormuz evacuation plans, Trump insists Iran agreed to more nuclear inspections — CNN", "url": "https://www.cnn.com/2026/06/23/world/live-news/iran-war-trump-lebanon-israel"},
+    {"title": "2026 Iran war ceasefire — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire"},
+    {"title": "2026 Iran war — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Iran_war"},
+    {"title": "2026 Strait of Hormuz crisis — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"},
+    {"title": "Hormuz Re-Closure Meets Market Resistance as Traffic Returns — Windward AI", "url": "https://windward.ai/blog/hormuz-re-closure-meets-market-resistance-as-traffic-returns/"},
+    {"title": "Crisis Timeline: The Strait of Hormuz War 2026 — Hormuz Strait Monitor", "url": "https://hormuzstraitmonitor.com/crisis-timeline/"},
+    {"title": "The Iran Deal Reopens the Strait. Much Remains to Be Done — Council on Foreign Relations", "url": "https://www.cfr.org/articles/trumps-iran-deal-reopens-the-strait-much-remains-to-be-done"},
+    {"title": "Wall Street Rebounds Awaiting Micron, PCE Prices — Schwab", "url": "https://www.schwab.com/learn/story/stock-market-update-open"},
+    {"title": "What to Look Out for in Economic Data This Week (June 22-26) — Kiplinger", "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"},
+    {"title": "US market drivers in June: Inflation, rates and policy credibility — GO Markets", "url": "https://www.gomarkets.com/en/articles/us-market-drivers-june-2026"},
+    {"title": "Economic Snapshot June 2026: Inflation and Interest Rates — Michigan HFA", "url": "https://www.house.mi.gov/HFA/PDF/FiscalSnapshot/Economic_Snapshot_Inflation_and_Interest_Rates_Jun2026.pdf"},
+    {"title": "US PCE Inflation May 2026: Release Date — FXMacroData", "url": "https://fxmacrodata.com/articles/usd-pce-may-2026"},
+    {"title": "Kartar Fire Near Omak Nearing Full Containment, Reaches 80% — KW3", "url": "https://kw3.com/ixp/1134/p/kartar-fire-full-containment/"},
+    {"title": "Incident Management Situation Report Tuesday June 23, 2026 — NIFC", "url": "https://www.nifc.gov/nicc-files/sitreprt.pdf"},
+    {"title": "National Fire News — NIFC", "url": "https://www.nifc.gov/fire-information/nfn"},
+    {"title": "Washington Wildfire Update 2026: Fire Map and Smoke Forecast — KPQ", "url": "https://kpq.com/ixp/1137/p/washington-wildfire-outbreak/"},
+    {"title": "Northwest potentially in for 'one of the strongest El Niños we've had,' climatologists say — Oregon Capital Chronicle", "url": "https://oregoncapitalchronicle.com/2026/06/23/northwest-potentially-in-for-one-of-the-strongest-el-ninos-weve-had-climatologists-say/"},
+    {"title": "Ocean observatories go dark off Pacific Northwest coast — OPB", "url": "https://www.opb.org/article/2026/06/04/ocean-observatories-pacific-northwest/"},
+    {"title": "Six Orcas Dazzle Oregon Coast - Pacific Northwest Sees 21st Gray Whale Wash Up — BeachConnection", "url": "https://www.beachconnection.net/news/six-orcas-dazzle-coast-pacific-northwest-sees-21st-gray-whale.php"},
+    {"title": "Washington declares statewide drought emergency — KOMO News", "url": "https://komonews.com/news/local/washington-declares-statewide-drought-emergency-as-dismal-snowpack-threatens-water-supplies-flooding-rain-storm-climate-change-snowpack-weather-forecast-water-supply-agriculture-economy-wildfire-smoke-land-farm-risk-danger-evacuation-fire-season"},
+    {"title": "17 Oregon counties now under drought emergency — KATU", "url": "https://katu.com/news/local/17-oregon-counties-now-under-drought-emergency-after-new-order-adds-five-more-douglas-gilliam-lake-harney-malheur-tina-kotek-climate-summer"},
+    {"title": "As drought worsens, Western states brace for wildfires, water shortages — Portland Tribune", "url": "https://portlandtribune.com/2026/05/11/as-drought-worsens-western-states-brace-for-wildfires-water-shortages/"},
+    {"title": "Supreme Court Expected to Hand Down Rulings on Birthright Citizenship — WTTW", "url": "https://news.wttw.com/2026/06/15/supreme-court-expected-hand-down-rulings-birthright-citizenship-presidential-power-and"},
+    {"title": "Trump v. Barbara (Birthright Citizenship) — SCOTUSblog", "url": "https://www.scotusblog.com/cases/trump-v-barbara/"},
+    {"title": "Supreme Court Preps Big Rulings: Birthright Citizenship, Trump's Power, Mail Ballots — The Hill", "url": "https://thehill.com/regulation/court-battles/5922350-supreme-court-final-opinions-trump-agenda/"},
+    {"title": "House Republicans Pass and President Signs Into Law 'Reconciliation 2.0' — NLIHC", "url": "https://nlihc.org/resource/house-republicans-pass-and-president-signs-law-reconciliation-20-providing-70-billion-ice"},
+    {"title": "Federal Regulators Back Trump's Plan for AI Data Centers — CNBC", "url": "https://www.cnbc.com/amp/2026/06/18/federal-regulators-trump-plan-ai-data-centers.html"},
+    {"title": "Measles Cases and Outbreaks — CDC", "url": "https://www.cdc.gov/measles/data-research/index.html"},
+    {"title": "2026 Colombian Presidential Election — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Colombian_presidential_election"},
+    {"title": "Geopolitical Outlook for June 2026: Key Events, Themes, and Trends — Macrostream", "url": "https://www.macrostream.ai/articles/6a1dd90de33ff440360699c5"},
+    {"title": "This Month in Geopolitics: June 2026 — Deutsche Bank Research Institute", "url": "https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000629523/This_Month_in_Geopolitics:_June_2026.pdf"}
+  ]
+}
