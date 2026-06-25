@@ -1730,7 +1730,23 @@
       ],
       "headline": "Hormuz Day 118 Compliance Day 7 — Iran Parliament Ratification Vote Window CLOSED JUNE 25 (Outcome Not Confirmed); Kartar Fire 80% MILESTONE (40→80pp In 24h; Thursday Showers Delivered; All Evacuations Downgraded); Lebanon Ceasefire Hour ~76 (72h CLEARED; 96h T-~20); SCOTUS June 25 Anticipated Opinion Day (Trump v. Barbara + Watson v. RNC Possibly Issued; No Confirmed Ruling); Wall Street Rebounds (PCE June 27 EXPECTED; Wells Fargo 4.1% Annual); NSF Newport OR T-2 To Monitoring Gap (~June 28); East Cascades Onset T-3; Reconciliation 2.0 T-4 Rules (Friday Critical); Measles Day 5 CLEAN; Vibe 5",
       "generated_at": "2026-06-25T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-26-morning",
+      "date": "2026-06-26",
+      "session": "morning",
+      "file": "reports/2026-06-26-morning.json",
+      "vibe": 5,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 119 Compliance Day 8 — Iran Majlis Ratification CONFIRMED (SNSC Now Decision Node); PCE May 2026 RELEASED: 4.1% Annual / +0.4% MoM (Above Warsh SEP; Nine Hike Dots Validated); SCOTUS Friday Opinion Day (Trump v. Barbara + Watson v. RNC OUTSTANDING); Lebanon Ceasefire Hour ~87 (96h T-~9); Reconciliation 2.0 T-3 Rules (Friday CRITICAL); Kartar Fire 80% Overnight Hold (Full Containment T-24-48h); NSF Newport OR T-2 Monitoring Gap (TODAY Last Emergency Window); East Cascades T-3; Measles Day 6 CLEAN; Vibe 5",
+      "generated_at": "2026-06-26T07:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-25T20:00:00-07:00"
+  "last_updated": "2026-06-26T07:00:00-07:00"
 }
