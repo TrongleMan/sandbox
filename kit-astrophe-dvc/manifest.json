@@ -1762,7 +1762,23 @@
       ],
       "headline": "NSF Newport OR Monitoring Gap RESOLVED (Trump Admin Reversal; Senate Unanimous; East Cascades T-2 Risk Eliminated); Kartar Fire 95% (Full Containment IMMINENT Saturday); Lebanon Ceasefire 96h CLEARED (Hour ~100+; No Void Declaration; Netanyahu Refuses Withdrawal); SNSC STILL PENDING (Re-Closure Operative Day 8 Evening); SCOTUS June 26 No Rulings (Monday June 29 Next); WTI Day 5 Below $74 (~$70; Markets Front-Running); Reconciliation 2.0 Weekend Emergency Track; Measles Day 7 CLEAN; Vibe 5",
       "generated_at": "2026-06-26T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-27-evening",
+      "date": "2026-06-27",
+      "session": "evening",
+      "file": "reports/2026-06-27-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Reconciliation 2.0 SATURDAY NO ANNOUNCEMENT (Fourth Consecutive Missed Window; T-1 To June 30; July 2 Floor At Acute Risk); Kartar Fire 100% CONTAINED (Saturday; East Cascades T-1 Resources Fully Available); SNSC Still Pending Day 9 (IRGC Cargo Strike Unaddressed; Re-Closure Operative); Lebanon Hour ~124+ (Rubio Framework Operative; No Void Declaration); SCOTUS Monday June 29 PENDING (Trump v. Barbara + Watson v. RNC); WTI Day 6 Below $74 ($69.40; Monday Reversion Risk); Nasdaq -4.6% Weekly; Measles Day 8 CLEAN (1 Day To Window Close); East Cascades T-1; Vibe 4",
+      "generated_at": "2026-06-27T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-26T20:00:00-07:00"
+  "last_updated": "2026-06-27T20:00:00-07:00"
 }
