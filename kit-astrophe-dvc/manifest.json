@@ -1764,6 +1764,22 @@
       "generated_at": "2026-06-26T20:00:00-07:00"
     },
     {
+      "id": "2026-06-27-morning",
+      "date": "2026-06-27",
+      "session": "morning",
+      "file": "reports/2026-06-27-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 120 Compliance Day 9 Morning — SNSC STILL PENDING (Re-Closure Operative; IRGC Strike Day 3 Unaddressed; IMO Convoy Paused; 118 Tankers Stranded); Lebanon Ceasefire Hour ~110+ (96h Cleared; Rubio Framework Operative; Netanyahu Buffer Zone Constraint); WTI $69.40 Friday (-3.5%; Day 6 Below $74; Monday Reversion Risk); Kartar Fire 95% (Full Containment Projected Today; East Cascades T-1 ~June 28); Peterson Incident Klickitat ~1,000 Acres (New Active Ignition; Evacuation Orders); Reconciliation 2.0 Saturday Window OPEN (T-2 June 30; 3 Missed Windows; Freedom Caucus Unresolved); SCOTUS Monday June 29 PENDING (Trump v. Barbara + Watson v. RNC); Measles Day 8 CLEAN (2 Days To Close); Vibe 4",
+      "generated_at": "2026-06-27T06:00:00-07:00"
+    },
+    {
       "id": "2026-06-27-evening",
       "date": "2026-06-27",
       "session": "evening",
