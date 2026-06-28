@@ -1810,7 +1810,23 @@
       ],
       "headline": "SNSC Day 10 Still Pending (Weekend Window Expired; Re-Closure Operative; IRGC Strike Day 3 Unaddressed; Monday Reversion Risk Peak); East Cascades Onset ARRIVED Day 1 (Peterson Fire 4,000 Acres Klickitat Quick-Contained; No Catastrophic Ignitions); Reconciliation 2.0 Sunday Window EXPIRED (Five Consecutive Missed Windows; June 30 T-2; OBBB Status Unconfirmed); SCOTUS Monday June 29 T-1 (Trump v. Barbara + Watson v. RNC Outstanding); WTI Day 7 Below $74 ($69.40 Carry); Measles Day 9 CLEAN (Monday Window Close T-1); Lebanon Hour ~148+ (Rubio Framework; No Void); Vibe 4",
       "generated_at": "2026-06-28T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-29-morning",
+      "date": "2026-06-29",
+      "session": "morning",
+      "file": "reports/2026-06-29-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "SCOTUS Live Today (Trump v. Barbara + Watson v. RNC — Term-End; 5-7 Justices Skeptical Of Government); Hezbollah 'Null And Void' Rubio Framework — Lebanon Shifts To Fragile Hold (IDF Drone Strike June 27; Hour ~160+); Reconciliation 2.0 CONFIRMED PASSED (VP Vance 50-50; 218-214 House); Hormuz Traffic Building 70 Crossings +105% D/D (SNSC Day 11 Still Pending; WTI Forecast $67.93–$71.84); Tucannon Fire GROWING (New WA Active Thread); Measles Day 10 Final Window Close; East Cascades Onset Day 2 Clean; Vibe 4",
+      "generated_at": "2026-06-29T06:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-28T20:00:00-07:00"
+  "last_updated": "2026-06-29T06:00:00-07:00"
 }
