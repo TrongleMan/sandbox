@@ -1794,7 +1794,23 @@
       ],
       "headline": "Reconciliation 2.0 SATURDAY NO ANNOUNCEMENT (Fourth Consecutive Missed Window; T-1 To June 30; July 2 Floor At Acute Risk); Kartar Fire 100% CONTAINED (Saturday; East Cascades T-1 Resources Fully Available); SNSC Still Pending Day 9 (IRGC Cargo Strike Unaddressed; Re-Closure Operative); Lebanon Hour ~124+ (Rubio Framework Operative; No Void Declaration); SCOTUS Monday June 29 PENDING (Trump v. Barbara + Watson v. RNC); WTI Day 6 Below $74 ($69.40; Monday Reversion Risk); Nasdaq -4.6% Weekly; Measles Day 8 CLEAN (1 Day To Window Close); East Cascades T-1; Vibe 4",
       "generated_at": "2026-06-27T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-28-evening",
+      "date": "2026-06-28",
+      "session": "evening",
+      "file": "reports/2026-06-28-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "SNSC Day 10 Still Pending (Weekend Window Expired; Re-Closure Operative; IRGC Strike Day 3 Unaddressed; Monday Reversion Risk Peak); East Cascades Onset ARRIVED Day 1 (Peterson Fire 4,000 Acres Klickitat Quick-Contained; No Catastrophic Ignitions); Reconciliation 2.0 Sunday Window EXPIRED (Five Consecutive Missed Windows; June 30 T-2; OBBB Status Unconfirmed); SCOTUS Monday June 29 T-1 (Trump v. Barbara + Watson v. RNC Outstanding); WTI Day 7 Below $74 ($69.40 Carry); Measles Day 9 CLEAN (Monday Window Close T-1); Lebanon Hour ~148+ (Rubio Framework; No Void); Vibe 4",
+      "generated_at": "2026-06-28T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-27T20:00:00-07:00"
+  "last_updated": "2026-06-28T20:00:00-07:00"
 }
