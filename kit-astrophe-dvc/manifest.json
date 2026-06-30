@@ -1842,7 +1842,23 @@
       ],
       "headline": "SCOTUS Term Closed — Trump v. Barbara STRUCK DOWN 6-3 (Birthright Upheld) + Watson v. RNC 5-4 FOR RNC (Mail Ballot Grace Periods Eliminated; All 50 States); Trump Mail-In Voting EO Announced; OBBB SIGNED; Measles Day 10 CLEAN; Tucannon Fire ESCALATING (~15,000 Acres; Garfield County); SNSC Day 11 Pending; Lebanon Fragile Hold Hour ~172+; WTI $68.82; Colombia CERTIFIED; Vibe 4",
       "generated_at": "2026-06-29T20:00:00-07:00"
+    },
+    {
+      "id": "2026-06-30-evening",
+      "date": "2026-06-30",
+      "session": "evening",
+      "file": "reports/2026-06-30-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Nuclear Inspections Dispute ESCALATING (Vance/Iran FM Direct Contradiction On IAEA Access — Deal-Collapse Risk Day 1); Humphrey's Executor OVERTURNED Day 1 (90-Year Independent Agency Precedent Reversed; FTC/NLRB/SEC); Q2 2026 CLOSES (S&P +~9% YTD; June 29 Rally +1.2%); Venezuela Earthquake Day 7 (1,719+ Dead; 46,600+ Missing); Garred Road Fire NEW IGNITION (500 Acres 0%); Tucannon Day 3; NIFC July 1 Outlook Released; Watson Day 2; OBBB July 1 T-1; SNSC Day 12 Pending; Lebanon Hour ~196+; Vibe 4",
+      "generated_at": "2026-06-30T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-06-29T06:00:00-07:00"
+  "last_updated": "2026-06-30T20:00:00-07:00"
 }
