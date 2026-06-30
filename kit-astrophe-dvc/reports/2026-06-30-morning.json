@@ -1,0 +1,324 @@
+{
+  "report_id": "2026-06-30-morning",
+  "generated_at": "2026-06-30T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Iran Ballistic Missile Strike Day 3, SNSC Day 12: June 30 morning opens with the most acute MOU compliance stress in the 11-day post-signing arc. The June 28 IRGC ballistic missile and drone strikes on US forward positions at Ali Al Salem Air Base (Kuwait) and Naval Support Activity Bahrain — retaliation for five Iranian coastal military sites struck by US forces on June 27 — represent the most serious kinetic exchange between US and Iranian forces since the June 19 MOU signing. Iran's Supreme National Security Council enters Day 12 of deliberation without a public response statement — neither reaffirming MOU compliance nor declaring the deal nullified. SNSC silence preserves Iranian diplomatic optionality while placing maximum pressure on US CENTCOM to determine its posture response without an anchor. The Strait of Hormuz re-closure remains operative. IMO convoy operations paused. Approximately 118+ tankers stranded. Nuclear 60-day clock (Day 11) continues as a technical formality; IC verification load has shifted from baseline monitoring to active confrontation management. Two major June 29 evening domestic developments reshape the domestic landscape. First: OBBB — One Big Beautiful Bill, Reconciliation 2.0 — signed by President Trump on June 29 following the 50-50 VP Vance tie-break and 218-214 House passage. Day 1 of implementation. Second: Watson v. RNC (5-4 for RNC) eliminates mail-in ballot grace periods in all 50 states effective immediately with concurrent Trump mail-in voting EO. SCOTUS final morning opinion window is open — Humphrey's Executor pending, if released today (typically ~10 AM PDT), would overturn the 1935 independent agency removal precedent affecting FTC, NLRB, SEC. In the Pacific Northwest: Tucannon Fire enters Day 3 at approximately 15,000 acres in Garfield County with record fuel dryness and zero reported overnight containment progress. East Cascades onset Day 3 — the most dangerous extended fire weather window of the 2026 season is fully active. Second PNW heat wave continuing (95-105°F I-5 corridor). NSF Newport OR observatory removal approximately Day 2 post-removal — Cascadia Subduction Zone monitoring gap now active. Measles Day 11: dual Lumen Field incubation windows at final cluster identification checkpoint with no confirmed new clusters; CIDRAP slowing streak intact. June 30 is Q2 2026's final trading session. Monday June 30, 2026. OBBB Day 1. SNSC Day 12 Pending. Nuclear 60-Day Clock Day 11. WTI $68.82 carry. Tucannon Day 3 ~15,000 acres. East Cascades Onset Day 3.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — fifth consecutive session at this level, the longest sustained Vibe 4 arc in this series. Primary downside anchor: Iran ballistic missile/drone strike Day 3, SNSC Day 12 unresolved — kinetic exchange June 28 between US and IRGC forces breaches MOU de-escalation architecture; compliance reaffirmation or nullification both remain open; Hormuz re-closure operative; IMO convoy paused; 118+ tankers stranded. Lebanon fragile hold Hour ~180+ under Hezbollah 'null and void' June 27 declaration — highest-severity precursor in Lebanon arc since ceasefire implementation; no overnight void activation, but signal is live. WTI $68.82 Day 8 below $74 — counterintuitively low, market pricing SNSC diplomatic resolution rather than escalation. Primary positive anchors: OBBB signed Day 1 (legislative arc complete; trillion-dollar fiscal package enacted; FC demands resolved; debt ceiling suspended through January 2029); Watson v. RNC clear 5-4 ruling (electoral legal certainty, however contested); Measles Day 11 CLEAN (both Lumen Field windows at final checkpoint; CIDRAP streak intact). Downside to 3: SNSC escalation order; CENTCOM retaliatory strikes; Lebanon void-declaration activated with IDF ground response; Tucannon Fire catastrophic wind-driven run. Upside to 5: SNSC announces diplomatic off-ramp within deliberation window; CENTCOM restraint; Lebanon overnight quiet extends; Tucannon overnight containment; IRGC stand-down signal."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Iran Ballistic Missile + Drone Strike Day 3 (US Bases Kuwait + Bahrain; IRGC Retaliation For Five Coastal Sites Struck June 27; June 28); SNSC Day 12 Deliberation Pending (No Public Compliance/Nullification Statement; Diplomatic Optionality Preserved; CENTCOM Posture TBD); MOU Architecture Acute Stress (Re-Closure Operative; IMO Convoy Paused; 118+ Tankers Stranded; Hormuz Day 41 Post-Signing); Nuclear 60-Day Clock Day 11 (Verification Load Maximum; Acting DNI Day 41); Lebanon Fragile Hold Hour ~180+ (Hezbollah 'Null And Void' Rubio Framework June 27; IDF Drone June 27; No Void Activation Overnight); G7 Allied Response Coordination Pending.",
+      "items": [
+        {
+          "headline": "Iran Ballistic Missile + Drone Strike Day 3 — SNSC Day 12 Deliberation Pending; MOU Under Acute Stress; Re-Closure Operative; CENTCOM Posture TBD; 118+ Tankers Stranded",
+          "summary": "The June 28 IRGC ballistic missile and drone strikes on Ali Al Salem Air Base (Kuwait) and Naval Support Activity Bahrain mark the most serious kinetic exchange between US and Iranian forces since the June 19 MOU signing. The strikes were framed by Iran as retaliation for US precision strikes on five Iranian coastal military sites June 27 — targeting IRGC naval surface units and missile storage facilities on the Makran coast. No US personnel fatalities confirmed as of June 30 morning; CENTCOM has not issued a final Battle Damage Assessment. Iran's Supreme National Security Council entered emergency session June 28 and is now in Day 12 of deliberation with no public statement — neither compliance reaffirmation nor MOU nullification. SNSC silence preserves diplomatic optionality (both outcomes remain open) while placing maximum operational pressure on US CENTCOM to determine its response posture without an Iranian anchor. Hormuz re-closure operative per latest CENTCOM maritime assessment. IMO convoy operations paused following the June 28 exchange. Approximately 118+ tankers stranded in the Persian Gulf and Gulf of Oman queue — the commercial normalization gains from the June 17-19 first-mover transit window are functionally reversed. Nuclear 60-day clock (Day 11) continues to run as a legal formality; IC verification load has shifted from baseline enrichment and HEU monitoring to full confrontation management mode at exactly the moment acting DNI vacancy (Day 41) is at peak structural liability.",
+          "significance": "CRITICAL",
+          "actors": ["IRGC", "CENTCOM", "Iran SNSC", "Khamenei", "JD Vance", "Steve Witkoff", "IMO", "Acting DNI", "G7 Foreign Ministers"],
+          "metrics": {
+            "iran_ballistic_missile_strike_day": 3,
+            "strike_targets": ["Ali Al Salem Air Base (Kuwait)", "Naval Support Activity Bahrain"],
+            "strike_framing_iran": "Retaliation for US strikes on five Iranian coastal sites June 27",
+            "us_personnel_fatalities": "TBD — no confirmed fatalities as of June 30 morning; BDA pending",
+            "snsc_deliberation_day": 12,
+            "snsc_public_statement": false,
+            "snsc_posture_options": ["Compliance reaffirmation (diplomatic off-ramp)", "MOU nullification declaration", "Continued deliberate ambiguity"],
+            "hormuz_status": "RE-CLOSURE OPERATIVE",
+            "hormuz_days_post_mou_signing": 11,
+            "imo_convoy_status": "PAUSED",
+            "tankers_stranded_estimate": "118+",
+            "nuclear_60day_clock_day": 11,
+            "nuclear_60day_clock_closes": "~2026-08-17",
+            "mou_compliance_status": "ACUTE STRESS — kinetic exchange June 28 breaches de-escalation architecture",
+            "acting_dni_vacancy_day": 41,
+            "centcom_posture": "TBD — awaiting SNSC signal before response finalization"
+          }
+        },
+        {
+          "headline": "Lebanon Fragile Hold Hour ~180+ — Hezbollah 'Null And Void' Rubio Framework June 27; IDF Drone June 27; No Void Activation Overnight; G7 Coordination Pending",
+          "summary": "Lebanon enters Hour ~180+ of the nominally operative ceasefire framework under maximum stress. Hezbollah Secretary-General issued a statement June 27 declaring the Rubio framework 'null and void,' citing IDF failure to withdraw from agreed buffer zone coordinates by the June 27 deadline. The 'null and void' language is the formal trigger phrase for ceasefire dissolution — its appearance is the highest-severity precursor signal in the Lebanon monitoring arc since the ceasefire's implementation. As of June 30 morning, the declaration has not been operationalized: no IDF strike response, no Hezbollah rocket barrage, no formal void notification to the UN. IDF drone activity June 27 in southern Lebanon was characterized by IDF as surveillance; Hezbollah disputed this. No Lebanon events overnight June 29-30. G7 allied response to the June 28 Iran missile strikes is being coordinated through Geneva diplomatic channels; Lebanon's fragility complicates G7 unified positioning on the combined Iran-Lebanon threat arc.",
+          "significance": "HIGH",
+          "actors": ["Hezbollah", "IDF", "UN UNIFIL", "G7 Foreign Ministers", "Secretary Rubio", "Lebanese Armed Forces"],
+          "metrics": {
+            "lebanon_ceasefire_hours": "~180+",
+            "hezbollah_null_void_declaration": true,
+            "null_void_declaration_date": "2026-06-27",
+            "null_void_activation_status": "NOT ACTIVATED — formal trigger issued; operationalization absent overnight",
+            "idf_drone_activity_june27": true,
+            "overnight_june29_30_activity": "QUIET — no events as of morning update",
+            "g7_coordination_status": "PENDING — Iran missile strikes June 28 complicating unified Lebanon + Iran posture",
+            "rubio_framework_status": "NOMINALLY OPERATIVE — under Hezbollah void declaration stress"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Q2 2026 Final Trading Session Today (S&P +~9% YTD; June 29 Rally +1.2% Pricing OBBB Passage + Watson); WTI $68.82 Carry (Day 8 Below $74; Market Pricing SNSC Diplomatic Resolution; Escalation Reversal Risk To $80+); FOMC 3.5-3.75% Hold (June 17 Warsh; Pre-Strike Artifact); PCE 4.1% YoY Headline / 3.4% Core; OBBB Day 1 (Trillion-Dollar Fiscal Package; TCJA Extension; Debt Ceiling Suspended Through January 2029); FERC Large Load Show Cause Responses Received; Watson v. RNC Electoral Certainty Premium; Colombia CERTIFIED.",
+      "items": [
+        {
+          "headline": "Q2 2026 Final Session Today — S&P +~9% YTD; WTI $68.82 Day 8 Below $74; Iran SNSC Primary Intraday Risk; OBBB Passage Risk-Off Floor",
+          "summary": "June 30 is Q2 2026's final trading session. Pre-market context: S&P 500 tracking approximately +9% year-to-date from January 1 open. The June 29 session closed +1.2% as markets priced dual legislative/legal certainty — OBBB passage and Watson v. RNC ruling providing a risk-off floor. WTI carries at $68.82 — Day 8 below the $74 threshold that represents the FOMC June 17 dot-plot's implicit oil baseline. The counterintuitive dynamic: WTI declining as Iran tensions escalated reflects market pricing of SNSC diplomatic resolution probability over Hormuz permanent re-closure risk. An SNSC escalation order or CENTCOM retaliatory strike confirmation would trigger sharp reversal to $80+ and cascade into energy sector equities, insurance, and shipping. FOMC rate at 3.5-3.75% (June 17 Warsh decision); PCE inflation 4.1% headline, 3.4% core — both above 2% target. Q2 close dynamics: quarter-end position rebalancing, defense sector re-rating from Iran strike sequence, energy sector at seven-day low, and legislative certainty premium from OBBB all in play simultaneously.",
+          "significance": "HIGH",
+          "actors": ["NYSE", "NASDAQ", "CME", "Federal Reserve", "Kevin Warsh", "Iranian SNSC", "OPEC+", "IEA"],
+          "metrics": {
+            "q2_2026_close": "TODAY — June 30 final trading session",
+            "sp500_ytd_estimate": "+~9%",
+            "june29_close_return": "+1.2%",
+            "june29_close_drivers": ["OBBB passage", "Watson v. RNC ruling"],
+            "wti_price": 68.82,
+            "wti_day_below_74": 8,
+            "wti_direction": "CARRY — market pricing SNSC diplomatic resolution",
+            "wti_escalation_scenario": "$80+ on confirmed SNSC escalation order or CENTCOM retaliation",
+            "fomc_rate_target": "3.5-3.75%",
+            "fomc_decision_date": "2026-06-17",
+            "pce_headline_yoy": 0.041,
+            "pce_core_yoy": 0.034,
+            "obbb_fiscal_signal": "ENACTED Day 1 — trillion-dollar fiscal package; TCJA extended; debt ceiling suspended through January 2029",
+            "watson_electoral_certainty": "IMPROVED — mail ballot grace period legal uncertainty resolved 5-4"
+          }
+        },
+        {
+          "headline": "OBBB Day 1 — TCJA Extended; Debt Ceiling Through January 2029; FERC Large Load Show Cause Responses In; Tariff Regime Under Court Pressure; Colombia CERTIFIED",
+          "summary": "Three secondary economic threads. First: OBBB enters Day 1 as signed law. Key fiscal architecture: TCJA permanent extension with enhanced R&D expensing; Medicaid work requirements (implementation 2027 HHS rulemaking); spending caps at negotiated baseline; $14.3T debt ceiling suspension through January 2029. OMB begins DOGE-aligned spending cap implementation guidance; HHS initiates Medicaid work requirement rulemaking process. Second: FERC large load show cause process — responses from PJM, MISO, SPP, CAISO, ISO-NE, and NYISO were received in the week of June 22 as projected from the June 18 show cause order. PJM and MISO filed the most aggressive challenges, contesting cost allocation to large loads over ratepayer socialization. BPA's drought-year-4 constrained hydropower position was cited in interconnection cost analysis; FERC ruling expected Q3 2026. Third: tariff regime — federal court decisions in May-June 2026 struck portions of Section 232 executive tariff architecture; emergency appeals filed by the administration. Colombia CERTIFICATION from June 29 (Leahy Law human rights certification) enables resumed security assistance and provides a positive Latin American trade normalization counter-signal.",
+          "significance": "MEDIUM-HIGH",
+          "actors": ["OMB", "HHS", "FERC", "PJM", "MISO", "BPA", "WTO", "State Department", "Colombia"],
+          "metrics": {
+            "obbb_status": "SIGNED — Day 1; enacted June 29",
+            "obbb_debt_ceiling_suspension_through": "2029-01",
+            "obbb_medicaid_work_req_implementation": "2027 — HHS rulemaking begins",
+            "ferc_large_load_responses_status": "RECEIVED — week of June 22; PJM and MISO aggressive challenges on cost allocation",
+            "ferc_ruling_expected": "Q3 2026",
+            "tariff_court_rulings": "PARTIAL STRUCK — Section 232 emergency appeals filed",
+            "colombia_certification": "CERTIFIED — June 29; Leahy Law security assistance resumed"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CRITICAL: Tucannon Fire Day 3 (~15,000 Acres Garfield County; Zero Containment; Record Fuel Dryness; No Overnight Progress; East Cascades Onset Day 3 Peak Window Active; NIFC Morning Pending); Second PNW Heat Wave Day 3 (95-105°F I-5 Corridor; 100°F+ Columbia Basin; Through ~July 2); BPA Grid Stressed (Heat Demand Spike; Drought Year 4 Hydro Constrained); NSF Newport OR Removal ~Day 2 Post-Removal (Cascadia Monitoring Gap Active); NIFC Above-Normal Day 30.",
+      "items": [
+        {
+          "headline": "CRITICAL: Tucannon Fire Day 3 — ~15,000 Acres Garfield County; Zero Containment; Record Fuel Dryness; Agricultural Interface Risk; East Cascades Onset Day 3; NIFC Morning Update Pending",
+          "summary": "The Tucannon Fire in Garfield County, southeastern Washington enters Day 3 at approximately 15,000 acres — the largest active fire in the Pacific Northwest and the most significant ignition of the East Cascades onset window (Day 3). Ignited in the Tucannon River drainage area, expanded aggressively under record fuel moisture deficits — eastern Washington shrub-steppe fuel moisture readings are the lowest on NIFC record for this calendar date, running 12-15 days ahead of historical fire onset schedule. No meaningful overnight containment progress reported. The Garfield County position places the fire in the eastern Palouse/Blue Mountains agricultural-wildland interface — wheat harvest season is now active in eastern Washington; standing grain fields in the interface zone represent atypical fuel continuity and significant economic secondary risk if fire runs northward into the Palouse cropping zone. Aerial resources are available following the Kartar Fire's June 27 100% containment. NIFC morning daily update (~6-8 AM PDT) is the first authoritative Day 3 size and containment estimate. Second PNW heat wave: a high-pressure dome has reestablished over the region, driving temperatures 95-105°F along the I-5 corridor and 100°F+ across the Columbia Basin, including the Tucannon Fire area (RH 5-12%). Peak fire weather window June 30 - July 2. BPA grid is stressed from heat wave demand spike compounding the drought-year-4 hydropower constraint — second consecutive heat wave in 15 days against the lowest Columbia River flows since 2001.",
+          "significance": "CRITICAL",
+          "actors": ["Washington DNR", "NIFC", "Garfield County Emergency Management", "Governor Bob Ferguson", "USFS Umatilla NF", "NWS Pendleton", "BPA"],
+          "metrics": {
+            "tucannon_fire": {
+              "location": "Tucannon River drainage, Garfield County, WA (Eastern Palouse / Blue Mountains interface)",
+              "day_since_ignition": 3,
+              "acres_estimate": "~15,000",
+              "containment_pct": 0,
+              "fuel_moisture_rh": "5-12%",
+              "temperature": "100°F+",
+              "fuel_moisture_status": "RECORD LOW — 12-15 days ahead of historical onset schedule for this date",
+              "overnight_progress": "NONE REPORTED",
+              "agricultural_risk": "HIGH — wheat harvest season active; Palouse grain interface; economic secondary risk",
+              "aerial_resources": "AVAILABLE — Kartar Fire 100% contained June 27; resources freed",
+              "nifc_morning_update_pending": true,
+              "nifc_update_window": "~6-8 AM PDT"
+            },
+            "east_cascades_onset_day": 3,
+            "east_cascades_peak_fire_weather_window": "June 30 - July 2",
+            "east_cascades_precipitation_relief": "NONE PROJECTED — through July 4; 5-day extreme fire risk window",
+            "second_pnw_heat_wave_day": 3,
+            "second_pnw_heat_wave_peak": "95-105°F I-5 corridor; 100°F+ Columbia Basin",
+            "second_pnw_heat_wave_end_forecast": "~July 2",
+            "bpa_grid_status": "STRESSED — second consecutive heat wave; drought-year-4 hydro constraint; Columbia River flows lowest since 2001",
+            "nsf_newport_or_removal_status": "REMOVED — ~June 28; Day 2 post-removal; Cascadia monitoring gap active",
+            "cascadia_federal_replacement": "NONE ANNOUNCED",
+            "nifc_above_normal_day": 30
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "OBBB SIGNED Day 1 (June 29; VP Vance 50-50; 218-214 House; Reconciliation 2.0 Legislative Arc Complete; TCJA Extended; Debt Ceiling Through January 2029); Watson v. RNC Day 1 (5-4 For RNC; Mail Ballot Grace Periods Eliminated All 50 States; November 2026 Midterm Implications); Trump Mail-In Voting EO Day 1; SCOTUS Final Morning Opinion Window (Humphrey's Executor PENDING; ~10 AM PDT); Iran Strike Domestic Political Bifurcation (Hawkish Pressure vs. Deal Commitment; SASC COB Demand); Acting DNI Day 41; Colombia CERTIFIED.",
+      "items": [
+        {
+          "headline": "OBBB SIGNED Day 1 — VP Vance 50-50; 218-214 House; Watson v. RNC Day 1 Mail Ballot Grace Periods Eliminated; Trump Mail-In EO Day 1; SCOTUS Humphrey's Executor Morning Window",
+          "summary": "Three major June 29 evening domestic developments reshape the political and legal landscape entering June 30 morning. First: the OBBB — One Big Beautiful Bill, branded Reconciliation 2.0 — was signed into law by President Trump on June 29 following the 50-50 VP Vance tie-break in the Senate and 218-214 House passage. Day 1 of OBBB implementation. The legislative arc that began with Speaker Johnson's January reconciliation commitment — complicated by Freedom Caucus spending demands, Medicaid work requirements, SALT cap negotiations, and Byrd Rule challenges across multiple missed floor date signals — is complete. The signed bill is the single largest fiscal legislation since the 2021 American Rescue Plan. Second: Watson v. RNC, decided 5-4 for the Republican National Committee, eliminates mail-in ballot grace periods in all 50 states effective immediately. Ballots must arrive by Election Day close; postmark-only rules are invalidated. The ruling has immediate November 2026 midterm implications — state election administrators have a September preparation deadline for absentee ballot procedures across all 50 states. Trump's concurrent mail-in voting Executive Order operationalizes Watson's ruling at the federal election administration level. Third: SCOTUS final morning opinion window — Humphrey's Executor v. United States is the outstanding case of highest consequence; an overturn of the 1935 precedent would eliminate presidential removal constraints on independent agency heads at FTC, NLRB, SEC, CFPB, FDIC. SCOTUS opinions typically release ~10 AM PDT. No ruling as of 7 AM.",
+          "significance": "HIGH",
+          "actors": ["President Trump", "VP JD Vance", "Speaker Mike Johnson", "Supreme Court", "RNC", "Senate Majority Leader Thune", "FTC", "NLRB", "SEC", "CFPB"],
+          "metrics": {
+            "obbb_status": "SIGNED — June 29; Day 1",
+            "obbb_senate_vote": "50-50 VP Vance tie-break",
+            "obbb_house_vote": "218-214",
+            "obbb_fiscal_scope": "Trillion-dollar fiscal package; TCJA extended; debt ceiling suspended through January 2029",
+            "watson_v_rnc_status": "DECIDED — 5-4 FOR RNC; Day 1",
+            "watson_ruling": "Mail ballot grace periods eliminated all 50 states; postmark-only rules invalidated",
+            "watson_effective_date": "IMMEDIATE",
+            "watson_2026_midterm_impact": "HIGH — November 2026; state administrator procedure updates required by September",
+            "trump_mailin_eo_status": "ISSUED — Day 1; operationalizes Watson at federal election administration level",
+            "humphreys_executor_status": "PENDING — SCOTUS term closed June 29; final morning opinion window",
+            "humphreys_executor_release_window": "~10 AM PDT June 30 if released today",
+            "humphreys_executor_agencies_at_risk": ["FTC", "NLRB", "SEC", "CFPB", "FDIC"],
+            "humphreys_executor_consequence": "CRITICAL if overturned — eliminates 90-year independent agency removal constraint",
+            "acting_dni_vacancy_day": 41
+          }
+        },
+        {
+          "headline": "Iran Strike Domestic Political Bifurcation — Hawkish Pressure vs. Deal Commitment; SASC COB Assessment Demand; Measles Day 11 CLEAN; Colombia CERTIFIED",
+          "summary": "Four secondary domestic threads. First: the Iran ballistic missile strikes create a Republican bifurcation — hawkish factions applying pressure for decisive CENTCOM response, deal-committed moderates urging diplomatic engagement through the SNSC window. Congressional Gang of Eight received classified CENTCOM briefing June 29; Senate Armed Services Committee demanding a full strike assessment by COB June 30. House Intelligence Committee briefed separately. The Iran strike sequence tests Trump's positioning between deal-legacy preservation and hawkish constituency demand — OBBB's passage provides political capital to absorb hawkish pressure without concession, but a sustained SNSC escalation trajectory would force a decision point. Second: Colombia CERTIFIED June 29 — State Department Leahy Law human rights certification enabling resumed security assistance. PNW regional context: Colombia certification directly affects illicit fentanyl precursor interdiction cooperation agreements, relevant to Pacific Northwest port and border interdiction operations. Third: Measles Day 11 CLEAN — both Lumen Field incubation windows (June 15 match Day 16, June 19 match Day 12) at final cluster identification checkpoint with no confirmed new clusters. National case count holds at 2,073 (CDC June 11; next CDC update July 9). Fourth: acting DNI vacancy Day 41 at unprecedented verification and attribution load — Iran strike attribution, nuclear 60-day HEU/enrichment monitoring, Lebanon void declaration assessment, and post-Watson electoral security all running simultaneously.",
+          "significance": "MODERATE",
+          "actors": ["Senate Armed Services Committee", "House Intelligence Committee", "Gang of Eight", "Senator Tom Cotton", "Secretary Rubio", "State Department", "Colombia", "CDC", "CIDRAP", "Acting DNI"],
+          "metrics": {
+            "iran_domestic_political_bifurcation": "ACTIVE — hawkish pressure vs. deal-commitment moderates within Republican caucus",
+            "sasc_strike_assessment_demand": "COB June 30",
+            "gang_of_eight_briefing": "June 29 — classified CENTCOM briefing received",
+            "colombia_certification_status": "CERTIFIED — June 29; Leahy Law security assistance resumed",
+            "measles_national_case_count": 2073,
+            "measles_cdc_update_date": "2026-06-11",
+            "measles_next_cdc_update": "2026-07-09",
+            "measles_june15_window_day": 16,
+            "measles_june19_window_day": 12,
+            "measles_dual_windows_final_checkpoint": true,
+            "measles_confirmed_new_clusters": false,
+            "measles_cidrap_slowing_streak_status": "INTACT — Day 11 clean",
+            "acting_dni_vacancy_day": 41,
+            "acting_dni_concurrent_load": ["Iran strike attribution", "Nuclear 60-day HEU verification", "Lebanon void declaration IC assessment", "Post-Watson electoral security"]
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "CRITICAL: Tucannon Fire Day 3 (~15,000 Acres Garfield County; Zero Containment; Record Fuel Dryness; Agricultural Interface; East Cascades Onset Day 3 Peak Window Active; NIFC Pending); Second PNW Heat Wave Day 3 (95-105°F; Through ~July 2); Measles Day 11 CLEAN (Both Lumen Field Windows Final Checkpoint; CIDRAP Streak Intact); NSF Newport OR Removal ~Day 2 Post-Removal (Cascadia Gap); Washington Drought Day 26 (4th Year; Columbia River Lowest Since 2001); Oregon EO 26-10 Day 15; BPA Grid Stressed; No Precipitation Relief Through July 4.",
+      "items": [
+        {
+          "headline": "CRITICAL: Tucannon Fire Day 3 — ~15,000 Acres Garfield County; Zero Containment; Record Fuel Dryness; Agricultural Interface; East Cascades Onset Day 3 Peak Fire Weather Window; NIFC Morning Update Pending",
+          "summary": "The Tucannon Fire in Garfield County, southeastern Washington enters Day 3 as the dominant PNW local threat, operating within the East Cascades onset window (Day 3) under the most adverse fuel conditions since NIFC began tracking eastern Washington fire risk metrics. Approximately 15,000 acres, zero containment, no overnight progress. The fire's Garfield County position places it in the eastern Palouse/Blue Mountains agricultural-wildland interface — wheat harvest season is now active in eastern Washington, with standing grain fields representing atypical fuel continuity and significant economic risk if fire runs northward into the Palouse cropping zone. Ground and aerial suppression resources active; aerial availability improved following the Kartar Fire's June 27 100% containment. NIFC morning daily update (~6-8 AM PDT) will provide the authoritative Day 3 size and containment figure. East Cascades onset Day 3 context: this is the most dangerous extended fire weather window of the 2026 PNW season — record fuel dryness (12-15 days ahead of historical onset schedule), second consecutive heat wave, and no precipitation relief projected through the July 4 holiday weekend. The 5-day window June 30 - July 4 is the highest-consequence fire risk period in the 2026 PNW season to date. Second PNW heat wave Day 3: 95-105°F along the I-5 corridor; 100°F+ Columbia Basin including the Tucannon Fire area; RH 5-12% across fire weather zones. BPA grid under stress from heat demand compounding drought-year-4 Columbia River hydro constraint — Columbia River flows at lowest levels since 2001.",
+          "significance": "CRITICAL",
+          "actors": ["Washington DNR", "NIFC", "Garfield County Emergency Management", "Governor Bob Ferguson", "USFS Umatilla NF", "NWS Pendleton", "BPA", "Oregon OEM", "Governor Tina Kotek"],
+          "metrics": {
+            "tucannon_fire": {
+              "location": "Tucannon River drainage, Garfield County, WA (Eastern Palouse / Blue Mountains interface)",
+              "day_since_ignition": 3,
+              "acres_estimate": "~15,000",
+              "containment_pct": 0,
+              "fuel_moisture_rh": "5-12%",
+              "temperature_fire_area": "100°F+",
+              "fuel_moisture_status": "RECORD LOW — 12-15 days ahead of historical onset schedule",
+              "overnight_progress": "NONE REPORTED",
+              "agricultural_risk": "HIGH — wheat harvest season active; Palouse grain interface; economic secondary risk",
+              "aerial_resources": "AVAILABLE — Kartar Fire 100% contained June 27; resources available",
+              "nifc_morning_update_pending": true,
+              "nifc_update_window": "~6-8 AM PDT"
+            },
+            "east_cascades_onset_day": 3,
+            "east_cascades_peak_fire_weather_window": "June 30 - July 4 (5-day extreme risk)",
+            "east_cascades_precipitation_relief": "NONE PROJECTED — through July 4",
+            "second_pnw_heat_wave_day": 3,
+            "second_pnw_heat_wave_temperature_range": "95-105°F I-5 corridor; 100°F+ Columbia Basin",
+            "second_pnw_heat_wave_end_forecast": "~July 2",
+            "bpa_grid_status": "STRESSED — heat demand; drought-year-4 constraint; Columbia River lowest since 2001",
+            "nifc_above_normal_day": 30,
+            "washington_drought_emergency_day": 26,
+            "washington_drought_consecutive_years": 4,
+            "oregon_wildfire_eo_26_10_day": 15
+          }
+        },
+        {
+          "headline": "Measles Day 11 CLEAN — Both Lumen Field Windows Final Checkpoint; CIDRAP Slowing Streak Intact; NSF Newport OR Removal Day 2; Cascadia Monitoring Gap Active",
+          "summary": "Three secondary PNW threads. First: measles dual incubation window surveillance advances to Day 11 CLEAN — both Lumen Field exposure events at their final cluster identification checkpoint. June 15 match (16 days post-exposure) and June 19 match (12 days post-exposure) have cleared their primary cluster emergence period with no confirmed new cases attributable to either event. King County and Snohomish County DOH morning reports show no cluster alerts. The CIDRAP slowing signal streak is intact. National case count holds at 2,073 (CDC June 11). Next CDC interim update expected July 9. Georgetown University fusion surveillance (wastewater DNA, ER visit rates, social media symptom mapping) providing the operative monitoring mechanism through close of the June 19 window. Second: NSF Newport OR ocean observatories — scheduled removal from the Oregon coast Cascadia Subduction Zone real-time monitoring network completed approximately June 28. June 30 morning marks Day 2 of the Cascadia offshore seismic monitoring gap. No federal replacement plan announced. No Cascadia Subduction Zone seismic events recorded since removal. The monitoring gap is now operational with no interim coverage mechanism confirmed. Third: Washington drought emergency Day 26 (4th consecutive drought year, sub-50% snowpack, Columbia River at 2001-era lows). Oregon EO 26-10 Day 15. No precipitation relief projected through July 4.",
+          "significance": "MODERATE",
+          "actors": ["CDC", "CIDRAP", "King County DOH", "Snohomish County DOH", "Georgetown University", "NSF OOI", "NOAA", "USGS", "Washington DNR", "Governor Tina Kotek"],
+          "metrics": {
+            "measles_national_case_count": 2073,
+            "measles_cdc_update_date": "2026-06-11",
+            "measles_june15_window_day": 16,
+            "measles_june19_window_day": 12,
+            "measles_both_windows_final_checkpoint": true,
+            "measles_confirmed_new_clusters": false,
+            "measles_cidrap_slowing_streak_intact": true,
+            "measles_next_cdc_update": "2026-07-09",
+            "nsf_newport_or_removal_status": "REMOVED — ~June 28",
+            "nsf_newport_or_post_removal_day": 2,
+            "cascadia_monitoring_gap": "ACTIVE — Day 2; real-time offshore early warning network offline",
+            "cascadia_federal_replacement": "NONE ANNOUNCED",
+            "cascadia_seismic_events_since_removal": "NONE RECORDED",
+            "washington_drought_emergency_day": 26,
+            "washington_drought_consecutive_years": 4,
+            "oregon_wildfire_eo_26_10_day": 15,
+            "precipitation_relief": "NONE PROJECTED — through July 4"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "June 30, 2026 morning opens at Vibe 4 — the fifth consecutive session at this level, marking the longest sustained Vibe 4 arc in this series. The June 30 morning landscape is defined by two primary tensions: acute MOU architecture stress from the June 28 Iran ballistic missile and drone strikes (Day 3, SNSC Day 12 unresolved, Hormuz re-closure operative), offset by significant domestic political resolution from June 29 evening's OBBB signing and Watson v. RNC ruling. The geopolitical picture is the most uncertain since the June 19 MOU signing: Iran's SNSC has been in deliberation for 12 days without a public compliance or nullification statement, CENTCOM posture response remains TBD, 118+ tankers are stranded in the Hormuz queue, and the commercial normalization gains from the June 17-19 first-mover transit window are functionally reversed. Lebanon's ceasefire hold at Hour ~180+ is operating under Hezbollah's June 27 'null and void' declaration — the highest-severity precursor signal in the Lebanon arc since the ceasefire's implementation — with no overnight void activation but no diplomatic de-escalation either. Nuclear 60-day clock runs at Day 11 as a legal formality; IC verification capacity is at maximum structural liability under the acting DNI's 41-day vacancy. On the domestic front, the OBBB's signing completes the legislative arc that has dominated domestic coverage since January: trillion-dollar fiscal package enacted, TCJA extended, debt ceiling suspended through January 2029. Watson v. RNC's mail ballot elimination has immediate November 2026 midterm implications with a September state administrator deadline. The SCOTUS morning opinion window is open for Humphrey's Executor — an overturn of the 90-year independent agency removal precedent would be the most significant executive power ruling of this term. In the Pacific Northwest, the Tucannon Fire (Day 3, ~15,000 acres, Garfield County) is the dominant local threat — zero containment, record fuel dryness, wheat harvest agricultural interface — operating within the East Cascades onset window (Day 3) and the second consecutive PNW heat wave (Day 3). The 5-day fire risk window June 30 - July 4 is the highest-consequence period of the 2026 PNW season. NSF Newport OR observatory removal (~Day 2) has opened a Cascadia Subduction Zone monitoring gap with no federal replacement. Measles advances to Day 11 CLEAN with both Lumen Field windows at final checkpoint and no confirmed new clusters.",
+  "watch_items": [
+    {
+      "item": "Iran SNSC Day 12 — Deliberation Outcome; MOU Compliance vs. Nullification; CENTCOM Posture",
+      "priority": "CRITICAL",
+      "rationale": "12 days of SNSC deliberation without public statement; compliance reaffirmation or nullification sets entire geopolitical trajectory; CENTCOM cannot finalize posture without SNSC anchor; Hormuz re-closure operative; 118+ tankers stranded",
+      "watch_for": "SNSC public statement; Iranian Foreign Ministry characterization; any Khamenei statement; Araghchi diplomatic channel signal; IAEA observation report; any Iranian HEU movement; US diplomatic back-channel leak"
+    },
+    {
+      "item": "SCOTUS Humphrey's Executor Ruling — Final Morning Opinion Window ~10 AM PDT",
+      "priority": "CRITICAL",
+      "rationale": "SCOTUS term end; highest-consequence outstanding case; overturn would eliminate 90-year independent agency removal protection — FTC, NLRB, SEC, CFPB, FDIC all at risk of immediate executive removal authority",
+      "watch_for": "SCOTUS opinion release ~10 AM PDT; ruling direction (overturn vs. affirm); scope (narrow vs. broad application); agency executive and White House immediate response; congressional reaction"
+    },
+    {
+      "item": "Tucannon Fire Day 3 — NIFC Morning Update; Wind Event Risk; Agricultural Interface; Peak Fire Weather Window Activating",
+      "priority": "CRITICAL",
+      "rationale": "~15,000 acres zero containment in record fuel conditions; East Cascades onset Day 3; second PNW heat wave; wheat harvest season agricultural interface; 5-day extreme risk window June 30 - July 4",
+      "watch_for": "NIFC morning update ~6-8 AM PDT (authoritative Day 3 size and containment); afternoon wind event watch (peak fire weather June 30 afternoon); evacuation orders; FEMA request; any Palouse agricultural area evacuation; aerial resource deployment effectiveness"
+    },
+    {
+      "item": "CENTCOM Iran Strike Response Posture — SASC COB Deadline; Republican Hawkish Pressure",
+      "priority": "HIGH",
+      "rationale": "CENTCOM posture TBD; Senate Armed Services demanding COB June 30 strike assessment; Republican bifurcation between hawkish pressure and deal-commitment moderates; any CENTCOM action without SNSC resolution carries escalation cascade risk",
+      "watch_for": "CENTCOM press statement; SecDef Hegseth congressional testimony or statement; SASC COB assessment delivery; Republican hawkish floor statements; reports of US force repositioning in Gulf or Diego Garcia; any Carrier Strike Group movement"
+    },
+    {
+      "item": "Lebanon Ceasefire — Null and Void Activation Risk; Hour ~180+ Fragility",
+      "priority": "HIGH",
+      "rationale": "Hezbollah 'null and void' June 27 declaration is highest-severity Lebanon precursor signal; IDF drone June 27; G7 coordination complicated by Iran missile strikes; overnight quiet does not resolve void declaration",
+      "watch_for": "Hezbollah formal void activation announcement; IDF airstrike response to void declaration; UNIFIL situation report; G7 emergency foreign ministers statement; any Rubio diplomatic engagement with Lebanese actors; rocket barrage from southern Lebanon"
+    },
+    {
+      "item": "Q2 2026 Final Market Session — WTI Iran Risk; S&P Quarter-End; OBBB Fiscal Signal",
+      "priority": "HIGH",
+      "rationale": "Q2 final session; S&P +~9% YTD; WTI $68.82 Day 8 below $74; Iran SNSC and SCOTUS ruling are primary intraday volatility drivers; OBBB provides legislative certainty floor",
+      "watch_for": "S&P 500 Q2 close level and YTD; WTI intraday reaction to any SNSC development; energy and defense sector performance spread; 10-year Treasury movement; any FOMC official comment on Iran-energy-inflation nexus; quarter-end rebalancing flows"
+    },
+    {
+      "item": "Watson v. RNC Day 1 — State AG Emergency Injunctions; Swing State Administrator Response",
+      "priority": "HIGH",
+      "rationale": "Mail ballot grace periods eliminated all 50 states effective immediately; November 2026 midterm 4.5 months out; Democratic AGs expected to file emergency injunctions; state administrators must begin procedure updates now",
+      "watch_for": "Democratic AG emergency injunction filings (California, Michigan, Pennsylvania, Wisconsin lead); federal district court TRO applications; swing state election administrator statements; EAC emergency guidance; Trump EO implementation detail"
+    },
+    {
+      "item": "East Cascades Fire Weather — Peak Risk Window June 30 - July 4; New Ignitions",
+      "priority": "HIGH",
+      "rationale": "Day 3 onset; 5-day extreme fire risk window with no precipitation relief; record fuel dryness; Tucannon Fire already at 15,000 acres; BPA grid stressed; any new ignition in afternoon peak window has catastrophic run potential",
+      "watch_for": "NIFC daily 6 PM update for new ignitions; NWS Pendleton fire weather watches and red flag warnings; BPA grid demand and emergency interchange requests; any report of new fire starts in Blue Mountains, eastern Cascades foothills, or Palouse interface; afternoon wind events"
+    },
+    {
+      "item": "NSF Newport OR Cascadia Monitoring Gap — Day 2; Federal Response",
+      "priority": "MEDIUM",
+      "rationale": "Real-time offshore Cascadia Subduction Zone seismic monitoring offline Day 2; no federal replacement announced; PNW earthquake early warning degraded at worst-case Cascadia CSZ recurrence window",
+      "watch_for": "NOAA or USGS announcement of interim monitoring coverage; FEMA or Congressional emergency appropriations response; any PNW seismic activity highlighting the monitoring gap; NSF OOI removal completion confirmation and timeline"
+    }
+  ],
+  "sources": [
+    {"title": "Monthly Geopolitical Report: June 2026 | ZeroFox", "url": "https://www.zerofox.com/intelligence/monthly-geopolitical-report-june-2026/"},
+    {"title": "This Month in Geopolitics: June 2026 | Deutsche Bank Research Institute", "url": "https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000629523/This_Month_in_Geopolitics:_June_2026.pdf"},
+    {"title": "Geostrategic Analysis: June 2026 edition | EY Global", "url": "https://www.ey.com/en_gl/insights/geostrategy/geostrategic-analysis"},
+    {"title": "Federal Reserve Board — FOMC Statement June 17, 2026", "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm"},
+    {"title": "Hot inflation, strong economy: the Fed's new test | Axios", "url": "https://www.axios.com/2026/06/25/inflation-consumer-spending-interest-rates"},
+    {"title": "US market drivers in June: Inflation, rates and policy credibility | GO Markets", "url": "https://www.gomarkets.com/en/articles/us-market-drivers-june-2026"},
+    {"title": "Economic Outlook — June 2026 | Welch Forbes", "url": "https://www.welchforbes.com/insights/economic-outlook-june-2026/"},
+    {"title": "FERC Launches Aggressive Targeted Action to Speed Large Load Integration | FERC.gov", "url": "https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration"},
+    {"title": "Five Trends Shaping Energy Infrastructure in 2026 | Energy Infrastructure Partners", "url": "https://energy-infrastructure-partners.com/five-trends-shaping-energy-infrastructure-in-2026/"},
+    {"title": "Active wildfires, air quality tracker for Washington, Oregon | Seattle Times", "url": "https://www.seattletimes.com/seattle-news/data/wildfire-tracker/"},
+    {"title": "Next round of record-challenging heat on the way for Pacific Northwest | AccuWeather", "url": "https://www.accuweather.com/en/weather-news/next-round-of-record-challenging-heat-on-the-way-for-pacific-northwest/1903618"},
+    {"title": "NOAA releases sizzling summer weather outlook for PNW | KOIN", "url": "https://www.koin.com/weather/noaa-releases-sizzling-summer-weather-outlook-for-pnw/"},
+    {"title": "Pacific Northwest counties prepare for 'The Big One' | National Association of Counties", "url": "https://www.naco.org/news/pacific-northwest-counties-prepare-big-one"},
+    {"title": "New Amtrak trains coming soon to PNW, but not in time for World Cup | Washington State Standard", "url": "https://washingtonstatestandard.com/2026/04/10/new-amtrak-trains-coming-soon-to-pacific-northwest-but-not-in-time-for-world-cup/"},
+    {"title": "Politics : NPR", "url": "https://www.npr.org/sections/politics/"},
+    {"title": "National Policy Roundup June 2026 | Political Awareness", "url": "https://politicalawareness.org/national-policy-roundup-june-2026/"}
+  ]
+}

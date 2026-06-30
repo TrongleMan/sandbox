@@ -1844,6 +1844,22 @@
       "generated_at": "2026-06-29T20:00:00-07:00"
     },
     {
+      "id": "2026-06-30-morning",
+      "date": "2026-06-30",
+      "session": "morning",
+      "file": "reports/2026-06-30-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Iran Ballistic Missile Strike Day 3 SNSC Day 12 Still Pending (MOU Architecture Acute Stress; Re-Closure Operative; CENTCOM TBD; 118+ Tankers Stranded); Lebanon Fragile Hold Hour ~180+ (Hezbollah 'Null And Void' Rubio Framework; No Void Activation); OBBB SIGNED Day 1 (VP Vance 50-50; 218-214 House; Reconciliation 2.0 Complete); Watson v. RNC Day 1 (Mail Ballot Grace Periods Eliminated All 50 States; 5-4); SCOTUS Humphrey's Executor Morning Window; Tucannon Fire Day 3 (~15,000 Acres Garfield County; Zero Containment; Record Fuel Dryness; East Cascades Onset Day 3); Second PNW Heat Wave Day 3; Q2 2026 Final Session Today (WTI $68.82; S&P +~9% YTD); Measles Day 11 CLEAN; NSF Newport OR Removal ~Day 2; Vibe 4",
+      "generated_at": "2026-06-30T07:00:00-07:00"
+    },
+    {
       "id": "2026-06-30-evening",
       "date": "2026-06-30",
       "session": "evening",
