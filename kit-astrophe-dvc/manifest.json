@@ -1876,6 +1876,22 @@
       "generated_at": "2026-06-30T20:00:00-07:00"
     },
     {
+      "id": "2026-07-01-morning",
+      "date": "2026-07-01",
+      "session": "morning",
+      "file": "reports/2026-07-01-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "SCOTUS VRA Opinion Pending; OBBB Midnight Effective; Tucannon Day 4 Second Heat Wave Arriving; Winthrop Overnight Ignition; SNSC Day 13 Opens; Lebanon Hour ~208; Vibe 4",
+      "generated_at": "2026-07-01T06:30:00-07:00"
+    },
+    {
       "id": "2026-07-01-evening",
       "date": "2026-07-01",
       "session": "evening",
