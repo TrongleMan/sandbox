@@ -1906,7 +1906,23 @@
       ],
       "headline": "Hormuz Day 124: SNSC Pending Day 13; VRA Ruling Scrambles Midterm Map; OBBB Day 1 Effective; Tucannon ~25K Acres; Second PNW Heat Wave; SpaceX Nasdaq-100 July 6; Vibe 4",
       "generated_at": "2026-07-01T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-02-evening",
+      "date": "2026-07-02",
+      "session": "evening",
+      "file": "reports/2026-07-02-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 125: Doha Talks Active (Iran Working Groups Formed); WTI Near Pre-War Floor; Russia Fuel Crisis IEA 'Unprecedented'; Hamilton Fire 85% Contained Level 1; June Jobs Report Released; Peru Fujimori Declared Winner; Tucannon Day 5; Oregon Renewable Deadline 2 Days; SpaceX July 6; Vibe 4",
+      "generated_at": "2026-07-02T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-01T20:00:00-07:00"
+  "last_updated": "2026-07-02T20:00:00-07:00"
 }
