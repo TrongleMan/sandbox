@@ -1,0 +1,400 @@
+{
+  "report_id": "2026-07-03-morning",
+  "generated_at": "2026-07-03T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 126 / Compliance Day 14 — SNSC PENDING DAY 15 (Re-Closure Operative; IRGC June 26 Cargo Strike Unaddressed; Doha Round 2 Working Groups Day 2; WTI ~$69 Pre-War Floor; Traffic 28% Pre-War / 27 Vessels Per Day; Iran 40M Bbl Exported At ~20% Premium); Lebanon Fragile Hold Hour ~240+ (Second Rubio Framework Ceasefire; No Void Declaration); JUNE JOBS 57K MISS: +57K vs +110K Expected (Revised May +129K; Revised April +148K; Combined -74K April-May Revision; Unemployment 4.2% LFPR Drop 61.5%; 2yr Yield 4.13% -3.5bp; Markets Price September Fed Cut Over Hike); PJM GRID EMERGENCY DAY 3 — EXPIRES TODAY (DOE Section 202(c) Orders June 30; July 2 Demand 166,147 MW vs 2006 All-Time Record 165,563 MW; 67M People 13 States; Data Center >50MW Curtailment + Pollution Waivers); RUSSIA FUEL CRISIS DAY 3 IEA 'UNPRECEDENTED' (Ukrainian Drone Strikes Cut Refining Capacity 17% To 850K Bpd; Rationing 20-30L Limits; 2-3 Hr Waits; Moscow + Northern Russia; Export Bans Petrol/Jet Fuel; Diesel Ban Weighing); OBBB LAW DAY 4 / EFFECTIVE DAY 3 (Signed June 29; Midnight July 1 Effective; Largest Trump 2nd-Term Tax-Spending-Medicaid Reform Package); Watson v. RNC Day 4 (Mail Ballot Grace Periods Eliminated All 50 States; Implementation Active); Humphrey's Executor Overturned Day 4 (FTC/NLRB/SEC Independence Framework Dismantled); VRA Callais Day 10 (Midterm Redistricting Window Active); TUCANNON FIRE DAY 6 (Garfield County Eastern WA; ~25K+ Acres; July 4 Compound Risk IMMINENT — Holiday Ignitions + Second Heat Wave + Peak Fuel Dryness); Hamilton Fire 85% Contained Level 1 (Near Control); East Cascades Onset Day 6; Second PNW Heat Wave Day 4 (Western WA Upper 80s-90s; Interior Valleys RH 20% Or Lower); SpaceX Nasdaq-100 Last Trading Day Before July 7 Addition; Oregon Renewable Energy Deadline TODAY; MEASLES JULY 3-10 POST-FIFA MONITORING WINDOW OPENS TODAY (June 19 Lumen Field Match Incubation Day 14; Day 1 Of New Cluster ID Window); NIFC Above-Normal Day 33; WA Drought Day 29 (4th Year); Peru Fujimori Declared Winner JNE Declaration; NSF Newport OR Monitoring Continuity Active (Trump Admin Reversal Holding). Friday July 3, 2026 morning. Pre-July 4 250th Anniversary. The July 3 morning brief opens at Vibe 4 — held for the seventh consecutive session in the post-deal Hormuz compliance stress arc. Four structural negatives dominate the opening: SNSC Day 15 pending with re-closure technically operative; the June NFP print at 57K inverting Warsh's nine-hike dot plot; Russia's fuel crisis escalating to IEA 'unprecedented' designation; and Tucannon Fire entering the highest-consequence July 4 compound risk window of the 2026 wildfire season. The PJM grid emergency — the most acute domestic infrastructure stress event of the week — expires today at end of day, a conditional relief on an otherwise dense risk register for America's 250th birthday weekend.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — seventh consecutive session at this level, maintained across the post-MOU compliance stress arc from June 26 (IRGC cargo strike). The July 3 morning brief holds at 4 because the four primary structural negatives each carry independent downward weight that prevents a score lift, while no new catastrophic shock has materialized to drop to 3. Negative factor 1 (Iran SNSC / Hormuz re-closure): Day 15 pending with re-closure technically operative. Iran's June 22 contested re-closure notification was never formally withdrawn; the June 26 IRGC strike on an IMO-backed Oman Route cargo vessel was never addressed; the Doha working groups (Day 2) represent active diplomacy but zero SNSC action as of morning. Traffic at 28% pre-war (27 vessels/day; 12 tankers/day) confirms the physical corridor is open but operating at well below normalized throughput. Lloyd's war-risk rate normalization has not been announced. The 118 IMO convoy tankers stranded since the June 26 pause remain the physical proxy measure for normalization. Negative factor 2 (June Jobs 57K miss): The largest payrolls miss of the Warsh era lands the morning before a three-day holiday. +57K vs +110K expected; combined April-May revision of -74K; unemployment technically fell to 4.2% but driven by labor force participation dropping 0.3pp to 61.5%, the lowest since March 2021. This is a supply-shock recession signal in a rate environment where the Fed chair has nine hike dots in his June SEP. Markets resolved immediately to pricing a September cut — the inversion of Warsh's stated policy path. The attribution war (supply-side Hormuz-driven vs structural demand-side) determines September FOMC action. Negative factor 3 (Russia fuel crisis): Ukrainian drone strikes on Russian refining infrastructure have cut capacity 17% to 850K bpd; rationing is confirmed in Moscow and Northern Russia with 20-30L per vehicle limits and 2-3 hour waits; petrol and jet fuel export bans are in force; diesel export ban under consideration. The IEA 'unprecedented' designation elevates this from a bilateral Russia-Ukraine military operation to a global energy supply monitoring event. Its intersection with the still-only-28%-recovered Hormuz throughput creates compounding global petroleum market uncertainty that markets had not fully priced as of June 30 close. Negative factor 4 (Tucannon Fire July 4 compound risk): Tucannon Fire (Garfield County, Eastern WA) enters Day 6 with an uncontrolled or minimally contained perimeter of 25K+ acres against a backdrop of second heat wave Day 4 conditions, record east Cascades fuel dryness (onset Day 6), and July 4 holiday weekend human ignition activity. The intersection of fire condition and holiday calendar is the most acute PNW wildfire risk window of the 2026 season. Positive factors preventing drop to 3: Doha talks 'positive progress' signal active; OBBB law effective providing domestic policy certainty; Hamilton Fire 85% contained Level 1 (near full control); measles June 29 window closed clean; no formal SNSC re-closure activation has occurred; PJM emergency expires today reducing grid stress. Upgrade to Vibe 5 requires: SNSC formally resolves to confirm MOU compliance and withdraws re-closure notification + Hormuz traffic trend clearly breaking above 40% pre-war in the 24-72 hour window + Tucannon perimeter achieving 30%+ containment before July 4 evening peak risk window. Downgrade to Vibe 3 requires: SNSC formally activates re-closure (Doha talks collapse) OR Iran asserts new corridor-control demand that ruptures Doha working groups OR Tucannon makes major July 4 run with confirmed structure loss + additional fatalities OR Jobs 57K triggers confirmed Warsh public signal of rate cut (policy inversion shock)."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 126 / Compliance Day 14 — SNSC PENDING DAY 15 (Re-Closure Operative; IRGC Cargo Strike Unaddressed; Doha Round 2 Working Groups Day 2; WTI ~$69; Traffic 28% Pre-War; Iran 40M Bbl Exported At ~20% Premium); Lebanon Fragile Hold Hour ~240+ (Rubio Framework; No Void Declaration); Peru Fujimori Declared Winner JNE Declaration; Russia Fuel Crisis Day 3 Geopolitical Dimension (Ukraine Drone Strikes On Russian Refineries; Putin Doubling Down On Ukraine).",
+      "items": [
+        {
+          "headline": "Hormuz Day 126 / Compliance Day 14 — SNSC PENDING DAY 15 (Re-Closure Operative; IRGC Cargo Strike Day 7 Unaddressed; Doha Qatar Round 2 Working Groups Day 2; WTI ~$69 Pre-War Floor; Traffic 28% Pre-War; Iran Exported 40M Barrels Since Blockade Lift At ~20% Premium; Lebanon Fragile Hold Hour ~240+)",
+          "summary": "The July 3 morning Hormuz picture is defined by structural compliance ambiguity entering America's 250th birthday weekend. Iran's SNSC remains in pending status on Day 15 — the Supreme National Security Council has not formally resolved the compliance question that opened on June 22, when Iran issued a contested re-closure notification citing an alleged MOU breach in Lebanon. That notification was never formally withdrawn. The June 26 IRGC strike on an IMO-backed Oman Route cargo vessel — the event that paused the IMO's 118-tanker convoy operation and triggered Lloyd's hard refusal to normalize war-risk rates — remains unaddressed at the SNSC level. The Doha Qatar talks (initiated July 1) are now in their second day, with Iranian and US working groups meeting. The Doha track represents the first structured diplomatic engagement since the Swiss technical talks (Witkoff/Araghchi) broke down in late June over nuclear inspection disputes. Working groups have formed around three tracks: Hormuz toll-free transit verification, IAEA access protocols for bombed sites, and Lebanon framework synchronization. No SNSC-level decision has resulted. The physical Hormuz picture: tanker traffic runs at approximately 27 vessels per day (28% of pre-war 100+ daily transits), with tanker-specific transits at roughly 12 per day (22% of pre-war). Iran has now exported more than 40 million barrels of crude since the naval blockade was lifted — at prices approximately 20% above pre-war levels, reflecting the inverse of the Hormuz squeeze that drove WTI above $100 during the conflict. WTI itself is consolidating near $69, the pre-war price floor, having broken through the $74 normalization floor on June 24 and held below it for nine consecutive days. The $69 level is the de facto floor below which oil markets price full Hormuz normalization; the oil market is telling analysts that the physical corridor is close to normalized without being there yet. Mine clearance continues. Lebanon ceasefire framework is holding at approximately Hour 240+ of the second Rubio Framework ceasefire (entered force approximately June 22-23 after the initial MOU breach). No void declaration has been issued; Hezbollah's 'Null and Void' rhetoric on the Rubio Framework (confirmed June 24) has not produced kinetic escalation through July 3 morning. The 60-day MOU nuclear compliance window is at Day 14 — 46 days remain for Iran and the United States to reach a technical agreement on IAEA access, HEU down-blending, and enrichment freeze. The nuclear talks commencement deadline (within the 60-day window) has not been publicly confirmed as met.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "JD Vance", "Masoud Pezeshkian", "Abbas Araghchi", "Steve Witkoff", "Esmaeil Baghaei", "Benjamin Netanyahu", "CENTCOM", "IRGC", "IDF", "Hezbollah", "IAEA", "Lloyd's of London", "IMO", "Qatar MFA", "Doha mediators"],
+          "metrics": {
+            "hormuz_closed_days": 126,
+            "mou_signed": true,
+            "mou_signed_date": "2026-06-19",
+            "mou_compliance_day": 14,
+            "sixty_day_compliance_window_day": 14,
+            "sixty_day_window_days_remaining": 46,
+            "sixty_day_window_end_projected": "2026-08-18",
+            "snsc_pending_day": 15,
+            "irgc_cargo_strike_date": "2026-06-26",
+            "irgc_cargo_strike_days_unaddressed": 7,
+            "iran_contested_reclosure_date": "2026-06-22",
+            "iran_contested_reclosure_formally_withdrawn": false,
+            "reclosure_operative": true,
+            "doha_talks_day": 2,
+            "doha_working_groups_formed": true,
+            "imo_convoy_tankers_stranded": 118,
+            "imo_convoy_paused": true,
+            "hormuz_traffic_vessels_per_day": 27,
+            "hormuz_traffic_pct_prewar": 28,
+            "hormuz_tanker_transits_per_day": 12,
+            "hormuz_tanker_pct_prewar": 22,
+            "iran_exports_since_blockade_lift_mbbls": 40,
+            "iran_export_price_premium_vs_prewar_pct": 20,
+            "wti_july3_estimate": "~$69",
+            "brent_july3_estimate": "~$73",
+            "wti_days_below_74_floor": 9,
+            "lloyds_rate_normalization_announced": false,
+            "mine_clearance_active": true,
+            "nuclear_talks_commencement_confirmed": false,
+            "lebanon_ceasefire_hour_approx": "~240+",
+            "lebanon_ceasefire_framework": "Rubio Framework (second ceasefire; entered force ~June 22-23)",
+            "lebanon_void_declaration_issued": false,
+            "hezbollah_null_void_rhetoric": true,
+            "centcom_standown_active": true,
+            "wpa_status": "MOOT — MOU in force"
+          }
+        },
+        {
+          "headline": "Peru Fujimori Declared Winner — JNE Declaration Pending; Russia Fuel Crisis Day 3 Geopolitical Dimension (Ukrainian Drone Strikes Cut Russian Refining 17%; Putin Doubles Down On Ukraine); Lebanon Hold Day 11 Second Ceasefire (Rubio Framework; IDF Constraint)",
+          "summary": "Three secondary geopolitical threads entering July 3 morning. First: Peru's electoral resolution has arrived. Keiko Fujimori has been declared winner by Peru's ONPE against Roberto Sanchez in the tightest modern Peruvian electoral contest — the JNE (National Elections Jury) formal declaration is in progress on July 3. A Fujimori presidency (taking office in late July) represents a right-leaning resource-nationalist correction from the Sanchez-Petro regional leftist alignment; it is the second consecutive Trump-aligned Latin American right-wing result after Colombia's de la Espriella win, completing a three-count right-aligned arc (Georgia governor primary June 17, Colombia runoff June 21, Peru now July). The Andean copper and silver resource nationalism premium that held equity markets in uncertainty during the contested count has begun to deflate with a Fujimori win. Second: Russia's fuel crisis has reached a geopolitical dimension that extends beyond the domestic supply shock story. Ukrainian drone strikes targeting Russian refining infrastructure have now cut Russia's gasoline production capacity by approximately 17% to 850,000 barrels per day — the direct military mechanism behind the civilian fuel rationing and petrol export bans. Putin has responded not by de-escalating the Ukraine campaign but by publicly dismissing the shortages as 'manageable' while intensifying pressure on Ukrainian cities. The IEA designation of the crisis as 'unprecedented' (in context of the combined Hormuz and Russian refinery strike supply shock) elevates this from a bilateral Russia-Ukraine story to a monitored global energy security event. The mechanism is clear: Ukrainian precision drone strikes on refinery infrastructure are achieving strategic supply-chain effect on Russian domestic economic capacity — a novel drone-strike-to-fuel-rationing causal chain that has not previously been confirmed at this scale. Third: Lebanon fragile hold Day 11 of the second Rubio Framework ceasefire. No new confirmed Israeli military operations have been reported in Lebanon through July 3 morning; no Hezbollah northern Israel operations confirmed. The 'null and void' rhetoric from Hezbollah regarding the Rubio Framework (confirmed June 24) has not activated kinetically. IDF's self-constraint posture (Netanyahu maintaining the June 23 buffer-zone-only position) is the operative mechanism; the ceasefire's durability through the July 4 holiday weekend is the next temporal test.",
+          "significance": "MODERATE",
+          "actors": ["Keiko Fujimori", "Roberto Sanchez", "JNE Peru", "ONPE Peru", "Vladimir Putin", "Ukrainian Armed Forces", "IEA", "IRGC", "IDF", "Hezbollah", "Marco Rubio", "Benjamin Netanyahu"],
+          "metrics": {
+            "peru_fujimori_declared_winner": true,
+            "peru_jne_declaration_status": "IN PROGRESS",
+            "peru_fujimori_onpe_pct": 49.9,
+            "peru_sanchez_onpe_pct": 50.1,
+            "peru_result_contest_expected": true,
+            "peru_right_wing_alignment": "Fujimori — third consecutive Trump-aligned Latin America right result",
+            "colombia_de_la_espriella_certified": true,
+            "russia_fuel_crisis_day": 3,
+            "russia_refining_capacity_cut_pct": 17,
+            "russia_gasoline_production_bpd": 850000,
+            "russia_fuel_rationing_regions": ["Moscow", "Northern Russia"],
+            "russia_fuel_rationing_limit_liters": "20-30L per vehicle",
+            "russia_fuel_rationing_wait_hours": "2-3 hours",
+            "russia_petrol_export_ban": true,
+            "russia_jet_fuel_export_ban": true,
+            "russia_diesel_export_ban_weighing": true,
+            "russia_ukraine_drone_strikes_refinery_confirmed": true,
+            "iea_crisis_designation": "UNPRECEDENTED",
+            "lebanon_ceasefire_framework_day": 11,
+            "lebanon_ceasefire_framework": "Second Rubio Framework (entered ~June 22-23)",
+            "new_idf_lebanon_strikes_july3": false,
+            "hezbollah_northern_israel_operations_july3": false,
+            "hezbollah_null_void_rhetoric": true,
+            "hezbollah_null_void_activated": false
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "JUNE JOBS 57K MISS — +57K vs +110K Expected; Revised April +148K / May +129K; Combined -74K Revision; Unemployment 4.2% (LFPR -0.3pp To 61.5% Lowest Since March 2021); 2yr 4.13% -3.5bp Post-Report; Markets Price September Fed Cut Over Hike; Warsh Nine-Hike-Dot SEP vs Recession Signal = Fundamental Policy Dilemma; WTI ~$69 Nine Days Below $74 Floor; Russia Fuel Crisis Day 3 IEA 'Unprecedented' (17% Russian Refining Capacity Cut; Export Bans); Iran 40M Bbl Exported At ~20% Premium; PJM Grid Emergency Day 3 Expires Today (DOE 202(c)); SpaceX Nasdaq-100 Last Pre-Holiday Trading Day (July 7 Entry); Oregon Renewable Energy Deadline TODAY.",
+      "items": [
+        {
+          "headline": "June Jobs 57K MISS — +57K vs +110K Expected; Revised April +148K / May +129K (Combined -74K); Unemployment 4.2% (LFPR Drop To 61.5%; Lowest Since March 2021); 2yr Treasury 4.13% -3.5bp; Markets Price September Fed Cut; Warsh Nine-Hike-Dot SEP vs Recession Signal = Fundamental Policy Dilemma",
+          "summary": "The June nonfarm payrolls report — released July 2 — lands as the largest labor market miss of the Warsh Fed era and the most consequential policy-signaling economic data point of the post-Hormuz-deal arc. The economy added 57,000 jobs in June versus a consensus forecast of 110,000. May was revised down from +172,000 to +129,000; April revised down from +179,000 to +148,000 — producing a combined April-May revision of -74,000. The cumulative picture is stark: June headline (+57K) plus the -74K revision means the three-month rolling payrolls trajectory has decelerated sharply against a background of supply-shock inflation, elevated Warsh-era rate expectations, and Hormuz-driven energy cost pass-through. The unemployment rate printed 4.2%, technically below the prior 4.3% — but the mechanism is unfavorable. The labor force participation rate fell 0.3 percentage points to 61.5%, the lowest reading since March 2021 during the COVID labor force retrenchment. Unemployment fell because workers left the labor force, not because employment expanded. The 2-year Treasury yield fell 3.5 basis points to 4.13% immediately following the report, fully inverting from the post-June-17-FOMC level of 4.216%. Market futures moved up — the classic 'bad news is good news' rate-cut pricing response. The Warsh dilemma is now explicit: his June 17 Summary of Economic Projections placed the median year-end Fed funds rate at 3.8% with nine officials projecting at least one hike. A 57K June print is a supply-shock recession signal that no hawkish dot plot was calibrated for. The attribution war is the operative political and economic debate for the July 4 holiday weekend: the Trump administration and Warsh will argue this is a temporary Hormuz/energy-supply-shock-driven demand contraction that will reverse as Hormuz normalizes; the opposition will argue it reflects structural labor market deterioration from tariff drag and elevated rates. If Warsh endorses the 'temporary supply shock' reading at the next Fed communication opportunity, he can maintain the hawkish posture through September's SEP. If the August jobs print confirms June's weakness, the September SEP will require a formal rate-path revision — the first genuine pivot signal. Pump relief at the US pump has not yet materialized from Hormuz's partial reopening: Oregon gas prices remain elevated, national average has not returned to pre-conflict levels. The energy-to-CPI transmission that would give Warsh's 'temporary' argument its empirical support is running 4-6 weeks behind the physical Hormuz opening.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "FOMC", "BLS", "CME FedWatch", "Donald Trump", "JD Vance", "Chris Wright DOE"],
+          "metrics": {
+            "june_nfp": 57000,
+            "june_nfp_consensus": 110000,
+            "june_nfp_miss": 53000,
+            "may_nfp_revised": 129000,
+            "may_nfp_prior": 172000,
+            "may_revision": -43000,
+            "april_nfp_revised": 148000,
+            "april_nfp_prior": 179000,
+            "april_revision": -31000,
+            "combined_april_may_revision": -74000,
+            "unemployment_rate_june": 4.2,
+            "unemployment_rate_may": 4.3,
+            "lfpr_june_pct": 61.5,
+            "lfpr_change_pp": -0.3,
+            "lfpr_lowest_since": "March 2021",
+            "treasury_2yr_post_report": "4.13%",
+            "treasury_2yr_change_post_report_bp": -3.5,
+            "treasury_2yr_post_fomc_june17": "4.216%",
+            "fomc_june17_decision": "HOLD 3.50-3.75%",
+            "warsh_sep_median_ye_fed_funds": "3.8%",
+            "warsh_hike_dots_min": 9,
+            "market_rate_path_shift": "September cut pricing replaces September hike bets",
+            "september_sep_status": "CRITICAL — August jobs + inflation data will determine whether Warsh can hold hawkish posture or must signal cut",
+            "recession_probability_shift": "Rising — 57K is supply-shock-recession-consistent; September data cycle is the arbiter",
+            "pump_relief_status": "DELAYED — Hormuz throughput at 28% pre-war insufficient to transmit CPI relief; mid-to-late July timeline still operative"
+          }
+        },
+        {
+          "headline": "Russia Fuel Crisis Day 3 IEA 'Unprecedented' (17% Refining Capacity Cut To 850K Bpd; Petrol + Jet Fuel Export Bans; Diesel Under Review; 2-3 Hr Waits Moscow + Northern Russia); WTI ~$69 Day 9 Below $74 Floor; PJM Grid Emergency Day 3 Expires Today; SpaceX Nasdaq-100 Last Pre-Holiday Day; Oregon Renewable Energy Deadline TODAY",
+          "summary": "Four secondary economic threads entering July 3 morning. First: Russia's fuel crisis has escalated to IEA monitoring status as an 'unprecedented' event on Day 3 of confirmed national rationing. Ukrainian drone strikes on Russian refining infrastructure have reduced gasoline production capacity by approximately 17% to 850,000 barrels per day. Gas stations in Moscow and Northern Russia have introduced 20-30 liter per vehicle fill limits; wait times of 2-3 hours are reported across multiple regions. The Russian government has banned petrol and jet fuel exports to prioritize domestic supply; a diesel export ban is under active consideration. Fuel quality regulations have been loosened to allow lower-grade fuel to market. Putin's public response is dismissal — insisting the crisis is manageable while continuing to intensify Ukraine operations. The IEA's 2026 Energy Crisis Policy Response Tracker designation as 'unprecedented' places Russia's fuel shortage alongside the Hormuz closure as the two primary global energy supply disruptions of the post-February conflict arc. Their concurrent presence — Hormuz throughput at 28%, Russian refining at 83% — is the compound energy supply stress the IEA is tracking. Second: WTI at approximately $69 has now spent nine consecutive days below the $74 normalization floor — the sustained period below floor that began on June 24 after the IRGC cargo strike triggered the Hormuz contested re-closure narrative. The $69 level represents the market's forward pricing of full Hormuz normalization; the gap between $69 spot and where WTI would be if the SNSC acted to confirm compliance is analytically estimated at $2-3 per barrel. Third: PJM grid emergency (DOE Section 202(c) orders, signed June 30 by Energy Secretary Chris Wright) expires at end of day today — July 3. July 2 saw PJM project record demand of 166,147 MW against the 2006 all-time record of 165,563 MW, with 67 million people across 13 states in the emergency perimeter. Data centers and large loads above 50 MW were authorized to curtail to backup generators within 15 minutes of an emergency signal; power plant pollution limit waivers were in force. The emergency infrastructure held; today's expiration is a conditional relief. Fourth: Oregon's renewable energy portfolio obligation deadline falls today; SpaceX's entry into the Nasdaq-100 becomes effective for the July 7 opening following today's last trading day before the holiday — both items close out the Q2-to-Q3 economic calendar.",
+          "significance": "HIGH",
+          "actors": ["IEA", "Vladimir Putin", "Ukrainian Armed Forces", "Kevin Warsh", "Chris Wright DOE", "PJM", "FERC", "Nasdaq", "SpaceX"],
+          "metrics": {
+            "russia_fuel_crisis_day": 3,
+            "russia_refining_capacity_pct_cut": 17,
+            "russia_gasoline_production_bpd": 850000,
+            "russia_fuel_rationing_limit_liters": "20-30L per vehicle",
+            "russia_wait_times_hours": "2-3",
+            "russia_petrol_export_ban_active": true,
+            "russia_jet_fuel_export_ban_active": true,
+            "russia_diesel_export_ban_status": "UNDER CONSIDERATION",
+            "russia_fuel_quality_regulations_loosened": true,
+            "iea_designation": "UNPRECEDENTED",
+            "wti_july3_estimate": "~$69",
+            "wti_days_below_74_floor": 9,
+            "pjm_emergency_day": 3,
+            "pjm_emergency_expires": "2026-07-03 (end of day)",
+            "pjm_doe_order_authority": "Section 202(c) Federal Power Act",
+            "pjm_doe_orders_signed_date": "2026-06-30",
+            "pjm_july2_peak_demand_mw": 166147,
+            "pjm_all_time_record_mw": 165563,
+            "pjm_record_year": 2006,
+            "pjm_emergency_population_millions": 67,
+            "pjm_emergency_states": 13,
+            "pjm_data_center_curtailment_threshold_mw": 50,
+            "spacex_nasdaq100_entry_date": "2026-07-07",
+            "spacex_last_trading_day": "2026-07-03",
+            "oregon_renewable_portfolio_deadline": "2026-07-03",
+            "gdp_q1_revised_annualized_pct": 1.6,
+            "recession_probability_shift": "RISING — Jobs miss + Russia fuel crisis additive to Hormuz supply-shock recession signal"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "PJM GRID EMERGENCY DAY 3 — EXPIRES TODAY (DOE 202(c); July 2 Record Demand 166,147 MW; 67M People 13 States); TUCANNON FIRE DAY 6 (Garfield County Eastern WA; ~25K+ Acres; July 4 Compound Risk IMMINENT — Holiday + Second Heat Wave + Record Fuel Dryness); Hamilton Fire 85% Contained Level 1 (Near Full Control); East Cascades Onset Day 6 (Second Heat Wave Day 4; Interior Valleys RH 20%); Oregon Renewable Energy Deadline TODAY; NIFC Above-Normal Day 33; NSF Newport OR Monitoring Continuity (Trump Admin Reversal Holding).",
+      "items": [
+        {
+          "headline": "PJM Grid Emergency Day 3 — Final Day: DOE Section 202(c) Orders Expire Today (July 2 Record Demand 166,147 MW vs 2006 All-Time Record 165,563 MW; 67M People 13 States; Data Centers >50MW Curtailed; Pollution Waivers Active); Underlying Heat Dome Not Resolved",
+          "summary": "The PJM grid emergency enters its final day under the DOE emergency framework. Two Section 202(c) orders signed by Energy Secretary Chris Wright on June 30 — one authorizing large-load curtailment for data centers above 50 MW, one authorizing temporary pollution limit waivers for generating units — expire at end of day today, July 3. July 2 tested the framework against its hardest demand scenario: PJM projected peak demand of 166,147 megawatts — exceeding the grid's 2006 all-time record of 165,563 MW by approximately 584 MW. The emergency infrastructure held. Data centers and AI compute facilities above the 50 MW threshold were required to shift to backup generators within 15 minutes of an emergency signal, freeing grid capacity for the 67 million residential and commercial customers across 13 states in the PJM footprint. Power plants operating on temporary pollution waivers maintained the load-serving margin. The emergency orders' expiration today is conditional infrastructure relief: the underlying heat dome that produced record demand on July 2 has not fully dissipated, and the July 4 holiday weekend introduces additional AC load as well as outdoor event demand across the PJM footprint. Without the emergency orders, any July 3-4 demand surge that approaches or exceeds 165,000 MW would require PJM to activate reserve margin protocols on its own authority, without the additional data center offload mechanism that the DOE orders provided. The PJM context intersects directly with the FERC large load show cause orders (issued June 18) — the six regional grid operators given 60/30-day windows to justify tariffs for facilities above 20 MW. The June 18 FERC action and the July 2 near-record demand are the empirical pair that validates FERC's urgency framing: AI data center load growth is not a theoretical future risk but an active July 2026 reliability constraint. The 30-day AI demand pathway response window (from the June 18 orders) runs to approximately July 18 — the operative regulatory clock for the grid operators' responses.",
+          "significance": "HIGH",
+          "actors": ["Chris Wright DOE", "PJM", "FERC", "NERC", "AI data center operators", "MISO", "SPP", "ERCOT", "NYISO", "ISO-NE"],
+          "metrics": {
+            "pjm_emergency_day": 3,
+            "pjm_emergency_expires": "2026-07-03 end of day",
+            "doe_order_authority": "Section 202(c) Federal Power Act",
+            "doe_orders_signed_date": "2026-06-30",
+            "doe_orders_energy_secretary": "Chris Wright",
+            "pjm_july2_peak_demand_mw": 166147,
+            "pjm_all_time_record_mw": 165563,
+            "pjm_2006_record_year": 2006,
+            "pjm_margin_over_record_mw": 584,
+            "pjm_curtailment_threshold_mw": 50,
+            "pjm_curtailment_target": "Data centers and AI compute facilities",
+            "pjm_generator_response_time_minutes": 15,
+            "pjm_emergency_population_millions": 67,
+            "pjm_emergency_states": 13,
+            "ferc_large_load_ai_pathway_deadline": "~2026-07-18",
+            "ferc_large_load_justify_deadline": "~2026-08-17",
+            "post_emergency_risk": "RESIDUAL — heat dome not fully dissipated; July 4 holiday AC load + outdoor events without 202(c) backstop"
+          }
+        },
+        {
+          "headline": "Tucannon Fire Day 6 — July 4 Compound Risk IMMINENT (~25K+ Acres Garfield County Eastern WA; Second Heat Wave Day 4; Record Fuel Dryness East Cascades Onset Day 6; Holiday Human Ignition Activity); Hamilton Fire 85% Contained Level 1 (Near Full Control); NIFC Above-Normal Day 33; Oregon Renewable Deadline TODAY",
+          "summary": "Four infrastructure threads entering July 3 morning. First and most operationally acute: Tucannon Fire (Garfield County, southeastern Washington) enters Day 6 against the worst possible holiday-weekend configuration of risk factors. At approximately 25,000+ acres with minimal containment, the fire is positioned at the intersection of three concurrent conditions: second heat wave Day 4 (interior eastern Washington relative humidity at 20% or lower; temperatures in the upper 80s-90s in western WA with eastern WA running hotter); east Cascades fuel drying onset Day 6 (the record multi-year drought has produced fuel moisture conditions 10-14 days ahead of historical onset norms); and July 4 holiday human ignition activity (fireworks, campfires, and agricultural equipment in the Garfield County Columbia Basin farmland zone). The specific July 4 compound risk for Tucannon is the overlap of an already-active large perimeter fire with the single highest human ignition risk day of the calendar year. NIFC's above-normal season assessment identified the July 4-Labor Day window as the highest-consequence fire risk period of 2026 given the multi-year drought and El Niño onset trajectory. Second: Hamilton Fire (location from July 2 evening data) has reached 85% containment at Level 1 evacuation status — the final stages of full control. The Hamilton fire's progression toward full containment represents the one operational bright spot in the current WA fire posture. Third: NIFC above-normal season is at Day 33 — the continuous above-normal assessment that began June 1 is now confirmed across the full early-season arc. The east Cascades onset (Day 6) and second heat wave (Day 4) are running simultaneously, the pattern NIFC's outlook identified as the primary multi-week fire weather risk for the July 2026 window. Fourth: Oregon's renewable energy portfolio obligation deadline falls today — the state's 2026 renewable standard requires utilities to certify renewable portfolio compliance by July 3 annually; energy infrastructure stakeholders (PacifiCorp, Portland General Electric, Pacific Power) will be filing compliance certifications. NSF Newport OR ocean observatory monitoring continuity (Trump administration reversal of the June removal order) remains active — the instrument suite that provides real-time coastal atmospheric data for crowd-surge events continues to operate through the July 4 holiday weekend.",
+          "significance": "HIGH",
+          "actors": ["NIFC", "Washington DNR", "USFS", "BLM", "Garfield County Emergency Management", "NWS Spokane", "BPA", "FEMA", "Oregon Governor Tina Kotek", "PacifiCorp", "Portland General Electric", "NSF"],
+          "metrics": {
+            "tucannon_fire": {
+              "location": "Garfield County, southeastern Washington",
+              "day_since_ignition": 6,
+              "acres_approx": "~25000+",
+              "containment_pct": "MINIMAL — active spread conditions",
+              "july4_compound_risk": "IMMINENT — holiday + second heat wave + record fuel dryness + large active perimeter",
+              "fire_type": "Eastern WA dryland / agricultural interface",
+              "evacuation_status": "ACTIVE — Garfield County",
+              "second_heat_wave_active": true,
+              "east_cascades_onset_day": 6,
+              "interior_wa_rh_pct": "~20% or lower",
+              "season_significance": "Highest-consequence active fire risk of 2026 PNW season entering July 4 window"
+            },
+            "hamilton_fire": {
+              "containment_pct": 85,
+              "evacuation_level": "Level 1",
+              "status": "NEAR FULL CONTROL — advancing to final perimeter mop-up"
+            },
+            "nifc_above_normal_day": 33,
+            "east_cascades_onset_day": 6,
+            "second_heat_wave_day": 4,
+            "washington_drought_day": 29,
+            "washington_drought_consecutive_years": 4,
+            "el_nino_probability_pct": "~65+",
+            "oregon_renewable_portfolio_deadline": "2026-07-03",
+            "nsf_newport_or_status": "OPERATIONAL — Trump admin reversal holding; monitoring continuity through July 4",
+            "bpa_grid_status": "MONITORING — drought-year-4 hydropower constraint active; July 4 holiday load management"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "OBBB LAW DAY 4 / EFFECTIVE DAY 3 (Signed June 29; Midnight July 1 Effective; Largest Trump 2nd-Term Tax-Spending-Medicaid Package); Watson v. RNC Day 4 (Mail Ballot Grace Periods Eliminated All 50 States; 50-State Legal Landscape Implementation Active); Humphrey's Executor Overturned Day 4 (FTC/NLRB/SEC Independence Dismantled); VRA Callais Day 10 (Midterm Redistricting Active); June Jobs 57K Miss Supply-Shock Attribution War; July 4 250th Anniversary Security Posture; MEASLES JULY 3-10 POST-FIFA MONITORING WINDOW OPENS TODAY (June 19 Lumen Field Match Day 14 Incubation; Day 1 New Cluster ID Window).",
+      "items": [
+        {
+          "headline": "OBBB Law Day 4 / Effective Day 3 (Signed June 29; Midnight July 1 Effective; Trump Second-Term Centerpiece); Watson v. RNC Day 4 (Mail Ballot Grace Periods Eliminated All 50 States; 5-4); Humphrey's Executor Overturned Day 4 (FTC/NLRB/SEC); VRA Callais Day 10; Jobs Miss 57K Attribution War; July 4 250th Anniversary Security Posture",
+          "summary": "Four primary domestic threads entering July 3 morning. First: OBBB (One Big Beautiful Bill / Reconciliation 2.0) is now law and in its third day of effect. The bill passed the Senate June 28 on a 50-50 VP Vance tiebreaker and the House 218-214 on the same day; President Trump signed it June 29; it became effective at midnight July 1. The package is the centerpiece of Trump's second-term legislative agenda — the largest combined tax cut, domestic spending reform, Medicaid work-requirement, and anti-weaponization package of the cycle. Entering July 4, the OBBB is now operative law rather than a legislative target. The July 4 messaging window gives the administration a 250th anniversary platform to communicate the OBBB as both a fiscal achievement and a sovereignty statement. Second: Watson v. RNC (mail ballot grace period ruling, 5-4, Supreme Court, June 29) is entering Day 4 of implementation. The ruling eliminated mail ballot grace periods across all 50 states simultaneously — the single largest federal electoral procedure change since the Voting Rights Act's Section 2 was raised in Louisiana v. Callais (June 23, 6-3). Together, Watson and Callais constitute a restructuring of the 2026 midterm electoral framework: the VRA redistricting window is active (Day 10, Callais adverse ruling), and mail ballot grace period administration must be revised in all 50 states before the November cycle. The three-track electoral disruption (Watson mail ballot + Callais VRA + Trump mail-in voting EO announced June 29) is the structural domestic political story that will define the 2026 midterm environment. Third: Humphrey's Executor overturned (Day 4, June 30 ruling) has now been in force for three days — FTC, NLRB, and SEC are operating under the new framework that removes the for-cause removal protection for their commissioners. The FTC and NLRB are the primary agencies in the immediate exposure window; antitrust enforcement and labor board decisions made under the prior independence framework are now subject to executive direction in a legally unprecedented way. Fourth: June jobs miss 57K (released July 2) enters the July 4 political communication environment as the primary economic vulnerability and attribution battleground. The Trump administration messaging will emphasize supply-side Hormuz disruption as the driver, with recovery tied to the Iran MOU's Hormuz normalization timeline. The opposition will argue structural labor market deterioration and Warsh's rate error. The attribution war's resolution — empirically, in the August data — determines September FOMC and 2026 midterm economic narratives simultaneously.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "JD Vance", "Speaker Mike Johnson", "FOMC", "Kevin Warsh", "SCOTUS", "FTC", "NLRB", "SEC", "House Freedom Caucus", "Watson v. RNC plaintiffs", "Louisiana v. Callais plaintiffs"],
+          "metrics": {
+            "obbb_signed_date": "2026-06-29",
+            "obbb_effective_date": "2026-07-01 (midnight)",
+            "obbb_law_day": 4,
+            "obbb_effective_day": 3,
+            "obbb_senate_vote": "50-50 (VP Vance tiebreaker)",
+            "obbb_house_vote": "218-214",
+            "obbb_description": "Tax cut + spending reform + Medicaid work requirements + anti-weaponization provisions; Trump second-term legislative centerpiece",
+            "watson_rno_ruling_date": "2026-06-29",
+            "watson_rno_day": 4,
+            "watson_rno_vote": "5-4",
+            "watson_rno_effect": "Mail ballot grace periods eliminated all 50 states",
+            "watson_rno_implementation_status": "ACTIVE — all 50 states revising mail ballot administration",
+            "humphreys_executor_overturned_date": "2026-06-30",
+            "humphreys_executor_day": 4,
+            "humphreys_executor_effect": "FTC/NLRB/SEC for-cause removal protection eliminated; 90-year precedent reversed",
+            "vra_callais_ruling_date": "2026-06-23",
+            "vra_callais_day": 10,
+            "vra_callais_vote": "6-3",
+            "vra_callais_effect": "VRA Section 2 bar raised; Alabama map mandate applied; midterm redistricting window active",
+            "trump_mail_in_voting_eo_announced": "2026-06-29",
+            "three_track_electoral_disruption": ["Watson mail ballot", "Callais VRA redistricting", "Trump mail-in voting EO"],
+            "july4_250th_anniversary": true,
+            "security_posture": "ELEVATED — 250th anniversary national events; Capitol fireworks; National Mall",
+            "jobs_miss_attribution_war": "ACTIVE — supply-shock (Hormuz) vs structural demand-side (tariff/rate) framing"
+          }
+        },
+        {
+          "headline": "Measles July 3-10 Post-FIFA Monitoring Window OPENS TODAY (June 19 Lumen Field Match Incubation Day 14; Day 1 Of New Cluster ID Window); Tucannon Fire July 4 Security + Wildfire Co-Response; CIDRAP Post-Outbreak Baseline; Georgetown Surveillance Active",
+          "summary": "Two secondary domestic threads entering July 3 morning. First: the measles post-FIFA cluster identification window for the June 19 USA vs Australia match at Lumen Field (Seattle) opens today. The June 20 evening brief projected this window as July 3-10 — the 14-to-21-day incubation window from the FIFA mass-gathering event. July 3 is Day 1 of that window; any cases with symptom onset July 3-10 that trace to the June 19 event would constitute the most significant single-FIFA-match measles amplification event of the 2026 outbreak arc. The June 29 window (June 15 Belgium vs Egypt match) closed clean on Day 10 — ten days without a confirmed cluster from the June 15 event. The national measles case count was last updated by CDC at 2,073 (June 11); no updated count has been confirmed in subsequent briefs. Georgetown University's FIFA surveillance platform (wastewater DNA sequencing, ER data, social media fusion) remains the primary real-time public health intelligence mechanism. The CIDRAP slowing signal that has been active since late June continues; the outbreak appears to be on a deceleration trajectory, but the opening of the July 3-10 window resets the monitoring vigilance level to active. Second: the July 4 holiday introduces a compound domestic co-response demand: wildfire security (Tucannon Fire July 4 compound risk in Garfield County), 250th anniversary national celebrations (Washington DC, major cities), and standard holiday emergency response coordination. FEMA, NIFC, and local emergency management agencies are simultaneously managing the wildfire posture, holiday security, and an expired PJM emergency framework. The absence of the DOE 202(c) emergency backstop (which expires today) and the presence of July 4 AC demand creates a residual grid stress risk window for the holiday evening.",
+          "significance": "MODERATE",
+          "actors": ["CDC", "CIDRAP", "Georgetown University", "King County Public Health", "Snohomish County Health District", "FEMA", "NIFC", "NWS", "HHS", "WA DOH", "Seattle OEM"],
+          "metrics": {
+            "measles_national_case_count_last_known": 2073,
+            "measles_cdc_update_date": "2026-06-11",
+            "measles_june29_window_status": "CLOSED CLEAN (Day 10 clean; June 15 Belgium vs Egypt match; no confirmed cluster)",
+            "measles_july3_window_opens": true,
+            "measles_july3_10_window_match": "June 19 USA vs Australia Lumen Field",
+            "measles_july3_window_day": 1,
+            "measles_july3_10_window_closes": "2026-07-10",
+            "measles_incubation_period_days": 14,
+            "measles_cidrap_slowing_signal": "ACTIVE — post-outbreak deceleration trajectory; July 3-10 window resets active monitoring",
+            "georgetown_fifa_surveillance_status": "ACTIVE",
+            "july4_co_response_demands": ["Tucannon wildfire security", "250th anniversary celebrations", "Residual PJM grid stress after order expiration"],
+            "fema_july4_posture": "ELEVATED — wildfire + holiday co-response"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "CRITICAL: Tucannon Fire Day 6 (Garfield County Eastern WA; ~25K+ Acres; July 4 Compound Risk IMMINENT — Holiday + Second Heat Wave Day 4 + East Cascades Onset Day 6 + Record Fuel Dryness); Hamilton Fire 85% Contained Level 1 (Near Full Control); Second PNW Heat Wave Day 4 (Western WA Upper 80s-90s; Interior RH 20%); East Cascades Onset Day 6; MEASLES JULY 3-10 WINDOW OPENS TODAY; Washington Drought Day 29 (4th Year); El Niño ~65%; NIFC Above-Normal Day 33; NSF Newport OR Operational (Trump Reversal Holding); BPA Grid Monitoring — Drought-Year-4 Hydropower; July 4 Security + Wildfire Co-Response.",
+      "items": [
+        {
+          "headline": "CRITICAL: Tucannon Fire Day 6 — July 4 Compound Risk IMMINENT (~25K+ Acres Garfield County; Holiday Ignitions + Second Heat Wave Day 4 + East Cascades Onset Day 6 + Record Fuel Dryness); Hamilton Fire 85% Level 1 (Near Full Control); Upriver 100% Contained (213 Acres; 1 Confirmed Fatality — First 2026 PNW Season)",
+          "summary": "The Tucannon Fire enters Day 6 as the most operationally acute wildfire emergency in the Pacific Northwest heading into the July 4 holiday weekend. Located in Garfield County, southeastern Washington, at approximately 25,000+ acres with minimal containment, Tucannon is positioned inside the worst intersection of conditions the 2026 fire season has produced: the second heat wave (Day 4) is delivering temperatures in the upper 80s-90s across western Washington and hotter across eastern Washington, with interior valley relative humidity at 20% or lower; east Cascades fuel drying is at onset Day 6, with fuel moisture conditions running 10-14 days ahead of historical norms due to the 4th consecutive year drought and El Niño-accelerated seasonal drying; and July 4 holiday weekend human ignition activity — fireworks, campfires, holiday agricultural equipment — represents the single highest human-caused ignition risk day of the calendar year in the Columbia Basin and Garfield County zone. NIFC's above-normal season assessment (Day 33) specifically identified the July 4-to-Labor Day window as the highest-consequence fire risk period given these compound conditions. Tucannon's uncontained perimeter entering that window is the operational embodiment of that risk profile. The adjacent Columbia River Basin agricultural zone (dryland wheat and grass hay operations in Garfield and Columbia counties) adds structure exposure and suppression complexity. Washington DNR, USFS, BLM, and NIFC resources are engaged; the concurrent demands of the July 4 security co-response (NIFC-holiday coordination) and the expired PJM emergency framework (no longer providing the data center curtailment backstop from today) add secondary pressure. Hamilton Fire (location confirmed from July 2 briefing) is at 85% containment and Level 1 evacuation status — the operational success story of the current WA fire posture, approaching full control. Upriver Fire (Spokane County, 213 acres) remains 100% contained with 1 confirmed fatality (the first 2026 PNW fire season death, confirmed June 20) and active Spokane County Medical Examiner investigation. The four-concurrent-large-fire posture that defined the June 16-27 arc has resolved to primarily Tucannon as the operative active threat heading into the July 4 compound risk window.",
+          "significance": "CRITICAL",
+          "actors": ["Washington DNR", "NIFC", "USFS", "BLM", "Garfield County Emergency Management", "Columbia County Emergency Management", "NWS Spokane", "BPA", "Governor Bob Ferguson", "FEMA", "Washington EMD", "Spokane County Medical Examiner"],
+          "metrics": {
+            "tucannon_fire": {
+              "location": "Garfield County, southeastern Washington",
+              "day_since_ignition": 6,
+              "acres_approx": "~25000+",
+              "containment_pct": "MINIMAL",
+              "july4_compound_risk_status": "IMMINENT — peak risk window opens today",
+              "second_heat_wave_day": 4,
+              "east_cascades_onset_day": 6,
+              "interior_wa_rh_pct": "~20% or lower",
+              "human_ignition_risk": "MAXIMUM — holiday fireworks + campfires + agricultural equipment",
+              "adjacent_zone": "Columbia River Basin agricultural (dryland wheat + grass hay; Garfield + Columbia counties)",
+              "nifc_assessment": "Highest-consequence active fire risk of 2026 PNW season"
+            },
+            "hamilton_fire": {
+              "containment_pct": 85,
+              "evacuation_level": "Level 1",
+              "status": "ADVANCING TO FULL CONTROL"
+            },
+            "upriver_fire": {
+              "location": "Northeast Spokane, Spokane County, WA",
+              "acres": 213,
+              "containment_pct": 100,
+              "fatality_confirmed": true,
+              "fatality_count": 1,
+              "season_significance": "FIRST CONFIRMED FATALITY OF 2026 PNW FIRE SEASON",
+              "medical_examiner_investigation_status": "ACTIVE"
+            },
+            "nifc_above_normal_day": 33,
+            "east_cascades_onset_day": 6,
+            "second_heat_wave_day": 4,
+            "concurrent_large_wa_fires_active": 1,
+            "july4_security_wildfire_co_response": "ACTIVE"
+          }
+        },
+        {
+          "headline": "Second PNW Heat Wave Day 4 (Western WA Upper 80s-90s; Interior Valleys RH 20%); Washington Drought Day 29 (4th Year); El Niño ~65%; NIFC Above-Normal Day 33; NSF Newport OR Operational (Trump Reversal Holding); BPA Grid Monitoring; Measles July 3-10 Window Opens Today; Portland + Seattle July 4 Security Posture",
+          "summary": "Five secondary PNW environmental and local threads entering July 3 morning. First: the second PNW heat wave of the 2026 fire season is in Day 4. NWS Seattle has confirmed above-normal temperatures will persist through the July 4 holiday weekend — western Washington in the upper 80s-90s range, with interior valleys experiencing relative humidity in the 20% range or lower. This is the second major heat wave following the June 14-16 event (which produced Multnomah County heat deaths, the Upriver Fire surge, and PJM demand stress). The second wave's overlap with Tucannon Fire's active perimeter is the primary co-consequence risk. Second: Washington drought emergency is at Day 29 (4th consecutive year) with 50% snowpack and 12 county emergency declarations in effect. Oregon remains at 83% drought monitor coverage. The combined WA/OR drought condition means fire season risk will extend through October 2026; even a Hormuz-resolution-driven economic recovery does not relieve the multi-year soil moisture deficit. El Niño probability at approximately 65% (super El Niño at 1-in-4) signals the 2026-27 winter precipitation outlook is unfavorable — the drought may extend into a 5th year. Third: NSF Newport OR ocean observatory remains operational — the Trump administration's reversal of the June removal order (confirmed per the June 25 evening brief) has maintained real-time coastal atmospheric monitoring continuity through the July 4 holiday weekend. The instrument suite is providing coastal atmospheric and wave data for holiday weekend crowd events. Fourth: BPA grid is in monitoring posture for the July 4 holiday load demand. Drought-year-4 hydropower constraints are active; BPA is managing Columbia River system capacity without the PJM emergency backstop that expires today. Fifth: Portland and Seattle July 4 security postures are elevated for 250th anniversary celebrations. Seattle's FIFA-era elevated security protocols (CCTV activated, federal-local coordination) remain in place. Portland's pre-July 4 security planning is coordinated with FEMA's holiday posture.",
+          "significance": "MODERATE",
+          "actors": ["NWS Seattle", "NWS Portland", "BPA", "NIFC", "NOAA", "NSF", "Governor Bob Ferguson", "Governor Tina Kotek", "Washington DOE", "Oregon OEM", "Seattle OEM", "Portland OEM", "FEMA"],
+          "metrics": {
+            "second_heat_wave_day": 4,
+            "western_wa_temp_forecast_f": "upper 80s-90s",
+            "interior_wa_rh_pct": "~20% or lower",
+            "heat_wave_july4_overlap": true,
+            "washington_drought_day": 29,
+            "washington_drought_consecutive_years": 4,
+            "washington_snowpack_vs_normal_pct": 50,
+            "washington_drought_counties": 12,
+            "oregon_drought_monitor_pct": 83,
+            "el_nino_probability_pct": 65,
+            "super_el_nino_probability_pct": 25,
+            "fire_season_risk_envelope": "Through October 2026",
+            "drought_extension_risk": "5th consecutive year — El Niño tilts 2026-27 winter precipitation unfavorable",
+            "nsf_newport_or_status": "OPERATIONAL — Trump reversal confirmed; holiday weekend monitoring continuity",
+            "bpa_grid_status": "MONITORING — drought-year-4 hydropower; July 4 holiday load management; no emergency orders",
+            "nifc_above_normal_day": 33,
+            "seattle_july4_security": "ELEVATED — FIFA-era CCTV + federal-local coordination",
+            "portland_july4_security": "ELEVATED — FEMA coordination; 250th anniversary posture",
+            "measles_july3_10_window_opens": true
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "July 3, 2026 morning opens at Vibe 4 — the seventh consecutive session at this level, maintained through the post-MOU Hormuz compliance stress arc that began with Iran's June 22 contested re-closure. The morning brief's defining architecture is four structural negatives operating concurrently against the backdrop of America's 250th birthday weekend. First: Iran's SNSC remains in pending Day 15 — the re-closure is technically operative, the IRGC cargo strike remains unaddressed, and the 118 IMO convoy tankers are stranded. Doha working groups are meeting (Day 2), representing active diplomacy but zero SNSC resolution as of this morning's brief. Hormuz traffic at 28% pre-war (27 vessels per day) is the persistent proxy for a corridor that is physically open but institutionally unresolved. The 46-day nuclear compliance window remainder is the structural count that matters: if Doha working groups fail, the MOU's technical architecture collapses before its compliance deadline. Second: June payrolls printed 57,000 — well below the 110,000 consensus, with combined April-May revisions of -74,000, a labor force participation fall to 61.5% (lowest since March 2021), and a 2-year Treasury yield decline of 3.5 basis points to 4.13% as markets decisively shifted from pricing a Warsh rate hike to pricing a September cut. The attribution war between supply-shock-Hormuz and structural-demand-deterioration opens the July 4 political weekend as the primary domestic economic narrative. Kevin Warsh has not publicly adjusted his nine-hike-dot SEP; the August data cycle will force the reckoning. Third: Russia's fuel crisis has reached IEA 'unprecedented' designation on Day 3 — Ukrainian drone strikes have cut Russian refining capacity 17% to 850,000 barrels per day, producing civilian fuel rationing in Moscow and Northern Russia at 20-30 liters per vehicle with 2-3 hour waits, petrol and jet fuel export bans, and a potential diesel ban. This is not a direct Hormuz effect but an additive global petroleum supply uncertainty that the IEA has elevated to formal monitoring status. The compound of Hormuz-at-28%-throughput and Russian-refining-at-83%-capacity is the twin-pillar energy supply constraint the global market is pricing. Fourth: Tucannon Fire (Garfield County Eastern WA) enters Day 6 at approximately 25,000+ acres with minimal containment against the worst possible July 4 configuration — second heat wave Day 4, east Cascades fuel drying onset Day 6, and maximum human ignition risk from holiday fireworks and campfires. NIFC's above-normal season assessment identified this precise intersection as the highest-consequence fire risk window of 2026. Against these four negatives, the operational positives are conditional: Doha talks producing 'positive progress' signals, Hamilton Fire at 85% containment, measles June 29 window closed clean, and the OBBB as law providing domestic policy certainty. The PJM grid emergency expires today — conditional infrastructure relief as the underlying heat dome is not resolved. Three primary watch items for the July 3-4 window: first, Doha Round 2 conclusion — does the Doha session produce any SNSC-level movement on re-closure withdrawal? Even a partial signal (working group communique, Araghchi public statement endorsing compliance) would lift the Hormuz trajectory materially. Second, Tucannon Fire overnight July 3-4 — the fire's behavior in the overnight minimum humidity period determines whether July 4 morning arrives with a stabilizing perimeter or an escalating run. Third, Warsh's first public communication post-57K jobs — the Fed chair has not yet addressed the June data; any July 3-5 statement will define the September FOMC framing and equity market direction for the holiday-extended week.",
+  "watch_items": [
+    "Doha Round 2 conclusion — Iran-US working groups are meeting on Day 2; any SNSC-level movement on re-closure withdrawal would be the single most significant Hormuz development since the MOU signing; watch Araghchi public statements and Witkoff press signals through July 3 afternoon",
+    "Tucannon Fire overnight July 3-4 — the fire's behavior in the overnight minimum humidity period on July 3 determines whether July 4 morning arrives with a stabilizing perimeter or an escalating run into the Columbia Basin agricultural zone; NWS Spokane fire weather forecast for the overnight period is the operative risk signal",
+    "Warsh June jobs response — Warsh has not publicly addressed the 57K print; any statement from the Fed chair through the July 4 holiday window will define the September FOMC rate-path framing and financial market direction for the holiday-extended week; a 'temporary supply shock' framing vs a 'reassessing the outlook' framing is the operative distinction",
+    "PJM grid July 4 demand — the DOE emergency orders expire today; if July 4 evening AC load + outdoor event demand approaches the July 2 record of 166,147 MW without the 202(c) data center curtailment backstop, PJM activates its own reserve margin protocols; watch PJM real-time load monitoring through July 4 evening peak",
+    "Russia fuel crisis escalation — diesel export ban decision is pending; a diesel ban would extend the fuel rationing to diesel-dependent heavy transport and agricultural sectors, materially escalating domestic Russian economic pressure; watch Kremlin and Russian Energy Ministry announcements through July 4",
+    "Measles July 3-10 cluster identification window — opens today; any case with symptom onset July 3-10 traced to the June 19 Lumen Field match (USA vs Australia) would be reported by Seattle-King County or Snohomish County public health; Georgetown platform is the primary early-warning mechanism",
+    "Peru JNE formal declaration — Fujimori declared winner by ONPE; JNE's formal certification is the operative administrative step; Sanchez camp may contest; watch JNE announcement and any preliminary injunction filing through July 3-4",
+    "Hamilton Fire full control — at 85% Level 1, Hamilton is one operational period from full control; the July 3 operational period under second heat wave conditions is the test; full control would free resources for Tucannon redeployment",
+    "Iran nuclear inspection framework — IAEA access to bombed sites remains the unresolved technical gap in the 60-day compliance window; any Day 14 signal from IAEA Director General or Iranian Atomic Energy Organization clarifying inspection posture would advance the nuclear track regardless of the SNSC's stance on the strait re-closure",
+    "Oregon renewable energy portfolio filing — deadline today; any PacifiCorp, PGE, or Pacific Power compliance shortfall announcement would elevate PNW energy infrastructure risk heading into the second half of wildfire season"
+  ],
+  "sources": [
+    {"title": "Nonfarm Payrolls rise by 57K in June vs. 110K expected — FXStreet", "url": "https://www.fxstreet.com/news/nonfarm-payrolls-set-to-grow-by-over-100k-in-june-reinforcing-bets-of-upcoming-fed-rate-hikes-202607020500"},
+    {"title": "Employment Situation Summary — June 2026, BLS", "url": "https://www.bls.gov/news.release/empsit.nr0.htm"},
+    {"title": "Jobs report June 2026 — CNBC", "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"},
+    {"title": "U.S. jobs report June 2026: 57,000 payrolls added — Yahoo Finance", "url": "https://finance.yahoo.com/economy/articles/u-jobs-report-june-2026-123456841.html"},
+    {"title": "Weak June Jobs Report Quiets the Rate-Hike Conversation — Kiplinger", "url": "https://www.kiplinger.com/investing/economy/jobs-report-june-2026-what-to-expect"},
+    {"title": "With Hormuz reopened, has the oil shortage turned into a glut? — Al Jazeera", "url": "https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut"},
+    {"title": "Iran says it is selling oil at 20% premium as end of US blockade sees 40M barrels exported — CNBC", "url": "https://www.cnbc.com/2026/07/01/iran-us-mou-negotiation-war-oil-exports-strait-of-hormuz-.html"},
+    {"title": "'The crisis is deep': The view from Russia as fuel shortages worsen — Al Jazeera", "url": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen"},
+    {"title": "Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine — Fortune", "url": "https://fortune.com/2026/07/03/putin-shrugs-off-fuel-shortages-in-russia-as-he-ramps-up-attacks-on-ukraine/"},
+    {"title": "Russian Gasoline Shortages Compound Economic Struggles — FDD", "url": "https://www.fdd.org/analysis/2026/06/29/russian-gasoline-shortages-compound-economic-struggles/"},
+    {"title": "Running on Empty: Russia's Fuel Crisis — CEPA", "url": "https://cepa.org/article/running-on-empty-russias-fuel-crisis/"},
+    {"title": "Gas Stations in Moscow and Northern Russia Introduce Fuel Rationing — The Moscow Times", "url": "https://www.themoscowtimes.com/2026/06/03/gas-stations-in-moscow-and-northern-russia-introduce-fuel-rationing-a92911"},
+    {"title": "2025-2026 Russian fuel crisis — Wikipedia", "url": "https://en.wikipedia.org/wiki/2025_Russian_fuel_crisis"},
+    {"title": "PJM Emergency Orders: Heat Wave Threatens Record Demand — Electric Choice", "url": "https://www.electricchoice.com/blog/pjm-emergency-order-heat-wave-2026/"},
+    {"title": "Energy Department issues emergency orders for mid-Atlantic power grid amid heat wave — The Hill", "url": "https://thehill.com/policy/energy-environment/5950278-heatdome-energy-power-grid/"},
+    {"title": "US Issues Emergency Order for PJM Interconnection as Heatwave Looms — US News", "url": "https://www.usnews.com/news/top-news/articles/2026-06-30/us-issues-emergency-order-for-pjm-interconnection-as-heatwave-looms"},
+    {"title": "PJM Hot Weather Operations Update — July 2, 2026", "url": "https://insidelines.pjm.com/pjm-hot-weather-operations-update-july-2-2026/"},
+    {"title": "PJM anticipates new peak demand record as heat wave tests power grid — Utility Dive", "url": "https://www.utilitydive.com/news/heat-wave-tests-power-grid-pjm-anticipates-new-record/824329/"},
+    {"title": "4 'large' wildfires burn in Washington as risk rises west of Cascades — KING5", "url": "https://www.king5.com/article/news/local/wildfire/6-large-wildfires-washington-fire-risk-west-cascades/281-5400557d-b8b3-47fc-8a9e-6128c154408e"},
+    {"title": "Here's where Washington wildfires are currently burning — FOX 13 Seattle", "url": "https://www.fox13seattle.com/news/heres-where-washington-wildfires"},
+    {"title": "NOAA releases July weather outlook for Pacific Northwest — KOIN", "url": "https://www.koin.com/weather/noaa-releases-july-weather-outlook-for-pacific-northwest/"},
+    {"title": "US heatwave to test power grid amid soaring AI-driven energy demand — Al Jazeera", "url": "https://www.aljazeera.com/news/2026/6/30/us-heatwave-to-test-power-grid-amid-soaring-ai-driven-energy-demand"},
+    {"title": "U.S. Congress passes reconciliation bill: What it means for counties — NACo", "url": "https://www.naco.org/news/us-congress-passes-reconciliation-bill-what-it-means-counties"},
+    {"title": "Reconciliation Bill Narrowly Passes Congress — ACE", "url": "https://www.acenet.edu/News-Room/Pages/Reconciliation-Bill-Narrowly-Passes-Congress.aspx"},
+    {"title": "2026 Energy Crisis Policy Response Tracker — IEA", "url": "https://www.iea.org/data-and-statistics/data-tools/2026-energy-crisis-policy-response-tracker"}
+  ]
+}

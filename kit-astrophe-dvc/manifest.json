@@ -1940,6 +1940,22 @@
       "generated_at": "2026-07-02T20:00:00-07:00"
     },
     {
+      "id": "2026-07-03-morning",
+      "date": "2026-07-03",
+      "session": "morning",
+      "file": "reports/2026-07-03-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 126 SNSC Pending Day 15 (Re-Closure Operative; Doha Round 2 Day 2; WTI ~$69 Pre-War Floor); June Jobs 57K MISS — Markets Price Fed Cut; PJM Grid Emergency Day 3 Expires Today; Russia Fuel Crisis Day 3 IEA 'Unprecedented'; Tucannon Fire Day 6 July 4 Compound Risk IMMINENT; OBBB Law Day 4 Effective; Vibe 4",
+      "generated_at": "2026-07-03T07:00:00-07:00"
+    },
+    {
       "id": "2026-07-03-evening",
       "date": "2026-07-03",
       "session": "evening",
