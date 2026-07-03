@@ -1938,7 +1938,23 @@
       ],
       "headline": "Hormuz Day 125: Doha Talks Active (Iran Working Groups Formed); WTI Near Pre-War Floor; Russia Fuel Crisis IEA 'Unprecedented'; Hamilton Fire 85% Contained Level 1; June Jobs Report Released; Peru Fujimori Declared Winner; Tucannon Day 5; Oregon Renewable Deadline 2 Days; SpaceX July 6; Vibe 4",
       "generated_at": "2026-07-02T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-03-evening",
+      "date": "2026-07-03",
+      "session": "evening",
+      "file": "reports/2026-07-03-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 126: Doha Round Concluded 'Positive Progress' (No SNSC Change; Iran Asserting Corridor Control); Russia Fuel Crisis Day 3 (2/3 Entities Rationing); June Jobs 57K Significant Miss (Markets Price Fed Cut); SpaceX Nasdaq-100 Last Trading Day; Oregon Renewable Deadline TODAY; Tucannon Day 6 July 4 Compound Risk Opens; Peru JNE Declaration; Vibe 4",
+      "generated_at": "2026-07-03T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-02T07:00:00-07:00"
+  "last_updated": "2026-07-03T20:00:00-07:00"
 }
