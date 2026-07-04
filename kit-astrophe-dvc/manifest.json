@@ -1972,6 +1972,22 @@
       "generated_at": "2026-07-03T20:00:00-07:00"
     },
     {
+      "id": "2026-07-04-morning",
+      "date": "2026-07-04",
+      "session": "morning",
+      "file": "reports/2026-07-04-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "America 250th Semiquincentennial; July 4 Peak Compound Ignition Risk FULLY ACTIVE (Tucannon Day 7; Holiday Fireworks + Heat Wave Day 4); SNSC Compliance Day 16 Holiday Pause; Russia Fuel Crisis Day 4; Markets Closed; Vibe 4",
+      "generated_at": "2026-07-04T07:00:00-07:00"
+    },
+    {
       "id": "2026-07-04-evening",
       "date": "2026-07-04",
       "session": "evening",

@@ -1,0 +1,408 @@
+{
+  "report_id": "2026-07-04-morning",
+  "generated_at": "2026-07-04T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 127 Compliance Day 16 Holiday Pause Expected (SNSC Still Formally Pending; Doha Follow-On Track Active — No Formal SNSC Position Change Post-Round; Iran Asserting Joint Corridor Control With Oman; 118 Tankers Commercially Stranded; Lloyd's Gate Closed; WTI ~$67-70 Holiday Thin-Trading; 60-Day Oil Sanctions Waiver Day 16 ~44 Days Remaining; Nuclear Clock Day 16; MOU Day 18); Lebanon Fragile Hold Hour ~283+ (Hezbollah 'Null And Void' Day 7 Political Rejection — Seventh Consecutive Day Without Military Resumption; No Formal Void Declaration; IDF Southern Lebanon Drone Active); Russia Fuel Crisis Day 4 (2/3+ Federal Entities Rationing — IEA 'Unprecedented In History Of Conflict'; Export Ban Through July 31; Kapotnya Offline Through 2026 End; Kazakhstan Import Negotiations Active; Crimea Military/State Only); America 250th Semiquincentennial (July 4 2026 = 250th Anniversary Declaration Of Independence — Freedom 250 Celebrations On National Mall 7 PM With 850,000 Pyrotechnic Effects World-Record Attempt; Trump At Mount Rushmore Kickoff; EXTREME HEAT Threatening Events — DC Heat Index ~107°F; Great American State Fair Temporarily Closed; Philadelphia Parade Canceled; Multiple July 4 Events Scaled Back Nationwide); July 4 Markets Federal Holiday Closed (No NYSE NASDAQ CME Treasury Activity; SpaceX Nasdaq-100 T-2 Days To Sunday July 6 Effective Date; June CPI July 14 Next Critical FOMC Input; FOMC July 29 Decision; WTI Thin Holiday Session); Tucannon Fire East Cascades Day 7 (~30,000+ Acres Growing; Garfield County Level 3 Go Now Pomeroy; July 4 PEAK COMPOUND IGNITION RISK WINDOW FULLY ACTIVE — Holiday Fireworks + Recreation Overlay + Second Heat Wave Day 4 + Record Fuel Dryness Converging; Hamilton Fire ~Full Containment; Tule Road 95%; NIFC PL3 Day 18); OBBB Day 4 (CMS Guidance Still Pending Day 4 — OR 1.4M / WA 2.2M Medicaid Enrollees; Enforcement Gap Accumulating Day 4); Three-Track Election Disruption Day 5 (Watson Day 5; VRA Callais Day 4; Trump Mail EO Day 5 — Holiday Pause Expected); Measles Extended Surveillance Day 5 Post-Window Clean (No New Clusters; July 7 FIFA Scope Reduction T-3; June 26 Extended Window Through July 13); Acting DNI Day 45 (Ninth Week); CISA Day 64 Clean — Dual Elevated Actor Posture (IRGC Cyber Day 9; Hezbollah Cyber Day 7); FERC AI Large Load T-12 (~July 18); L-Pod Orca Calf Week 10 Alive; FIFA Sound Transit PNW T-3; Washington Drought Day 32; Oregon 83% Drought; BPA Grid Stable Under Heat Pressure. Saturday July 4, 2026 — America's 250th Birthday. Vibe 4.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — ninth consecutive session (Friday June 26 through Saturday July 4 morning). July 4 morning: the Vibe 4 baseline holds across the holiday with no overnight escalation triggering either direction. The July 4 federal holiday reduces the observability window on multiple tracks — SNSC formal action by Iranian authorities is structurally less likely during a US federal holiday; markets are closed removing the real-time economic price signal; and government communications cadence is reduced. Active positives Saturday morning: (a) Lebanon Fragile Hold advances to Day 7 of Hezbollah 'null and void' political rejection without military resumption — seven consecutive days of political non-compliance without operational resumption is the ceasefire period's most sustained post-rejection durability signal to date; (b) Doha follow-on track remains active — both sides agreed to continue discussions following the July 1-2 round; (c) Hamilton Fire near Winthrop approaching full containment (90%+); (d) Tule Road Fire near Toppenish advancing toward full containment (95%); (e) Measles extended surveillance Day 5 clean — no new clusters from either Lumen Field exposure window; (f) L-Pod orca calf advances to Week 10 alive; (g) Goldman Sachs formally retracted 'lost decade' market call, signaling improved long-run equity confidence. Active negatives Saturday morning: (a) SNSC compliance Day 16 — the 60-day nuclear clock advances while the SNSC formal position change remains unissued; Iran's post-Doha corridor sovereignty assertion and cargo strike remain unaddressed, keeping the Lloyd's gate formally closed; 118 tankers remain commercially stranded; (b) July 4 peak compound ignition risk window FULLY ACTIVE — Tucannon Fire Day 7 at 30,000+ acres with Level 3 evacuations, second heat wave Day 4 at maximum fuel dryness amplification, and human ignition overlay (holiday fireworks and recreation) converging simultaneously; (c) Russia fuel crisis Day 4 — 2/3 of federal entities rationing with IEA 'unprecedented' designation standing; escalation trajectory over four days indicates spreading lateral distribution failure; (d) Extreme heat threatening America 250 celebrations — DC heat index ~107°F; Great American State Fair temporarily closed; events scaled back; wildfire compound risk elevated by same heat event nationally; (e) OBBB Day 4 with CMS guidance still unpublished — state readiness gap accumulating; OR/WA 3.6M enrollees without comprehensive documentation; (f) Acting DNI Day 45 — ninth week — at maximum monitoring demand. Vibe 5 recovery triggers: SNSC formal compliance retraction or written compliance statement (unlocks Lloyd's gate; releases 118-tanker backlog; WTI supply pulse); Lebanon Hezbollah military command acceptance of ceasefire framework; Tucannon significant containment progress through July 4 holiday weekend; June CPI July 14 decelerating toward 3.5% range (reduces dual-mandate tension; October hike probability compresses further). Vibe 3 triggers: SNSC formal re-escalation or new CENTCOM engagement; Lebanon formal void declaration or Hezbollah rocket resumption; Tucannon catastrophic holiday weekend run to 50,000+ acres; Russian fuel crisis producing confirmed military logistics attrition in Zaporizhzhia or Kupyansk corridors. None triggered Saturday July 4 morning."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 127 Compliance Day 16 Holiday Pause Likely (SNSC Still Formally Pending; Iran Re-Closure Operative; Doha Follow-On Track Active — No SNSC Position Change Post-Round; Iran Asserting Joint Corridor Control Post-Talks; 118 Tankers Stranded; Lloyd's Gate Closed; WTI ~$67-70 Holiday Session; Nuclear Clock Day 16; MOU Day 18; 60-Day Waiver Day 16 ~44 Days Remaining); Lebanon Fragile Hold Hour ~283+ (Hezbollah 'Null And Void' Day 7 — Seven Days Political Rejection Without Military Resumption; IDF Active; No Void Declaration); Russia Fuel Crisis IEA 'Unprecedented' Day 4 (2/3+ Federal Entities Rationing; Export Ban July 31; Kapotnya Offline Through 2026; Kazakhstan Imports Active); North Korea Day 11; PRC Ban Day 7; Taiwan Day 35; Acting DNI Day 45.",
+      "items": [
+        {
+          "headline": "Hormuz Day 127 Compliance Day 16 Holiday Pause (SNSC Still Formally Pending — Iran Re-Closure Operative; Doha Follow-On Track Active But No SNSC Position Change; Iran Asserting Joint Corridor Control Post-Talks; 118 Tankers Stranded; Lloyd's Gate Closed; WTI ~$67-70 Holiday Thin Session; Nuclear Clock Day 16; MOU Day 18; 60-Day Sanctions Waiver ~44 Days Remaining); Lebanon Fragile Hold Hour ~283+ (Hezbollah 'Null And Void' Day 7 — Seventh Consecutive Day Political Rejection Without Military Resumption; No Formal Void Declaration)",
+          "summary": "The Hormuz compliance architecture enters July 4 morning at Day 16 of the SNSC formal review period with no overnight movement on any of the critical gate indicators: the SNSC formal re-closure retraction remains unissued; Iran's physical cargo strike on the IMO-backed Oman route vessel (June 26) remains unaddressed at Day 9; the Lloyd's war-risk normalization gate remains formally closed. The July 4 US federal holiday structurally reduces the probability of Iranian administrative action today — the SNSC is a domestic Iranian governance body not operationally bound by US holiday calendars, but prior pattern in this series has shown formal compliance determinations clustering around active US-Iran diplomatic engagement sessions. With Doha follow-on talks in the queue rather than in session today, July 4 is analytically quiet on the SNSC track. The Doha July 1-2 round's formal conclusion with Qatar's 'positive progress' designation established the operative diplomatic baseline: both sides agreed to continue discussions; the round covered Hormuz maritime transit normalization and unfreezing of Iranian assets; no written compliance statement was produced. Iran's post-Doha posture continues to assert joint sovereign corridor control with Oman — a governance position that exceeds the pre-conflict baseline and that Iran is not walking back even while diplomatic engagement continues. The 118 tankers commercially stranded pending Lloyd's gate normalization remain the structural negative metric. Physical Hormuz traffic continues building through the CENTCOM corridor; demining progress on the approximately 80 remaining central-channel mines continues. WTI crude oil enters Saturday's holiday session in the approximately $67-70 range — thin holiday trading with no substantive price discovery expected today. The 60-day nuclear clock advances to Day 16 with approximately 44 days remaining through approximately August 18. Trump stated the 60-day window is 'not a hard deadline' and 'could take longer.' Working groups on nuclear inspections and sanctions formed but nothing substantive yet negotiated on the nuclear programme. Lebanon: Hezbollah's 'null and void' rejection of the Rubio ceasefire framework advances to Day 7 — seven consecutive days of political non-compliance without operational resumption of hostilities. No formal void declaration has been issued. IDF drone activity in the southern Lebanon buffer zone continues. The Lebanon Fragile Hold durability signal is the most sustained post-rejection hold of the ceasefire period.",
+          "significance": "CRITICAL",
+          "actors": ["Iran SNSC", "Kazem Gharibabadi", "Abbas Araghchi", "IRGC", "CENTCOM", "JD Vance", "Steve Witkoff", "Marco Rubio", "Benjamin Netanyahu", "IDF", "Naim Qassem", "Hezbollah", "Lebanese Armed Forces", "Lloyd's of London", "IMO", "Kpler", "Qatar Foreign Ministry", "IAEA", "EIA", "Donald Trump"],
+          "metrics": {
+            "hormuz_crisis_day": 127,
+            "mou_declared_complete_date": "2026-06-17",
+            "mou_signed_date": "2026-06-19",
+            "mou_day": 18,
+            "nuclear_60day_clock_day": 16,
+            "nuclear_60day_clock_days_remaining_approx": 44,
+            "nuclear_60day_clock_expires_approx": "~2026-08-18",
+            "nuclear_trump_hard_deadline_statement": "NOT A HARD DEADLINE — 'could take longer'",
+            "nuclear_working_groups_formed": true,
+            "nuclear_working_groups_status": "FORMED — no substantive negotiations yet on nuclear programme",
+            "iran_snsc_compliance_day": 16,
+            "iran_snsc_determination_status": "STILL PENDING — Day 16 morning; no overnight action; holiday pause expected",
+            "iran_re_closure_declaration": "FORMALLY OPERATIVE — re-closure retraction not issued",
+            "iran_irgc_cargo_strike_day": 9,
+            "iran_irgc_cargo_strike_status": "UNADDRESSED — June 26 strike on IMO-backed Oman route vessel; SNSC silent Day 9",
+            "doha_round_status": "CONCLUDED — July 1-2 round complete; follow-on track active; no session scheduled today",
+            "doha_round_read": "POSITIVE PROGRESS WITHOUT FORMAL GATE MOVEMENT — both sides continuing; no SNSC compliance statement",
+            "iran_post_doha_sovereignty_posture": "JOINT CORRIDOR CONTROL WITH OMAN — publicly asserted; exceeds pre-conflict baseline",
+            "hormuz_mines_central_channel_approx": 80,
+            "hormuz_centcom_corridor": "OPERATIONAL",
+            "kpler_stuck_tanker_count": 118,
+            "lloyds_normalization_announced": false,
+            "lloyds_war_risk_premium_pct_vessel_value": "3-8 (vs 0.25 pre-conflict)",
+            "lloyds_gate_read": "FORMALLY CLOSED — no SNSC formal position change; holiday pause reduces probability of Day 16 action",
+            "sixty_day_oil_sanctions_waiver_day": 16,
+            "sixty_day_waiver_days_remaining_approx": 44,
+            "sixty_day_waiver_expires_approx": "~2026-08-18",
+            "wti_holiday_session_estimate": "~$67-70 (thin holiday trading)",
+            "wti_direction": "STABILIZING — pre-war floor; no holiday price discovery expected",
+            "lebanon_ceasefire_hour_approx": 283,
+            "hezbollah_null_void_rejection_day": 7,
+            "lebanon_formal_void_declared": false,
+            "lebanon_durability_read": "MOST SUSTAINED POST-REJECTION HOLD — seven days political non-compliance without military resumption",
+            "idf_southern_lebanon_activity": "ACTIVE — drone presence; buffer zone held",
+            "acting_dni_vacancy_day": 45,
+            "acting_dni_ninth_week": true
+          }
+        },
+        {
+          "headline": "Russia Fuel Crisis IEA 'Unprecedented' Day 4 (2/3+ Federal Entities Rationing — IEA Designation Standing; Export Ban Through July 31; Kapotnya Moscow Region Offline Through End Of 2026; Kazakhstan Import Negotiations Active; Crimea Military/State Only); Peru Thread Closed (JNE July 3 Formal Declaration — Fujimori First Elected Female President); North Korea Day 11; PRC Day 7; Taiwan Day 35",
+          "summary": "Russia's domestic fuel crisis advances to Day 4 with IEA's 'unprecedented in history of the Russia-Ukraine conflict' designation standing from Day 2. Day 3 showed escalation from 55 of 83 federal entities to approximately two-thirds reporting mandatory or private-company fuel rationing — the spreading lateral distribution network failure trajectory has not reversed overnight. Russia's gasoline export ban through July 31 continues as the maximum available domestic-price-protection lever. The Kapotnya refinery — Moscow metropolitan region's largest fuel supplier — remains offline through at least the end of 2026. Kazakhstan import negotiations remain active as Russia's structural reversal from net hydrocarbon exporter to gasoline importer continues. Crimea fuel restrictions hold at military and state use only. Day 4 is the earliest window in which military logistics attrition effects at the Zaporizhzhia and Kupyansk front-line fuel chains could become operationally visible; none have been confirmed. Ukraine has not announced additional refinery strikes in the July 4 morning window. Peru: JNE issued the formal presidential declaration July 3, confirming Keiko Fujimori as Peru's winner and first elected female president. The 28-day working-count uncertainty thread opened June 5 closes cleanly. Roberto Sánchez's fraud allegations were found unsupported by international election monitors. North Korea: Day 11 since the Choe Hyon destroyer commission ceremony without new provocations. PRC 46-company defense ban: Day 7. Taiwan coastguard patrol streak: Day 35.",
+          "significance": "HIGH",
+          "actors": ["IEA", "Vladimir Putin", "Volodymyr Zelenskyy", "Ukrainian Armed Forces", "Russian Federation", "Kim Jong Un", "Chinese Coast Guard", "Keiko Fujimori", "Roberto Sanchez", "JNE Peru"],
+          "metrics": {
+            "russia_fuel_crisis_day": 4,
+            "iea_designation": "UNPRECEDENTED IN HISTORY OF RUSSIA-UKRAINE CONFLICT — standing Day 4",
+            "russia_entities_rationing_approx_pct": 67,
+            "russia_fuel_crisis_trend": "SPREADING — lateral distribution failure Days 1-4; no reversal",
+            "russia_export_ban_through": "2026-07-31",
+            "kapotnya_refinery_status": "OFFLINE — Moscow region largest supplier; offline through at least end of 2026",
+            "russia_fuel_import_negotiations": "ACTIVE — Kazakhstan primary",
+            "russia_crimea_fuel": "MILITARY AND STATE USE ONLY",
+            "ukraine_refinery_strikes_july4_morning": false,
+            "military_logistics_attrition_confirmed": false,
+            "military_logistics_read": "EARLIEST WINDOW — Day 4; front-line fuel chain attrition not yet confirmed",
+            "north_korea_post_commission_day": 11,
+            "north_korea_new_provocations": false,
+            "prc_ban_day": 7,
+            "prc_taiwan_patrol_streak_days": 35,
+            "peru_jne_declaration_status": "ISSUED — July 3; Fujimori confirmed winner; thread closed",
+            "peru_historical_significance": "FIRST ELECTED FEMALE PRESIDENT OF PERU",
+            "peru_thread_read": "CLOSED CLEANLY — 28-day uncertainty resolved"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "Markets Federal Holiday Closed (No NYSE NASDAQ CME Treasury Activity Today — July 4; Next Session Monday July 7); SpaceX Nasdaq-100 T-2 Days (Sunday July 6 Effective — Monday July 7 First Live QQQ Session; $8-12B Passive Rebalancing Complete Post-Thursday Concentration); June CPI July 14 Next Critical FOMC Input (PCE 4.1% + June Jobs 57K = Maximum Dual-Mandate Tension; October Hike Probability Compressing; FOMC July 29); WTI ~$67-70 Holiday Thin Session; OBBB Day 4 (CMS Guidance Still Pending; OR/WA 3.6M Enrollees); De Minimis Comment Close T-2 (July 6); FERC AI Large Load T-12 (~July 18); Section 232 Day 33.",
+      "items": [
+        {
+          "headline": "Markets Federal Holiday Closed — July 4 (No NYSE NASDAQ CME Treasury Activity; Next Session Monday July 7); SpaceX Nasdaq-100 T-2 Days (Sunday July 6 Effective; Monday First Live QQQ Tracking-Error Session); June CPI July 14 Next Critical FOMC Input (PCE 4.1% + June Jobs 57K = Maximum Dual-Mandate Tension; October Hike Probability Compressing; FOMC July 29 Decision); WTI ~$67-70 Holiday Session",
+          "summary": "July 4 is a federal holiday. US equity markets (NYSE, NASDAQ), CME commodity futures, and US Treasury markets are closed. Next live trading session: Monday July 7. SpaceX Nasdaq-100 effective entry advances to T-2 days — Sunday July 6 is the effective date, making Monday July 7 the first live session in which QQQ and all Nasdaq-100 tracking instruments demonstrate post-rebalancing tracking accuracy. Thursday July 3's concentrated rebalancing session ($8-12B estimated passive buying, displaced-member forced selling peak in a single session due to the July 4 holiday closure) established the pre-entry positioning baseline. TD Securities' 'bigger days ahead' signal (referencing potential float restriction easing) frames the post-entry monitoring period. FOMC context: the June jobs report (57K actual versus 113K consensus) is the dominant labor market signal. Markets rose early Thursday on Fed cut repricing. PCE 4.1% (May) and CPI 4.2% (May) mean Chair Warsh's nine-hike-dot hawkish posture faces maximum dual-mandate tension — the 57K payroll print cannot justify a simple dovish pivot without confirming disinflation from June CPI (July 14). FOMC July 29 is the operative decision. WTI enters the holiday session in the approximately $67-70 range. Goldman Sachs' formal retraction of its 'lost decade' stock market forecast represents a notable long-horizon equity confidence inflection. Trump has described the US economy as 'soaring' with the S&P 500, Nasdaq, and Dow at record highs.",
+          "significance": "HIGH",
+          "actors": ["NYSE", "NASDAQ", "CME", "Federal Reserve", "Kevin Warsh", "SpaceX", "Elon Musk", "Invesco", "TD Securities", "Goldman Sachs", "BLS", "EIA"],
+          "metrics": {
+            "july4_market_status": "FEDERAL HOLIDAY CLOSED — no NYSE NASDAQ CME Treasury activity",
+            "next_market_session": "Monday July 7, 2026",
+            "spacex_nasdaq100_effective_date": "2026-07-06",
+            "spacex_nasdaq100_days_out": 2,
+            "spacex_nasdaq100_first_live_session": "Monday July 7",
+            "spacex_rebalancing_read": "PEAK CONCENTRATION COMPLETE — $8-12B passive in Thursday single session; QQQ tracking accuracy TBD Monday",
+            "spacex_td_securities_signal": "BIGGER DAYS AHEAD — potential float restriction easing",
+            "june_cpi_release_date": "2026-07-14",
+            "june_cpi_significance": "CRITICAL — next primary FOMC input; determines October hike trajectory",
+            "fomc_july29_decision_date": "2026-07-29",
+            "fomc_rate_current": "3.50-3.75%",
+            "fomc_dual_mandate_read": "MAXIMUM TENSION — PCE 4.1% vs June jobs 57K",
+            "fomc_october_hike_probability": "COMPRESSING — from near-certain post-June 17 Warsh presser; June CPI July 14 decisive",
+            "june_jobs_print": 57000,
+            "june_jobs_consensus": 113000,
+            "june_unemployment_rate_pct": 4.2,
+            "pce_may_annual_pct": 4.1,
+            "cpi_may_annual_pct": 4.2,
+            "wti_holiday_estimate": "~$67-70 (thin session)",
+            "us_10y_yield_approx": "~4.30-4.35%",
+            "goldman_sachs_lost_decade_retraction": true,
+            "trump_economy_assessment": "SOARING — records in S&P 500 Nasdaq Dow; 401k balances strong",
+            "consumer_sentiment_umich": 48.9,
+            "us_q1_gdp_annualized_pct": 2.1
+          }
+        },
+        {
+          "headline": "OBBB Day 4 (CMS Guidance Still Pending — OR 1.4M / WA 2.2M Medicaid Enrollees; State Readiness Gap Day 4; Holiday Guidance Gap); De Minimis Comment Period T-2 (July 6); FERC AI Large Load T-12 (~July 18); Section 232 Day 33; Oregon Gas ~$5.05 / National ~$4.35",
+          "summary": "The One Big Beautiful Bill Act advances to Day 4 of implementation effectiveness. CMS guidance on Medicaid work requirement enforcement grace periods or waiver application frameworks remains unpublished entering Day 4 — fourth consecutive day of the gap between legal effectiveness and operational enforceability. Oregon Health Authority (approximately 1.4 million enrollees) and Washington State Health Care Authority (approximately 2.2 million enrollees) have not issued comprehensive work requirement documentation. The July 4 federal holiday creates a one-day CMS communication gap — no administrative guidance is expected today. Earliest substantive CMS guidance window reopens Monday July 7. Other OBBB provisions operative: SALT modification ($40K cap for households under $500K), top individual rate reduction (retroactive January 1, 2026), border security appropriations, energy production incentives. The $3.4 trillion CBO-estimated 10-year deficit increase and $5 trillion debt ceiling increase are now enacted-law economic baseline. De minimis USTR comment period (Section 321 tariff exemption for low-value imports) closes July 6, T-2 days. Public hearing July 7. FERC large-load show-cause process advances to Day 18; AI data center pathway explanation deadline approximately July 18 (T-12) enters final 12 days. Section 232 tariff enforcement (steel, aluminum, copper at 50%) advances to Day 33. Oregon pump prices approximately $5.05 per gallon; national approximately $4.35 per gallon — multi-week declining trend continues.",
+          "significance": "MODERATE",
+          "actors": ["CMS", "FERC", "USTR", "Oregon Health Authority", "Washington State Health Care Authority", "Donald Trump", "PJM", "MISO", "CAISO", "ISO-NE", "NYISO", "SPP"],
+          "metrics": {
+            "obbb_implementation_day": 4,
+            "obbb_cms_guidance_status": "STILL PENDING — Day 4; holiday gap; enforcement grace periods or waiver framework not issued",
+            "obbb_salt_cap_usd": 40000,
+            "obbb_salt_households_under_usd": 500000,
+            "obbb_top_rate_reduction_retroactive": "January 1, 2026",
+            "obbb_debt_ceiling_increase_bn": 5000,
+            "obbb_10yr_cbo_deficit_increase_bn": 3400,
+            "obbb_or_wa_medicaid_enrollees": {"oregon": 1400000, "washington": 2200000, "combined": 3600000},
+            "obbb_state_readiness_gap_day": 4,
+            "obbb_monday_guidance_window": "Monday July 7 — earliest CMS communication",
+            "de_minimis_comment_close": "2026-07-06",
+            "de_minimis_hearing_date": "2026-07-07",
+            "de_minimis_days_out": 2,
+            "ferc_large_load_show_cause_day": 18,
+            "ferc_ai_pathway_days_out": 12,
+            "ferc_ai_pathway_deadline_approx": "~2026-07-18",
+            "section_232_day": 33,
+            "section_232_rate_pct": 50,
+            "oregon_gas_estimate_usd": 5.05,
+            "national_gas_estimate_usd": 4.35,
+            "gas_price_direction": "DECLINING MULTI-WEEK — post-MOU oil normalization feeding retail chain"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "Tucannon Fire East Cascades Day 7 (~30,000+ Acres Growing; Garfield County Level 3 Go Now Pomeroy Corridor; July 4 PEAK COMPOUND IGNITION RISK WINDOW FULLY ACTIVE — Holiday Fireworks + Recreation Overlay + Second Heat Wave Day 4 + Record Fuel Dryness Simultaneous; Hamilton Fire Approaching Full Containment 90%+; Tule Road Fire ~24,087 Acres 95% Contained); CISA Day 64 Clean — Dual Elevated Actor Posture (IRGC Cyber Day 9; Hezbollah Day 7); BPA Grid Stable Under Second Heat Wave Day 4 Pressure (+13.2% YoY Demand); FERC AI Large Load Day 18 T-12; NIFC PL3 Day 18.",
+      "items": [
+        {
+          "headline": "Tucannon Fire East Cascades Day 7 (~30,000+ Acres Growing; Garfield County Level 3 Go Now Pomeroy Corridor; July 4 PEAK COMPOUND IGNITION RISK WINDOW FULLY ACTIVE — Holiday Fireworks + Recreation Human Ignition Overlay + Second Heat Wave Day 4 Maximum Fuel Dryness + Ongoing Suppression Commitment Simultaneous; Hamilton Fire 90%+ Approaching Full Containment; Tule Road 24,087 Acres 95% Contained; National Resource Reserve Onset-Period Low; NIFC PL3 Day 18)",
+          "summary": "The Tucannon Fire in southeastern Washington enters Day 7 of the East Cascades onset period with the July 4 peak compound ignition risk window now fully active. The four simultaneous converging risk factors are fully operational this morning: the second PNW heat wave in Day 4 of active intensification producing maximum fuel dryness amplification on 100-hour fuel moisture levels record-setting for date in southeastern Washington; the Tucannon Fire itself continuing to grow at approximately 30,000+ acres with Level 3 Go Now evacuations active in Garfield County's Pomeroy area corridor; and the human ignition overlay — holiday recreational activity and unincorporated area fireworks — fully active through tonight. The 2026 July 4 fire weather convergence is the highest-risk compound configuration of the onset season. NOAA's July forecast (above-normal temperatures, drought conditions sustained) confirms this holiday weekend is the opening of a sustained peak-risk period, not an isolated event. Hamilton Fire near Winthrop (Okanogan County) continues rapid stabilization, advancing toward full or approximately 90%+ containment Saturday. All Level 3 and Level 2 Hamilton Fire evacuation orders remain lifted at Level 1 Get Ready. Tule Road Fire near Toppenish (Yakima County / Yakama Nation area) shows near-full containment at approximately 24,087 acres and 95% contained — a positive regional resource signal. National context: Cottonwood Fire in Utah's Beaver County remains the largest active US wildfire at approximately 92,000 acres. National resource competition has contracted the July-September suppression reserve to the onset-period low — entering the July 4 peak compound-risk window with minimum strategic buffer. Three federal wildland firefighters were killed in the June 27 Colorado-Utah burnover. NIFC Preparedness Level 3 advances to Day 18.",
+          "significance": "HIGH",
+          "actors": ["NIFC", "Washington DNR", "NWS Spokane", "BPA", "Governor Bob Ferguson", "Garfield County Emergency Management", "Okanogan County Emergency Management", "NW Coordination Center", "USFS Umatilla National Forest", "USFS Okanogan-Wenatchee National Forest", "NOAA", "Yakama Nation", "Utah Governor", "Colorado Governor"],
+          "metrics": {
+            "east_cascades_onset_day": 7,
+            "east_cascades_onset_date": "2026-06-28",
+            "tucannon_fire_acres_approx": 30000,
+            "tucannon_fire_location": "Garfield County / southeastern Washington",
+            "tucannon_fire_evacuation_level": "LEVEL 3 GO NOW — Garfield County Pomeroy corridor",
+            "tucannon_fire_second_heat_wave_day": 4,
+            "tucannon_fire_july4_compound_window_status": "FULLY ACTIVE",
+            "tucannon_fire_compound_risk_read": "HIGHEST COMPOUND IGNITION PERIOD OF 2026 ONSET SEASON — four simultaneous converging risk factors",
+            "tucannon_fire_fuel_dryness": "RECORD-SETTING FOR DATE — 100-hour fuels Day 4 maximum amplification",
+            "hamilton_fire_containment_pct": 90,
+            "hamilton_fire_evacuation_status": "ALL LEVEL 1 GET READY — approaching full containment",
+            "hamilton_fire_resource_release": "CONTINUING — redeployment toward Tucannon partially available",
+            "tule_road_fire_acres": 24087,
+            "tule_road_fire_containment_pct": 95,
+            "tule_road_fire_location": "Toppenish / Yakima County / Yakama Nation area",
+            "tule_road_fire_read": "NEAR-FULL CONTAINMENT — positive regional resource signal",
+            "second_pnw_heat_wave_day": 4,
+            "noaa_july_outlook": "ABOVE-NORMAL TEMPS SUSTAINED — holiday weekend first of multiple elevated windows",
+            "cottonwood_fire_utah_acres": 92000,
+            "cottonwood_fire_status": "LARGEST ACTIVE US WILDFIRE",
+            "colorado_utah_firefighter_deaths": 3,
+            "national_resource_reserve": "ONSET-PERIOD LOW — minimum strategic buffer entering peak compound window",
+            "nifc_preparedness_level": 3,
+            "nifc_preparedness_level_day": 18
+          }
+        },
+        {
+          "headline": "CISA Day 64 Clean — Dual Elevated Actor Posture (IRGC Cyber Day 9 Post-Cargo-Strike Permissive Window; Hezbollah Day 7); BPA Grid Stable Under Second Heat Wave Day 4 Pressure (WA +13.2% YoY Demand; Holiday Partial Demand Offset); FERC AI Large Load Day 18 T-12 (~July 18); PGE/PacifiCorp Day 5",
+          "summary": "CISA advances to Day 64 clean streak Saturday morning. The dual elevated actor cyber posture continues: IRGC cyber window advances to Day 9 since the June 26 cargo strike — ninth day the SNSC silence and unaddressed cargo strike create the most permissive window in the brief cycle for IRGC operational latitude. Hezbollah cyber posture advances to Day 7 elevated from the 'null and void' political confrontation. The IRGC Day 9 + Hezbollah Day 7 simultaneous dual-elevated posture remains the highest brief-cycle CI threat concentration. BPA grid enters Saturday under second heat wave Day 4 pressure — Washington state electricity demand approximately 13.2% above year-over-year levels. The July 4 holiday creates a partial demand reduction effect (reduced commercial/industrial load) that partially offsets residential and outdoor-cooling demand increases; BPA grid status stable as of morning. NERC's digitalization vulnerability assessment continues to flag approximately 60 new vulnerable grid points per day. FERC large-load show-cause process Day 18; AI data center pathway explanation deadline approximately July 18 (T-12) in final 12 days. Portland General Electric acquisition of 140,000 PacifiCorp Washington customers advances to Day 5.",
+          "significance": "MODERATE",
+          "actors": ["CISA", "IRGC Cyber Electronic Command", "Hezbollah", "FBI IC3", "BPA", "WECC", "NERC", "FERC", "PGE", "PacifiCorp"],
+          "metrics": {
+            "cisa_clean_streak_days": 64,
+            "irgc_cyber_window_day": 9,
+            "irgc_cyber_window_read": "MOST PERMISSIVE — Day 9 post-cargo-strike; SNSC silent Day 16",
+            "hezbollah_cyber_window_day": 7,
+            "hezbollah_cyber_read": "ELEVATED — null and void political confrontation Day 7",
+            "dual_elevated_actor_posture": "IRGC DAY 9 + HEZBOLLAH DAY 7 SIMULTANEOUS — peak brief-cycle CI threat concentration",
+            "bpa_grid_status": "STABLE — under second heat wave Day 4 pressure",
+            "washington_electricity_demand_yoy_pct": 13.2,
+            "nerc_vulnerable_grid_points_per_day": 60,
+            "ferc_large_load_show_cause_day": 18,
+            "ferc_ai_pathway_days_out": 12,
+            "ferc_ai_pathway_deadline_approx": "~2026-07-18",
+            "pge_pacificorp_acquisition_day": 5,
+            "pge_pacificorp_wa_customers": 140000
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "America 250th Semiquincentennial — July 4 2026 = 250th Anniversary Declaration Of Independence (Freedom 250 National Mall 7 PM; 850,000 Pyrotechnic Effects World-Record Attempt; Trump At Mount Rushmore Kickoff; EXTREME HEAT — DC Heat Index ~107°F; Great American State Fair Temporarily Closed; Philadelphia Parade Canceled; Events Nationwide Scaled Back); OBBB Day 4 (CMS Guidance Still Pending; OR/WA 3.6M Enrollees; Holiday Guidance Gap); Three-Track Election Disruption Day 5 (Watson Day 5; VRA Callais Day 4; Trump Mail EO Day 5 — Holiday Pause Expected); Measles Extended Surveillance Day 5 Clean; Acting DNI Day 45 (Ninth Week).",
+      "items": [
+        {
+          "headline": "America 250th Semiquincentennial — July 4 2026 = 250th Anniversary Declaration Of Independence (Freedom 250 National Mall 7 PM With 850,000 Pyrotechnic Effects World-Record Attempt; Trump At Mount Rushmore Kickoff; Salute To America 250 Task Force Executing); EXTREME HEAT Threatening Celebrations — DC Heat Index ~107°F (Great American State Fair Temporarily Closed; Philadelphia Independence Day Parade Canceled; Events Nationwide Scaled Back); Three-Track Election Disruption Day 5 Holiday Pause",
+          "summary": "Saturday July 4, 2026 marks the United States' 250th birthday — the semiquincentennial of the signing of the Declaration of Independence. The Trump administration's Freedom 250 / Salute to America 250 apparatus is executing a full day of celebrations: Trump kicked off the day's festivities at Mount Rushmore; the evening's primary event is the Freedom 250 fireworks display on the National Mall starting at 7 PM, featuring 850,000 pyrotechnic effects launched from 10 locations spanning the National Mall to West Potomac Park including eight barges in the Potomac River — a proposed world record. Extreme heat is forcing significant modifications to celebrations nationwide: Washington DC's heat index forecast at approximately 107°F creates a heat emergency environment for the outdoor National Mall event. The Great American State Fair — Freedom 250's monthlong event on the National Mall — temporarily closed Thursday due to dangerous heat and has managed logistical challenges including spotty attendance, not-all-50-states participation, and a Confederate flag incident earlier in the month. Philadelphia has canceled its Independence Day parade due to dangerous heat. Multiple other July 4 events across the mid-Atlantic and Northeast are being scaled back or modified. The political backdrop of America's 250th: Trump approval approximately 38% approve / 55% disapprove (June Quinnipiac). NBC poll shows Americans willing to bridge political divides at July Fourth gatherings. Three-track election disruption enters Day 5 on the July 4 holiday: Watson v. RNC (Day 5), VRA Louisiana v. Callais cascade (Day 4), and Trump mail-in voting EO (Day 5) — holiday pause expected on all three tracks.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Salute to America 250 Task Force", "Freedom 250", "White House", "Tobias Read (Oregon SOS)", "Steve Hobbs (WA SOS)", "RNC", "DNC", "Chief Justice John Roberts"],
+          "metrics": {
+            "america_250_anniversary_date": "2026-07-04",
+            "america_250_significance": "250TH ANNIVERSARY — SEMIQUINCENTENNIAL of Declaration of Independence",
+            "freedom_250_national_mall_event_time": "7:00 PM ET",
+            "freedom_250_pyrotechnic_effects": 850000,
+            "freedom_250_launch_locations": 10,
+            "freedom_250_world_record_attempt": true,
+            "trump_mount_rushmore_kickoff": true,
+            "dc_heat_index_forecast": "~107°F",
+            "great_american_state_fair_status": "TEMPORARILY CLOSED — dangerous heat; logistical issues",
+            "philadelphia_parade_status": "CANCELED — dangerous heat",
+            "nationwide_events_status": "MULTIPLE SCALED BACK — heat emergency mid-Atlantic/Northeast",
+            "trump_approval_june_quinnipiac_pct": 38,
+            "trump_disapproval_june_quinnipiac_pct": 55,
+            "three_track_election_disruption_day": 5,
+            "watson_v_rnc_day": 5,
+            "watson_holiday_pause": "EXPECTED",
+            "vra_callais_day": 4,
+            "florida_gerrymander_gop_net_seats": 4,
+            "florida_gerrymander_approved": true,
+            "vra_other_states_cascade": "ACTIVE — Day 4",
+            "trump_mail_eo_day": 5,
+            "trump_mail_eo_tro_status": "PENDING — federal circuit review; holiday pause",
+            "november_2026_midterm_clock_months_out": 5
+          }
+        },
+        {
+          "headline": "OBBB Day 4 CMS Guidance Still Pending (July 4 Holiday Guidance Gap — Earliest Monday July 7; OR 1.4M / WA 2.2M Medicaid Enrollees; State Readiness Gap Day 4); Measles Extended Surveillance Day 5 Clean (No New Clusters; July 7 FIFA T-3; June 26 Window Through July 13; National ~2,170 Cases); Acting DNI Day 45 (Ninth Week); Secure America Act Day 25; TPS Day 9",
+          "summary": "OBBB implementation advances to Day 4 with the CMS guidance gap fully operative on the July 4 holiday — no administrative communications expected from CMS today. Earliest substantive CMS communication window is Monday July 7. Oregon Health Authority and Washington State Health Care Authority (combined approximately 3.6 million enrollees) have not issued comprehensive Medicaid work requirement documentation for beneficiaries or providers — fourth consecutive day accumulating state readiness gap. The OBBB's $3.4 trillion CBO-estimated 10-year deficit increase and $5 trillion debt ceiling increase are now enacted-law economic baseline. Measles extended surveillance: Day 5 post-primary-window-close (confirmed clean June 29). No new King County or Snohomish County clusters reported. July 4 holiday creates a one-day surveillance reporting gap. Next meaningful milestones: July 7 (FIFA PNW conclusion; monitoring scope reduction) and July 13 (June 26 extended exposure window close). WA YTD cases: 33. National: approximately 2,134-2,170 cases as of early July — nearly matching full-year 2025 total with six months remaining. Acting DNI: Day 45, ninth consecutive week. Concurrent assessment load on Saturday morning: SNSC compliance trajectory, Lebanon fragile hold, IRGC/Hezbollah dual cyber posture, Russia fuel crisis IC read, Tucannon compound risk, OBBB implementation stress, three-track election disruption. Secure America Act Day 25; TPS Mullin v. DOE Day 9.",
+          "significance": "MODERATE",
+          "actors": ["CMS", "Oregon Health Authority", "Washington State Health Care Authority", "CDC", "Georgetown University", "King County Public Health", "Snohomish County Health", "Washington DOH", "Acting DNI", "FIFA"],
+          "metrics": {
+            "obbb_implementation_day": 4,
+            "obbb_cms_guidance_status": "STILL PENDING — Day 4; holiday gap; earliest Monday July 7",
+            "obbb_or_wa_medicaid_enrollees": {"oregon": 1400000, "washington": 2200000, "combined": 3600000},
+            "obbb_state_readiness_gap_day": 4,
+            "measles_extended_surveillance_day": 5,
+            "measles_new_clusters": false,
+            "measles_wa_state_ytd_cases": 33,
+            "measles_national_approx_cases": 2170,
+            "measles_national_context": "NEARLY MATCHING FULL-YEAR 2025 WITH SIX MONTHS REMAINING",
+            "measles_july7_scope_reduction": "T-3 — FIFA PNW concludes",
+            "measles_june26_window_through": "2026-07-13",
+            "measles_july4_surveillance_gap": "ONE DAY — holiday reporting gap; no elevated biological risk",
+            "acting_dni_vacancy_day": 45,
+            "acting_dni_ninth_week": true,
+            "secure_america_act_day": 25,
+            "tps_mullin_v_doe_day": 9
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Tucannon Fire East Cascades Day 7 (~30,000+ Acres Growing; Garfield County Level 3 Go Now Pomeroy; July 4 PEAK COMPOUND IGNITION RISK WINDOW FULLY ACTIVE — Holiday Fireworks + Recreation Overlay + Second Heat Wave Day 4 + Record Fuel Dryness Simultaneous); Hamilton Fire Approaching Full Containment (90%+; All Evacuations Level 1); Tule Road Fire 95% Contained; OBBB Day 4 + Watson Day 5 — PNW Most Exposed (OR 1.4M / WA 2.2M Medicaid; OR/WA Vote-By-Mail 5 Months); Columbia River 340,000 cfs 54% Normal Drought Year 4; Washington Drought Day 32; Oregon 83% Drought; L-Pod Orca Calf Week 10 Alive; FIFA PNW T-3; BPA Grid Stable Under Pressure.",
+      "items": [
+        {
+          "headline": "Tucannon Fire East Cascades Day 7 (~30,000+ Acres Growing; Garfield County Level 3 Go Now Pomeroy Corridor; July 4 PEAK COMPOUND IGNITION RISK WINDOW FULLY ACTIVE — Holiday Fireworks + Recreation Human Ignition Overlay + Second Heat Wave Day 4 Maximum Fuel Dryness + Ongoing Suppression Commitment; Hamilton Fire 90%+ Approaching Full Containment — All Evacuations Level 1; Tule Road 95% Contained; NIFC PL3 Day 18; BPA Grid Stable Under Pressure",
+          "summary": "The Pacific Northwest enters July 4, 2026 morning — America's 250th birthday — with the Tucannon Fire's peak compound ignition risk window fully active. The confluence of four simultaneous risk factors creates the highest-risk fire weather environment of the 2026 East Cascades onset season: Tucannon Fire Day 7 at approximately 30,000+ acres with Level 3 Go Now evacuations ongoing in Garfield County's Pomeroy corridor; second PNW heat wave Day 4 with maximum fuel dryness amplification on record-setting 100-hour fuel moisture; and holiday human ignition overlay now fully active through tonight. NOAA's July outlook confirms this is the opening of a sustained elevated-risk period. Washington has four large active fires east of the Cascades. Hamilton Fire near Winthrop advances toward full or near-full containment today (90%+) — all Level 3/2 evacuations lifted; resource release from Hamilton provides additional deployment capacity toward Tucannon. Tule Road Fire near Toppenish at approximately 24,087 acres and 95% containment is a positive PNW resource signal. BPA grid stable but under second heat wave Day 4 pressure with Washington electricity demand +13.2% YoY; holiday load reduction partially offsets residential cooling peak. NSF Newport OR ocean observatories operational per the Trump administration reversal and Senate unanimous extension announced June 26 — Cascadia Subduction Zone real-time monitoring gap averted.",
+          "significance": "HIGH",
+          "actors": ["NIFC", "Washington DNR", "NWS Spokane", "NWS Portland", "BPA", "Governor Bob Ferguson", "Garfield County Emergency Management", "Okanogan County Emergency Management", "NW Coordination Center", "USFS Umatilla National Forest", "NOAA", "Yakama Nation"],
+          "metrics": {
+            "east_cascades_onset_day": 7,
+            "tucannon_fire_acres_approx": 30000,
+            "tucannon_fire_evacuation_level": "LEVEL 3 GO NOW — Garfield County Pomeroy corridor",
+            "tucannon_fire_july4_compound_window": "FULLY ACTIVE — all four risk factors simultaneous",
+            "tucannon_fire_second_heat_wave_day": 4,
+            "tucannon_fire_fuel_dryness": "RECORD-SETTING FOR DATE",
+            "tucannon_fire_human_ignition_overlay": "FULLY ACTIVE — fireworks and recreation through tonight",
+            "hamilton_fire_containment_pct": 90,
+            "hamilton_fire_evacuation_status": "ALL LEVEL 1 GET READY",
+            "hamilton_fire_resource_release": "CONTINUING",
+            "tule_road_fire_acres": 24087,
+            "tule_road_fire_containment_pct": 95,
+            "second_pnw_heat_wave_day": 4,
+            "washington_large_fires_count_east_cascades": 4,
+            "nifc_preparedness_level": 3,
+            "nifc_preparedness_level_day": 18,
+            "bpa_grid_status": "STABLE — heat wave pressure active",
+            "washington_electricity_demand_yoy_pct": 13.2,
+            "nsf_newport_or_status": "OPERATIONAL — Trump admin reversal June 26; Senate unanimous",
+            "columbia_river_streamflow_cfs": 340000,
+            "columbia_river_pct_normal": 54
+          }
+        },
+        {
+          "headline": "OBBB Day 4 + Watson Day 5 — PNW Most Exposed (OR 1.4M / WA 2.2M Medicaid; CMS Guidance Day 4 Pending; OR/WA Vote-By-Mail 5 Months; Dual Emergency Governance Stress); Columbia River 340,000 cfs 54% Normal Drought Year 4; Washington Drought Day 32; Oregon 83% Drought; L-Pod Orca Calf Week 10 Alive; FIFA PNW T-3; Sound Transit Record Ridership; WA Electricity +13.2% YoY",
+          "summary": "The PNW policy stress continues to be the most acute in the nation on the OBBB and Watson tracks. Oregon with approximately 1.4 million Medicaid enrollees and Washington with approximately 2.2 million face OBBB Medicaid work requirements without CMS enforcement guidance entering Day 4 — neither Oregon Health Authority nor Washington State Health Care Authority has issued comprehensive work requirement documentation. Simultaneously, Oregon Secretary of State Tobias Read and Washington Secretary of State Steve Hobbs are managing the Watson v. RNC vote-by-mail overhaul — Oregon's 26-year VBM system and Washington's dominant VBM architecture require comprehensive revision on a five-month November midterm clock. The dual governance emergency (Medicaid implementation AND election administration overhaul) imposed simultaneously on both state administrations remains the most concentrated state-level governance stress in the current brief cycle. Columbia River streamflow at approximately 340,000 cfs — 54% of historical normal, Drought Year 4. Washington drought Day 32: fourth consecutive year, 12 emergency counties. Oregon 83% of state in drought. Super El Niño watch at approximately 25% probability; ENSO update expected this month. L-Pod orca calf advances to Week 10 alive on America's 250th. FIFA World Cup PNW venues continue through July 7 (T-3 days remaining) with Sound Transit recording record ridership. Washington electricity rates +13.2% YoY. PGE/PacifiCorp acquisition (140,000 WA customers) advances to Day 5.",
+          "significance": "MODERATE",
+          "actors": ["Oregon Health Authority", "Washington State Health Care Authority", "Tobias Read (Oregon SOS)", "Steve Hobbs (WA SOS)", "Oregon Governor Tina Kotek", "Governor Bob Ferguson", "NOAA", "NWS Seattle", "BPA", "WDFW", "Bureau of Reclamation", "Sound Transit", "PGE", "PacifiCorp"],
+          "metrics": {
+            "obbb_pnw_medicaid_exposure": "MOST EXPOSED — OR 1.4M + WA 2.2M; Day 4 no CMS guidance",
+            "watson_pnw_election_admin_stress": "DUAL EMERGENCY — OR/WA managing VBM overhaul + Medicaid implementation simultaneously",
+            "watson_or_vbm_system_age_years": 26,
+            "watson_november_clock_months_out": 5,
+            "columbia_river_streamflow_cfs": 340000,
+            "columbia_river_pct_normal": 54,
+            "columbia_river_drought_year": 4,
+            "washington_drought_day": 32,
+            "washington_drought_consecutive_years": 4,
+            "washington_drought_emergency_counties": 12,
+            "oregon_drought_pct_state": 83,
+            "super_el_nino_probability_pct": 25,
+            "el_nino_base_probability_pct": 61,
+            "enso_update_expected": "July 2026",
+            "l_pod_orca_calf_alive": true,
+            "l_pod_orca_calf_week": 10,
+            "fifa_world_cup_pnw_through": "2026-07-07",
+            "fifa_pnw_days_remaining": 3,
+            "sound_transit_ridership": "RECORD — FIFA World Cup PNW",
+            "washington_electricity_rate_yoy_pct_change": 13.2,
+            "washington_electricity_affordability_rank": 7,
+            "pge_pacificorp_acquisition_day": 5,
+            "pge_pacificorp_wa_customers": 140000
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "July 4, 2026 — America's 250th birthday — opens at Vibe 4, the ninth consecutive session at this level (Friday June 26 through Saturday July 4 morning). The semiquincentennial arrives in a characteristic DVC brief cycle configuration: structurally ambiguous, with active positives and active negatives balancing to a mid-range assessment rather than resolving to either stability or crisis. The dominant geopolitical thread remains the SNSC compliance architecture: Hormuz Day 127 advances with the Iran SNSC formally unresolved at Day 16, Doha 'positive progress' established but no Lloyd's gate movement produced, and Iran asserting joint corridor control with Oman that exceeds the pre-conflict baseline. The July 4 federal holiday structurally reduces the probability of a formal Iranian SNSC action today — prior pattern in this series shows formal compliance determinations clustering around active diplomatic engagement sessions rather than quiet national holiday windows. The Lebanon Fragile Hold at Hour ~283+ and seven consecutive days of Hezbollah political rejection without military resumption is the most sustained post-rejection durability signal of the ceasefire period — a quiet positive that has not yet generated a Vibe 5 trigger but has materially reduced the daily risk floor. Russia's fuel crisis Day 4 — IEA 'unprecedented' designation standing, 2/3 of federal entities rationing, Kapotnya offline through year end, Kazakhstan imports in negotiation — represents the week's primary escalation track outside the Hormuz architecture. The July 4 PNW compound ignition risk window now fully active is the morning brief's most operationally urgent near-term concern: four simultaneous risk factors — Tucannon Fire Day 7 at 30,000+ acres with Level 3 evacuations, second heat wave Day 4 at record fuel dryness amplification, and human ignition overlay now live — create the highest compound-risk configuration of the East Cascades onset season. The Hamilton Fire's near-full containment and Tule Road's 95% containment provide partial resource offset, but the national reserve remains at the onset-period low. America's 250th birthday itself is a day of maximum domestic political theater: Freedom 250's National Mall fireworks (850,000 effects, world-record attempt, 7 PM) proceeds under a ~107°F heat index that has already forced the Great American State Fair's temporary closure and Philadelphia's parade cancellation. The OBBB's Day 4 implementation with CMS guidance still unpublished, and three-track election disruption at Day 5 with holiday pause expected, hold their current trajectories. The week ahead: SpaceX Nasdaq-100 live Monday (T-2); de minimis comment period close Sunday; FERC AI Large Load T-12; June CPI July 14 (decisive FOMC input); FOMC July 29. The 60-day nuclear clock at Day 16 with 44 days remaining to approximately August 18 is the primary geopolitical clock to monitor as the holiday weekend concludes.",
+  "watch_items": [
+    {
+      "item": "Tucannon Fire July 4 Holiday Weekend Trajectory — Peak Compound Risk Window",
+      "priority": "CRITICAL",
+      "rationale": "July 4 human ignition overlay (fireworks and recreation) fully active on top of second heat wave Day 4 maximum fuel dryness and 30,000+ acre active suppression commitment; NIFC at onset-period low reserve; Garfield County Level 3 evacuations ongoing",
+      "watch_for": "Any Tucannon breakout run during holiday evening ignition window; NW Coordination Center emergency resource request; any new large ignitions east of Cascades; Hamilton Fire full containment declaration; NWS Spokane Red Flag updates for Sunday/Monday; overnight humidity recovery assessment"
+    },
+    {
+      "item": "SNSC Compliance Day 16 Post-Holiday Trajectory",
+      "priority": "HIGH",
+      "rationale": "Holiday pause reduces probability of formal Iranian action today but does not eliminate it; Doha follow-on track active; Lloyd's gate formally closed; 118 tankers stranded; Day 16 is first day past Doha round conclusion",
+      "watch_for": "SNSC formal re-closure retraction or written compliance statement (Vibe 5 trigger); Gharibabadi or Araghchi public statement referencing compliance determination; follow-on Doha round scheduling; Lloyd's of London normalization comment; any Iranian-side escalation signal"
+    },
+    {
+      "item": "America 250 Freedom 250 National Mall Events — Extreme Heat Safety",
+      "priority": "HIGH",
+      "rationale": "~107°F DC heat index during 7 PM outdoor National Mall event; Great American State Fair already temporarily closed; multiple event cancellations nationally; 850,000 pyrotechnic effects world-record attempt in heat emergency conditions",
+      "watch_for": "Heat-related mass-casualty event at National Mall; USCP/FEMA/DCFEMS emergency activation; event format modification or cancellation; fireworks safety incidents given drought conditions; crowd heat exhaustion reports; security incidents at high-visibility July 4 events"
+    },
+    {
+      "item": "SpaceX Nasdaq-100 Entry Monday July 7 — Post-Holiday First Live Session",
+      "priority": "HIGH",
+      "rationale": "Sunday July 6 effective date; Monday July 7 first live session; $8-12B passive rebalancing completed in Thursday single session; QQQ tracking accuracy confirmation Monday; TD Securities 'bigger days ahead' on potential float restriction easing",
+      "watch_for": "Monday QQQ open tracking SpaceX; displaced-member residual volatility; any SpaceX float restriction announcement; Monday market open direction as first July 4 post-holiday session"
+    },
+    {
+      "item": "Russia Fuel Crisis Day 5 Escalation and Military Logistics Attrition",
+      "priority": "HIGH",
+      "rationale": "Four-day escalation trajectory with 2/3 of federal entities rationing; IEA 'unprecedented' designation standing; Kapotnya offline through year end; Day 4 earliest window for military logistics attrition signals at Zaporizhzhia and Kupyansk",
+      "watch_for": "Russian government announcement of Kazakhstan import volumes; any military vehicle/equipment operational constraint reports from Zaporizhzhia or Kupyansk; Ukraine refinery strike resumption; Crimea fuel supply escalation"
+    },
+    {
+      "item": "June CPI July 14 — Decisive FOMC Input",
+      "priority": "HIGH",
+      "rationale": "June jobs 57K miss creates maximum dual-mandate tension; FOMC July 29; PCE 4.1% / CPI 4.2% May baseline; October hike probability compressing but not resolved; June CPI single most consequential pre-July 29 data point",
+      "watch_for": "Any early June CPI signal from regional Fed surveys or PPI release; Fed official holiday weekend statements; any FOMC member comment on dual-mandate trajectory ahead of blackout period"
+    },
+    {
+      "item": "Lebanon Fragile Hold Hour ~283+ — Hezbollah Day 7",
+      "priority": "MODERATE-HIGH",
+      "rationale": "Seven consecutive days political rejection without military resumption; no formal void declaration; IDF drone active; most sustained post-rejection hold of ceasefire period",
+      "watch_for": "Hezbollah rocket resumption (Vibe 3 trigger); any IDF southern Lebanon kinetic action beyond drone presence; formal void declaration; Naim Qassem public clarification of operational implications"
+    },
+    {
+      "item": "OBBB CMS Guidance and Monday July 7 Resumption",
+      "priority": "MODERATE",
+      "rationale": "Day 4 guidance gap; OR 1.4M + WA 2.2M enrollees most exposed; holiday pause extends accumulation; Monday July 7 earliest window for CMS administrative communication",
+      "watch_for": "CMS enforcement grace period announcement; state waiver application framework; any informal HHS technical assistance; Oregon or Washington state DOH interim Medicaid guidance"
+    }
+  ],
+  "sources": [
+    {"title": "Freedom 250 – The White House", "url": "https://www.whitehouse.gov/freedom250/"},
+    {"title": "Analysis: Tricorn hats or Trump rally? Americans have July Fourth options | CNN Politics", "url": "https://www.cnn.com/2026/07/03/politics/america-250-july-4-national-mall-trump-analysis"},
+    {"title": "Extreme heat threatens Trump's July 4 Freedom 250 plans | The Hill", "url": "https://thehill.com/homenews/administration/5952278-freedom-250-trump-july-4-heat-concerns/"},
+    {"title": "America's 250th: Trump kicks off July Fourth festivities at Mount Rushmore | NBC News", "url": "https://www.nbcnews.com/politics/politics-news/live-blog/america-250-celebration-trump-speech-mt-rushmore-live-updates-rcna352190"},
+    {"title": "July Fourth Fireworks in Washington, a World Record and America 250 | U.S. News", "url": "https://www.usnews.com/news/national-news/articles/2026-07-02/july-fourth-fireworks-in-washington-a-world-record-and-america-250"},
+    {"title": "Trump: 60 days not a hard deadline on Iran negotiations | The Hill", "url": "https://thehill.com/homenews/administration/5929012-trump-iran-negotiation-timeline/"},
+    {"title": "U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon | CNBC", "url": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html"},
+    {"title": "4 large wildfires burn in Washington as risk rises west of Cascades | KING5", "url": "https://www.king5.com/article/news/local/wildfire/6-large-wildfires-washington-fire-risk-west-cascades/281-5400557d-b8b3-47fc-8a9e-6128c154408e"},
+    {"title": "Active wildfires, air quality tracker for Washington, Oregon | Seattle Times", "url": "https://www.seattletimes.com/seattle-news/data/wildfire-tracker/"},
+    {"title": "Next round of record-challenging heat on the way for Pacific Northwest | AccuWeather", "url": "https://www.accuweather.com/en/weather-news/next-round-of-record-challenging-heat-on-the-way-for-pacific-northwest/1903618"},
+    {"title": "U.S. Measles Cases in 2026 Nearly Match Full-Year 2025 Toll | Global Biodefense", "url": "https://globalbiodefense.com/2026/07/03/u-s-measles-cases-in-2026-nearly-match-full-year-2025-toll-with-six-months-still-remaining/"},
+    {"title": "One Big Beautiful Bill Act – Wikipedia", "url": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+    {"title": "Poll: Americans willing to bridge political divides at July Fourth | NBC News", "url": "https://www.nbcnews.com/politics/politics-news/poll-americans-are-willing-bridge-political-divides-july-fourth-partie-rcna352293"},
+    {"title": "Monthly Market Commentary: July 2026 | Carnegie Invest", "url": "https://blog.carnegieinvest.com/monthly-market-commentary-july-2026"},
+    {"title": "BLS Employment Situation June 2026: 57K actual; unemployment 4.2%", "url": "https://www.bls.gov/news.release/empsit.nr0.htm"},
+    {"title": "IEA Russia Ukraine conflict fuel crisis unprecedented designation", "url": "https://www.iea.org/news/"},
+    {"title": "This Month in Geopolitics: July 2026 | Deutsche Bank Research", "url": "https://www.dbresearch.com/PROD/IE-PROD/PDFVIEWER.calias?pdfViewerPdfUrl=PROD0000000000632129"}
+  ]
+}
