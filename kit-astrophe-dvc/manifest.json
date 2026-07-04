@@ -1970,7 +1970,23 @@
       ],
       "headline": "Hormuz Day 126: Doha Round Concluded 'Positive Progress' (No SNSC Change; Iran Asserting Corridor Control); Russia Fuel Crisis Day 3 (2/3 Entities Rationing); June Jobs 57K Significant Miss (Markets Price Fed Cut); SpaceX Nasdaq-100 Last Trading Day; Oregon Renewable Deadline TODAY; Tucannon Day 6 July 4 Compound Risk Opens; Peru JNE Declaration; Vibe 4",
       "generated_at": "2026-07-03T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-04-evening",
+      "date": "2026-07-04",
+      "session": "evening",
+      "file": "reports/2026-07-04-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "America 250th Semiquincentennial; Extreme Heat Wave Grid Stress (NE +243%, NYC +101%); Tucannon Day 7 July 4 Peak Compound Risk FULLY ACTIVE; Sourdough Fire + Incident 0341 New PNW Ignitions; SNSC Day 16 Holiday Pause; Russia Fuel Crisis Day 4; Vibe 4",
+      "generated_at": "2026-07-04T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-03T20:00:00-07:00"
+  "last_updated": "2026-07-04T20:00:00-07:00"
 }
