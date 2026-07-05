@@ -1,0 +1,422 @@
+{
+  "report_id": "2026-07-05-evening",
+  "generated_at": "2026-07-05T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 128 — SNSC COMPLIANCE DISPUTE DAY 17: Doha 'Positive Progress' Round Concluded July 3 (Working Groups Formed; No SNSC Declaration Change); MOU Architecture Under Acute Stress (June 28 Iran Ballistic Missile + Drone Strikes US Kuwait/Bahrain Day 8; IRGC Cargo Strike June 26 Unaddressed; Iran Asserting Corridor Control; Re-Closure Operative; 118 Tankers Stranded); WTI ~$69 (Day 9 Below $74 Normalization Floor; Pre-War Floor Proximity); Lebanon Fragile Hold Day 20; 60-Day Nuclear Window Day 17; CENTCOM Posture TBD; Acting DNI Day 45; CISA Clean Day 65; OBBB LAW DAY 6 (Signed June 29; Effective Midnight July 1; CBO +$3.4T / 10 Years; 10 Titles 869 Pages; Medicaid Work Requirements + SNAP Restrictions Active 18 States); SCOTUS TERM CLOSED (Humphrey's Executor OVERTURNED 6-3 — 90-Year Independent Agency Precedent Gone; Birthright Upheld 6-3 Trump v. Barbara; Watson v. RNC 5-4 Mail Ballot Grace Periods Eliminated All 50 States; Louisiana v. Callais VRA Section 2 Raised); JUNE JOBS 57K MISS (115K Consensus; Lowest 4-Month Gain; April-May Revised -74K Combined; Unemployment 4.2%; LFPR 61.5% 5-Year Low; Leisure/Hospitality -61K World Cup Effect); Dow RECORD 52,900.07 (+594.83; Rate Cut Repricing); S&P 7,483; Nasdaq -0.8% Chip Stocks; FOMC Minutes July 8; SpaceX Nasdaq-100 TOMORROW July 6; Russia Fuel Crisis Day 5 (IEA 'Unprecedented'; 2/3 Entities Rationing); TUCANNON FIRE DAY 8 (~25,000 Acres ZERO Containment; Garfield County WA; Record Fuel Dryness); SOURDOUGH FIRE + INCIDENT 0341 NEW IGNITIONS (July 4 Compound Risk Activated; ICS-209 Pending July 6); NIFC Above-Normal Day 35; East Cascades Onset Day 8; Second PNW Heat Wave Day 2; ATMOSPHERIC RIVER TONIGHT-WEDNESDAY (NWS Flood Watch SW WA / NW OR; Post-Fire Terrain Landslide Risk Elevated); WA Drought Day 31 (4th Year; 50% Snowpack); Oregon 83% Drought; El Nino 61% Super 25%; FERC AI Pathway 30-Day Deadline T-13 (July 18); NSF Newport OR Dark Day 7 (First Major Coastal Event In Monitoring Gap); Longview CSB Day 41 (Elevated Risk Window ~T-6); Measles June 19 Cluster Window Day 3 (July 3-10; No Clusters Confirmed); CIDRAP Slowing Day 29; Colombia De La Espriella Certified Day 6 (Inauguration Aug 7 T-33); Peru Fujimori Declared Winner Day 4 (JNE Certification Active); Venezuela Earthquake Day 12 (1,719+ Dead; 46,600+ Missing); PNW Climate Week T-8 (July 13-19). Sunday July 5, 2026 evening. The July 5 evening brief closes at Vibe 4 — maintained for the sixteenth consecutive session beginning June 27. The session's defining architecture is a stability paradox: the legislative and diplomatic arcs that dominated May-June tracking have nominally resolved, but the operational layer beneath each resolution remains under sustained, multi-vector stress.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — maintained for the sixteenth consecutive session since June 27. The July 5 brief inherits the fundamental tension that has defined every session since the compliance dispute opened June 22: the Iran deal's diplomatic architecture is nominally intact while the operational architecture is actively contested. The July 3 Doha 'positive progress' conclusion is the session's primary potential upward mover — the first confirmed diplomatic de-escalation signal since the June 28 Iranian ballistic missile and drone strikes on US bases in Kuwait and Bahrain (Day 8 of that escalation thread). But 'positive progress' is not SNSC compliance confirmation. The SNSC has now been pending for 17 consecutive days without a formal MOU compliance declaration — a historically unprecedented non-ratification duration for an agreement of this scope. WTI at ~$69, nine sessions below the $74 normalization floor, is the commodity market's standing verdict: the deal is legally intact and operationally fragile simultaneously. Iran's continued assertion of corridor control authority (the right to charge 'service fees' on Hormuz transits, categorically rejected by the US under the MOU's toll-free provision) is the structural impediment that Doha must dissolve for Lloyd's normalization and mass commercial return to proceed. On the PNW fire front: the July 4 compound risk window delivered exactly what the June 20+ briefs warned — at least two new ignitions (Sourdough Fire, Incident 0341) joined Tucannon (Day 8; ~25,000 acres; zero containment; Garfield County) in the most complex simultaneous fire management posture of the 2026 season. The arriving atmospheric river (tonight through Wednesday) is a tactical positive for fire suppression and a simultaneous flood and landslide risk for post-fire terrain in SW Washington and NW Oregon. On the macro side: the June jobs miss (57K vs. 115K) and Dow record (52,900) are telling contradictory stories — equities pricing Fed easing via a soft landing, oil markets pricing geopolitical fragility. The OBBB (Law Day 6) and SCOTUS term closure (Humphrey's Executor overturned; Watson mail ballot; VRA raised) have permanently restructured four major governance domains. The Russia fuel crisis (IEA 'unprecedented'; Day 5; 2/3 entities rationing) adds a second energy supply shock that complicates the Hormuz deflationary impulse. Upgrade to Vibe 5 requires: SNSC formal MOU compliance declaration + Iran retraction of corridor control assertion (primary threshold) + Russia fuel crisis IEA emergency response stabilizing supply + Tucannon achieving 20%+ containment without catastrophic new ignitions. Drop to Vibe 3 requires: SNSC formal re-closure declaration voiding MOU, or Iran publicly withdrawing from the 60-day nuclear window, or Tucannon/new fires merging into 75,000+ acre megafire complex, or Russia fuel crisis producing European spillover fuel emergency."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 128 — SNSC Compliance Dispute Day 17: Doha 'Positive Progress' (Round Concluded July 3; Working Groups; No Declaration Change); June 28 Iran Ballistic Missile + Drone Strikes US Kuwait/Bahrain Day 8; IRGC Cargo Strike June 26 Unaddressed; Re-Closure Operative; 118 Tankers Stranded; WTI ~$69 (Day 9 Below $74); Lebanon Fragile Hold Day 20; 60-Day Nuclear Window Day 17; Russia Fuel Crisis Day 5 (IEA 'Unprecedented'; 2/3 Entities Rationing); Colombia De La Espriella Certified Day 6; Peru Fujimori Declared Winner Day 4; Venezuela Earthquake Day 12 (1,719+ Dead).",
+      "items": [
+        {
+          "headline": "Hormuz Day 128 — SNSC Compliance Dispute Day 17: Doha 'Positive Progress' (Round Concluded July 3; Working Groups Formed; No SNSC Change) vs. MOU Architecture Acute Stress (June 28 Ballistic Missile + Drone Strikes US Bases Kuwait/Bahrain Day 8; IRGC Cargo Strike June 26 Unaddressed; Iran Asserting Corridor Control; Re-Closure Operative; 118 Tankers Stranded; WTI ~$69 Day 9 Below $74 Floor)",
+          "summary": "The July 5 geopolitical session is defined by the unresolved tension between the Doha de-escalation signal and the structural compliance deficit accumulating over 17 days. The positive signal: the Doha Qatar engagement (July 2-3) concluded with both parties characterizing the outcome as 'positive progress,' with Iran forming working groups to address the outstanding compliance disputes — corridor control protocol, SNSC formal ratification, and the June 26 IRGC cargo vessel strike. Working group formation is the first institutional evidence of Iranian willingness to engage the compliance deficit through diplomatic rather than military channels since the June 28 escalatory exchange. The stress signals: the SNSC has not issued a formal MOU compliance declaration in 17 days. Iran's position — asserted through the Doha channel — is that it retains authority to impose 'corridor control service fees' on Hormuz transits, categorically incompatible with the MOU's toll-free transit provision. The IRGC strike on an IMO-backed Oman route cargo vessel (June 26) remains unaddressed. The 118 IMO-registered vessels diverted during the June 26 convoy pause remain in holding patterns. Lloyd's of London has not issued war-risk rate normalization — the commercial gateway signal for mass commercial return remains closed. WTI has traded near $69 for nine consecutive sessions below the $74 normalization floor. The June 28 Iranian ballistic missile and drone strikes on US bases in Kuwait and Bahrain — retaliating for US strikes on five Iranian coastal installations — represent the most direct US-Iran military exchange of the post-MOU period. CENTCOM's posture following the exchange has not been formally declared. The Doha process is the operative de-escalation framework; the July 6-8 window will determine whether working groups translate to SNSC movement or stall in bureaucratic holding patterns. Lebanon: ceasefire in fragile hold at Day 20. Hezbollah's 'null and void' declaration on the Rubio framework (June 23) has not activated into northern Israel operations; IDF drone incursions into Lebanese airspace continue on a reduced tempo. The 60-day nuclear compliance window is at Day 17 of 60 (ending approximately August 18) — no formal nuclear talks commencement has been confirmed, a secondary compliance concern running in parallel with the primary SNSC dispute.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "JD Vance", "Masoud Pezeshkian", "Abbas Araghchi", "Esmaeil Baghaei", "SNSC", "Majlis", "IRGC", "CENTCOM", "IMO", "Lloyd's of London", "Benjamin Netanyahu", "IDF", "Hezbollah", "Steve Witkoff", "Qatar FM", "IAEA"],
+          "metrics": {
+            "hormuz_day": 128,
+            "mou_signed_date": "2026-06-19",
+            "mou_compliance_day": 17,
+            "snsc_compliance_pending_day": 17,
+            "snsc_formal_declaration": false,
+            "re_closure_operative": true,
+            "doha_talks_concluded": "2026-07-03",
+            "doha_progress_assessment": "Positive progress — working groups formed; no SNSC change",
+            "iran_corridor_control_assertion": true,
+            "iran_service_fee_vs_toll_dispute": "ACTIVE — US rejects service fee framing as MOU-incompatible",
+            "irgc_cargo_strike_date": "2026-06-26",
+            "irgc_cargo_strike_addressed": false,
+            "iran_ballistic_missile_strike_date": "2026-06-28",
+            "iran_ballistic_missile_strike_day": 8,
+            "iran_ballistic_missile_strike_targets": ["US bases Kuwait", "US bases Bahrain"],
+            "us_iranian_coastal_sites_struck": 5,
+            "centcom_posture": "TBD",
+            "imo_convoy_pause_active": true,
+            "tankers_stranded": 118,
+            "lloyds_normalization_gate": "CLOSED",
+            "lloyds_war_risk_rate_normalized": false,
+            "wti_july5_approx": "~$69",
+            "wti_days_below_74_floor": 9,
+            "wti_prewar_floor_proximity": "NEAR",
+            "sixty_day_nuclear_window_day": 17,
+            "sixty_day_window_end": "~2026-08-18",
+            "nuclear_talks_commencement": false,
+            "lebanon_fragile_hold_day": 20,
+            "hezbollah_null_void_declaration": "ACTIVE — not withdrawn",
+            "idf_lebanon_drone_activity": "REDUCED TEMPO",
+            "acting_dni_vacancy_day": 45,
+            "cisa_clean_streak_days": 65,
+            "jmic_threat_level": "SUBSTANTIAL — downgraded from SEVERE post-MOU"
+          }
+        },
+        {
+          "headline": "Russia Fuel Crisis Day 5 (IEA 'Unprecedented'; 2/3 Entities Rationing; Source Under Investigation) — Colombia De La Espriella Certified Day 6 (49.66% vs 48.70%; Inauguration Aug 7 T-33); Peru Fujimori Declared Winner Day 4 (JNE Certification Active); Venezuela Earthquake Day 12 (1,719+ Dead; 46,600+ Missing)",
+          "summary": "Four secondary geopolitical threads entering July 5 evening. First: the Russia fuel crisis is at Day 5 of an IEA-designated 'unprecedented' internal supply disruption. Approximately two-thirds of Russian domestic fuel supply entities are in rationing mode. The IEA has not yet announced an emergency strategic petroleum reserve drawdown. The upstream cause (sanctions intensification cascade, infrastructure sabotage, production collapse) remains under active investigation. The Russia crisis coincides with the Hormuz compliance dispute, creating a simultaneous two-source energy supply shock to the global system that the June 19 MOU was intended to resolve. For US and European economies, Hormuz recovery and Russian supply contraction occurring simultaneously means net global crude supply relief is partial at best. Second: Colombia's Abelardo de la Espriella was formally certified as president-elect on June 29 (Day 6 as certified winner). He defeated Ivan Cepeda 49.66% to 48.70% in the June 21 runoff — the narrowest Colombian presidential margin in modern history — with 12.9 million votes, the most of any Colombian presidential candidate ever recorded. Inauguration August 7 (T-33 days). The de la Espriella win consolidates the Trump-endorsed Latin America right-pivot arc alongside Argentina's Milei. US-Colombia drug enforcement cooperation, Plan Colombia continuity, and Venezuela policy will shift materially at inauguration. Third: Peru's Keiko Fujimori was declared winner by the JNE (National Election Board) on July 2 (Day 4 as declared winner), overturning Roberto Sanchez's 50.10%-49.90% ONPE lead. Fujimori's declaration eliminates the Andean resource nationalism uncertainty premium weighing on copper and silver markets. JNE certification proceedings continue. Fourth: Venezuela earthquake Day 12 — 1,719+ confirmed dead and 46,600+ missing or displaced from the June 23-24 event. The Maduro government's restriction of US humanitarian agency access (USAID, FEMA) has created a gap in international response capacity. The disaster is the largest mass casualty event in Venezuelan history and will be a recurring regional policy thread as de la Espriella's Colombia government takes office August 7.",
+          "significance": "MODERATE",
+          "actors": ["IEA", "Abelardo de la Espriella", "Ivan Cepeda", "Donald Trump", "Keiko Fujimori", "Roberto Sanchez", "JNE Peru", "Nicolas Maduro", "USAID"],
+          "metrics": {
+            "russia_fuel_crisis_day": 5,
+            "russia_fuel_crisis_iea_designation": "UNPRECEDENTED",
+            "russia_entities_rationing_pct": "~2/3",
+            "russia_fuel_crisis_iea_spr_drawdown": false,
+            "russia_fuel_crisis_source": "UNDER INVESTIGATION",
+            "colombia_de_la_espriella_certified": true,
+            "colombia_certified_date": "2026-06-29",
+            "colombia_certified_day": 6,
+            "colombia_runoff_de_la_espriella_pct": 49.66,
+            "colombia_runoff_cepeda_pct": 48.70,
+            "colombia_de_la_espriella_votes": 12900000,
+            "colombia_most_voted_presidential_candidate_history": true,
+            "colombia_inauguration_date": "2026-08-07",
+            "colombia_inauguration_days_out": 33,
+            "peru_fujimori_declared_winner": true,
+            "peru_declaration_date": "2026-07-02",
+            "peru_declared_winner_day": 4,
+            "peru_jne_certification_active": true,
+            "peru_andean_resource_nationalism_premium": "ELIMINATED — copper/silver markets",
+            "venezuela_earthquake_day": 12,
+            "venezuela_earthquake_confirmed_dead": 1719,
+            "venezuela_earthquake_missing_displaced": 46600,
+            "venezuela_us_humanitarian_access": "RESTRICTED — Maduro blocking USAID/FEMA"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "June NFP 57K MISS (115K Consensus; Lowest 4-Month Gain; April-May Combined -74K Revision; Unemployment 4.2%; LFPR 61.5% 5-Year Low; Leisure/Hospitality -61K); Dow RECORD 52,900 (+595; Rate Cut Repricing); S&P 7,483; Nasdaq -0.8% Chip Stocks; FOMC Minutes July 8; SpaceX Nasdaq-100 TOMORROW July 6; WTI ~$69 (Day 9 Below $74; Pre-War Floor); Russia Fuel Crisis Day 5 (IEA 'Unprecedented'); OBBB Law Day 6 (CBO +$3.4T / 10 Years); Warsh Hold 3.50-3.75%; FERC AI Pathway T-13 (July 18); Recession Probability 35%.",
+      "items": [
+        {
+          "headline": "June Jobs 57K MISS (115K Consensus; Lowest in 4 Months; April-May Revised -74K Combined); Unemployment 4.2%; LFPR 61.5% (5-Year Low); Leisure/Hospitality -61K (World Cup Effect); Dow Record 52,900 (+595; Rate Cut Repricing); S&P 7,483; Nasdaq -0.8%; FOMC Minutes July 8; SpaceX Nasdaq-100 TOMORROW",
+          "summary": "The June 2026 employment situation (BLS, released July 2) is the defining economic data event of the July 5 session. Nonfarm payrolls rose by 57,000 — the weakest monthly gain in four months and a severe miss against the 115,000 Dow Jones consensus. The headline softness was amplified by downward revisions: April revised down 31,000 and May revised down 43,000, for a combined 74,000 reduction in the baseline. The sectoral breakdown reveals a World Cup distortion: leisure and hospitality shed 61,000 jobs — anomalously large, reflecting weaker-than-usual seasonal hiring and a FIFA World Cup hosting-cycle distortion that pulled forward hospitality hiring into May-June and sharpened the July drawdown. Professional and business services (+36K), social assistance (+25K), and health care (+22K) maintained steady trajectory. The unemployment rate fell to 4.2% — a counterintuitive improvement that masks the labor force participation decline to 61.5%, the lowest since March 2021. LFPR collapse means workers are leaving the labor force, not finding jobs. The equity market interpreted the data through a rate-cut lens: the Dow Jones Industrial Average jumped 594.83 points on July 1 (first session following the July 2 release) to a record close of 52,900.07, pricing accelerated Fed easing. The S&P 500 settled at 7,483.24. The Nasdaq fell 0.8% to 25,832.67 as chip stocks sold off — a divergence between rate-cut enthusiasm (Dow/S&P) and AI capex moderation concern (Nasdaq/chips). The FOMC minutes from the June 17 meeting release July 8 — the primary rate narrative event of the week. SpaceX joins the Nasdaq-100 on July 6 (tomorrow) — the highest-profile private-to-public-index inclusion in recent Nasdaq-100 history. The September 2026 FOMC cut is now a majority-probability market expectation. The bifurcation of equity signals (Dow record) and commodity signals (WTI at pre-war floor) is the analytically defining macro configuration of the July 5 session: financial assets pricing soft landing via Fed easing; energy markets pricing geopolitical fragility and deal uncertainty.",
+          "significance": "HIGH",
+          "actors": ["BLS", "Fed Chair Kevin Warsh", "FOMC", "CME FedWatch", "SpaceX", "Nasdaq-100"],
+          "metrics": {
+            "june_nfp": 57000,
+            "june_nfp_consensus": 115000,
+            "june_nfp_miss_magnitude": 58000,
+            "june_nfp_4_month_rank": "LOWEST",
+            "april_revision_down": 31000,
+            "may_revision_down": 43000,
+            "combined_revision_down": 74000,
+            "june_unemployment_rate_pct": 4.2,
+            "june_lfpr_pct": 61.5,
+            "june_lfpr_historical_note": "Lowest since March 2021",
+            "leisure_hospitality_june": -61000,
+            "professional_business_services_june": 36000,
+            "social_assistance_june": 25000,
+            "health_care_june": 22000,
+            "avg_hourly_earnings_change_usd": 0.13,
+            "avg_hourly_earnings_pct_change": 0.3,
+            "avg_hourly_earnings_per_hour": 37.64,
+            "dow_july1_close": 52900.07,
+            "dow_july1_change": 594.83,
+            "dow_july1_record": true,
+            "sp500_july1_close": 7483.24,
+            "nasdaq_july1_change_pct": -0.8,
+            "nasdaq_july1_close": 25832.67,
+            "fomc_june17_rate": "3.50-3.75% HOLD",
+            "fomc_minutes_release_date": "2026-07-08",
+            "warsh_sep_median_ye_fed_funds": "3.8%",
+            "september_cut_market_probability": "MAJORITY — active repricing",
+            "spacex_nasdaq100_addition_date": "2026-07-06",
+            "wti_july5_approx": "~$69",
+            "wti_days_below_74_floor": 9,
+            "gdp_q1_annualized_pct": 2.1,
+            "recession_probability_12mo": "35%"
+          }
+        },
+        {
+          "headline": "OBBB Law Day 6 (CBO +$3.4T / 10 Years; Medicaid Work Requirements + SNAP Restrictions Active; Energy Production Authorization Effective) — Russia Fuel Crisis Day 5 (IEA 'Unprecedented'; 2/3 Entities Rationing; Two-Source Energy Shock); FERC AI Pathway 30-Day Deadline T-13 (July 18); WTI ~$69 (Pre-War Floor Proximity)",
+          "summary": "Three secondary economic threads entering July 5 evening. First: the One Big Beautiful Bill Act entered full implementation at midnight July 1 (Law Day 6 today, effective Day 5). The 869-page, 10-title reconciliation legislation encompasses tax policy extensions, border security infrastructure, defense appropriations, energy production lease authorization, Medicaid work requirements (18 states), SNAP healthy food restrictions (18 states, 11 more pending), and DOGE-era spending reductions. The CBO's +$3.4 trillion 10-year deficit impact is the operative fiscal constraint that Treasury and Fed Chair Warsh are managing simultaneously — the 30-year Treasury yield remains near 5%, reflecting the term premium that the OBBB's deficit profile imposes on the long end. The OBBB's energy production authorization sections are the domestic complement to the Hormuz geopolitical resolution: US domestic production capacity expands at the same moment that Hormuz compliance uncertainty maintains elevated geopolitical risk premium. Second: Russia fuel crisis Day 5 (IEA 'unprecedented'). Approximately two-thirds of Russian domestic fuel supply entities are in rationing mode. This is a second simultaneous energy supply shock alongside the Hormuz compliance dispute — the two-shock energy environment complicates the Warsh Fed's expectation of a Hormuz-driven deflationary impulse in the September SEP. If Hormuz recovers supply while Russian production contracts, net global crude supply relief is partial. The WTI floor at ~$69 (nine sessions below $74) already reflects this dual uncertainty. Third: the FERC large load show cause 30-day AI pathway response deadline is T-13 (July 18). All six ISO/RTOs (PJM, MISO, SPP, ERCOT, NYISO, ISO-NE) must by July 18 explain to FERC how they will accommodate growing AI data center electricity demand. The responses will establish whether the interconnection queue backlog for AI infrastructure is cleared on an accelerated Section 206 track or faces extended regulatory delay. PNW exposure: BPA and WECC plan accordingly for the Quincy, The Dalles, and Eastern Oregon data center corridors.",
+          "significance": "MODERATE",
+          "actors": ["CBO", "Speaker Mike Johnson", "Kevin Warsh", "FERC", "PJM", "MISO", "SPP", "ERCOT", "NYISO", "ISO-NE", "IEA", "Treasury"],
+          "metrics": {
+            "obbb_signed_date": "2026-06-29",
+            "obbb_effective_date": "2026-07-01",
+            "obbb_law_day": 6,
+            "obbb_effective_day": 5,
+            "obbb_cbo_deficit_10yr_tn": 3.4,
+            "obbb_titles": 10,
+            "obbb_pages": 869,
+            "obbb_medicaid_work_requirements_states_active": 18,
+            "obbb_snap_restrictions_states_active": 18,
+            "obbb_snap_restrictions_states_pending": 11,
+            "treasury_30yr_approx": "~5.0%",
+            "russia_fuel_crisis_day": 5,
+            "russia_fuel_crisis_iea_designation": "UNPRECEDENTED",
+            "russia_entities_rationing_pct": "~2/3",
+            "two_source_energy_shock_active": true,
+            "ferc_ai_pathway_30day_deadline": "2026-07-18",
+            "ferc_ai_pathway_days_out": 13,
+            "ferc_justify_60day_deadline": "~2026-08-17",
+            "pnw_data_center_corridors": ["Quincy WA", "The Dalles OR", "Eastern Oregon"]
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CRITICAL: Tucannon Fire Day 8 (~25,000 Acres ZERO Containment; Garfield County WA; Record Fuel Dryness); Sourdough Fire + Incident 0341 NEW IGNITIONS (July 4 Activated; ICS-209 Pending July 6); NIFC Above-Normal Day 35; East Cascades Onset Day 8; Second PNW Heat Wave Day 2; ATMOSPHERIC RIVER TONIGHT-WEDNESDAY (NWS Flood Watch SW WA / NW OR; Post-Fire Terrain Landslide Risk); FERC AI Pathway T-13 (July 18); NSF Newport OR Dark Day 7 (Monitoring Gap: First Major Coastal Event); Longview CSB Day 41 (Elevated Risk ~T-6); BPA Grid Monitoring Active; WA Drought Day 31.",
+      "items": [
+        {
+          "headline": "CRITICAL: Tucannon Fire Day 8 (~25,000 Acres ZERO Containment; Garfield County WA; Record Fuel Dryness); Sourdough Fire + Incident 0341 NEW (July 4 Compound Risk Activated); NIFC Above-Normal Day 35; East Cascades Onset Day 8; Second PNW Heat Wave Day 2; Atmospheric River TONIGHT-WEDNESDAY (NWS Flood Watch SW WA / NW OR — Fire Suppression + Flood/Landslide Double Threat)",
+          "summary": "The July 5 infrastructure session opens at the highest simultaneous wildfire-weather stress load of the 2026 PNW fire season. Three concurrent fire threads and a rare compound weather sequence converge. Primary fire thread: the Tucannon Fire in Garfield County, southeastern Washington, is at Day 8 with approximately 25,000 acres and zero confirmed containment. Tucannon ignited during the east Cascades onset window (late June) on record-low fuel moisture — 4th consecutive drought year, June heat events, curing 10-14 days ahead of historical onset curves. Zero containment at Day 8 on a fire of this size signals that NIFC resources have not yet established control geometry on the primary spread vector. Garfield County's sparse population reduces WUI casualty risk versus the June Upriver Fire, but agricultural and rangeland exposure (dryland wheat operations) is substantial. Secondary fire threads: Sourdough Fire (July 4 ignition, Day 1) and Incident 0341 (July 4 ignition, Day 1) represent the July 4 compound risk activation — east Cascades fuel dryness plus holiday fireworks ignition sources — that the June 20+ briefs flagged as the highest-probability ignition window of the early season. ICS-209 acreage and containment data for both new fires are expected July 6. Compound weather: an atmospheric river arrives tonight (July 5) through Wednesday (July 8). NWS has issued a Flood Watch for all southwest Washington and northwest Oregon running from late tonight through late Friday. This creates a rare tactical double threat: the atmospheric river suppresses active fire spread behavior through Wednesday (fire management positive) while simultaneously generating flood and debris flow risk in recently burned terrain. The June 2026 fire cluster footprints (Upriver, Kartar, Peterson) have zero vegetation cover and altered hydrology — runoff in post-fire terrain can exceed pre-fire rates by 10-20x. A moderate precipitation event becomes disproportionately hazardous in these zones. The concurrent management of fire suppression, flood response, and post-fire debris flow — three NIFC/FEMA resource streams operating simultaneously across adjacent geographic zones — constitutes the most complex emergency management posture in the Pacific Northwest since the 2020 Labor Day fires. BPA is actively monitoring the heat wave-to-atmospheric-river load transition: peak cooling demand (heat wave Day 2) gives way to rapid demand reduction (atmospheric river), creating a fast demand swing in the drought-constrained hydropower system.",
+          "significance": "CRITICAL",
+          "actors": ["NIFC", "USFS Pacific Northwest Region", "BLM", "Washington DNR", "Washington EMD", "Garfield County Emergency Management", "NWS Seattle", "NWS Portland", "Governor Bob Ferguson", "BPA", "FEMA"],
+          "metrics": {
+            "tucannon_fire": {
+              "location": "Garfield County, southeastern Washington",
+              "day_since_ignition": 8,
+              "acres": "~25000",
+              "containment_pct": 0,
+              "fuel_moisture_status": "Record low — 4th drought year; 10-14 days ahead of historical onset",
+              "agricultural_exposure": "HIGH — Garfield County dryland wheat",
+              "wui_casualty_risk": "MODERATE — sparse population",
+              "control_line_established": false
+            },
+            "sourdough_fire": {
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 1,
+              "acres": "PENDING — ICS-209 July 6",
+              "containment_pct": "PENDING",
+              "status": "NEW IGNITION — July 4 compound risk"
+            },
+            "incident_0341": {
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 1,
+              "acres": "PENDING — ICS-209 July 6",
+              "containment_pct": "PENDING",
+              "status": "NEW IGNITION — July 4 compound risk"
+            },
+            "nifc_above_normal_day": 35,
+            "east_cascades_onset_day": 8,
+            "east_cascades_onset_date": "2026-06-28",
+            "second_pnw_heat_wave_day": 2,
+            "atmospheric_river_arrival": "Tonight July 5 — through Wednesday July 8",
+            "nws_flood_watch_area": "Southwest Washington + Northwest Oregon",
+            "nws_flood_watch_window": "Late July 5 night — late July 8 night",
+            "post_fire_terrain_landslide_risk": "ELEVATED — Upriver, Kartar, Peterson footprints; 10-20x runoff amplification",
+            "atmospheric_river_fire_impact": "POSITIVE — suppresses active spread",
+            "atmospheric_river_flood_impact": "NEGATIVE — compound risk post-fire terrain",
+            "bpa_grid_load_transition": "MONITORING — peak cooling to rapid demand reduction",
+            "concurrent_fire_threat_complexity": "HIGHEST OF 2026 ARC — 3 active threads + simultaneous flood response"
+          }
+        },
+        {
+          "headline": "FERC AI Pathway 30-Day Deadline T-13 (July 18); NSF Newport OR Dark Day 7 (First Major Coastal Weather Event In Monitoring Gap); Longview CSB Day 41 (Elevated Risk Window ~T-6 to Mid-July Heat); WA Drought Day 31 (4th Year); Oregon 83% Drought; El Nino 61% Super 25%; NIFC July Outlook Above Normal; PNW Climate Week T-8 (July 13-19)",
+          "summary": "Five secondary infrastructure threads entering July 5 evening. First: FERC's large load show cause 30-day AI pathway response deadline is T-13 (July 18). All six ISOs and RTOs must explain to FERC how they will accommodate growing AI data center electricity demand. The responses will establish whether the interconnection queue for AI infrastructure is reformed or preserved — the most consequential grid access ruling for the US AI buildout since the June 18 Section 206 orders. Second: NSF Newport, Oregon ocean observatory is at Dark Day 7 (removed approximately June 28). The atmospheric river arriving tonight is the first major coastal weather event in the monitoring gap period. NWS Portland's flood watch calibration for southwest Washington and northwest Oregon is operating without the Newport sensor anchor — a material capability reduction at a high-consequence weather moment. The Senate's unanimous reinstallation vote means the sensor returns, but the reinstallation timeline extends the gap. Third: Longview CSB is at Day 41. The acute vapor pressure risk window from the first June heat event is closed. The atmospheric river arriving tonight moderates temperatures through Wednesday. The next elevated risk window for the 90,000-gallon hazardous material storage tank is the mid-July heat event — approximately T-6 to T-13 from today (July 11-18). Fourth: Washington drought emergency Day 31 (4th consecutive year; 50% snowpack). Oregon 83% drought monitor coverage. El Nino probability 61% with super El Nino at 1-in-4. Below-normal precipitation projected July through October — the atmospheric river is a structural exception within a persistently dry seasonal envelope and will not erase the accumulated 4-year soil moisture deficit. NIFC's July 2026 outlook confirms above-normal fire potential for Northwest Washington and west-central Oregon through month end. Fifth: PNW Climate Week (July 13-19, Seattle, Vancouver, Portland) is T-8 days. The regional climate policy forum arrives as the 2026 fire season has escalated to its most complex multi-fire, multi-threat posture — the forum's atmospheric river, active fire complex, and 4th-year drought threads will have dramatically heightened real-world salience compared to any prior year.",
+          "significance": "MODERATE",
+          "actors": ["FERC", "PJM", "MISO", "SPP", "ERCOT", "NYISO", "ISO-NE", "BPA", "WECC", "NSF", "NWS Portland", "NWS Seattle", "CSB", "NIFC", "Governor Bob Ferguson"],
+          "metrics": {
+            "ferc_ai_pathway_30day_deadline": "2026-07-18",
+            "ferc_ai_pathway_days_out": 13,
+            "ferc_justify_60day_deadline": "~2026-08-17",
+            "nsf_newport_or_dark_day": 7,
+            "nsf_removal_date": "~2026-06-28",
+            "nsf_reinstallation_senate_vote": "UNANIMOUS — reinstallation timeline pending",
+            "nsf_monitoring_gap_impact": "NWS Portland flood watch calibration degraded; first major coastal event in gap",
+            "longview_csb_day": 41,
+            "longview_current_risk_window": "CLOSED — post-June-heat-event",
+            "longview_next_elevated_risk_window": "~July 11-18 (mid-July heat event; T-6 to T-13)",
+            "washington_drought_emergency_day": 31,
+            "washington_drought_consecutive_years": 4,
+            "washington_snowpack_vs_normal_pct": 50,
+            "oregon_drought_monitor_pct": 83,
+            "el_nino_probability_pct": 61,
+            "super_el_nino_probability_pct": 25,
+            "nifc_july_outlook": "ABOVE NORMAL — Northwest Washington + west-central Oregon",
+            "precipitation_outlook_july_october": "BELOW NORMAL",
+            "pnw_climate_week_start": "2026-07-13",
+            "pnw_climate_week_days_out": 8
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "OBBB Law Day 6 (Signed June 29; Effective July 1; Medicaid Work Requirements + SNAP Restrictions + Energy Production Active); SCOTUS Term CLOSED (Humphrey's Executor OVERTURNED 6-3; Birthright Upheld 6-3; Watson v. RNC Mail Ballot 5-4 All 50 States; Louisiana v. Callais VRA Raised); Acting DNI Day 45; Measles June 19 Cluster Window Day 3 (July 3-10; No Clusters; CIDRAP Slowing Day 29); Venezuela Earthquake Day 12; FEMA Hurricane Season Degraded; Three-Track Electoral Disruption (Watson + VRA + Mail-In EO) Active.",
+      "items": [
+        {
+          "headline": "OBBB Law Day 6 Effective — CBO +$3.4T / 10 Years; SCOTUS Term Closed: Humphrey's Executor OVERTURNED 6-3 (90-Year Independent Agency Precedent; FTC/NLRB/SEC/CFPB); Birthright Upheld 6-3 (Trump v. Barbara); Watson v. RNC 5-4 (Mail Ballot Grace Periods Eliminated All 50 States); Louisiana v. Callais VRA Section 2 Raised; Three-Track Electoral Disruption Active; Acting DNI Day 45",
+          "summary": "The July 5 domestic session is defined by two simultaneous institutional transformations — OBBB effective implementation and SCOTUS term closure — each with structural consequences that will take months to fully map. On the OBBB: the One Big Beautiful Bill Act entered full implementation at midnight July 1 (Law Day 6 today). The 10-title, 869-page reconciliation legislation is simultaneously activating across five executive departments. HHS: Medicaid work requirements effective immediately for 18 states; SNAP healthy food restrictions operational. DHS: border security infrastructure construction accelerated. DOD: defense appropriations effective. DOE: energy production lease authorization active. Treasury: tax policy extensions effective retroactively. The CBO's +$3.4 trillion 10-year deficit impact is the fiscal constraint that Treasury and Warsh are managing against a 30-year yield near 5%. The OBBB's energy production sections are the domestic complement to the Hormuz geopolitical resolution — US domestic energy production capacity expands as geopolitical energy supply risk persists. On SCOTUS: the term closed with four rulings that collectively restructure American administrative law, election law, and constitutional rights in the most consequential single-term output since 2022. Humphrey's Executor overturned 6-3: a 90-year precedent protecting FTC, NLRB, SEC, CFPB, and other independent agency commissioners from executive removal is gone. The president now has removal authority over independent agency leadership, making these agencies subject to direct executive control without for-cause protection. Trump v. Barbara 6-3: birthright citizenship upheld — the 14th Amendment guarantee confirmed; Trump's executive order barring citizenship for children of undocumented immigrants is blocked. Chief Justice Roberts authored. Watson v. RNC 5-4: mail ballot grace periods eliminated in all 50 states — election-eve and post-election mail counting windows that existed in most states are now unconstitutional. Louisiana v. Callais: VRA Section 2 threshold raised, making majority-minority district challenges harder to sustain. The combined electoral effect of Watson (mail ballot) + Louisiana v. Callais (VRA) + Trump's mail-in voting executive order creates a three-track structural Republican advantage for the 2026 midterm election architecture. Acting DNI at Day 45 is the governance vulnerability: the IC operates at active compliance load (Doha intelligence, SNSC monitoring, Lebanon verification, Iranian nuclear declaration review) without Senate-confirmed leadership.",
+          "significance": "HIGH",
+          "actors": ["President Trump", "Speaker Mike Johnson", "VP JD Vance", "CBO", "HHS", "DHS", "DOD", "DOE", "Treasury", "Chief Justice John Roberts", "SCOTUS", "FTC", "NLRB", "SEC", "CFPB", "Acting DNI"],
+          "metrics": {
+            "obbb_signed_date": "2026-06-29",
+            "obbb_effective_date": "2026-07-01",
+            "obbb_law_day": 6,
+            "obbb_cbo_deficit_10yr_tn": 3.4,
+            "obbb_medicaid_work_requirements_states": 18,
+            "obbb_snap_restrictions_states_active": 18,
+            "scotus_term_closed": true,
+            "scotus_humphreys_executor": {
+              "outcome": "OVERTURNED — presidential removal authority confirmed for independent agencies",
+              "vote": "6-3",
+              "precedent_age_years": 90,
+              "affected_agencies": ["FTC", "NLRB", "SEC", "CFPB", "other multi-member independent agencies"]
+            },
+            "scotus_trump_v_barbara": {
+              "outcome": "BIRTHRIGHT UPHELD — Trump EO blocked; 14th Amendment confirmed",
+              "vote": "6-3",
+              "author": "Chief Justice John Roberts"
+            },
+            "scotus_watson_v_rnc": {
+              "outcome": "RNC WIN — mail ballot grace periods eliminated all 50 states",
+              "vote": "5-4",
+              "electoral_impact": "Structural Republican advantage; 2026 midterm architecture altered"
+            },
+            "scotus_louisiana_v_callais": {
+              "outcome": "VRA Section 2 threshold raised",
+              "electoral_impact": "Majority-minority district challenges harder; combined with Watson = three-track electoral disruption"
+            },
+            "three_track_electoral_disruption": ["Watson v. RNC mail ballot ruling", "Louisiana v. Callais VRA raised", "Trump mail-in voting EO"],
+            "acting_dni_vacancy_day": 45,
+            "acting_dni_active_intelligence_workloads": ["Doha diplomatic intelligence", "SNSC monitoring", "Lebanon fragile hold verification", "Iranian nuclear declaration review"]
+          }
+        },
+        {
+          "headline": "Measles June 19 Cluster Window Day 3 (July 3-10; No Clusters Confirmed; CIDRAP Slowing Day 29) — Venezuela Earthquake Day 12 (1,719+ Dead; 46,600+ Missing); FEMA Hurricane Season Degraded; SNAP Restrictions 18 States Day 6; Echinococcus Multilocularis WA Coyotes Active Surveillance",
+          "summary": "Four secondary domestic threads entering July 5 evening. First: measles post-FIFA monitoring — the June 19 USA vs Australia Lumen Field match (Seattle) opened the cluster identification window July 3 (14-day incubation). Day 3 (July 5) has produced no confirmed clusters from the June 19 gathering. The clean streak through Day 3 is conditionally reassuring; the window runs through July 10, and the Day 7-10 sub-window (July 9-12) is historically when mass-event transmission chains emerge in community settings. CIDRAP's slowing signal is at Day 29 — the longest deceleration streak of the entire outbreak arc. National case count remains at 2,073 (CDC June 11 update; next update overdue, expected July 9 or 25). Georgetown University FIFA surveillance (wastewater DNA sequencing, ER data fusion) is the primary real-time early-warning mechanism. Second: Venezuela earthquake Day 12 — 1,719+ confirmed dead and 46,600+ missing or displaced. Venezuela's collapsed health infrastructure and Maduro government restrictions on US humanitarian agency access create a gap in international response. The disaster is the largest mass casualty event in Venezuelan history. Third: FEMA hurricane season continues in degraded posture — reduced staffing (DOGE-era reductions), reduced pre-positioned supplies, director vacancy. No major Atlantic hurricane events in the July 1-5 window, but the degraded posture reduces early-season response capacity at a structurally vulnerable moment. The Pacific Northwest is not in a primary hurricane exposure zone but FEMA resource competition with an Atlantic event would stress simultaneous wildfire-flood response capacity. Fourth: OBBB SNAP restrictions (18 states, Law Day 6) are operational — HHS waivers prohibiting SNAP purchases of sodas and categorically unhealthy foods are the largest SNAP/Medicaid eligibility restructuring since the 1996 welfare reform, activating simultaneously with Medicaid work requirements.",
+          "significance": "MODERATE",
+          "actors": ["CDC", "CIDRAP", "Georgetown University", "King County Public Health", "Snohomish County Health District", "FEMA", "USAID", "HHS", "Nicolas Maduro", "NHC", "WA DOH"],
+          "metrics": {
+            "measles_national_case_count": 2073,
+            "measles_cdc_update_overdue": true,
+            "measles_june19_cluster_window_day": 3,
+            "measles_june19_window_dates": "July 3-10, 2026",
+            "measles_june19_new_clusters": false,
+            "measles_high_consequence_subwindow": "July 9-12 (Day 7-10)",
+            "measles_cidrap_slowing_signal_day": 29,
+            "measles_cidrap_assessment": "Longest deceleration streak of 2026 arc",
+            "measles_georgetown_surveillance": "ACTIVE",
+            "venezuela_earthquake_day": 12,
+            "venezuela_earthquake_confirmed_dead": 1719,
+            "venezuela_earthquake_missing_displaced": 46600,
+            "venezuela_us_access": "RESTRICTED",
+            "fema_hurricane_posture": "DEGRADED — staffing + supply + director vacancy",
+            "obbb_snap_restrictions_law_day": 6,
+            "obbb_snap_states_active": 18,
+            "obbb_snap_states_pending": 11,
+            "echinococcus_multilocularis_wa_surveillance": "ACTIVE — coyote population monitoring ongoing"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "CRITICAL: Tucannon Fire Day 8 (~25,000 Acres ZERO Containment; Garfield County WA); Sourdough Fire + Incident 0341 NEW (July 4 Activated; ICS-209 July 6); NIFC Above-Normal Day 35; East Cascades Onset Day 8; Second PNW Heat Wave Day 2; ATMOSPHERIC RIVER TONIGHT-WEDNESDAY (NWS Flood Watch SW WA / NW OR; Post-Fire Terrain Double Threat); WA Drought Day 31 (4th Year); Oregon 83% Drought; El Nino 61% Super 25%; NSF Newport OR Dark Day 7 (First Coastal Weather Event In Gap); Longview CSB Day 41 (Elevated Risk ~T-6); Measles June 19 Cluster Window Day 3; PNW Climate Week T-8 (July 13-19); Peru Fujimori Andean Resource Premium Eliminated.",
+      "items": [
+        {
+          "headline": "CRITICAL: Tucannon Fire Day 8 (~25,000 Acres ZERO Containment; Garfield County WA; Record Fuel Dryness); Sourdough Fire + Incident 0341 NEW (July 4 Compound Risk); East Cascades Onset Day 8; Second PNW Heat Wave Day 2; Atmospheric River TONIGHT-WEDNESDAY (NWS Flood Watch SW WA / NW OR — Fire Suppression Relief + Post-Fire Terrain Flood/Landslide Double Threat); NIFC Above-Normal Day 35",
+          "summary": "The July 5 PNW session carries the highest simultaneous wildfire-weather stress load since the opening of the 2026 fire season. Tucannon Fire (Day 8; ~25,000 acres; zero containment; Garfield County) is the dominant fire event. At Day 8, zero containment on a fire of this size in a 4th-drought-year fuel environment signals that NIFC Pacific Northwest resources have not achieved control geometry on the primary spread vector. The agricultural and rangeland exposure in Garfield County (dryland wheat operations) is substantial. The zero containment figure entering the atmospheric river window means any break in suppression conditions before precipitation arrives allows continued perimeter growth. The July 4 compound risk window delivered two new ignitions: Sourdough Fire and Incident 0341, both Day 1, both pending ICS-209 acreage reporting July 6. The east Cascades onset window has been confirmed active since June 28 (Day 8 today) — this is precisely the fuel-and-ignition convergence that NIFC's above-normal outlook designated as the primary PNW catastrophic fire risk window. The arriving atmospheric river creates the season's most operationally complex emergency management posture: fire suppression resources on Tucannon and the new ignitions will benefit from humidity recovery and precipitation through Wednesday, but the same system simultaneously generates flood watch conditions (NWS: late tonight through late Friday) in southwest Washington and northwest Oregon, particularly in the June 2026 fire footprints (Upriver, Kartar, Peterson) where post-fire terrain hydrology produces 10-20x runoff amplification relative to pre-fire baseline. A moderate precipitation event in these zones generates disproportionate debris flow and flash flood risk. FEMA and NIFC are managing simultaneous fire suppression and potential flood/debris flow response across adjacent geographic zones — the most complex co-response posture of the 2026 arc. BPA grid is actively monitoring the heat-wave-to-atmospheric-river load transition, a fast demand swing in a drought-constrained hydropower system.",
+          "significance": "CRITICAL",
+          "actors": ["NIFC", "USFS Pacific Northwest Region", "BLM", "Washington DNR", "Washington EMD", "Garfield County Emergency Management", "NWS Seattle", "NWS Portland", "Governor Bob Ferguson", "BPA", "FEMA", "Columbia County Emergency Management"],
+          "metrics": {
+            "tucannon_fire": {
+              "location": "Garfield County, southeastern Washington",
+              "day_since_ignition": 8,
+              "acres": "~25000",
+              "containment_pct": 0,
+              "fuel_moisture": "Record low — 4th drought year; 10-14 days ahead of historical onset",
+              "agricultural_exposure": "HIGH — dryland wheat, rangeland",
+              "wui_casualty_risk": "MODERATE — Garfield County sparse population"
+            },
+            "sourdough_fire": {
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 1,
+              "acres": "PENDING ICS-209 July 6",
+              "containment_pct": "PENDING"
+            },
+            "incident_0341": {
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 1,
+              "acres": "PENDING ICS-209 July 6",
+              "containment_pct": "PENDING"
+            },
+            "nifc_above_normal_day": 35,
+            "east_cascades_onset_day": 8,
+            "east_cascades_onset_date": "2026-06-28",
+            "second_pnw_heat_wave_day": 2,
+            "atmospheric_river_arrival": "Tonight July 5 — through Wednesday July 8",
+            "nws_flood_watch": {
+              "area": "SW Washington + NW Oregon",
+              "window": "Late July 5 night — late July 8 night",
+              "post_fire_terrain_runoff_amplification": "10-20x — Upriver, Kartar, Peterson footprints"
+            },
+            "compound_fire_flood_threat": true,
+            "nifc_concurrent_pnw_complexity": "HIGHEST OF 2026 ARC",
+            "bpa_grid_monitoring": "ACTIVE — heat-to-atmospheric-river load transition",
+            "bpa_drought_hydropower_constraint": "ACTIVE — 4th consecutive drought year"
+          }
+        },
+        {
+          "headline": "WA Drought Day 31 (4th Year; 50% Snowpack); Oregon 83% Drought; El Nino 61% Super 25%; NIFC July Outlook Above Normal; NSF Newport OR Dark Day 7 (First Major Coastal Event In Gap); Longview CSB Day 41 (Elevated Risk Window ~T-6); Measles June 19 Cluster Window Day 3 (No Clusters; July 3-10); PNW Climate Week T-8 (July 13-19); Peru Fujimori Andean Resource Premium Eliminated",
+          "summary": "Six secondary PNW environmental and local threads entering July 5 evening. First: Washington drought emergency Day 31 (4th consecutive year; 50% snowpack; 12-county emergency declaration). Oregon 83% drought monitor coverage. El Nino probability 61% with super El Nino at 1-in-4 (elevated from earlier-season baseline). NIFC's July 2026 outlook confirms above-normal fire potential for Northwest Washington and west-central Oregon through month end. Below-normal precipitation projected July through October. The atmospheric river arriving tonight is a structural exception in a persistently dry seasonal envelope — it will not erase the accumulated 4-year soil moisture deficit. Second: NSF Newport, Oregon ocean observatory is at Dark Day 7 (removed approximately June 28). The atmospheric river arriving tonight is the first major coastal weather event in the monitoring gap period. NWS Portland's flood watch calibration is operating without the Newport sensor anchor — a material capability reduction at a high-consequence weather moment. Senate unanimous reinstallation vote authorizes the sensor's return; the reinstallation timeline extends the monitoring gap. Third: Longview CSB Day 41. Acute vapor pressure risk window is closed. Atmospheric river moderates temperatures through Wednesday. Next elevated risk window for the 90,000-gallon storage tank is the mid-July heat event: approximately T-6 to T-13 from today (July 11-18). Fourth: measles June 19 cluster window Day 3 (July 3-10; no clusters confirmed). CIDRAP slowing Day 29 — longest deceleration streak of arc. The high-consequence sub-window (Day 7-10; July 9-12) is the operative monitoring focus. Georgetown platform active. Fifth: PNW Climate Week (July 13-19) is T-8 days. The regional climate policy and resilience forum arrives as the 2026 fire season has escalated to its most complex multi-fire, atmospheric-river-compound posture — the forum's real-world relevance is historically elevated. Sixth: Peru's Keiko Fujimori declared winner (July 2) eliminates the Andean resource nationalism uncertainty premium that weighed on copper and silver markets — a minor positive for PNW mining-sector supply chain exposure (Trail smelter, PacifiCorp feedstock). Echinococcus multilocularis (alveolar echinococcosis tapeworm) continues active zoonotic surveillance in Washington coyote populations. Oregon and Washington gray whale washup counts remain above annual pace.",
+          "significance": "MODERATE",
+          "actors": ["NIFC", "NWS Seattle", "NWS Portland", "Washington DOE", "Oregon Governor Tina Kotek", "Governor Bob Ferguson", "BPA", "NOAA", "NSF", "CSB", "WDFW", "Georgetown University", "WA DOH"],
+          "metrics": {
+            "washington_drought_emergency_day": 31,
+            "washington_drought_consecutive_years": 4,
+            "washington_snowpack_vs_normal_pct": 50,
+            "oregon_drought_monitor_pct": 83,
+            "el_nino_probability_pct": 61,
+            "super_el_nino_probability_pct": 25,
+            "nifc_july_outlook": "ABOVE NORMAL — NW Washington + west-central Oregon",
+            "precipitation_outlook_july_october": "BELOW NORMAL",
+            "nsf_newport_or_dark_day": 7,
+            "nsf_first_major_coastal_event_in_gap": true,
+            "nsf_reinstallation_authorized": "SENATE UNANIMOUS — reinstallation timeline pending",
+            "longview_csb_day": 41,
+            "longview_next_elevated_risk_window": "~July 11-18 (T-6 to T-13)",
+            "measles_june19_cluster_window_day": 3,
+            "measles_june19_window_dates": "July 3-10",
+            "measles_june19_new_clusters": false,
+            "measles_cidrap_slowing_day": 29,
+            "measles_high_consequence_subwindow": "July 9-12",
+            "pnw_climate_week_start": "2026-07-13",
+            "pnw_climate_week_days_out": 8,
+            "peru_fujimori_pnw_supply_chain_impact": "MINOR POSITIVE — Andean resource nationalism premium eliminated",
+            "echinococcus_multilocularis_surveillance": "ACTIVE — WA coyote population",
+            "gray_whale_washups_pace": "ABOVE ANNUAL PACE — OR and WA"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "July 5, 2026 evening closes at Vibe 4 — maintained for the sixteenth consecutive session since June 27. The session's defining architecture is a stability paradox: every major tracked arc has nominally resolved (OBBB signed, Hormuz MOU in force, Colombia and Peru elections certified, SCOTUS term closed) while the operational layer beneath each resolution remains under sustained, multi-vector stress. On Hormuz: the SNSC has not confirmed MOU compliance in 17 consecutive days. The Doha 'positive progress' (July 3) is the primary de-escalation signal but is not an SNSC declaration. WTI at $69 — nine sessions below the $74 normalization floor — is the commodity market's standing verdict: the deal is legally intact and operationally contested simultaneously. The June 28 Iranian ballistic missile and drone strikes on US bases in Kuwait and Bahrain, and the preceding US strikes on five Iranian coastal sites, represent the most direct US-Iran military exchange of the post-MOU period. Doha is the framework for managing that exchange. On domestic policy: the OBBB (Law Day 6) and SCOTUS term closure (Humphrey's Executor overturned; Watson mail ballot; VRA raised; birthright upheld) have permanently restructured four major governance domains in a single July 4 week. The SCOTUS rulings create the most consequential electoral architecture shift since Citizens United, operating simultaneously with the OBBB's fiscal and social program restructuring. On the PNW fire front: three concurrent active fire threads (Tucannon Day 8 at 25,000 acres zero containment; Sourdough Day 1; Incident 0341 Day 1) and a compound weather sequence (heat wave Day 2 transitioning tonight to atmospheric river flood watch) constitute the most operationally complex emergency management posture of the 2026 season. The June jobs miss (57K vs. 115K) and Dow record (52,900) are the session's macro paradox — equities pricing Fed easing via soft landing while oil markets price geopolitical fragility and deal uncertainty. Three primary watch items for the July 6-8 window: first, SNSC compliance declaration — does the Doha 'positive progress' translate into formal Iranian MOU compliance ratification this week, or does the SNSC hold re-closure operative into Day 18+? Any SNSC compliance confirmation is the single largest potential Vibe upgrade signal of the post-MOU arc; second, Tucannon Fire Day 9 ICS-209 + new fire reports (Sourdough, Incident 0341) — the atmospheric river suppression opportunity is a narrow operational window; whether containment is achieved before precipitation arrives determines the trajectory of the 2026 east Cascades fire season; third, FOMC minutes July 8 — does the June 17 deliberation record reveal Fed sensitivity to labor softening and Hormuz deflationary impulse in a way that confirms September cut probability, or does the Warsh-hawkish framework hold against the jobs miss?",
+  "watch_items": [
+    "SNSC compliance declaration — Doha 'positive progress' working groups must convert to formal SNSC MOU compliance ratification; Day 18+ without declaration enters historically unprecedented non-ratification territory; Iran retraction of corridor control assertion required for Lloyd's normalization gate to open; 118 tankers remain stranded pending gate opening; any SNSC compliance confirmation = single largest Vibe upgrade of the post-MOU arc",
+    "Tucannon Fire Day 9 ICS-209 (July 6) — the first containment figure at ~25,000 acres will establish whether NIFC resources have achieved control geometry; zero containment through Day 9+ signals escalating resource allocation pressure from the full NIFC Pacific Northwest fleet; the atmospheric river suppression window (tonight through Wednesday) is the operative tactical opportunity",
+    "Sourdough Fire + Incident 0341 ICS-209 reports (July 6) — Day 1 acreage and containment for both July 4 ignitions; critical question is whether heat wave residual drove 500+ acre ignitions before the atmospheric river arrives or whether initial attack was successful",
+    "FOMC minutes July 8 — the June 17 meeting record reveals whether Warsh and the board recognized the labor market deceleration visible in May revisions; a minutes record showing softening awareness = September cut firmly above 60% market probability; a purely hawkish record = yield steepening and equity repricing",
+    "Atmospheric river flood/landslide watch July 5 night — July 8 — post-fire terrain in Upriver, Kartar, and Peterson burn footprints (June 2026) has altered hydrology amplifying runoff 10-20x; any debris flow or flash flood in a post-fire zone would be the first compound fire-flood event of the 2026 season and triggers simultaneous NIFC/FEMA incident management",
+    "Russia fuel crisis Day 6+ resolution trajectory — IEA 'unprecedented' designation; 2/3 entities rationing; source (sanctions cascade, sabotage, production failure) under investigation; the escalation pathway (IEA SPR drawdown, international spillover, European supply tightening) is the second energy supply thread alongside Hormuz; two-shock environment complicates Warsh Fed September SEP deflationary impulse narrative",
+    "Measles June 19 cluster window Day 4-10 (July 6-10) — the high-consequence sub-window (Day 7-10 = July 9-12) is when community and school transmission chains from the June 19 Lumen Field match would appear; Georgetown surveillance platform is primary early-warning mechanism; CIDRAP slowing Day 29 is the longest deceleration of the arc but the window runs through July 10",
+    "SpaceX Nasdaq-100 inclusion (July 6 — tomorrow) — highest-profile private-to-public-index inclusion in recent Nasdaq-100 history; opening session performance relative to the index will be the primary market signal for private AI and space infrastructure valuation; watch for correlation or divergence with chip stock recovery (Nasdaq -0.8% July 1)",
+    "FERC AI pathway 30-day deadline T-13 (July 18) — any FERC interim order or ruling before July 18 would be an early signal of the commission's direction on ISO/RTO AI data center interconnection reform; PNW data center corridor (Quincy, The Dalles, Eastern Oregon) is the local exposure",
+    "Venezuela earthquake Day 13+ humanitarian trajectory — 1,719+ dead, 46,600+ missing; any change in Maduro's restriction of US humanitarian access, or diplomatic pressure from the incoming de la Espriella Colombia government (inaugurating August 7), would be a secondary geopolitical signal tracking toward the August 7 Latin American political transition window"
+  ],
+  "sources": [
+    {"title": "2026 Strait of Hormuz crisis — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"},
+    {"title": "U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking — NPR", "url": "https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz"},
+    {"title": "Shipping companies will decide when Hormuz is truly open — not the US or Iran — Fortune", "url": "https://fortune.com/2026/06/20/shipping-companies-insurance-strait-of-hormuz-traffic-us-iran-deal/"},
+    {"title": "June 2026 Jobs Report: Nonfarm Payrolls Rise by 57,000 — IndexBox", "url": "https://www.indexbox.io/blog/us-job-growth-slows-more-than-expected-in-june-2026/"},
+    {"title": "June jobs report shows just 57,000 payrolls, well below expectations — Yahoo Finance", "url": "https://finance.yahoo.com/economy/articles/u-jobs-report-june-2026-123456841.html"},
+    {"title": "Employment Situation Summary — June 2026 — BLS", "url": "https://www.bls.gov/news.release/empsit.nr0.htm"},
+    {"title": "Dow jumps nearly 600 points to record close; Nasdaq slides as chip stocks suffer — CNBC", "url": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html"},
+    {"title": "One Big Beautiful Bill Act — Wikipedia", "url": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+    {"title": "Trump Signs One Big Beautiful Reconciliation Bill into Law — Federal Budget IQ", "url": "https://federalbudgetiq.com/insights/trumps-signs-one-big-beautiful-reconciliation-bill-into-law/"},
+    {"title": "Supreme Court upholds birthright citizenship — NPR", "url": "https://www.npr.org/2026/06/30/nx-s1-5839358/birthright-citizenship-decision-scotus-trump"},
+    {"title": "Trump v. Barbara — Wikipedia", "url": "https://en.wikipedia.org/wiki/Trump_v._Barbara"},
+    {"title": "From birthright citizenship to trans rights: SCOTUS rulings shaping American life — WBUR", "url": "https://www.wbur.org/onpoint/2026/07/01/birthright-citizenship-trans-rights-scotus-rulings"},
+    {"title": "De La Espriella Wins Colombia Election by Narrow Margin — Americas Quarterly", "url": "https://americasquarterly.org/article/reaction-de-la-espriella-wins-colombias-election-by-narrow-margin/"},
+    {"title": "Far-right de la Espriella elected Colombia president: What's next? — Al Jazeera", "url": "https://www.aljazeera.com/news/2026/6/22/far-right-de-la-espriella-elected-colombia-president-whats-next"},
+    {"title": "More rain on the way, increasing flooding, landslide risk in Pacific Northwest — KATU", "url": "https://katu.com/news/local/atmospheric-river-rain-flooding-landslide-debris-flows-risk-pacific-northwest-oregon-washington-national-weather-service-flood-watch"},
+    {"title": "Next round of record-challenging heat on the way for Pacific Northwest — AccuWeather", "url": "https://www.accuweather.com/en/weather-news/next-round-of-record-challenging-heat-on-the-way-for-pacific-northwest/1903618"},
+    {"title": "NIFC Predictive Services Outlooks — NIFC", "url": "https://www.nifc.gov/nicc/predictive-services/outlooks"},
+    {"title": "Active wildfires, air quality tracker for Washington, Oregon — Seattle Times", "url": "https://www.seattletimes.com/seattle-news/data/wildfire-tracker/"},
+    {"title": "US markets in July: Key data, Fed signals and risks to watch — Go Markets", "url": "https://www.gomarkets.com/en/articles/us-market-drivers-july-2026"},
+    {"title": "POWER Digest July 2026 — Power Magazine", "url": "https://www.powermag.com/power-digest-july-2026/"}
+  ]
+}
