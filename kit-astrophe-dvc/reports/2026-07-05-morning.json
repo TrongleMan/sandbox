@@ -1,0 +1,365 @@
+{
+  "report_id": "2026-07-05-morning",
+  "generated_at": "2026-07-05T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Tucannon Fire Day 8 — 25K+ Acres 0% Containment (CRITICAL, State Mobilization Active); Sourdough + Incident 0341 July 4 New Ignitions; Russia Fuel Crisis Day 5 — Ukraine Drones 25-33% Russian Refining Offline, IEA Unprecedented, India Offer; Heat Wave Day 5 — PNW Grid Stress; SNSC Compliance Day 17 (Nuclear 60-Day Clock Day 16); OBBB Law Day 6 (Signed June 30) — $1.4T Cuts Enacted; June Jobs 57K Miss; WTI $67-68; Oregon Gas $4.68 / National $3.85; Measles 2,170 (CDC July 2) — Both Lumen Field Windows Closed Without Cluster, CIDRAP Slowing Day 29; NSF Newport OR Removal Complete — Cascadia Gap Active; Atmospheric River Forecast Tonight-Wednesday Flood Watch SW WA / NW OR. Sunday, July 5, 2026. Independence Day weekend. The operative wildfire story for this morning is the Tucannon Fire in Columbia County, eastern Washington — Day 8, 25,000+ acres, and 0% containment as of the July 4 overnight period. State mobilization is active and additional resources are en route. The Tucannon Fire is the largest active zero-containment fire in the current PNW wave and lands on Independence Day weekend with maximum recreational-vehicle ignition risk and reduced agency staffing. Two new ignitions occurred on July 4: the Sourdough Fire and Incident 0341. Heat wave is at Day 5 (onset approximately July 1). The atmospheric river forecast calls for precipitation tonight through Wednesday for SW Washington and NW Oregon — the first meaningful moisture event of the summer period, offering potential suppression support but with flash flood risk in burned areas. Russia Fuel Crisis enters Day 5: Ukrainian drone strikes have disabled 25-33% of Russian oil refining capacity, with 56+ regions under fuel restrictions, Moscow queue events reported, and the IEA calling the supply disruption 'unprecedented.' India has offered to supply Russia with fuel — a signal of the crisis severity. The July 2 Kstovo Lukoil refinery fire is the most recent acute escalation. One Big Beautiful Bill (OBBB) is Law Day 6 — signed June 30 — with $1.4 trillion in mandatory cuts (Medicaid, SNAP, student loans) and TCJA extension enacted. Implementation workstreams are active. June Jobs report: 57K (miss vs expectations), released July 2 ahead of the holiday; Dow is at record territory (~52,900) despite the weak print. Iran nuclear SNSC compliance tracking enters Day 17 with the holiday pause lifting; nuclear 60-day clock is Day 16. WTI $67-68, Oregon gas $4.68 (from $5.35 peak), national $3.85 (from $4.564 peak). Measles 2,170 (CDC July 2) — both Lumen Field incubation windows closed without confirmed clusters, CIDRAP slowing signal Day 29.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — the dominant signal entering July 5 morning is a compound wildfire-heat-ignition crisis in the Pacific Northwest: Tucannon Fire at 25K+ acres and 0% containment is the operative critical thread, layered on a heat wave Day 5 with two new July 4 holiday ignitions (Sourdough, Incident 0341). The Russia Fuel Crisis at Day 5 is a significant new geopolitical-energy stressor — 25-33% of Russian refining offline due to Ukrainian drone strikes is material and the IEA calling it 'unprecedented' elevates its global market significance. The June Jobs 57K miss adds a domestic economic weakness signal to an already stressed picture, though Dow records (~52,900) suggest equity markets are looking through it. Constructive stabilizers: OBBB enacted (legislative uncertainty resolved); WTI at $67-68 well below FOMC stress scenario; Iran nuclear talks 'going well' at Day 16; both Lumen Field measles windows closed without cluster confirmation; atmospheric river forecast provides near-term suppression support for PNW fires. Upside to 5: Tucannon Fire achieves first containment line overnight; atmospheric river precipitation confirms suppression window; Russia crisis stabilizes. Downside to 3: Tucannon Fire makes major run (heat wave Day 5 + new ignitions); Russia Fuel Crisis contagion hits European energy markets; SNSC nuclear dispute materializes into compliance breakdown."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Russia Fuel Crisis Day 5 — Ukraine Drone Strikes 25-33% Russian Refining Offline (IEA Unprecedented), 56+ Regions Fuel Restrictions, Moscow Queues, India Supply Offer; Kstovo Lukoil Fire July 2; Iran SNSC Compliance Day 17 — Holiday Pause Lifting; Nuclear 60-Day Clock Day 16 — Trump 'Moving Along Well,' IAEA Access Denied Natanz/Isfahan/Fordow; Hormuz Normalization Continuing — WTI $67-68, UAE 3.9 MB/D; CISA Day 65 Clean.",
+      "items": [
+        {
+          "headline": "Russia Fuel Crisis Day 5 — Ukraine Drones Disable 25-33% Russian Refining Capacity; IEA Calls Disruption 'Unprecedented'; 56+ Regions Fuel Restrictions; Moscow Queues; India Offers Supply; Kstovo Lukoil Fire July 2",
+          "summary": "The Russia Fuel Crisis enters Day 5 as Ukrainian drone strikes have now disabled approximately 25-33% of Russia's total oil refining capacity. Russian crude processing fell to approximately 3.95 million barrels per day in June — roughly 25% below the prior year — while gasoline production dropped to approximately 850,000 barrels per day from more than 1 million barrels per year earlier. The visible domestic impact is severe: long queues at petrol stations are now a common sight across Russia including Moscow, at least 56 Russian regions have introduced fuel restrictions, and Russian-installed authorities in Crimea imposed a ban on public fuel sales with only emergency and military vehicles permitted to fill up. The Kremlin is taking the extraordinary step of looking outside the country for supply — Indian Minister of Petroleum Hardeep Singh Puri stated India was ready to support Russia with oil and gas supply. The most recent acute escalation: on July 2, Ukrainian drones attacked the Kstovsky Lukoil refinery (Nizhegorodnefteorgsintez), sparking a major fire at the AVT-6 primary oil refinery unit. Putin acknowledged the shortage publicly (June 29 CNBC reporting). The IEA has characterized the refining supply disruption as 'unprecedented.' This crisis is unfolding simultaneously with the post-Hormuz oil market normalization — the two supply-side events interact: Russia's refining crisis tightens global refined product supply (gasoline, diesel) even as Hormuz crude normalization is easing crude prices. Net effect: divergence between crude oil trajectory ($67-68, declining) and refined product pricing (upward pressure from Russian refinery losses).",
+          "significance": "HIGH",
+          "actors": ["Ukraine", "Russia Kremlin", "Putin", "IEA", "Lukoil", "Indian Ministry of Petroleum", "Hardeep Singh Puri", "OPEC+"],
+          "metrics": {
+            "russia_fuel_crisis_day": 5,
+            "russia_refining_capacity_offline_pct_range": "25-33%",
+            "russia_crude_processing_june_mb_per_day": 3.95,
+            "russia_crude_processing_yoy_decline_pct": 25,
+            "russia_gasoline_production_mb_per_day": 850000,
+            "russia_gasoline_production_yoy_decline": "~15% from 1M+ bpd",
+            "russia_regions_fuel_restrictions": "56+",
+            "moscow_queue_events": true,
+            "crimea_fuel_sale_ban": "Public sales banned — emergency and military only",
+            "kstovo_lukoil_fire_date": "2026-07-02",
+            "kstovo_refinery_unit_damaged": "AVT-6 primary oil refinery unit",
+            "india_supply_offer": true,
+            "india_supply_offer_source": "Hardeep Singh Puri",
+            "iea_assessment": "UNPRECEDENTED",
+            "putin_shortage_acknowledgment_date": "2026-06-29",
+            "market_interaction_assessment": "Crude prices declining (Hormuz normalization); refined product prices under upward pressure (Russian refinery losses) — divergence"
+          }
+        },
+        {
+          "headline": "Iran SNSC Compliance Day 17 — Holiday Pause Lifting; Nuclear 60-Day Clock Day 16; Trump 'Moving Along Well'; IAEA Access to Bombed Sites Still Denied; Hormuz Commercial Flows Continuing; CISA Day 65 Clean",
+          "summary": "The Iran nuclear Special Nuclear Supervisory Committee (SNSC) compliance tracking enters Day 17 with the July 4 holiday pause lifting. Nuclear 60-day clock is at Day 16 (signed June 19; closes approximately August 17). US tone remains constructive: Trump characterized denuclearization as 'moving along well' following Doha mediator meetings, with Vance characterizing discussions as 'going well' and envoys Witkoff and Kushner meeting Qatari Emir Sheikh Tamim bin Hamad Al Thani. Structural friction continues: IAEA has not been granted access to Natanz, Isfahan, and Fordow bombed enrichment sites — no inspection since February 28, 2026. Iran holds an estimated 440kg of uranium enriched to 60% (below 90% weapons-grade). US and Iranian leadership continue contradicting each other in public about MOU meaning, signaling persistent interpretive gaps at the principal level. Hormuz commercial normalization continues: UAE exports restored to 3.9+ million barrels per day, Saudi Arabia ramping Asia exports, total Hormuz daily flows above 10 million barrels. WTI at $67-68, well below pre-deal range. CISA at Day 65 clean; Shamkhani cyber window Day 42 in retaliation-opportunism profile — no confirmed incident.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "JD Vance", "Steve Witkoff", "Jared Kushner", "Abbas Araghchi", "Khamenei", "IAEA", "Qatari Emir", "CISA", "Acting DNI"],
+          "metrics": {
+            "snsc_compliance_day": 17,
+            "snsc_holiday_pause_status": "LIFTING — July 5 morning",
+            "mou_signed_date": "2026-06-19",
+            "nuclear_60day_clock_day": 16,
+            "nuclear_60day_clock_closes": "~2026-08-17",
+            "iaea_access_bombed_sites": "DENIED — Natanz, Isfahan, Fordow; no inspection since 2026-02-28",
+            "iran_heu_kg": 440,
+            "iran_heu_enrichment_pct": 60,
+            "us_iran_public_contradiction": true,
+            "hormuz_uae_exports_mb_per_day": 3.9,
+            "hormuz_total_daily_flows_mb": "10+",
+            "wti_estimate": "~$67-68",
+            "cisa_clean_streak_days": 65,
+            "shamkhani_cyber_window_day": 42,
+            "acting_dni_vacancy_day": 45
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "OBBB Law Day 6 (Signed June 30) — $1.4T Mandatory Cuts (Medicaid, SNAP, Student Loans), TCJA Extended, CBO +$3.4T Deficit vs Current Law; June Jobs 57K Miss (Released July 2); Dow Record ~52,900; WTI $67-68 — Far Below FOMC Dot-Plot Assumption; Oregon Gas $4.68 / National $3.85 — Consumer Relief Materializing; Markets Closed July 4; Monday July 7 First Session with Russia Crisis + OBBB + Jobs Miss Context; Russia Refined-Product Supply Pressure Diverging from Crude Decline.",
+      "items": [
+        {
+          "headline": "OBBB Law Day 6 (Signed June 30) — $1.4T in Mandatory Cuts Enacted; June Jobs 57K Miss (Released July 2); Dow Record ~52,900; Monday July 7 First Full Session with Full Picture",
+          "summary": "The One Big Beautiful Bill (OBBB/Reconciliation 2.0) was signed into law on June 30, 2026 — Law Day 6 entering July 5 morning. House passage by a razor-thin margin and Senate passage delivered on the timeline signaled by Speaker Johnson in June. Fiscal architecture: $1.4 trillion in mandatory spending reductions over 10 years (Medicaid work requirements/eligibility restrictions, SNAP eligibility and benefit changes, student loan program restructuring); TCJA 2017 tax cut extension (making individual and business cuts permanent); CBO estimates +$3.4 trillion deficit increase versus current-law baseline; Republicans used a current-policy baseline to show a $0.4 trillion reduction. Implementation workstreams are now active at CMS, USDA Food and Nutrition Service, and Department of Education from the June 30 signing date. June Jobs report: June nonfarm payrolls came in at 57K — a significant miss versus expectations — released Thursday July 2 ahead of the Independence Day weekend. Despite the weak print, the Dow Jones Industrial Average reached a record approximately 52,900 in holiday-shortened trading, suggesting equity markets are looking through the labor market deceleration in the context of WTI at $67-68 and Hormuz normalization. Markets closed July 4; Monday July 7 is the first full session where traders process June Jobs miss + Russia refined-product supply disruption + OBBB enacted in combination.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Speaker Mike Johnson", "Senate Majority Leader John Thune", "CBO", "CMS", "USDA FNS", "BLS", "NYSE", "DJIA"],
+          "metrics": {
+            "obbb_law_signed_date": "2026-06-30",
+            "obbb_law_day": 6,
+            "obbb_mandatory_spending_cuts_10yr_trillion": 1.4,
+            "obbb_mandatory_cuts_components": ["Medicaid — work requirements, eligibility restrictions", "SNAP — eligibility and benefit changes", "Student loan program restructuring"],
+            "obbb_tcja_extended": true,
+            "obbb_cbo_deficit_impact_vs_current_law_trillion": 3.4,
+            "obbb_republican_baseline_deficit_change_trillion": -0.4,
+            "obbb_implementation_status": "ACTIVE — CMS, USDA FNS, DOE workstreams from June 30",
+            "june_jobs_nfp": 57000,
+            "june_jobs_miss_vs_expectations": true,
+            "june_jobs_release_date": "2026-07-02",
+            "dow_record_approximate": 52900,
+            "markets_july4_status": "CLOSED — holiday",
+            "first_full_session_post_holiday": "2026-07-07 (Monday)",
+            "monday_july7_context": "June Jobs miss + Russia refined-product pressure + OBBB enacted — first combined pricing session"
+          }
+        },
+        {
+          "headline": "WTI $67-68 — Far Below FOMC Dot-Plot Assumption; Oregon Gas $4.68 / National $3.85; Consumer Relief Materializing; Russia Refined-Product Supply Creates Upward Pressure Divergence; September FOMC SEP First Post-Deal Dot Plot",
+          "summary": "Oil and consumer energy dynamics entering July 5 morning present a bifurcated picture. Crude oil: WTI at $67-68, continuing the post-MOU decline from approximately $74 on June 20 and dramatically below the June 17 FOMC SEP's implicit $95-100 oil assumption. Iranian and Gulf supply normalization is executing — UAE at 3.9+ million barrels per day, Saudi Arabia ramping Asia exports, Hormuz flows above 10 million barrels daily. Retail gasoline: Oregon $4.68 (down $0.67 from $5.35 peak), national average $3.85 (down $0.714 from $4.564) — consumer relief materializing faster than the 2-4 week post-signing forecast. Refined products: Russian fuel crisis creates upward pressure on gasoline and diesel wholesale pricing — a divergence from the crude oil decline trajectory. The net consumer impact depends on how quickly Russian refinery losses translate into US refined product markets (typically with a 2-4 week lag). The September 2026 FOMC SEP will be the first dot-plot produced with full post-deal oil trajectory visible, OBBB enacted, and Russia refined-product disruption factored in — the June 17 hawkish dot-plot (9 of 19 hike dots, implicit $95-100 oil) faces substantial revision.",
+          "significance": "HIGH",
+          "actors": ["Federal Reserve", "Kevin Warsh", "IEA", "OPEC+", "EIA", "UAE", "Saudi Arabia"],
+          "metrics": {
+            "wti_estimate": "~$67-68",
+            "wti_june20_baseline": "~$74",
+            "wti_fomc_dot_plot_assumption": "$95-100",
+            "wti_vs_dot_plot_gap": "~$27-32 below FOMC embedded assumption",
+            "oil_direction": "DECLINING — crude; UPWARD PRESSURE — refined products (Russia losses)",
+            "oregon_gas_price_usd": 4.68,
+            "oregon_gas_peak": 5.35,
+            "oregon_gas_change_from_peak": -0.67,
+            "national_gas_price_usd": 3.85,
+            "national_gas_peak": 4.564,
+            "national_gas_change_from_peak": -0.714,
+            "russia_refined_product_divergence": "EMERGING — 25-33% Russian refining offline; US retail impact 2-4 week lag",
+            "next_fomc_sep": "September 2026 — first post-deal, post-OBBB, post-Russia-crisis dot plot",
+            "fomc_hike_dots_9_status": "PRE-DEAL ARTIFACT — under revision pressure"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CRITICAL: Tucannon Fire Day 8 — 25,000+ Acres 0% Containment, State Mobilization Active, Columbia County WA; Sourdough Fire + Incident 0341 July 4 New Ignitions — Day 1; Heat Wave Day 5 PNW — Grid Stress, Fire Weather Compounded; Atmospheric River Forecast Tonight-Wednesday (Flood Watch SW WA / NW OR); NSF Newport OR Removal Complete — Cascadia Monitoring Gap Active; BPA Grid Stable — Drought Year 4 Hydropower Constraint; NIFC Above-Normal Day 35; 2.7M Acres Burned Nationally.",
+      "items": [
+        {
+          "headline": "CRITICAL: Tucannon Fire Day 8 — 25,000+ Acres 0% Containment, State Mobilization Active, Columbia County WA; Heat Wave Day 5 Active; Sourdough + Incident 0341 July 4 New Ignitions",
+          "summary": "The Tucannon Fire in Columbia County, eastern Washington is the operative critical infrastructure emergency entering July 5 morning. Fire status: Day 8, 25,000+ acres, 0% containment. Washington State Patrol Chief John Batiste authorized state fire mobilization; crews, engines, dozers, and aerial resources are en route. The fire is burning in grass and brush in the Columbia-Snake River corridor terrain, which provides challenging fire behavior with uphill and wind-driven runs in heat-wave-amplified conditions. Heat wave is at Day 5 (onset approximately July 1): dry, hot conditions across eastern Washington have sustained fire weather with elevated afternoon wind risk. Two additional fires ignited on July 4: the Sourdough Fire and Incident 0341, both representing July 4 holiday ignitions. July 4 holiday recreational activity (fireworks, campfires in dry terrain) compounds the new-ignition risk, and reduced agency staffing on the holiday slows initial response. The Tucannon Fire at 0% containment entering Day 8 is the most significant active containment failure in the current PNW wave and represents a potential multi-structure-loss and highway-corridor threat in Columbia County. Atmospheric river forecast: precipitation expected tonight through Wednesday (SW Washington, NW Oregon) — may provide fire suppression support but also generates flash flood risk in recent burn scars. BPA grid is stable but drought-year-4 hydropower constraint persists; heat wave demand surges are the primary grid stress vector.",
+          "significance": "CRITICAL",
+          "actors": ["Washington State Patrol", "Washington DNR", "NIFC", "NWS Spokane", "Columbia County Emergency Management", "BPA", "Governor Bob Ferguson", "FEMA"],
+          "metrics": {
+            "tucannon_fire": {
+              "day_since_ignition": 8,
+              "ignition_date": "~2026-06-28",
+              "location": "Columbia County, WA — eastern Washington",
+              "acres": "25,000+",
+              "containment_pct": 0,
+              "status": "CRITICAL — 0% containment, State Mobilization Active",
+              "state_mobilization_authorized": true,
+              "mobilization_authority": "WA State Patrol Chief John Batiste",
+              "fire_terrain": "Grass and brush, Columbia-Snake River corridor",
+              "fire_behavior_risk": "Heat wave Day 5 + afternoon wind + dry fuels"
+            },
+            "sourdough_fire": {
+              "day_since_ignition": 1,
+              "ignition_date": "2026-07-04",
+              "status": "NEW — July 4 holiday ignition; Day 1"
+            },
+            "incident_0341": {
+              "day_since_ignition": 1,
+              "ignition_date": "2026-07-04",
+              "status": "NEW — July 4 holiday ignition; Day 1"
+            },
+            "heat_wave_day": 5,
+            "heat_wave_onset": "~2026-07-01",
+            "atmospheric_river_forecast": {
+              "timing": "Tonight (July 5) through Wednesday (July 7)",
+              "area": "SW Washington, NW Oregon",
+              "alert_type": "Flood Watch",
+              "fire_suppression_potential": "MODERATE — may support PNW fire suppression",
+              "flood_risk": "ELEVATED — burn scar flash flood potential"
+            },
+            "national_acres_burned_2026": "2.7 million",
+            "national_firefighters_deployed": "6,700+",
+            "nifc_above_normal_day": 35,
+            "bpa_grid_status": "STABLE — drought-year-4 hydropower constraint; heat wave demand surge vector",
+            "washington_drought_emergency_day": 31,
+            "nsf_newport_or_status": "REMOVAL COMPLETE — ~June 28",
+            "cascadia_monitoring_gap_status": "ACTIVE — Day 7+; no federal replacement"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "OBBB Law Day 6 — $1.4T Medicaid/SNAP/Student Loan Cuts Enacted (Signed June 30); Implementation Workstreams Active; June Jobs 57K Miss vs Expectations (Released July 2); Dow ~52,900 Record Despite Miss; SCOTUS Term Concluding — Key Rulings Expected; Measles 2,170 (CDC July 2) — Both Lumen Field Windows Closed Without Cluster, CIDRAP Slowing Day 29; Iran SNSC Day 17 — Holiday Pause Lifting; Acting DNI Day 45 Nuclear Verification Load Sustained; July 4 Holiday.",
+      "items": [
+        {
+          "headline": "OBBB Law Day 6 (Signed June 30) — Reconciliation 2.0 Closed; $1.4T Mandatory Cuts Active; June Jobs 57K Miss; Dow ~52,900 Record; Implementation Risk Q4 2026",
+          "summary": "The One Big Beautiful Bill enacted June 30 is Law Day 6 entering July 5 morning. The legislation closes the Reconciliation 2.0 cycle tracked in this series since early June. Enacted provisions now in implementation: (1) Medicaid work requirements and eligibility restrictions — affecting an estimated 10+ million adults; CMS implementation regulations underway with disruption beginning Q4 2026; (2) SNAP eligibility and benefit changes — affecting approximately 40 million recipients; (3) Student loan program restructuring — affecting 40+ million borrowers; (4) TCJA tax cut extension — individual and business provisions made permanent. CBO projects $3.4 trillion deficit increase vs current-law baseline. June Jobs: BLS released June nonfarm payrolls at 57K on July 2 — a significant miss versus expectations, suggesting labor market deceleration. Despite the weak print, the Dow reached a record approximately 52,900 during holiday-shortened July 3-4 trading. Equity market resilience in the face of weak jobs + Russia fuel crisis suggests markets are pricing the Hormuz normalization (WTI $67-68) and OBBB tax permanence as dominant positives. Monday July 7 is the first full session for comprehensive repricing.",
+          "significance": "HIGH",
+          "actors": ["Donald Trump", "Speaker Mike Johnson", "Senate Majority Leader John Thune", "CBO", "CMS", "USDA FNS", "BLS", "Treasury"],
+          "metrics": {
+            "obbb_signed_date": "2026-06-30",
+            "obbb_law_day": 6,
+            "obbb_status": "ENACTED — implementation workstreams active",
+            "medicaid_work_requirements_status": "ENACTED — CMS implementation underway",
+            "snap_eligibility_changes_status": "ENACTED — USDA FNS implementation underway",
+            "student_loan_restructuring_status": "ENACTED — DOE implementation underway",
+            "tcja_extended": true,
+            "cbo_deficit_vs_current_law_trillion": 3.4,
+            "june_jobs_nfp": 57000,
+            "june_jobs_release_date": "2026-07-02",
+            "june_jobs_characterization": "SIGNIFICANT MISS — labor market deceleration signal",
+            "dow_record_approximate": 52900,
+            "dow_market_read": "PRICING THROUGH JOBS MISS — Hormuz + TCJA permanence dominant",
+            "medicaid_disruption_onset": "Q4 2026"
+          }
+        },
+        {
+          "headline": "Measles 2,170 (CDC July 2) — Both Lumen Field Windows Closed Without Cluster; CIDRAP Slowing Day 29; SNSC Day 17 Holiday Pause Lifting; Acting DNI Day 45 Nuclear Load Sustained",
+          "summary": "Four secondary domestic threads. First: measles surveillance is the most constructive signal in the domestic picture. Both concurrent Lumen Field FIFA incubation windows have closed: June 15 Belgium-Egypt match (cluster ID window June 22-29, now closed) and June 19 US-Australia Pride Weekend match (window through July 3, closed yesterday). Neither window produced confirmed cluster emergence. Measles national case count: 2,170 confirmed cases (CDC July 2), up from 2,073 (June 11) — 97-case increase over three weeks, consistent with deceleration. CIDRAP slowing signal advances to Day 29, the longest sustained deceleration of the 2026 arc. 41 jurisdictions affected; 93% outbreak-associated; national vaccination coverage at 92.5% (below 95% herd immunity threshold). Georgetown University wastewater and ER surveillance showing no mass-gathering-sourced cluster. Second: SNSC nuclear compliance Day 17 — the July 4 holiday pause is lifting as of July 5 morning; SNSC is the operative nuclear compliance monitoring mechanism tracking from MOU signing June 19. The July 5 day will be the first post-holiday SNSC compliance check. Third: acting DNI vacancy at Day 45, carrying sustained maximum nuclear verification load — 60-day clock requires ongoing IC assessment of Iranian HEU inventory, enrichment centrifuge status, and IRGC stand-down compliance. Fourth: SCOTUS term is concluding — major rulings on executive power, birthright citizenship, and election law may issue during the July term closing period.",
+          "significance": "MODERATE",
+          "actors": ["CDC", "CIDRAP", "Georgetown University", "King County DOH", "Snohomish County Health", "Acting DNI", "SCOTUS"],
+          "metrics": {
+            "measles_national_case_count": 2170,
+            "measles_cdc_update_date": "2026-07-02",
+            "measles_june20_baseline": 2073,
+            "measles_increase_since_june20": 97,
+            "measles_june15_window_closed": true,
+            "measles_june19_window_closed": true,
+            "measles_confirmed_clusters_either_lumen_event": false,
+            "measles_cidrap_slowing_signal_day": 29,
+            "measles_cidrap_assessment": "LONGEST ARC DECELERATION — both FIFA mass-gathering windows closed without cluster",
+            "measles_jurisdictions_affected": 41,
+            "measles_vaccination_coverage_pct": 92.5,
+            "snsc_compliance_day": 17,
+            "snsc_holiday_pause_lifting": true,
+            "acting_dni_vacancy_day": 45,
+            "acting_dni_nuclear_load": "SUSTAINED MAXIMUM — HEU, enrichment, IRGC stand-down verification"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "CRITICAL: Tucannon Fire Day 8 — 25K+ Acres 0% Containment (Columbia County), State Mobilization Active; Sourdough + Incident 0341 July 4 New Ignitions — Day 1; Heat Wave Day 5 PNW; Atmospheric River Forecast Tonight-Wednesday — Flood Watch SW WA / NW OR, Burn Scar Flash Flood Risk; Oregon State of Emergency (Gov. Kotek), 2.7M Acres Nationally; Gas Relief Materializing — Oregon $4.68 (from $5.35 peak); Measles Both Windows Closed — No Lumen Field Clusters; CIDRAP Day 29; NSF Newport OR Removal Complete — Cascadia Gap Active; Washington Drought Day 31 (4th Year); Oregon EO 26-10 Day 20; NIFC Above-Normal Day 35; BPA Grid Stable.",
+      "items": [
+        {
+          "headline": "CRITICAL: Tucannon Fire Day 8 — 25K+ Acres 0% Containment, State Mobilization Active, Columbia County WA; Heat Wave Day 5; Two New July 4 Ignitions (Sourdough, Incident 0341); Atmospheric River Forecast Tonight-Wednesday",
+          "summary": "The Tucannon Fire in Columbia County is the dominant local PNW emergency entering July 5 morning. Day 8, 25,000+ acres, 0% containment. State fire mobilization is active — Washington State Patrol mobilized state resources with engines, crews, dozers, and overhead personnel en route. The fire is burning in the grass and brush terrain of Columbia County with behavior consistent with the heat wave conditions (Day 5). Heat wave onset approximately July 1 brought sustained above-normal temperatures and low humidity across eastern Washington and Oregon — the operative suppression obstacle. Two new ignitions on July 4: Sourdough Fire and Incident 0341. July 4 holiday conditions (fireworks, recreational campfires, reduced agency staffing) are the operative new-ignition drivers. Atmospheric river forecast: precipitation expected tonight (Sunday July 5) through Wednesday July 7, with Flood Watch for SW Washington and NW Oregon. This is potentially the most significant weather pattern change of the 2026 summer fire season to date for the PNW. The moisture event could provide suppression support for eastern Washington fires, but the primary concern in recently burned terrain is flash flooding in burn scars. NWS Seattle and NWS Spokane are the operative forecast centers. Governor Ferguson remains engaged; Governor Kotek's Oregon state of emergency is operative. Oregon and Washington are competing with Idaho and Northern California for severely limited firefighting resources nationwide.",
+          "significance": "CRITICAL",
+          "actors": ["Governor Bob Ferguson", "Governor Tina Kotek", "Washington DNR", "Oregon OEM", "Washington State Patrol", "NIFC", "NWS Seattle", "NWS Spokane", "BPA", "FEMA", "Columbia County Emergency Management"],
+          "metrics": {
+            "tucannon_fire": {
+              "day_since_ignition": 8,
+              "acres": "25,000+",
+              "containment_pct": 0,
+              "status": "CRITICAL — 0% containment, State Mobilization Active",
+              "location": "Columbia County, WA — eastern Washington"
+            },
+            "sourdough_fire": {
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 1,
+              "status": "NEW — day 1, July 4 holiday ignition"
+            },
+            "incident_0341": {
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 1,
+              "status": "NEW — day 1, July 4 holiday ignition"
+            },
+            "heat_wave_day": 5,
+            "atmospheric_river_forecast": {
+              "timing": "Tonight July 5 through Wednesday July 7",
+              "coverage": "SW Washington, NW Oregon",
+              "alert_type": "Flood Watch",
+              "suppression_potential": "MODERATE — eastern WA fires may benefit",
+              "burn_scar_flood_risk": "ELEVATED"
+            },
+            "national_acres_burned_2026": "2.7 million",
+            "national_firefighters_deployed": "6,700+",
+            "oregon_wildfire_state_of_emergency": true,
+            "oregon_eo_20_day": 20,
+            "nifc_above_normal_day": 35,
+            "washington_drought_emergency_day": 31,
+            "washington_drought_consecutive_years": 4,
+            "bpa_grid_status": "STABLE — heat wave demand surge; drought-year-4 hydropower constraint"
+          }
+        },
+        {
+          "headline": "Gas Relief Materializing — Oregon $4.68 / National $3.85; Measles Both Windows Closed — No Clusters, CIDRAP Day 29; NSF Newport OR Removal Complete — Cascadia Gap Active",
+          "summary": "Three secondary PNW local threads. First: consumer gasoline price relief is the most tangible PNW quality-of-life positive signal. Oregon gas at $4.68 per gallon (down $0.67 from $5.35 peak), national average $3.85 (down $0.714 from $4.564). Relief is materializing faster than the 2-4 week post-signing forecast; July 4 weekend travel volumes are reportedly at record levels. The Russian fuel crisis introduces a caveat: 25-33% of Russian refining capacity offline may put upward pressure on US wholesale gasoline pricing with a 2-4 week lag, potentially interrupting the Oregon/national downward trend. Second: measles — both Lumen Field incubation windows are closed without confirmed cluster emergence. CIDRAP slowing signal at Day 29 is the longest sustained deceleration of the 2026 arc. Georgetown University wastewater surveillance shows no mass-gathering-sourced signal. The immediate post-FIFA mass-gathering risk window is closed; next measles surveillance focus shifts to school-year pre-positioning (late July, early August). Third: NSF Newport OR ocean observatories removal is confirmed complete at approximately June 28. Cascadia Subduction Zone real-time offshore monitoring gap is now in its second week of operational status. No federal replacement has been announced. The atmospheric river event forecast for tonight-Wednesday will test land-based seismic and coastal monitoring for any Cascadia slow-slip signals without the offshore early-warning network.",
+          "significance": "MEDIUM-HIGH",
+          "actors": ["AAA Oregon/Idaho", "KLCC", "CDC", "CIDRAP", "Georgetown University", "King County DOH", "NSF OOI", "NOAA", "USGS"],
+          "metrics": {
+            "oregon_gas_price_usd": 4.68,
+            "oregon_gas_peak_usd": 5.35,
+            "oregon_gas_change_from_peak": -0.67,
+            "national_gas_price_usd": 3.85,
+            "national_gas_peak_usd": 4.564,
+            "national_gas_change_from_peak": -0.714,
+            "russia_fuel_crisis_retail_impact_lag": "2-4 weeks — US wholesale pressure emerging",
+            "measles_june15_window_closed": true,
+            "measles_june19_window_closed": true,
+            "measles_lumen_field_cluster_confirmed": false,
+            "measles_cidrap_slowing_day": 29,
+            "measles_wastewater_signal": "NEGATIVE — Georgetown no mass-gathering cluster",
+            "nsf_newport_or_status": "REMOVAL COMPLETE — ~June 28",
+            "cascadia_monitoring_gap_status": "ACTIVE — Day 7+; Week 2 operational; no federal replacement",
+            "cascadia_monitoring_atmospheric_river_note": "Land-based sensors only for any Cascadia slow-slip during atmospheric river event"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "July 5, 2026 morning opens at Vibe 4 — pulled down from the June 20 baseline (Vibe 6) by a compound PNW wildfire-heat-ignition crisis and a significant new global energy stressor. The Tucannon Fire (Columbia County, eastern Washington) is the operative critical thread: Day 8, 25,000+ acres, 0% containment, with state mobilization active and heat wave Day 5 compounding suppression difficulty. Two new July 4 ignitions (Sourdough, Incident 0341) add breadth to the PNW fire picture. The Russia Fuel Crisis at Day 5 is the most consequential new global development: Ukrainian drone strikes have disabled 25-33% of Russian oil refining capacity, the IEA has characterized the disruption as unprecedented, 56+ Russian regions have fuel restrictions, and India is in talks to supply Russia with fuel. This crisis bifurcates the energy picture: crude oil continues its post-Hormuz decline (WTI $67-68), but refined product supply is under upward pressure from Russian refinery losses. The OBBB enacted June 30 (Law Day 6) resolves Reconciliation 2.0 but with $1.4 trillion in mandatory Medicaid/SNAP/student loan cuts whose implementation risk begins materializing in Q4 2026. June Jobs at 57K is a significant miss versus expectations — though equity markets (Dow ~52,900 record) appear to be looking through the labor market deceleration. Iran nuclear SNSC compliance Day 17, holiday pause lifting; nuclear 60-day clock Day 16 with constructive US tone but IAEA access still denied to bombed enrichment sites. The most significant near-term variable is the atmospheric river forecast for tonight through Wednesday (SW Washington, NW Oregon) — if it delivers meaningful precipitation to eastern Washington, it offers the Tucannon Fire's first real suppression window; if it tracks south or dissipates, heat wave Day 6+ compounds the zero-containment crisis.",
+  "watch_items": [
+    {
+      "item": "Tucannon Fire — Containment Progress; State Mobilization; Atmospheric River Suppression Window",
+      "priority": "CRITICAL",
+      "rationale": "Day 8, 25K+ acres, 0% containment, state mobilization active; heat wave Day 5 compounding; atmospheric river tonight-Wednesday is first major suppression weather opportunity",
+      "watch_for": "NIFC daily incident morning update — first containment percentage; Washington DNR situational report; NWS Spokane atmospheric river track and timing update; structure loss reports from Columbia County; level 3 evacuation orders; any afternoon wind event risk today before atmospheric river arrives"
+    },
+    {
+      "item": "Atmospheric River — PNW Suppression Window vs Flood Watch; Tonight-Wednesday",
+      "priority": "CRITICAL",
+      "rationale": "Forecast precipitation is the primary fire suppression opportunity for PNW; also generates flash flood risk in burn scars; NWS Flood Watch active SW WA / NW OR",
+      "watch_for": "NWS Seattle and NWS Spokane track, timing, and precipitation totals; flash flood watch activation in Tucannon burn scar; NIFC suppression weather assessment; BPA hydro inflow signals; any Cascadia slow-slip detection via land-based sensors during the storm"
+    },
+    {
+      "item": "Russia Fuel Crisis Day 5 — Refinery Capacity Assessment; India Supply Offer",
+      "priority": "HIGH",
+      "rationale": "25-33% Russian refining offline; IEA unprecedented; 56+ regions restricted; refined product supply diverging from crude oil decline — US retail gasoline upward pressure lag 2-4 weeks",
+      "watch_for": "IEA emergency market assessment; additional Ukraine drone strike targets; India-Russia fuel supply deal confirmation; EIA US wholesale gasoline price movement Monday; OPEC+ refined product supply coordination signals; European diesel price spreads"
+    },
+    {
+      "item": "Monday July 7 Market Open — June Jobs + Russia Crisis + OBBB Repricing",
+      "priority": "HIGH",
+      "rationale": "First full session combining June Jobs 57K miss + Russia refined-product supply disruption + OBBB enacted; holiday-shortened week suppressed full market processing",
+      "watch_for": "S&P 500 and Nasdaq open; healthcare sector (Medicaid managed care — OBBB Medicaid provisions); consumer staples (SNAP cuts); energy sector (Russia refined product divergence vs crude decline); 2-year and 10-year Treasury yield movement; any Fed official comment on jobs miss vs Hormuz energy-CPI trajectory"
+    },
+    {
+      "item": "Iran SNSC Day 17 — Holiday Pause Lifting; Nuclear 60-Day Clock Day 16",
+      "priority": "HIGH",
+      "rationale": "SNSC holiday pause lifting; nuclear 60-day clock Day 16; IAEA access to Natanz/Isfahan/Fordow still denied; US-Iran public contradiction on MOU meaning persists",
+      "watch_for": "SNSC Day 17 compliance status report; IAEA Director General Grossi statement on access; Araghchi or Ghalibaf public MOU characterization; Witkoff/Kushner Doha follow-up meetings; any Khamenei nuclear statement; IRGC stand-down compliance signal"
+    },
+    {
+      "item": "Sourdough Fire and Incident 0341 — July 4 New Ignitions",
+      "priority": "HIGH",
+      "rationale": "Two new July 4 holiday ignitions at Day 1; holiday ignition-pattern fires require rapid initial attack; heat wave Day 5 compounding initial response",
+      "watch_for": "NIFC incident reports; Washington DNR and Oregon OEM initial attack status; acreage progression and containment within first 48 hours; Level 3 evacuation orders; structure threat assessment"
+    },
+    {
+      "item": "OBBB Medicaid/SNAP Implementation — State Responses Day 6",
+      "priority": "MEDIUM-HIGH",
+      "rationale": "Law Day 6; Medicaid work requirements and SNAP cuts affect 10M+ and 40M+ respectively; state Attorney General legal challenges and implementation planning are in motion",
+      "watch_for": "State AG lawsuit filings (Medicaid, SNAP provisions); CMS initial implementation guidance; USDA FNS SNAP transition communications; hospital system earnings guidance updates; state Medicaid director statements"
+    },
+    {
+      "item": "Measles — CIDRAP Day 29; Post-FIFA School-Year Pre-Positioning Surveillance",
+      "priority": "MEDIUM",
+      "rationale": "CIDRAP Day 29, longest deceleration arc; both FIFA windows closed without cluster; next surveillance focus is school-year pre-positioning (late July-early August)",
+      "watch_for": "CDC next measles update; CIDRAP weekly assessment; any new cluster reports; school district pre-positioning communications (late July); Georgetown wastewater monitoring for late summer surge signal"
+    },
+    {
+      "item": "NSF Newport OR — Cascadia Monitoring Gap Week 2; Atmospheric River Seismic Context",
+      "priority": "MEDIUM",
+      "rationale": "Real-time offshore Cascadia monitoring gap is in week 2 of operational status; atmospheric river increases PNW seismic noise — any Cascadia slow-slip event detection will be land-sensor only",
+      "watch_for": "NOAA or NSF emergency monitoring response announcement; USGS Pacific Northwest seismic activity during atmospheric river; Congressional hearing scheduling; PNSN (Pacific Northwest Seismic Network) anomaly reports"
+    }
+  ],
+  "sources": [
+    {"title": "One Big Beautiful Bill Act | Wikipedia", "url": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+    {"title": "OBBB Implementation Timeline | USAFacts", "url": "https://usafacts.org/visualizations/obbb-timeline/"},
+    {"title": "Implementation Timeline of the One Big Beautiful Bill Act | CAP", "url": "https://www.americanprogress.org/article/the-implementation-timeline-of-the-one-big-beautiful-bill-act/"},
+    {"title": "The Crisis Is Deep: The View from Russia as Fuel Shortages Worsen | Al Jazeera", "url": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen"},
+    {"title": "Russia's Energy Crisis: An Exporter Becomes Importer | Modern Diplomacy", "url": "https://moderndiplomacy.eu/2026/07/04/russias-energy-crisis-an-exporter-becomes-importer/"},
+    {"title": "Russia's Fuel Crisis Spirals as Ukraine Strikes Oil Sites | Newsweek", "url": "https://www.newsweek.com/russia-fuel-crisis-ukraine-drone-strikes-oil-refineries-gas-station-queues-rationing-12144803"},
+    {"title": "Russia, One of the World's Biggest Oil Exporters, Moves to Import Fuel | CBC News", "url": "https://www.cbc.ca/news/world/russa-gas-crisis-9.7253849"},
+    {"title": "Putin's Fuel Shortage Admission Signals Growing Strain | CNBC", "url": "https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html"},
+    {"title": "State Fire Mobilization Authorized for the Tucannon Fire | WSP", "url": "https://wsp.wa.gov/state-fire-mobilization-authorized-for-the-tucannon-fire"},
+    {"title": "Tucannon Fire Grows to 9,500 Acres Overnight | Union Bulletin", "url": "https://www.union-bulletin.com/news/local/topics/wildfire/tucannon-fire-grows-to-9-500-acres-overnight-in-columbia-county-state-resources-mobilized/article_76b37d1c-6be5-4572-a19a-5fa5670b5dad.html"},
+    {"title": "WA Wildfire Season: Tucannon Fire Grows | Elkhorn Media Group", "url": "https://elkhornmediagroup.com/southeast-wa-wildfires-twin-sisters-fire-contained-as-tucannon-fire-grows/"},
+    {"title": "2025-2026 Iran-United States Negotiations | Wikipedia", "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations"},
+    {"title": "Nuclear Inspectors and Frozen Assets: What Iran and US Can't Agree On | Al Jazeera", "url": "https://www.aljazeera.com/news/2026/6/23/what-the-us-and-iran-agreed-and-disagreed-on-first-day-of-talks"},
+    {"title": "Iran War 2026 — Day 125 Update | GlobalSecurity", "url": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm"},
+    {"title": "US Measles Cases in 2026 Nearly Match Full-Year 2025 Toll | Global Biodefense", "url": "https://globalbiodefense.com/2026/07/03/u-s-measles-cases-in-2026-nearly-match-full-year-2025-toll-with-six-months-still-remaining/"},
+    {"title": "Oregon Gas Prices Fall Ahead of Holiday Weekend | KLCC", "url": "https://www.klcc.org/news-briefs/2026-07-01/oregon-gas-prices-drop-holiday-travel"},
+    {"title": "Oregon Gas Price News | AAA Oregon/Idaho", "url": "https://info.oregon.aaa.com/oregon-gas-prices/"},
+    {"title": "Current Price of Oil | Fortune", "url": "https://fortune.com/article/price-of-oil-06-29-2026/"},
+    {"title": "4 Large Wildfires Burn in Washington | KING5", "url": "https://www.king5.com/article/news/local/wildfire/6-large-wildfires-washington-fire-risk-west-cascades/281-5400557d-b8b3-47fc-8a9e-6128c154408e"},
+    {"title": "WA Wildfire Season: Evacuations Underway | KOIN", "url": "https://www.koin.com/news/wildfires/evacuations-underway-for-4-fires-burning-in-washington/"},
+    {"title": "CISA CI Fortify | CISA", "url": "https://www.cisa.gov/topics/industrial-control-systems/ci-fortify"}
+  ]
+}

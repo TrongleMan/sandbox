@@ -2004,6 +2004,22 @@
       "generated_at": "2026-07-04T20:00:00-07:00"
     },
     {
+      "id": "2026-07-05-morning",
+      "date": "2026-07-05",
+      "session": "morning",
+      "file": "reports/2026-07-05-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Tucannon Fire Day 8 — 25K+ Acres 0% Containment State Mobilization Active; Russia Fuel Crisis Day 5 IEA Unprecedented Ukraine Drones 25-33% Russian Refining Offline; OBBB Law Day 6 (Signed June 30) $1.4T Cuts; June Jobs 57K Miss Dow Record 52900; SNSC Compliance Day 17 Holiday Pause Lifting; Atmospheric River Tonight-Wednesday Flood Watch SW WA NW OR; WTI $67-68; Oregon Gas $4.68 National $3.85; Measles 2170 Both FIFA Windows Closed CIDRAP Slowing Day 29; Vibe 4",
+      "generated_at": "2026-07-05T07:00:00-07:00"
+    },
+    {
       "id": "2026-07-05-evening",
       "date": "2026-07-05",
       "session": "evening",
