@@ -2034,7 +2034,23 @@
       ],
       "headline": "Hormuz Day 128 SNSC Dispute Day 17 Doha Positive Progress (No SNSC Change); June Jobs 57K Miss Dow Record 52,900; OBBB Law Day 6; SCOTUS Humphrey's Overturned Birthright Upheld Watson Mail Ballot; Tucannon Fire Day 8 25K Acres Zero Containment; Sourdough + Incident 0341 New July 4 Ignitions; Atmospheric River Tonight-Wednesday Flood Watch SW WA NW OR; Russia Fuel Crisis Day 5 IEA Unprecedented; Vibe 4",
       "generated_at": "2026-07-05T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-06-evening",
+      "date": "2026-07-06",
+      "session": "evening",
+      "file": "reports/2026-07-06-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Sourdough Fire 2,930 Acres SR-20 Closed Indefinitely NIFC PL4 First Since 2021; Hormuz Day 129 SNSC Non-Ratification Day 18 Unprecedented; Russia Fuel Crisis Day 6 Source Confirmed Ukrainian Strikes; Measles 2,170 CDC July 2 Update; SpaceX Nasdaq-100 Tomorrow; FERC AI Intervention Deadline Tomorrow July 9; Vibe 4",
+      "generated_at": "2026-07-06T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-05T20:00:00-07:00"
+  "last_updated": "2026-07-06T20:00:00-07:00"
 }
