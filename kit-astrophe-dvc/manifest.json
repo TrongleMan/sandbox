@@ -2036,6 +2036,22 @@
       "generated_at": "2026-07-05T20:00:00-07:00"
     },
     {
+      "id": "2026-07-06-morning",
+      "date": "2026-07-06",
+      "session": "morning",
+      "file": "reports/2026-07-06-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Russia Strikes Kyiv Largest 2026 (351 Drones 68 Missiles 12 Killed); SNSC Compliance Day 18 Doha Day 3; Sourdough Fire Day 2 Overnight Growth SR-20 Closure Developing; Section 122 Tariff T-18 No Successor; ISM PMI Releasing Today; SpaceX Nasdaq-100 Tomorrow; WA Transport $1B Shortfall; Vibe 4",
+      "generated_at": "2026-07-06T07:00:00-07:00"
+    },
+    {
       "id": "2026-07-06-evening",
       "date": "2026-07-06",
       "session": "evening",
@@ -2052,5 +2068,5 @@
       "generated_at": "2026-07-06T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-06T20:00:00-07:00"
+  "last_updated": "2026-07-06T07:00:00-07:00"
 }
