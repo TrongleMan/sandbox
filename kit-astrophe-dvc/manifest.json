@@ -2068,6 +2068,22 @@
       "generated_at": "2026-07-06T20:00:00-07:00"
     },
     {
+      "id": "2026-07-07-morning",
+      "date": "2026-07-07",
+      "session": "morning",
+      "file": "reports/2026-07-07-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Chelan Hills Fire WUI Day 3 FATALITY CONFIRMED (~9,400-10,000 Acres; 100+ Structures Destroyed); Sourdough Fire Day 3 Skagit Dam Power To Seattle Cut; SNSC Compliance Day 19 Doha Day 4; SpaceX Nasdaq-100 Inclusion TODAY; FOMC Minutes Tomorrow; Trump NATO Ankara Day 1; NIFC PL4 Day 9; Vibe 4",
+      "generated_at": "2026-07-07T07:00:00-07:00"
+    },
+    {
       "id": "2026-07-07-evening",
       "date": "2026-07-07",
       "session": "evening",
