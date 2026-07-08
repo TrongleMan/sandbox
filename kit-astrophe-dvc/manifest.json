@@ -2098,7 +2098,23 @@
       ],
       "headline": "Chelan Hills Fire 9,400-10,000 Acres 100+ Structures Destroyed WUI Crisis Douglas County; Sourdough Day 3 ~3,900 Acres Skagit Dam Power Cut SR-20 Closed; Trump Rejects Iran Peace Proposal SNSC Day 19; SpaceX Nasdaq-100 Inclusion Today; Eastern US DOE Energy Emergency PJM Grid; FOMC Minutes Tomorrow; Vibe 4",
       "generated_at": "2026-07-07T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-08-evening",
+      "date": "2026-07-08",
+      "session": "evening",
+      "file": "reports/2026-07-08-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "FOMC Minutes Released 9-9 Split Warsh Withheld Dot; Chelan Hills 20% Containment First Progress 1 Fatality Navarre Coulee New Fire; Sourdough AR Window Closed Day 4 ICS-209 Tomorrow Critical; SNSC Day 20 No Declaration; FERC Intervention Deadline Tomorrow; Vibe 4",
+      "generated_at": "2026-07-08T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-07T20:00:00-07:00"
+  "last_updated": "2026-07-08T20:00:00-07:00"
 }
