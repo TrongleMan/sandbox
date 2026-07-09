@@ -2130,7 +2130,23 @@
       ],
       "headline": "FOMC Minutes Released 9-9 Split Warsh Withheld Dot; Chelan Hills 20% Containment First Progress 1 Fatality Navarre Coulee New Fire; Sourdough AR Window Closed Day 4 ICS-209 Tomorrow Critical; SNSC Day 20 No Declaration; FERC Intervention Deadline Tomorrow; Vibe 4",
       "generated_at": "2026-07-08T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-09-evening",
+      "date": "2026-07-09",
+      "session": "evening",
+      "file": "reports/2026-07-09-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Trump 'Ceasefire Over' At NATO Summit Ankara; CENTCOM Second-Wave Strikes; Iran 85+ US Facility Counter-Strikes; MOU Formally Intact Witkoff/Kushner Negotiating; Chelan Hills 50% Containment Day 5; Measles High-Consequence Sub-Window Day 1 Clean; FERC AI Deadline Closed; Vibe 4",
+      "generated_at": "2026-07-09T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-08T20:00:00-07:00"
+  "last_updated": "2026-07-09T20:00:00-07:00"
 }
