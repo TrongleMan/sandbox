@@ -2132,6 +2132,22 @@
       "generated_at": "2026-07-08T20:00:00-07:00"
     },
     {
+      "id": "2026-07-09-morning",
+      "date": "2026-07-09",
+      "session": "morning",
+      "file": "reports/2026-07-09-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 132 CENTCOM Second-Wave Strikes 8 Targets Iran 85+ US Facilities Largest Post-MOU Exchange; Trump 'As Far As I'm Concerned It's Over' NATO Ankara Witkoff Kushner Channel Preserved Kharg Not Struck; FOMC Minutes 9-9 Split September Hike 50-55%; Chelan Hills 20% Day 4 Evening Day 5 ICS-209 Pending AR Closed; Sourdough Day 5 First Post-AR Assessment SR-20 Closed Skagit Hydro; Measles High-Consequence Window Begins TODAY; FERC AI Deadline COB TODAY; Vibe 4",
+      "generated_at": "2026-07-09T07:00:00-07:00"
+    },
+    {
       "id": "2026-07-09-evening",
       "date": "2026-07-09",
       "session": "evening",
@@ -2148,5 +2164,5 @@
       "generated_at": "2026-07-09T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-09T20:00:00-07:00"
+  "last_updated": "2026-07-09T07:00:00-07:00"
 }

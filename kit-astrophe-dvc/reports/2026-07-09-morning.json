@@ -1,0 +1,665 @@
+{
+  "report_id": "2026-07-09-morning",
+  "generated_at": "2026-07-09T07:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Morning state as of 0700 PDT. Overnight (July 8 evening) produced two critical updates that postdate the July 8 morning brief: CENTCOM executed a second-wave strike package targeting eight Iranian locations (Sirik, Qeshm, Bandar Abbas, Iranshahr, Bushehr, Konarak, Chabahar, Aq Qala) — the most geographically dispersed CENTCOM strike package since initial Project Freedom operations; Iran counter-struck 85+ US military facilities across Bahrain and Kuwait — the largest single Iranian counter-strike of the post-MOU period. Trump formalized 'it's over' language at the NATO summit close-out press conference in Ankara: 'As far as I'm concerned, it's over.' The critical qualifier holds: 'Steve and Jared want to keep going — but they have to come back to me.' No formal MOU termination instrument was issued. No naval blockade reinstatement order confirmed. SNSC has not issued a formal MOU-void declaration as of this morning brief. Kharg Island — 90% of Iranian oil exports — was threatened but not struck. WTI ~$74-75 this morning: above the $74 normalization floor but for the wrong reasons (re-escalation premium, not normalization confidence). FOMC minutes (released July 8 at 1400 ET) confirmed the 9-9 split: 'many participants' hold, 'many other participants' lean hike; September hike odds recalibrated to ~50-55% from the 66% pre-release read; Warsh released a 130-word policy statement stripped of all forward guidance, declined to submit a dot projection. The minutes are the analytical record — the committee's June assessment predates the Russia fuel crisis onset (~July 1) and the Hormuz re-escalation, meaning the Fed's current frame may already be materially stale. Chelan Hills Fire: Day 4 evening ICS-209 confirmed 20% containment — first material progress since ignition July 4; Day 5 morning ICS-209 is today's primary domestic watch item. Sourdough Fire: Day 5 opens with the atmospheric river window now closed (window closed overnight); today's ICS-209 is the first post-AR assessment; SR-20 remains closed; Skagit hydropower disruption active. Measles high-consequence sub-window (June 19 Lumen Field cluster) begins TODAY July 9 — Day 7 of exposure window, peak secondary transmission risk July 9-12; Georgetown wastewater surveillance active. FERC AI pathway intervention deadline closes COB TODAY. Longview CSB elevated risk window T-2 (July 11). Vibe 4.",
+  "vibe": {
+    "score": 4,
+    "rationale": "Upgrade from July 8 morning Vibe 3, consistent with July 8 evening Vibe 4 trajectory. The analytical basis for the upgrade: (1) MOU formal status: Trump's declaratory 'over' language at NATO Ankara is maximum-pressure posture, not a termination instrument. The Witkoff/Kushner channel qualifier — 'they want to keep going, but they have to come back to me' — preserves the negotiator track that has resolved every prior escalation sequence in the 132-day arc. No SNSC formal MOU-void declaration. No naval blockade reinstatement. Kharg Island threatened, not struck — the single most significant stabilizer of the overnight session. (2) FOMC minutes dovish relative to pre-release 66% September hike odds: September probability recalibrated to ~50-55%; Warsh's stripped-guidance posture is more permissive than a hawkish dot submission would have been. (3) Chelan Hills 20% containment confirmed on Day 4 evening — materially improved from 0% on three prior mornings; Day 5 personnel build overnight with AR humidity providing final suppression assist before post-AR conditions arrive. Headwinds at Vibe 4: CENTCOM second-wave strikes and Iran's 85+ US-facility counter-strikes constitute the most geographically extensive military exchange of the post-MOU period — the formal 'no formal breach' reading co-exists with the operational worst-of-post-MOU. Sourdough AR window is now closed — Day 5 is the first post-AR assessment and the first morning when extended attack conditions govern the fire's trajectory. Measles high-consequence window opens today. Russia Omsk refinery halted (July 7) — dual-source energy shock deepening. Upgrade to Vibe 5 requires: formal Witkoff/Kushner negotiation resumption announcement or Iran-side SNSC statement affirming MOU continuation + Chelan Hills Day 5 ICS-209 advancing toward 40%+ + Sourdough any initial containment reading on Day 5 + September hike odds below 50%. Downgrade to Vibe 3 requires: SNSC formal MOU-void declaration citing oil sanctions reimposition as US breach + CENTCOM blockade reinstatement order under Kharg operation + Sourdough zero containment Day 5 with fire-perimeter threat to Skagit dam complex + Chelan Hills regression below 20%."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 132 — MOU Acute Stress Day 2. Overnight CENTCOM second-wave strike package (eight Iranian locations) and Iran's 85+ US-facility counter-strike in Bahrain and Kuwait are the most geographically extensive military exchange of the post-MOU period. Trump 'as far as I'm concerned, it's over' at NATO Ankara — confirmed with Witkoff/Kushner negotiator-channel qualifier. No formal MOU termination instrument. No SNSC formal void declaration. Kharg Island threatened, not struck. Oil sanctions reimposed July 7. WTI ~$74-75 re-escalation premium. Russia fuel crisis Day 9: Omsk refinery halted, 78+ regions, ~25-33% offline. Lebanon fragile hold Day 24.",
+      "items": [
+        {
+          "id": "hormuz-day-132-mou-acute-stress-day2",
+          "label": "Hormuz Day 132 — MOU ACUTE STRESS Day 2",
+          "status": "CRITICAL",
+          "summary": "Second consecutive morning of post-MOU acute-stress conditions. Overnight context: CENTCOM executed a second-wave strike package on July 8 evening targeting Sirik, Qeshm, Bandar Abbas, Iranshahr, Bushehr, Konarak, Chabahar, and Aq Qala — the most geographically dispersed CENTCOM strike package since initial Project Freedom. One Iranian civilian confirmed killed (Iranshahr airport fireman). Iran responded with counter-strikes on 85+ US military facilities across Bahrain and Kuwait — the largest single Iranian counter-strike of the post-MOU period. Trump at the NATO summit close-out press conference in Ankara July 8: 'As far as I'm concerned, it's over.' Qualifier held: 'Steve and Jared want to keep going — but they have to come back to me.' Witkoff and Kushner publicly confirmed desire to continue negotiations. As of the morning brief: no formal MOU termination instrument issued; no CENTCOM blockade reinstatement order; no SNSC formal MOU-void declaration. Iran re-closure declaration operative since June 26 under the prior IRGC cargo-strike rationale — Iran has not issued a new MOU-void claim in response to the July 8 oil sanctions reimposition or additional CENTCOM strikes. Kharg Island — through which approximately 90% of Iran's oil exports transit — was threatened ('we might take over Kharg Island') but not struck as of morning brief.",
+          "metrics": {
+            "hormuz_day": 132,
+            "mou_signed_date": "2026-06-19",
+            "mou_compliance_day": 21,
+            "snsc_compliance_dispute_day": 21,
+            "sixty_day_nuclear_window_day": 21,
+            "sixty_day_window_end": "~2026-08-17",
+            "sixty_day_window_pct_elapsed": "~35%",
+            "mou_formal_termination_instrument": false,
+            "snsc_formal_mou_void_declaration": false,
+            "centcom_naval_blockade_reinstated": false,
+            "kharg_island_threatened": true,
+            "kharg_island_struck": false,
+            "kharg_island_pct_iran_oil_exports": 90,
+            "trump_declaratory_status": "OVER — 'As far as I'm concerned, it's over' — NATO Ankara July 8",
+            "trump_negotiator_qualifier": "ACTIVE — 'Steve and Jared want to keep going, but they have to come back to me'",
+            "centcom_second_wave_july8_targets": ["Sirik", "Qeshm", "Bandar Abbas", "Iranshahr", "Bushehr", "Konarak", "Chabahar", "Aq Qala"],
+            "iran_counter_strike_facilities_hit": "85+",
+            "iran_counter_strike_locations": ["Bahrain", "Kuwait"],
+            "iran_counter_strike_designation": "Largest single post-MOU Iranian counter-strike package",
+            "iran_civilian_casualty_confirmed": "1 — Iranshahr airport fireman killed in CENTCOM strike",
+            "iran_re_closure_operative_rationale": "June 26 IRGC cargo-strike — NOT new MOU-void declaration in response to July 8 oil sanctions reimposition",
+            "oil_sanctions_reimposed": "2026-07-07 — Iranian crude export waiver revoked",
+            "wti_approx_morning": "~$74-75",
+            "wti_july8_close": 74.04,
+            "wti_july8_change_pct": 5.12,
+            "wti_normalization_floor": 74,
+            "wti_context": "Re-escalation premium — above $74 floor for wrong reasons; not normalization confidence",
+            "brent_approx_morning": "~$79-80",
+            "tanker_traffic_current": "~25 vessels/day (vs 110 pre-war average)",
+            "doha_working_groups_status": "nominally active — Day 5 status unclear post-second-wave",
+            "mediators_active": ["Qatar", "Pakistan", "Oman"]
+          },
+          "watch": "SNSC formal statement on oil-sanctions reimposition and whether it constitutes MOU breach; Witkoff/Kushner formal negotiation resumption announcement; CENTCOM BDA for second-wave strikes; Kharg Island operational order; Iranian Foreign Ministry characterization of second-wave as MOU void trigger"
+        },
+        {
+          "id": "russia-fuel-crisis-day9",
+          "label": "Russia Fuel Crisis Day 9 — Omsk Refinery Halted",
+          "status": "ESCALATING",
+          "summary": "Russia fuel crisis Day 9. Omsk refinery — Russia's largest refinery and top domestic gasoline producer, processing approximately 20 million metric tons annually — halted operations July 7 after Ukrainian drone strikes July 6. Most consequential single infrastructure event of the crisis. Combined with prior strikes, approximately one-quarter to one-third of Russia's national refining capacity is offline. 78 of 83 internationally recognized Russian regions reporting fuel access disruption. Daily shortfall running approximately 20% below domestic demand. IEA 'unprecedented' designation. Sales rationed to 20-30 liters per vehicle. The June 17 FOMC meeting minutes (released yesterday) predate the Russia crisis onset — the committee's assessment does not incorporate this supply disruption. Dual-source energy shock (Hormuz re-escalation premium + Russia refining collapse) is the most complex global energy disruption since 2022.",
+          "metrics": {
+            "crisis_day": 9,
+            "omsk_refinery_halt_date": "2026-07-07",
+            "omsk_refinery_halt_trigger": "Ukrainian drone strikes July 6",
+            "omsk_annual_throughput_mt": 20000000,
+            "russia_refining_capacity_offline_pct": "~25-33%",
+            "russia_gasoline_below_demand_pct": 20,
+            "russia_regions_fuel_disruptions": "78 of 83 internationally recognized regions",
+            "iea_designation": "UNPRECEDENTED",
+            "fuel_rationing_liters": "20-30 per vehicle",
+            "fomc_crisis_blind_spot": true,
+            "dual_source_shock_active": true
+          },
+          "watch": "Russian government SPR drawdown decision; Ukrainian strike tempo; EU secondary sanctions on Russian fuel diversion; Omsk restoration timeline"
+        },
+        {
+          "id": "lebanon-fragile-hold-day24",
+          "label": "Lebanon Fragile Hold Day 24",
+          "status": "FRAGILE",
+          "summary": "Hezbollah 'null and void' declaration on ceasefire framework remains unretracted. IDF reduced operational tempo. Iran-US-Lebanon ceasefire oversight committee (formed June 30) nominally active. The July 8-9 CENTCOM-Iran exchange is the critical overnight variable: if Iran characterizes second-wave strikes as license to direct Hezbollah to resume operations, the existing 'null and void' declaration becomes an operational trigger. No such direction confirmed as of morning brief.",
+          "metrics": {
+            "fragile_hold_day": 24,
+            "ceasefire_committee_formation_date": "2026-06-30",
+            "hezbollah_null_void_status": "ACTIVE — unretracted",
+            "hezbollah_iran_operational_direction": "NOT CONFIRMED"
+          },
+          "watch": "Hezbollah response to July 8-9 CENTCOM-Iran exchange; IDF Northern Command posture; UNIFIL reporting"
+        },
+        {
+          "id": "peru-colombia-transitions",
+          "label": "Peru / Colombia Transitions",
+          "status": "TRACKING",
+          "summary": "Peru: Keiko Fujimori JNE certification Day 6. Congressional credentials ceremony July 15 (T-6). Inauguration July 28 (T-19). Colombia: Francisco de la Espriella transition Day 7 (T-29 to Aug 7 inauguration). Israel relations restoration pledged; no complications confirmed.",
+          "metrics": {
+            "peru_jne_day": 6,
+            "peru_credentials_t_minus": 6,
+            "peru_inauguration_t_minus": 19,
+            "colombia_transition_day": 7,
+            "colombia_inauguration_t_minus": 29
+          }
+        },
+        {
+          "id": "venezuela-earthquake-day16",
+          "label": "Venezuela Earthquake Day 16",
+          "status": "HUMANITARIAN",
+          "summary": "Death toll 1,719+. Missing 46,600+. Maduro government continuing to block USAID humanitarian access. OAS resolution non-binding. Regional NGO coordination through Colombian and Brazilian border corridors. Colombia (T-29 to de la Espriella inauguration) will face immediate cross-border humanitarian pressure on Day 1.",
+          "metrics": {
+            "dead": 1719,
+            "missing": 46600,
+            "usaid_access": "blocked",
+            "colombia_border_pressure": "de la Espriella T-29"
+          }
+        },
+        {
+          "id": "acting-dni-cisa-day49",
+          "label": "Acting DNI Day 49 / CISA Clean Day 69",
+          "status": "TRACKING",
+          "summary": "Acting DNI at Day 49 of highest analytical load period: CENTCOM second-wave BDA, SNSC MOU-void assessment, Lebanon fragile-hold Iran-direction risk, Russian fuel crisis compounding energy shock, nuclear 60-day window Day 21. CISA clean Day 69 — critical infrastructure cyber posture elevated given Hormuz military exchange escalation pattern.",
+          "metrics": {
+            "acting_dni_day": 49,
+            "cisa_clean_day": 69
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "FOMC minutes released July 8 at 1400 ET: 9-9 split confirmed, many participants hold vs many others lean hike, September hike odds recalibrated to ~50-55% from 66% pre-release. Warsh released 130-word policy statement stripped of all forward guidance, declined to submit dot projection — the minutes are the only on-record directional signal, and they predate both the Russia fuel crisis and Hormuz re-escalation. WTI ~$74-75 this morning: re-escalation premium above the $74 normalization floor. Tariff calendar: Section 301 T-11 to July 20 activation, Section 122 expiry T-15 to July 24, Pharma 232 T-22 to July 31.",
+      "items": [
+        {
+          "id": "fomc-minutes-read-through",
+          "label": "FOMC Minutes Read-Through — Post-Release Assessment",
+          "status": "DIGESTING",
+          "summary": "June 16-17 FOMC minutes released July 8 at 1400 ET. Key findings: committee voted 12-0 to hold at 3.50-3.75%; split characterized as 'many participants' favoring hold vs 'many other participants' leaning toward hike by year-end — not a decisive directional tilt either way. The nine-dot hike camp on the SEP (with Warsh absent) aligns with 'many other participants' language. Chair Warsh released a 130-word policy statement stripping all forward guidance language; declined to submit a dot projection — first Fed chair to do so. September hike odds moved from 66% pre-release to approximately 50-55% post-release: a modest dovish recalibration but not a clean hold signal. Critical analytical caveat: the June 17 meeting preceded the Russia fuel crisis onset (approximately July 1) and the Hormuz re-escalation sequence (July 6-8). The committee's June frame is potentially materially stale on both energy supply and geopolitical risk. The next FOMC meeting is July 29 — T-20.",
+          "metrics": {
+            "june_fomc_vote": "12-0 hold",
+            "rate_target_range": "3.50-3.75%",
+            "committee_split_characterization": "many hold vs many other hike",
+            "nine_dot_hike_camp_aligns": true,
+            "warsh_statement_words": 130,
+            "warsh_dot_submitted": false,
+            "september_hike_odds_pre_release": "66%",
+            "september_hike_odds_post_release": "~50-55%",
+            "russia_crisis_onset_vs_fomc_date": "Russia crisis ~July 1 AFTER June 17 meeting",
+            "hormuz_reescalation_vs_fomc_date": "Hormuz re-escalation July 6-8 AFTER June 17 meeting",
+            "next_fomc_date": "2026-07-29",
+            "next_fomc_t_minus": 20,
+            "june_nfp_actual": 57000,
+            "june_nfp_consensus": 115000,
+            "unemployment_rate": "4.2%",
+            "cpi_may_yoy": "4.2%",
+            "pce_core": "3.4%"
+          },
+          "watch": "Warsh public statement on energy price pass-through (Russia + Hormuz dual-source shock); Fed presidents' public commentary this week; July 29 FOMC pre-meeting blackout starts ~July 15"
+        },
+        {
+          "id": "energy-dual-source-shock",
+          "label": "Dual-Source Energy Shock — Re-Escalation Premium",
+          "status": "ESCALATING",
+          "summary": "WTI ~$74-75 this morning — above the $74 MOU normalization floor but for the wrong reasons. The 12-day below-floor streak (approximately $69 range) was broken by the July 7-8 re-escalation premium. Brent ~$79-80. Two simultaneous disruption vectors: (1) Hormuz corridor re-escalation premium (tanker insurance/routing; CENTCOM second wave targeting Iranian coastline); (2) Russia refining collapse (Omsk halted July 7; ~25-33% national capacity offline; Lukoil-Nizegorodnefteorgsintez struck July 2). The FOMC minutes released yesterday predate both disruptions — the committee's inflation assessment is operating on a stale energy price frame. OPEC+ has not announced emergency production adjustment.",
+          "metrics": {
+            "wti_morning": "~$74-75",
+            "brent_morning": "~$79-80",
+            "wti_july8_change_pct": 5.12,
+            "wti_normalization_floor": 74,
+            "wti_prior_12day_below_floor_range": "$69",
+            "wti_context": "Re-escalation premium, not normalization confidence",
+            "russia_refining_offline_pct": "~25-33%",
+            "omsk_halted": true,
+            "opec_emergency_response": "none announced"
+          },
+          "watch": "WTI direction through morning session; Brent spread; tanker insurance Lloyd's rate quotes; OPEC+ emergency communication; Iran response to oil-sanctions reimposition on crude price"
+        },
+        {
+          "id": "tariff-calendar-active",
+          "label": "Tariff Calendar — Active Exposure Window",
+          "status": "TRACKING",
+          "summary": "Three tariff deadlines converging over the next 22 days. USTR Section 301 12.5% tariffs on 46 countries activate July 20 (T-11) — post-hearing review period now active (July 7 hearing concluded). Section 122 authority expiry July 24 (T-15) with no successor framework announced. Pharma 232 tariffs July 31 (T-22). Treasury oil waiver revocation adds Iran-adjacent supply chain exposure to existing tariff pressure.",
+          "metrics": {
+            "section_301_activation": "2026-07-20",
+            "section_301_t_minus": 11,
+            "section_122_expiry": "2026-07-24",
+            "section_122_t_minus": 15,
+            "pharma_232_activation": "2026-07-31",
+            "pharma_232_t_minus": 22,
+            "section_301_hearing_concluded": "2026-07-07",
+            "successor_framework_announced": false
+          }
+        },
+        {
+          "id": "obbb-law-day10",
+          "label": "OBBB Law Day 10",
+          "status": "ACTIVE",
+          "summary": "One Big Beautiful Bill Day 10. Medicaid work requirements and SNAP benefit restrictions active in 18 states via administrative action. No federal court stay. CBO estimated +$3.4T deficit impact over 10 years. 30-year Treasury yield approximately 5%. Speaker Johnson SAVE America voter ID Act signaled for Reconciliation 3.0 — Senate Byrd bath risk elevated.",
+          "metrics": {
+            "law_day": 10,
+            "states_active": 18,
+            "legal_stay": false,
+            "cbo_deficit_impact_t": 3.4,
+            "treasury_30yr": "~5%"
+          }
+        },
+        {
+          "id": "markets-macro",
+          "label": "Markets / Macro",
+          "status": "TRACKING",
+          "summary": "Dow approximately 52,900. S&P approximately 7,483. Recession probability 35%. GDP Q1 2026 revised to 2.1% annualized. ISM Services PMI June 51.3 — third consecutive month of deceleration. Manufacturing PMI June 53.3 (down from 54.0 May). SpaceX (SPCX) Nasdaq-100 Day 3 of full inclusion session. Energy re-escalation premium will test equity market resilience at open.",
+          "metrics": {
+            "dow": 52900,
+            "sp500": 7483,
+            "recession_probability": "35%",
+            "q1_gdp_annualized": "2.1%",
+            "ism_services_june": 51.3,
+            "ism_services_trend": "third_consecutive_deceleration",
+            "manufacturing_pmi_june": 53.3,
+            "spcx_nasdaq100_day": 3
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "Chelan Hills Fire Day 5: most recent ICS-209 at 20% containment (Day 4 evening) — first progress from 0%; Day 5 morning ICS-209 is today's primary domestic watch item; 1 confirmed fatality, 100+ structures destroyed, AR window now closed. Sourdough Fire Day 5: AR window closed overnight; Day 5 morning ICS-209 is first post-AR assessment; SR-20 closed; Skagit dam hydropower disrupted; extended attack conditions now in effect. NIFC PL4 Day 11. FERC AI pathway intervention deadline closes COB TODAY. Longview CSB elevated risk window T-2 (July 11).",
+      "items": [
+        {
+          "id": "chelan-hills-fire-day5-morning",
+          "label": "Chelan Hills Fire — Day 5 Morning (20% Containment Day 4 Evening Reading)",
+          "status": "CRITICAL",
+          "summary": "Day 5 morning state: approximately 9,735+ acres. Most recent ICS-209 (Day 4 evening, July 8) confirmed 20% containment — first material progress after three consecutive mornings at 0%. Day 5 morning ICS-209 is the primary watch item. Context: 200+ personnel built containment line geometry during Day 4 with AR humidity providing final suppression assist. 1 fatality confirmed (remains found in vehicle). 100+ structures destroyed in McNeil Canyon / Chelan Hills corridor — approximately 75% of structures within footprint. Level 3 (GO NOW) evacuations remain active in portions of Chelan Hills / Douglas County. Human-caused investigation active: Douglas County Sheriff reports fire believed ignited near US-97 around midnight July 4 — criminal investigation. AR humidity window is now closed as of overnight. Post-AR conditions (lower humidity, potential afternoon winds) govern Day 5 behavior.",
+          "metrics": {
+            "day": 5,
+            "acres": 9735,
+            "containment_pct_day4_evening": 20,
+            "day5_morning_ics209_status": "PENDING",
+            "structures_destroyed": 100,
+            "structures_destroyed_pct_footprint": 75,
+            "fatality_confirmed": 1,
+            "personnel": "200+",
+            "county": "Douglas County WA",
+            "level_3_evacuations": true,
+            "human_caused_investigation": true,
+            "criminal_investigation": true,
+            "ignition_date_alleged": "2026-07-04 midnight near US-97",
+            "ar_window_status": "CLOSED as of overnight July 8-9",
+            "post_ar_conditions": "ACTIVE — extended attack conditions now governing"
+          },
+          "watch": "Day 5 morning ICS-209 containment reading; fatality confirmation status; evacuation level changes; post-AR wind behavior; Day 4 damage total and dollar estimate; personnel increase to 300+"
+        },
+        {
+          "id": "navarre-coulee-fire",
+          "label": "Navarre Coulee Fire — 300 Acres, 80% Contained, Level 1 (Resolved)",
+          "status": "MONITORING",
+          "summary": "Approximately 300 acres, 80% contained. Level 1 advisory only (downgraded from Level 2). Fire behavior: smoldering, creeping, backing. No structures lost. Functionally resolved. Near Chelan Hills footprint but separate incident. Post-AR wind event remains the only reactivation risk.",
+          "metrics": {
+            "acres": 300,
+            "containment_pct": 80,
+            "evacuation_level": 1,
+            "structures_lost": 0,
+            "resolution_status": "functionally_resolved"
+          },
+          "watch": "Post-AR wind event reactivation; proximity to Chelan Hills perimeter"
+        },
+        {
+          "id": "sourdough-fire-day5-morning",
+          "label": "Sourdough Fire — Day 5 Morning (0% Containment, AR Window CLOSED, First Post-AR Assessment Today)",
+          "status": "CRITICAL",
+          "summary": "Day 5 morning state: approximately 3,900+ acres, ZERO containment. North Cascades National Park / Ross Lake NRA (Whatcom County WA). SR-20 (North Cascades Highway) closed indefinitely between Newhalem and Silver Star (approximately 22 miles). Skagit River dam hydropower to Seattle DISRUPTED — Gorge, Diablo, and Ross dams; Seattle City Light hydropower supply interrupted. Terrain: steep wilderness roadless, aerial-only suppression. The atmospheric river window closed overnight July 8-9 — today's ICS-209 is the first post-AR assessment. The window closed without any containment gain on Sourdough; extended attack conditions now in effect for this fire. Fire behavior forecast under post-AR conditions: lower relative humidity, potential afternoon upslope flow — less favorable than yesterday. Wildfire containment in North Cascades wilderness is inherently aerial-dependent and multi-week to multi-month under extended attack.",
+          "metrics": {
+            "day": 5,
+            "acres": 3900,
+            "containment_pct": 0,
+            "day5_morning_ics209_status": "PENDING — first post-AR assessment",
+            "sr20_closure_miles": 22,
+            "sr20_status": "CLOSED",
+            "seattle_hydropower_disrupted": true,
+            "dams_affected": ["Gorge", "Diablo", "Ross"],
+            "terrain": "steep_wilderness_roadless",
+            "suppression_method": "aerial_only",
+            "ar_window_status": "CLOSED as of overnight July 8-9",
+            "ar_containment_gain": 0,
+            "extended_attack_conditions": "NOW ACTIVE"
+          },
+          "watch": "Day 5 morning ICS-209 any initial containment; Seattle City Light hydropower restoration timeline; SR-20 reopening assessment; aerial resource allocation given NIFC PL4 Day 11"
+        },
+        {
+          "id": "nifc-pl4-day11",
+          "label": "NIFC Preparedness Level 4 — Day 11",
+          "status": "ELEVATED",
+          "summary": "National Interagency Fire Center at Preparedness Level 4 for Day 11 — first PL4 since 2021. 37+ large fires nationally. 9,300+ firefighters deployed. National aerial resource competition ongoing — directly affects Sourdough suppression capacity in aerial-dependent terrain. North Cayuse Fire OR (east of Pendleton; active behavior; evacuations). Crawford Oaks Fire WA (Dallesport, Columbia Gorge; structures threatened).",
+          "metrics": {
+            "pl4_day": 11,
+            "large_fires": 37,
+            "firefighters_deployed": 9300,
+            "last_pl4_year": 2021
+          },
+          "watch": "PL5 threshold; aerial resource reallocation to WA fires; North Cayuse and Crawford Oaks growth"
+        },
+        {
+          "id": "ferc-ai-pathway-today",
+          "label": "FERC AI Data Center Pathway — Intervention Deadline COB TODAY",
+          "status": "IMMINENT",
+          "summary": "FERC Section 206 show cause proceeding on AI data center grid interconnection: intervention comment deadline closes COB TODAY July 9. Stakeholder map locked at close of business. 30-day informational report (generation adequacy) due July 18 (T-9). Six RTOs/ISOs directed to justify or reform large-load tariffs within 60 days (due August 17). PNW data center corridors (Quincy WA, The Dalles OR, Eastern Oregon BPA/WECC) positioned as de facto national standard-setters for AI infrastructure grid load management.",
+          "metrics": {
+            "intervention_deadline": "2026-07-09 COB",
+            "days_to_intervention": 0,
+            "informational_report_deadline": "2026-07-18",
+            "informational_report_t_minus": 9,
+            "formal_response_deadline": "2026-08-17",
+            "rtos_isos_directed": 6
+          },
+          "watch": "Coalition filing volume by COB today; utility response positioning; BPA and WECC statements; Quincy WA and The Dalles OR data center operator filings"
+        },
+        {
+          "id": "longview-csb-day45",
+          "label": "Longview Chemical Safety Board — Day 45 (Elevated Window T-2)",
+          "status": "WATCH",
+          "summary": "Day 45. Next elevated chemical stability risk window opens in T-2 days (July 11). Three-thread convergence beginning July 11-18: Longview elevated risk + FERC 30-day informational report deadline (July 18) + measles high-consequence sub-window peak (July 9-12). AR temperatures provided brief chemical stability buffer; that buffer ends as post-AR conditions arrive.",
+          "metrics": {
+            "day": 45,
+            "elevated_window_date": "2026-07-11",
+            "elevated_window_t_minus": 2,
+            "three_thread_convergence": "July 11-18"
+          },
+          "watch": "Chemical stability monitoring July 11+; FERC 30-day report and measles sub-window compound load assessment"
+        },
+        {
+          "id": "wa-drought-baseline",
+          "label": "Washington Drought Day 35 / Oregon / El Niño",
+          "status": "BASELINE",
+          "summary": "Washington state drought Day 35 — fourth consecutive year. 50% snowpack. 12-county emergency declaration. Oregon 83% drought coverage. Super El Niño probability 25%; El Niño 61%. East Cascades fire season onset Day 12.",
+          "metrics": {
+            "wa_drought_day": 35,
+            "consecutive_drought_years": 4,
+            "wa_snowpack_pct": 50,
+            "or_drought_coverage_pct": 83,
+            "elnino_probability": "61%",
+            "super_elnino_probability": "25%",
+            "east_cascades_fire_onset_day": 12
+          }
+        },
+        {
+          "id": "nsf-newport-dark-day11",
+          "label": "NSF Newport OR Research Vessel Dark — Day 11",
+          "status": "ONGOING",
+          "summary": "NSF Newport Oregon marine research station Day 11 operational gap. AR event occurred in the monitoring gap — NWS Portland flood calibration confirmed degraded without Newport atmospheric data. Senate unanimous reinstallation authorization in place. Physical reinstallation timeline pending. Post-AR fire weather forecast precision reduced for East Cascades and Sourdough terrain without Newport data.",
+          "metrics": {
+            "dark_day": 11,
+            "nws_flood_calibration": "degraded",
+            "ar_event_occurred_in_gap": true,
+            "senate_authorization": "unanimous"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "SCOTUS: Trump requesting rehearing on birthright citizenship ruling ('fueling scams'). OBBB Law Day 10 active in 18 states. Measles HIGH-CONSEQUENCE SUB-WINDOW BEGINS TODAY (July 9-12; June 19 Lumen Field cluster Day 7; Georgetown surveillance active). Lebanon War Powers defeated in House. FERC AI intervention deadline TODAY.",
+      "items": [
+        {
+          "id": "scotus-term-digesting-trump-rehearing",
+          "label": "SCOTUS Term — Trump Requests Birthright Citizenship Rehearing",
+          "status": "DEVELOPING",
+          "summary": "The five major SCOTUS term rulings continue to digest. New development: President Trump has formally requested Supreme Court rehearing on the birthright citizenship ruling (affirmed 6-3), arguing the ruling is 'fueling citizenship scams' and threatening national security. Rehearing petitions are rarely granted; the request signals administration intent to relitigate and is a political signal more than a legal threat. Four other rulings (campaign finance coordination, Humphrey's Executor, mail ballot grace periods, VRA Section 2) operationally in effect. Justices Barrett and Kagan scheduled to testify before Senate and House appropriations subcommittees July 14 (T-5) — fiscal 2027 budget request of $225.1M (approximately 10% increase).",
+          "metrics": {
+            "birthright_citizenship_vote": "6-3 upheld",
+            "trump_rehearing_request": true,
+            "rehearing_grant_probability": "LOW",
+            "campaign_finance_vote": "6-3 struck",
+            "humphreys_executor_vote": "6-3 overturned",
+            "mail_ballot_vote": "5-4 eliminated",
+            "justices_testimony_date": "2026-07-14",
+            "justices_testimony_t_minus": 5,
+            "scotus_fy27_budget_request_m": 225.1
+          }
+        },
+        {
+          "id": "obbb-law-day10",
+          "label": "OBBB Law Day 10 — Active 18 States",
+          "status": "ACTIVE",
+          "summary": "One Big Beautiful Bill Day 10. Medicaid work requirements and SNAP benefit restrictions active in 18 states via administrative action. No federal court stay. Speaker Johnson signaling SAVE America voter ID Act for Reconciliation 3.0 — Senate Byrd bath risk elevated; conflicts with remaining OBBB reconciliation bandwidth.",
+          "metrics": {
+            "law_day": 10,
+            "states_active": 18,
+            "legal_stay": false
+          }
+        },
+        {
+          "id": "measles-high-consequence-window-today",
+          "label": "Measles High-Consequence Sub-Window — BEGINS TODAY July 9",
+          "status": "ELEVATED",
+          "summary": "2026 national measles situation: 2,170 confirmed cases (CDC July 2 update); 31 outbreaks; 41 jurisdictions; 138 hospitalized. National MMR vaccination rate 92.5% — below 95% herd immunity threshold. June 19 Lumen Field Seattle cluster exposure window Day 7 (July 3-10). HIGH-CONSEQUENCE sub-window BEGINS TODAY July 9: peak secondary transmission risk period July 9-12. Georgetown University wastewater DNA surveillance active; Puget Sound ER fusion dashboard active. CIDRAP showing possible slowing signal Day 33 — not yet confirmed. Health officials: June-July 2026 identified as period of heightened risk for Puget Sound given FIFA World Cup draws and summer travel.",
+          "metrics": {
+            "total_cases_2026": 2170,
+            "outbreaks": 31,
+            "jurisdictions": 41,
+            "hospitalized": 138,
+            "mmr_rate_national": "92.5%",
+            "herd_threshold": "95%",
+            "lumen_field_window_day": 7,
+            "high_consequence_window_start": "2026-07-09",
+            "high_consequence_window_end": "2026-07-12",
+            "cidrap_slowing_signal": "Day 33, unconfirmed"
+          },
+          "watch": "Georgetown wastewater signal TODAY July 9; Puget Sound ER fusion dashboard uptick; CIDRAP slowing confirmation; WA DOH Lumen Field cluster secondary case report"
+        },
+        {
+          "id": "lebanon-war-powers-defeated",
+          "label": "Lebanon War Powers Resolution — Defeated",
+          "status": "CLOSED",
+          "summary": "Lebanon War Powers Resolution defeated in House — 22 House Democrats joined Republicans. Defeat leaves president with broad operational latitude in Hormuz theater. CENTCOM second-wave strikes on July 8 (post-defeat) confirm operational latitude is being exercised.",
+          "metrics": {
+            "democrat_defections": 22,
+            "outcome": "defeated",
+            "executive_latitude": "BROAD — confirmed by CENTCOM second-wave July 8"
+          }
+        },
+        {
+          "id": "fema-hurricane-season",
+          "label": "FEMA Hurricane Season / National Emergency Posture",
+          "status": "TRACKING",
+          "summary": "FEMA posture degraded for hurricane season. Atlantic currently quiet. PNW compound wildfire demand active — Chelan Hills and Sourdough drawing national aerial resources at NIFC PL4 Day 11. Acting DNI at peak analytical load (Day 49).",
+          "metrics": {
+            "atlantic_activity": "quiet",
+            "pnw_fema_demand": "compound_active_pl4_day11"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "Two simultaneous wildfire crises entering Day 5. Chelan Hills: 20% containment from Day 4 evening (first progress), Day 5 morning ICS-209 pending, 1 fatality, 100+ structures, AR window closed. Sourdough: 0% containment, AR window closed overnight, Day 5 first post-AR assessment pending, SR-20 closed, Skagit dam hydropower disrupted. FERC AI deadline TODAY. Measles high-consequence window begins TODAY. Longview CSB elevated window T-2.",
+      "items": [
+        {
+          "id": "pnw-wildfire-day5-morning-state",
+          "label": "PNW Wildfire Day 5 Morning — AR Window Closed; Both Fires Entering Post-AR Conditions",
+          "status": "CRITICAL",
+          "summary": "Morning status: Chelan Hills Fire (Douglas County) ~9,735 acres / 20% containment (Day 4 evening ICS-209) / Day 5 ICS-209 pending / 1 fatality confirmed / 100+ structures destroyed / AR window closed / criminal ignition investigation. Sourdough Fire (Whatcom County) ~3,900+ acres / 0% containment / SR-20 closed / Skagit hydropower disrupted / AR window CLOSED overnight / Day 5 first post-AR ICS-209 pending / aerial-only suppression. Navarre Coulee (Chelan County) 300 acres / 80% contained / Level 1 / functionally resolved. North Cayuse Fire OR (east Pendleton; active; evacuations). Crawford Oaks Fire WA (Dallesport / Columbia Gorge; structures threatened). East Cascades fire season onset Day 12.",
+          "metrics": {
+            "chelan_hills_acres": 9735,
+            "chelan_hills_containment_day4_evening": 20,
+            "chelan_hills_day5_ics209": "PENDING",
+            "sourdough_acres": 3900,
+            "sourdough_containment": 0,
+            "sourdough_day5_ics209": "PENDING — first post-AR",
+            "navarre_coulee_acres": 300,
+            "navarre_coulee_containment": 80,
+            "ar_window_status": "CLOSED as of overnight July 8-9",
+            "nifc_pl4_day": 11
+          }
+        },
+        {
+          "id": "pnw-today-convergence",
+          "label": "PNW Today Convergence — Measles T-0, FERC T-0, Longview T-2",
+          "status": "WATCH",
+          "summary": "Three simultaneous PNW-relevant deadlines converge today and in the next 48 hours. Measles high-consequence sub-window BEGINS TODAY July 9 (June 19 Lumen Field cluster Day 7; peak secondary transmission risk July 9-12; Georgetown wastewater and Puget Sound ER fusion are primary early warning instruments — watch for clusters confirmed today). FERC AI pathway intervention deadline closes COB TODAY — last window for stakeholder participation; Quincy WA and The Dalles OR positioned as national standard-setters; 30-day report due July 18 (T-9). Longview CSB elevated chemical stability risk window July 11 (T-2) — concurrent with FERC 30-day report and measles sub-window peak: three-thread convergence.",
+          "metrics": {
+            "measles_high_consequence_t_minus": 0,
+            "ferc_intervention_t_minus": 0,
+            "longview_elevated_window_t_minus": 2
+          }
+        },
+        {
+          "id": "pnw-drought-hydro-nsf",
+          "label": "PNW Drought / Hydro / NSF Newport",
+          "status": "BASELINE",
+          "summary": "Washington drought Day 35 (fourth consecutive year; 50% snowpack; 12-county emergency). Sourdough Fire Skagit dam hydropower disruption active — Seattle City Light supply interrupted, Gorge/Diablo/Ross dams affected. Oregon 83% drought. Super El Niño 25% probability developing. NSF Newport OR research vessel dark Day 11 — NWS Portland fire weather forecast precision reduced for Sourdough and East Cascades terrain.",
+          "metrics": {
+            "wa_drought_day": 35,
+            "skagit_hydro_disrupted": true,
+            "dams_affected": ["Gorge", "Diablo", "Ross"],
+            "or_drought_pct": 83,
+            "super_elnino_probability": "25%",
+            "nsf_newport_dark_day": 11
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "The morning of July 9 opens on a Vibe 4 — restored from July 8 morning's Vibe 3 downgrade, consistent with the July 8 evening's recovery trajectory. The analytical foundation for the Vibe 4 hold rests on three stabilizing reads confirmed since yesterday morning: first, the Witkoff/Kushner channel is explicitly preserved in Trump's own 'ceasefire over' statement ('Steve and Jared want to keep going — but they have to come back to me') and no formal termination instrument was issued despite CENTCOM executing its most geographically dispersed strike package of the post-MOU period; second, Kharg Island — through which 90% of Iran's oil exports transit — was threatened but not struck, which is the single most significant operational stabilizer of the overnight session; third, FOMC minutes tilted slightly dovish relative to the 66% pre-release September hike probability (recalibrated to ~50-55%), reducing the most acute market risk overhang from yesterday morning. Against these stabilizers: the CENTCOM second-wave + Iran's 85+ US-facility counter-strikes constitute the most geographically extensive military exchange of the 132-day post-MOU arc, and the Russia fuel crisis entered its most consequential phase with the Omsk halt — both developments occurred after the FOMC's June 17 meeting, meaning the committee's current frame is operating on stale energy-price and geopolitical assumptions that have materially deteriorated in the intervening three weeks. Today's primary watch items are: (1) the Chelan Hills Day 5 morning ICS-209 — will the 20% Day 4 evening reading hold and advance? (2) The Sourdough Day 5 morning ICS-209 — the first post-AR assessment, now under extended attack conditions; (3) whether Georgetown wastewater surveillance registers any signal as the Lumen Field cluster's high-consequence transmission window opens this morning; (4) final stakeholder filing volume for the FERC AI pathway intervention deadline closing COB today; and (5) any SNSC or Iranian Foreign Ministry formal characterization of whether the oil sanctions reimposition constitutes a MOU breach requiring formal SNSC void declaration — the single most escalatory possible outcome remaining on the table.",
+  "watch_items": [
+    {
+      "id": "chelan-hills-day5-ics209",
+      "label": "Chelan Hills Fire Day 5 Morning ICS-209",
+      "priority": 1,
+      "detail": "Day 4 evening confirmed 20% — first progress from 0%; Day 5 opens under post-AR conditions (closed overnight); 200+ personnel working containment geometry; any advance toward 30-40% is the PNW positive of the morning; regression under post-AR wind is the downside"
+    },
+    {
+      "id": "sourdough-day5-ics209-post-ar",
+      "label": "Sourdough Fire Day 5 ICS-209 — First Post-AR Assessment",
+      "priority": 2,
+      "detail": "AR window closed last night with zero containment on Sourdough; today's ICS-209 is the first under extended attack conditions; SR-20 closure and Skagit dam hydropower disruption resolution both gated on fire trajectory; aerial-only suppression in roadless wilderness with post-AR conditions arriving"
+    },
+    {
+      "id": "snsc-mou-formal-declaration",
+      "label": "SNSC / Iran FM Formal MOU Status Statement",
+      "priority": 3,
+      "detail": "No formal void declaration issued as of morning brief despite July 7 oil sanctions reimposition and CENTCOM second-wave; formal SNSC void declaration citing sanctions reimposition as US MOU breach would be the most escalatory possible outcome; Iran FM public statement is the primary signal instrument"
+    },
+    {
+      "id": "kharg-island-operational-order",
+      "label": "Kharg Island Operational Order Watch",
+      "priority": 4,
+      "detail": "Trump threatened Kharg Island (90% of Iranian oil exports) at NATO Ankara; no CENTCOM order confirmed as of morning brief; a Kharg strike would be categorically escalatory — energy market pricing, Iranian response calculus, and MOU survival all pivot on this single variable"
+    },
+    {
+      "id": "witkoff-kushner-negotiation-signal",
+      "label": "Witkoff / Kushner Formal Negotiation Signal",
+      "priority": 5,
+      "detail": "Trump explicitly preserved the Witkoff/Kushner track ('they want to keep going — but they have to come back to me'); a formal announcement of resumed direct engagement or a Doha meeting scheduled would be the primary de-escalation signal of the day and the Vibe 5 upgrade trigger"
+    },
+    {
+      "id": "measles-georgetown-wastewater",
+      "label": "Measles — Georgetown Wastewater Signal TODAY",
+      "priority": 6,
+      "detail": "High-consequence sub-window opens TODAY July 9; peak secondary transmission risk July 9-12 from June 19 Lumen Field cluster; Georgetown wastewater and Puget Sound ER fusion dashboard are primary early warning instruments; any cluster confirmation today is the domestic health negative of the session"
+    },
+    {
+      "id": "ferc-ai-deadline-today",
+      "label": "FERC AI Pathway Intervention — Closes COB TODAY",
+      "priority": 7,
+      "detail": "Last opportunity for stakeholder participation in FERC show cause proceeding; Quincy WA, The Dalles OR, Eastern Oregon BPA/WECC corridors as de facto national standard-setters; stakeholder filing volume and coalition positioning determines the 30-day informational report landscape (July 18)"
+    },
+    {
+      "id": "iran-us-oil-sanctions-formal-response",
+      "label": "Iranian Response to Oil Sanctions Reimposition",
+      "priority": 8,
+      "detail": "July 7 Treasury revocation of oil export waiver is the MOU's most concrete economic breach; Iran's formal characterization determines whether SNSC declares US in breach and whether the MOU's economic incentive structure is assessed as irreparably broken"
+    },
+    {
+      "id": "longview-csb-t2",
+      "label": "Longview CSB Elevated Risk Window — T-2 to July 11",
+      "priority": 9,
+      "detail": "Next elevated chemical stability window opens in 2 days (July 11); three-thread convergence with FERC 30-day report (July 18) and measles sub-window peak (July 9-12); temperature buffer from AR period now ending with post-AR conditions arriving"
+    },
+    {
+      "id": "russia-fuel-crisis-omsk-status",
+      "label": "Omsk Refinery Operational Status",
+      "priority": 10,
+      "detail": "Russia's largest refinery halted July 7 after Ukrainian drone strikes July 6; restoration timeline unknown; combined with prior strikes brings ~25-33% of Russian refining offline; FOMC June assessment predates crisis onset — dual-source energy shock (Russia + Hormuz) is the primary stale-frame risk to Fed September assessment"
+    }
+  ],
+  "sources": [
+    {
+      "outlet": "Washington Post",
+      "headline": "US intensifies strikes on Iran's coast along Strait of Hormuz",
+      "url": "https://www.washingtonpost.com/world/2026/07/09/us-intensifies-strikes-irans-coast-along-strait-hormuz/",
+      "domain": "geopolitical"
+    },
+    {
+      "outlet": "Al Jazeera",
+      "headline": "US, Iran launch more attacks as mediators urge both sides to uphold MoU",
+      "url": "https://www.aljazeera.com/news/2026/7/9/us-iran-launch-more-attacks-as-mediators-urge-warring-sides-to-uphold-mou",
+      "domain": "geopolitical"
+    },
+    {
+      "outlet": "ABC News",
+      "headline": "Trump says MOU is 'over', calls Iranian leaders 'scum' following latest strikes",
+      "url": "https://abcnews.com/International/trump-mou-calls-iranian-leaders-scum-latest-strikes/story?id=134576539",
+      "domain": "geopolitical"
+    },
+    {
+      "outlet": "CNN",
+      "headline": "President Trump says MOU is 'over'",
+      "url": "https://www.cnn.com/2026/07/08/world/video/president-trump-says-mou-is-over-intldsk",
+      "domain": "geopolitical"
+    },
+    {
+      "outlet": "The Hill",
+      "headline": "Trump says interim deal with Iran 'over' after strikes",
+      "url": "https://thehill.com/homenews/administration/5958471-donald-trump-iran-interim-deal-over/",
+      "domain": "geopolitical"
+    },
+    {
+      "outlet": "Al Jazeera",
+      "headline": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
+      "url": "https://www.aljazeera.com/news/2026/7/8/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes",
+      "domain": "geopolitical"
+    },
+    {
+      "outlet": "RFE/RL",
+      "headline": "Trump Says US Might Take Kharg Island",
+      "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html",
+      "domain": "geopolitical"
+    },
+    {
+      "outlet": "Wikipedia",
+      "headline": "2026 Strait of Hormuz crisis",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "domain": "geopolitical"
+    },
+    {
+      "outlet": "Al Jazeera",
+      "headline": "Russia fuel crisis: 'The crisis is deep'",
+      "url": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen",
+      "domain": "geopolitical"
+    },
+    {
+      "outlet": "CNN",
+      "headline": "Almost every Russian region hit by fuel crisis as Ukraine escalates drone attacks",
+      "url": "https://www.cnn.com/2026/07/06/europe/russia-fuel-crisis-ukraine-drone-attacks-intl-vis",
+      "domain": "geopolitical"
+    },
+    {
+      "outlet": "Fortune",
+      "headline": "Current price of oil as of July 9, 2026",
+      "url": "https://fortune.com/article/price-of-oil-07-09-2026/",
+      "domain": "economic"
+    },
+    {
+      "outlet": "CNBC",
+      "headline": "Fed minutes June 2026: officials split on rates",
+      "url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
+      "domain": "economic"
+    },
+    {
+      "outlet": "TechTimes",
+      "headline": "Fed Minutes Due Wednesday: Nine Hawkish Dots and Warsh's Deliberate Silence",
+      "url": "https://www.techtimes.com/articles/319827/20260707/fed-minutes-due-wednesday-nine-hawkish-dots-warshs-deliberate-silence.htm",
+      "domain": "economic"
+    },
+    {
+      "outlet": "KOMO News",
+      "headline": "Firefighters battle Chelan Hills Fire as blaze swells, evacuation orders stay",
+      "url": "https://komonews.com/news/local/firefighters-battle-chelan-hills-fire-as-blaze-swells-evac-orders-stay-douglas-county-washington-lake-chelan-wildfire-4th-of-july-weekend-visitors-residents",
+      "domain": "infrastructure"
+    },
+    {
+      "outlet": "KIRO7",
+      "headline": "Chelan Hills Fire now 50% contained",
+      "url": "https://www.kiro7.com/news/local/chelan-hills-wildfire-go-now-evacuation-orders-issued-800-acres-burn-near-orondo/OABSXKZK4ZEM5JK43MYRVFXGTA/",
+      "domain": "infrastructure",
+      "note": "Later-day reading — morning state was 20% per Day 4 evening ICS-209"
+    },
+    {
+      "outlet": "KUOW",
+      "headline": "Sourdough Fire consumes another 1,000 acres, cuts dam power to Seattle",
+      "url": "https://www.kuow.org/stories/sourdough-fire-consumes-another-1-000-acres-cuts-dam-power-to-seattle",
+      "domain": "infrastructure"
+    },
+    {
+      "outlet": "McGuireWoods",
+      "headline": "FERC Issues Section 206 Show Cause Orders Directing All Six RTOs/ISOs to Justify or Reform Large Load Integration Rules",
+      "url": "https://www.mcguirewoods.com/client-resources/alerts/2026/6/ferc-issues-section-206-show-cause-orders-directing-all-six-rtos-isos-to-justify-or-reform-large-load-integration-rules/",
+      "domain": "infrastructure"
+    },
+    {
+      "outlet": "TechCrunch",
+      "headline": "AI data centers just got a government-mandated fast lane to the grid",
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "domain": "infrastructure"
+    },
+    {
+      "outlet": "PJ Media",
+      "headline": "Trump: SCOTUS Ruling Already Fueling Citizenship Scams, Rehearing Needed",
+      "url": "https://pjmedia.com/catherinesalgado/2026/07/09/trump-scotus-ruling-already-fueling-citizenship-scams-rehearing-needed-n4954823",
+      "domain": "domestic"
+    },
+    {
+      "outlet": "Axios Seattle",
+      "headline": "Why Washington measles outbreak is likely to worsen",
+      "url": "https://www.axios.com/local/seattle/2026/03/11/washington-measles-outbreak-2026-cases-unvaccinated-summer-travel-world-cup",
+      "domain": "domestic"
+    },
+    {
+      "outlet": "KPTV",
+      "headline": "A 'Super El Niño' is developing... What it means for the Pacific Northwest",
+      "url": "https://www.kptv.com/2026/07/08/super-el-nio-is-developing-what-it-means-pacific-northwest/",
+      "domain": "local_pnw"
+    }
+  ]
+}
