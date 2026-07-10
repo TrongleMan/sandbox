@@ -1,0 +1,465 @@
+{
+  "report_id": "2026-07-10-evening",
+  "generated_at": "2026-07-10T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "Hormuz Day 133 — MOU ACUTE STRESS DAY 3: WITKOFF/KUSHNER IN DOHA (Qatar/Pakistan Mediator Meetings July 9-10; Iran Refused Direct Meetings — 'Dissed' In Doha; Communication Channel Agreed As MOU Dispute Resolution Mechanism; $6B Frozen Assets NOT Released); WTI ~$73-74 MODEST PULLBACK FROM $75 PEAK (Qatar Channel Signal Partially Trimming War-Risk Premium; Still Above $74 Normalization Floor; No CENTCOM Blockade Reinstatement; No SNSC MOU-Void Declaration; Oil Sanctions Reimposed July 7 Stripping MOU Central Incentive); CHELAN HILLS FIRE DAY 6 — FIRST POST-AR RED FLAG TEST (50% Containment Under Active Red Flag Warning; 10-20% RH / 35MPH Gusts; Critical Geometry Test; Level 3 Evacuations Still Active; Human-Caused Investigation Ongoing; ICS-209 ~9,735-9,861 Acres); SOURDOUGH FIRE DAY 6 — SR-20 REOPENED (Day 5 ICS-209 Consistent With AR-Period Suppression Progress; SR-20 North Cascades Highway Reopened; Skagit Dam Power Restoration Developing; Extended Attack Phase Entering); NIFC PL4 DAY 12 (37 Large Fires Nationally; North Cayuse OR Active; Crawford Oaks WA Active); RUSSIA FUEL CRISIS DAY 10 (Omsk CDU-10 DESTROYED — 38% Refinery Capacity; CDU-11 Potentially Recoverable Sooner; Central Asian Spillover Confirmed — Uzbekistan Flight Cuts Jet Fuel; Kazakhstan China Import Insurance); LONGVIEW CSB DAY 46 — THREE-THREAD CONVERGENCE TOMORROW T-1 (July 11 Elevated Risk Window Opening: Longview + FERC 30-Day July 18 T-8 + Measles Sub-Window Peak Closing); MEASLES HIGH-CONSEQUENCE SUB-WINDOW DAY 2 (Peak Window July 10-11; Georgetown Surveillance Active; NO CLUSTERS DAY 2 — TWO-DAY CLEAN STREAK; Window Runs Through Day 10 July 12); FERC AI 30-DAY INFORMATIONAL REPORT T-8 (July 18; Six ISO/RTO Operators Must Report Resource Adequacy Plans; PNW Data Center Corridor Impact); SECTION 122 T-14 (July 24 Expiry; USTR Section 301 Post-Hearing Review Active; No Successor Framework Announced; 12.5% On 46 Countries Proposed); OBBB LAW DAY 11 (Medicaid/SNAP 18 States; No Federal Stay; SNAP Aragon v. Rollins June 22 Ruling Downstream — 5 State USDA Demonstrations Invalidated); LEBANON FRAGILE HOLD DAY 25 (Ceasefire-War Committee Active; Hezbollah 'Null And Void' Unretracted; No Operational Direction From Iran Post-July 8-9 Exchange Confirmed); NSF NEWPORT OR DARK DAY 12 (Monitoring Gap Through Peak Fire Season; Reinstallation Timeline Pending); PERU FUJIMORI CREDENTIALS T-5 (July 15 JNE Ceremony); COLOMBIA DE LA ESPRIELLA T-28 (Aug 7); VENEZUELA EARTHQUAKE DAY 17 (1,719+ Dead; 46,600+ Missing); ACTING DNI DAY 50; CISA CLEAN DAY 70; WA DROUGHT DAY 36 (4th Year; 50% Snowpack); EAST CASCADES ONSET DAY 13; PNW CLIMATE WEEK T-3 (July 13-19). Friday July 10, 2026 evening. The July 10 evening brief holds at Vibe 4 — maintaining the July 9 evening level with two competing directional signals that roughly offset. The session's analytical signature is a genuine split between a meaningful Hormuz de-escalation signal (Qatar mediator channel, WTI partial retreat) and a new PNW infrastructure risk factor (Red Flag Warning testing Chelan Hills' 50% containment geometry for the first time post-AR). On Hormuz: the Witkoff/Kushner Doha presence on July 9-10 is the most consequential negotiator development since Trump's 'ceasefire over' declaration at the NATO Ankara summit. The two special envoys traveled to Doha and met with Qatari Emir Sheikh Tamim bin Hamad Al Thani and Pakistani mediators while Iran refused direct meetings — Iran 'dissed' them in Doha, choosing to negotiate through the mediator channel only. The outcome: Iran and the US agreed to establish a formal 'communication channel' to resolve MOU disputes. This is analytically significant: it represents Iran's tacit acceptance of a managed-dispute architecture within the MOU framework rather than a formal void declaration. The $6B frozen assets Iran sought were not released — suggesting the US retained its principal economic leverage while accepting the communication channel concession. WTI's modest retreat from the $75 re-escalation peak (~$73-74 on July 10) reflects the market partially trimming the war-risk premium in response to the Qatar channel signal, without fully pricing in normalization — which requires the channel to translate into direct technical talks. No SNSC formal MOU-void declaration has been confirmed through the July 10 evening session. No CENTCOM blockade reinstatement order. The MOU is at Acute Stress Day 3 under maximum declaratory pressure but with an emerging dispute-resolution architecture that was absent at the July 9 evening session. On fires: Chelan Hills Fire Day 6 under Red Flag Warning is the session's central infrastructure risk. The atmospheric river's humidity recovery — which enabled the 20%→50% containment surge on Days 4-5 — has fully expired. Red flag conditions on Day 6 (10-20% relative humidity, winds gusting to 35mph in east-of-Cascades terrain) represent the first direct weather challenge to the established 50% containment line. Dozer-built line geometry that held under moderating AR conditions now faces the wind and humidity conditions that produced the original zero-containment catastrophe on Days 1-3. This is the brief's dominant domestic infrastructure question entering the July 11 Longview CSB three-thread convergence. The Sourdough Fire's Day 5 ICS-209 result — consistent with the July 9 evening 'developing SR-20 reopening' signal — appears to have confirmed meaningful AR-period containment: SR-20 (North Cascades Highway) has reopened, and Skagit dam power restoration is developing. This is the session's secondary PNW infrastructure positive. The Longview CSB Day 46 / T-1 to July 11 elevated risk window is the brief's most concentrated forward risk event: the three-thread July 11-18 convergence (Longview CSB + FERC 30-day deadline July 18 + measles sub-window closing July 12) opens tomorrow.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — holds at the July 9 evening level. The session's analytical balance is between one meaningful stabilization signal (Witkoff/Kushner Doha presence, Iran communication channel agreement, WTI partial retreat from $75 peak) and one meaningful new risk factor (Red Flag Warning testing Chelan Hills' 50% containment geometry Day 6). The Hormuz Doha development is the most significant procedural stabilization since the July 8 'ceasefire over' declaration: Iran agreed to a formal communication channel to resolve MOU disputes, the two envoys are actively present in Qatar, and WTI retreated modestly from its $75 re-escalation peak — all signals that the formal MOU architecture is under active management rather than terminal collapse. Against this: the $6B frozen assets were not released (US retained economic leverage), Iran refused direct meetings (communication remains mediated only), oil sanctions remain reimposed (central MOU incentive stripped), and no formal nuclear technical talks have been scheduled. The MOU is at Acute Stress Day 3 with a communication channel rather than a resumption date. On fires: Chelan Hills at 50% containment entering its first Red Flag Warning day is the brief's central domestic infrastructure risk. The AR-period 20%→50% containment surge was achieved under humidity recovery and light-wind conditions that no longer apply. Day 6 under active red flag conditions is the containment geometry's first real stress test — and its first day resembling the conditions that produced the Days 1-3 zero-containment catastrophe. If the 200+ personnel on the line hold 50% under today's conditions, it validates the line geometry as robust. If the line regresses, it resets the brief toward Vibe 3. The Sourdough SR-20 reopening is the session's secondary positive. Longview CSB T-1 to the three-thread convergence is the brief's most concentrated forward risk concentration, but it is a risk flag, not an incident. Measles sub-window Day 2 clean is a two-day clean streak in the peak window — meaningful. Two-day consecutive clean in the highest-epidemiological-concentration window is the strongest reassurance signal since the June 19 Lumen Field exposure. But the window runs through July 12 and is not closed. Upgrade to Vibe 5 requires: Qatar channel translating into scheduled direct Iran-US technical talks on nuclear timeline and compliance timeline; Chelan Hills holding 50%+ under red flag with Level 3 partial downgrade to Level 2; SR-20 confirmed open with Skagit dam power restoration progressing; WTI declining toward $69-71 normalization range. Drop to Vibe 3 requires: Iran SNSC formal MOU-void declaration (in response to oil-sanction reimposition or CENTCOM strikes); Chelan Hills regression below 50% under red flag wind event; Longview CSB incident on July 11; measles King County/Snohomish cluster emerging from sub-window Day 2-3."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 133 — MOU Acute Stress Day 3: Witkoff/Kushner In Doha (Qatar/Pakistan Mediator Meetings; Iran Refused Direct Meetings; Communication Channel Agreed; $6B Frozen Assets Not Released); WTI ~$73-74 Modest Pullback From $75 Peak (Qatar Channel Partially Trimming War-Risk Premium; No Blockade Reinstatement; No SNSC MOU-Void Declaration); Russia Fuel Crisis Day 10 (Omsk CDU-10 Destroyed 38% Capacity; Central Asian Spillover — Uzbekistan/Kazakhstan); Lebanon Fragile Hold Day 25 (Committee Active; Hezbollah 'Null And Void' Unretracted); Peru Fujimori Credentials T-5 (July 15); Colombia T-28 (Aug 7); Venezuela Earthquake Day 17.",
+      "items": [
+        {
+          "headline": "Hormuz Day 133 — MOU Acute Stress Day 3: Witkoff/Kushner In Doha (Qatar/Pakistan Mediator Meetings July 9-10; Iran Refused Direct Meetings; Communication Channel Agreed As Dispute-Resolution Mechanism; $6B Frozen Assets NOT Released); WTI ~$73-74 Pullback From $75 Re-Escalation Peak (Qatar Channel Signal Partially Trimming War-Risk Premium; No SNSC MOU-Void Declaration; No CENTCOM Blockade Reinstatement; Oil Sanctions Reimposed July 7 Stripping Central Incentive)",
+          "summary": "The July 10 evening Hormuz session records the most significant procedural stabilization development since Trump's 'ceasefire over' declaration at the NATO Ankara summit (July 8). Special Envoy Steve Witkoff and Jared Kushner traveled to Doha on July 9-10 and met with Qatari Emir Sheikh Tamim bin Hamad Al Thani and Pakistani mediators in separate sessions. The critical operational development: Iran and the US agreed to establish a formal 'communication channel' to resolve MOU disputes, with Qatar and Pakistan serving as the mechanism. Iran refused direct meetings with Witkoff and Kushner in Doha — one analysis headline characterized the session as Iran 'dissing' the envoys while still producing a channel agreement. The channel's first reported agenda item was the US's 'violations of its obligations' as characterized by Iran; the second was the release of $6B in frozen Iranian funds. On the $6B: the funds were not released. This is analytically significant as a US retained leverage position — the Trump administration maintained its principal economic hold while accepting the communication channel as a concession to keep Iran from formally voiding the MOU. The 60-day nuclear window's clock is running: Day 22 of 60 as of the July 10 evening session, approximately 37% elapsed, with no nuclear technical talks formally scheduled. The Omani corridor — the MOU's primary tanker-traffic restoration mechanism — continues operating at reduced but non-zero throughput. WTI's modest retreat from the $75 re-escalation peak (~$73-74 on July 10) reflects the commodity market partially trimming the war-risk premium in response to the Qatar channel signal, without pricing full normalization. The directional signal is modestly improving relative to the July 9 evening $75 re-escalation premium peak, but WTI remains above the $74 normalization confidence floor for the wrong reasons — it is a de-risking-from-peak price, not a normalization price. The MOU's formal termination instruments remain absent: no SNSC MOU-void declaration, no CENTCOM blockade reinstatement order, no Kharg Island strike confirmed. The MOU architecture is at Acute Stress Day 3 with an emerging dispute-resolution channel that was absent 24 hours ago. The analytical risk: the channel agreement depends on Iran's willingness to use it to de-escalate rather than to formalize grievances as a precursor to a SNSC void declaration. Iran's 'violations of US obligations' framing for the first meeting agenda item signals that Tehran intends to use the channel to pressure the US on oil sanctions reimposition — the action that stripped the MOU's central economic incentive for Iranian participation. Whether the channel resolves the sanctions dispute or codifies it as an irresolvable breach will be the determining question of MOU Acute Stress Days 4-7.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "Steve Witkoff", "Jared Kushner", "Sheikh Tamim bin Hamad Al Thani", "Qatar", "Pakistan", "Masoud Pezeshkian", "Abbas Araghchi", "SNSC", "IRGC", "CENTCOM", "JD Vance", "Marco Rubio", "Lloyd's of London", "Acting DNI", "NATO"],
+          "metrics": {
+            "hormuz_day": 133,
+            "mou_signed_date": "2026-06-19",
+            "mou_compliance_day": 22,
+            "mou_acute_stress_day": 3,
+            "mou_formal_termination_instrument": false,
+            "snsc_formal_mou_void_declaration": false,
+            "centcom_naval_blockade_reinstated": false,
+            "kharg_island_struck": false,
+            "doha_talks_july910_envoys_present": true,
+            "doha_talks_iran_direct_meetings": false,
+            "doha_talks_mediators": ["Qatar", "Pakistan"],
+            "doha_talks_communication_channel_agreed": true,
+            "doha_talks_communication_channel_agenda": ["US violations of MOU obligations (Iran framing)", "$6B frozen Iranian assets release"],
+            "doha_talks_6bn_frozen_assets_released": false,
+            "doha_iran_description": "DISSED — refused direct meetings; agreed communication channel through mediators only",
+            "trump_declaratory_status": "OVER — 'As far as I'm concerned, it's over' — NATO Ankara July 8; no formal termination instrument",
+            "trump_negotiator_qualifier_active": true,
+            "wti_july10_approx": "~$73-74",
+            "wti_july9_peak": "~$75",
+            "wti_july10_direction": "MODEST PULLBACK — partial war-risk premium trimming on Qatar channel signal; still above $74 floor",
+            "wti_above_normalization_floor": true,
+            "wti_above_floor_reason": "DE-RISKING FROM PEAK — partial premium trim, not normalization confidence",
+            "oil_sanctions_reimposed": "2026-07-07 — Iranian crude export waiver revoked; central MOU incentive stripped",
+            "tanker_traffic_current": "~25 vessels/day (vs. 110 pre-war average)",
+            "sixty_day_nuclear_window_day": 22,
+            "sixty_day_window_end": "~2026-08-17",
+            "sixty_day_window_pct_elapsed": "~37%",
+            "nuclear_technical_talks_scheduled": false,
+            "lloyds_normalization_status": "CLOSED — war-risk premium active; partial retreat from July 8-9 peak",
+            "iaea_bombed_site_inspection_protocol": "NOT AGREED",
+            "acting_dni_vacancy_day": 50,
+            "cisa_clean_streak_days": 70
+          }
+        },
+        {
+          "headline": "Russia Fuel Crisis Day 10 (Omsk CDU-10 DESTROYED — 38% Refinery Capacity; CDU-11 Potentially Recoverable Sooner; Central Asian Spillover — Uzbekistan Flight Cuts Jet Fuel Shortage; Kazakhstan China Import Insurance Active); Lebanon Fragile Hold Day 25 (No Operational Iran Direction Post-July 8-9 Exchange); Peru Fujimori T-5 (July 15 JNE Credentials); Colombia T-28 (Aug 7); Venezuela Earthquake Day 17",
+          "summary": "Five secondary geopolitical threads on July 10 evening. First: Russia fuel crisis Day 10. New damage assessment detail on the Omsk refinery (halted July 7 after Ukrainian drone strike July 6, Russia's largest refinery): the CDU-10 crude distillation unit — accounting for approximately 38% of the refinery's processing capacity — sustained damage sufficient for industry sources to classify it as destroyed rather than damaged. The CDU-11 unit, also shut down due to supporting infrastructure damage, is assessed as potentially recoverable sooner. The CDU-10 assessment is materially worse than the Day 9 brief's characterization — a 38% capacity unit classified as 'destroyed' rather than 'damaged' signals a multi-month rather than multi-week restoration timeline for that fraction of Omsk's output. The Central Asian knock-on effects are now confirmed beyond the 78+ Russian region domestic shortfall: Uzbekistan has cut some flights due to jet fuel shortages at Tashkent and regional airports. Kazakhstan is actively exploring Chinese fuel imports as insurance against further disruption. Both Central Asian spillover developments are consistent with the IEA's 'unprecedented' designation of the Russia fuel crisis. For Warsh's September SEP deflationary impulse thesis, the CDU-10 'destroyed' assessment extends the macroeconomic inflationary pressure timeline: the Omsk restoration estimate moves from weeks to months on the dominant unit, meaning the second-leg supply-side inflationary shock (Russian refining + Hormuz corridor) will not resolve before the September FOMC. Second: Lebanon fragile hold Day 25. No confirmed operational direction from Iran to Hezbollah in response to the July 8-9 CENTCOM strike package and Iran counter-strikes. The ceasefire-war oversight committee (June 30 formation) is nominally active. Hezbollah's 'null and void' declaration on the Rubio framework remains formally unretracted. IDF has not resumed incursion tempo. The absence of confirmed operational direction through Day 25 is modest reassurance — but the July 8-9 escalatory exchange raised the risk that Iran could leverage Lebanon as a pressure valve, and that risk has not closed. Third: Peru Fujimori T-5 to JNE credentials ceremony (July 15). The razor-edge presidential race result (50.135% Fujimori vs. 49.865% Sánchez) is certified. No credible challenge to JNE certification as of this session. Milei (Argentina) confirmed attendance at both Peru and Colombia inaugurations. The Andean resource nationalism premium — structurally eliminated at Fujimori certification — holds in copper and silver markets. Fourth: Colombia de la Espriella T-28 to August 7 inauguration. Transition Day 8. Israel relations restoration pledged; no transition complications. Fifth: Venezuela earthquake Day 17 — 1,719+ dead, 46,600+ missing. Maduro government continues to restrict US humanitarian access. Colombia (T-28) faces immediate cross-border humanitarian pressure at inauguration.",
+          "significance": "MODERATE",
+          "actors": ["IEA", "Ukraine", "Russia", "Vladimir Putin", "Gazprom Neft", "Volodymyr Zelensky", "Uzbekistan", "Kazakhstan", "China", "IDF", "Hezbollah", "Keiko Fujimori", "JNE Peru", "Javier Milei", "Abelardo de la Espriella", "Gustavo Petro", "Nicolas Maduro", "USAID"],
+          "metrics": {
+            "russia_fuel_crisis_day": 10,
+            "omsk_refinery_halt_date": "2026-07-07",
+            "omsk_cdu10_status": "DESTROYED — 38% of refinery processing capacity; multi-month restoration timeline",
+            "omsk_cdu11_status": "HALTED — supporting infrastructure damage; potentially recoverable sooner than CDU-10",
+            "omsk_total_capacity_bpd": 440000,
+            "omsk_cdu10_pct_of_capacity": 38,
+            "russia_refining_capacity_offline_pct": "~25-33% nationally",
+            "russia_gasoline_below_demand_pct": 20,
+            "russia_regions_fuel_disruptions": "78 of 83 internationally recognized regions",
+            "russia_iea_designation": "UNPRECEDENTED",
+            "central_asian_spillover_confirmed": true,
+            "uzbekistan_flight_cuts_reason": "Jet fuel shortage at Tashkent and regional airports",
+            "kazakhstan_china_imports_insurance": true,
+            "two_source_energy_shock_active": true,
+            "warsh_september_thesis_complication": "CDU-10 'destroyed' assessment extends inflationary pressure beyond September FOMC horizon",
+            "lebanon_fragile_hold_day": 25,
+            "iran_hezbollah_operational_direction_july10": "NOT CONFIRMED — 48-hour post-July 8-9 exchange clean",
+            "hezbollah_null_void_declaration": "ACTIVE — formally unretracted",
+            "peru_fujimori_credentials_date": "2026-07-15",
+            "peru_fujimori_credentials_days_out": 5,
+            "peru_fujimori_inauguration_date": "2026-07-28",
+            "peru_fujimori_inauguration_days_out": 18,
+            "peru_fujimori_vote_pct": 50.135,
+            "peru_sanchez_vote_pct": 49.865,
+            "peru_andean_resource_nationalism_premium": "ELIMINATED — copper/silver markets stable at certification",
+            "milei_inauguration_attendance": "CONFIRMED — both Peru (July 28) and Colombia (August 7)",
+            "colombia_transition_day": 8,
+            "colombia_inauguration_date": "2026-08-07",
+            "colombia_inauguration_days_out": 28,
+            "venezuela_earthquake_day": 17,
+            "venezuela_earthquake_confirmed_dead": 1719,
+            "venezuela_earthquake_missing": 46600,
+            "venezuela_us_humanitarian_access": "RESTRICTED — Maduro blocking USAID/FEMA"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "WTI ~$73-74 July 10 (Modest Pullback From $75 Re-Escalation Peak — Qatar Channel Signal Partially Trimming War-Risk Premium; Still Above $74 Normalization Floor; Directional Signal Modestly Improving From Peak But Not Normalization); Section 122 T-14 (July 24 Expiry; USTR Section 301 Post-Hearing Review Active; No Successor Announced; 12.5% On 46 Countries Proposed); OBBB Day 11 (No Stay; SNAP Aragon v. Rollins June 22 Ruling Downstream — 5 State USDA Demonstrations Invalidated); Russia Two-Source Shock CDU-10 Destroyed (Multi-Month Omsk Restoration — Warsh September Thesis Complicated Further); FERC AI 30-Day Report T-8 (July 18); Recession Probability 35%.",
+      "items": [
+        {
+          "headline": "WTI ~$73-74 July 10 Modest Pullback From $75 Peak (Qatar Channel Signal Partially Trimming War-Risk Premium; Still Above $74 Normalization Floor For Ambiguous Reasons; No Kharg Island Strike; No Blockade Reinstatement; Iran Sanctions Remain Reimposed); Section 122 T-14 (July 24; USTR Section 301 Post-Hearing Review Active; No Successor Framework Announced; 12.5% On 46 Countries / 10% On 15 Others); FERC AI 30-Day Report T-8 (July 18)",
+          "summary": "The July 10 energy and monetary session records the commodity market's first tentative de-escalation signal since the July 7-9 re-escalation sequence drove WTI to the $75 re-escalation premium. WTI's retreat to approximately $73-74 on July 10 (down from the ~$75 July 9 peak, following a 4.4% surge on July 8 and a 2.2% gain on July 9) reflects the market partially trimming the geopolitical risk premium in response to the Qatar mediator channel development — Witkoff/Kushner's Doha presence and the Iran communication channel agreement signal that the formal MOU architecture is under active dispute management rather than terminal collapse. This is a de-risking-from-peak signal, not a normalization signal. WTI remains above the $74 normalization confidence floor, and the $73-74 range reflects war-risk ambiguity rather than the $69-71 range that characterized genuine normalization confidence in the June 19-July 6 period. The critical analytical distinction for the WTI directional signal: genuine normalization pricing would require the Qatar channel to produce a scheduled direct Iran-US nuclear technical talks date and a compliance timeline commitment — neither of which has been confirmed. The oil sanctions reimposition (July 7) remains operative, stripping the central MOU economic incentive. Lloyd's war-risk rates are elevated above normalization levels. The three geopolitical conditions that would validate normalization pricing — SNSC compliance confirmation, CENTCOM blockade stand-down, Hormuz tanker volume recovery toward 110/day average — are all absent. But the directional signal is modestly improving from the July 9 peak, and the war-risk premium is being partially, not fully, priced out. On the tariff calendar: Section 122 expires July 24 (T-14). The USTR Section 301 public hearing concluded July 7; the post-hearing review period is now active with no successor framework announced as of this session. Section 301's proposed structure (12.5% on 46 countries; 10% on 15 others including EU, Canada, UK, Mexico) is the operative USTR proposal, but no White House finalization announcement has been made. The 14-day planning gap for importers runs from today through July 24. Any White House Section 301 framework announcement in the July 10-24 window would be a material clarity event. FERC AI pathway: the 30-day informational report deadline is T-8 (July 18). The six ISO/RTO operators must submit resource adequacy plans detailing how they will serve existing customers plus new large loads. For PNW data center corridors (Quincy WA, The Dalles OR, Eastern Oregon — BPA/WECC outside the six direct scopes), the July 18 submissions will set de facto national standards for large-load integration.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "FOMC", "CME FedWatch", "USTR", "CIT", "Treasury", "Lloyd's of London", "CENTCOM", "OPEC+", "ISM", "BLS", "FERC", "BPA", "WECC"],
+          "metrics": {
+            "wti_july10_approx": "~$73-74",
+            "wti_july9_peak": "~$75",
+            "wti_july10_direction": "MODEST PULLBACK — partial war-risk premium de-risking",
+            "wti_normalization_floor": 74,
+            "wti_above_floor": true,
+            "wti_above_floor_reason": "AMBIGUOUS — below re-escalation peak; not normalization confidence; still war-risk premium territory",
+            "wti_normalization_range": "$69-71",
+            "wti_june19_july6_normalization_streak": "12-day below-$74 streak; normalization phase",
+            "qatar_channel_wti_signal": "PARTIAL DE-RISK — not normalization; modestly improving directional signal",
+            "lloyds_war_risk_direction": "ELEVATED — partial retreat from July 9 peak; not normalized",
+            "oil_sanctions_reimposed": "2026-07-07 — operative; central MOU incentive stripped",
+            "iran_oil_export_kharg_island_pct": 90,
+            "kharg_island_strike_status": "NOT CONFIRMED — threatened July 8; not struck through July 10 evening",
+            "section_122_expiry_date": "2026-07-24",
+            "section_122_days_to_expiry": 14,
+            "ustr_section_301_post_hearing_review": "ACTIVE — hearing concluded July 7; no successor framework announced",
+            "ustr_section_301_proposed_rate_primary": "12.5% on 46 countries",
+            "ustr_section_301_proposed_rate_secondary": "10% on 15 countries (EU, Canada, UK, Mexico, Argentina, etc.)",
+            "ustr_section_301_successor_announced": false,
+            "importer_planning_gap_days": 14,
+            "pharma_232_effective_date": "2026-07-31",
+            "ferc_ai_30day_report_deadline": "2026-07-18 (T-8)",
+            "ferc_pnw_data_center_corridors": ["Quincy WA (BPA/WECC)", "The Dalles OR (BPA/WECC)", "Eastern Oregon (WECC)"],
+            "ferc_pnw_de_facto_standard_setter": true,
+            "fed_funds_rate": "3.50-3.75% HOLD",
+            "september_hike_odds_pct": "50-55 — unchanged from FOMC minutes release",
+            "cpi_may2026_yoy_pct": 4.2,
+            "recession_probability_12mo_pct": 35,
+            "dow_vicinity": "~52,900",
+            "sp500_vicinity": "~7,483"
+          }
+        },
+        {
+          "headline": "OBBB Day 11 (No Federal Stay; 18 States Medicaid/SNAP; SNAP Aragon v. Rollins June 22 Ruling — 5-State USDA Demonstration Invalidation Downstream); Russia Fuel Crisis CDU-10 Destroyed (Multi-Month Restoration — Dual Two-Source Shock Inflationary Pressure Extended Beyond September FOMC Horizon); SAVE America Reconciliation 3.0 Senate Byrd Bath Risk",
+          "summary": "Three secondary economic threads on July 10 evening. First: OBBB Law Day 11 (signed June 29; effective July 1). Medicaid work requirements and SNAP healthy food restrictions remain active in 18 states with no federal court stay issued on any OBBB title. The downstream judicial development requiring tracking: the Aragon v. Rollins ruling (federal district court, June 22) held that USDA exceeded its legal authority in approving state demonstration projects restricting SNAP participants' food purchases. The ruling invalidated USDA approvals in Colorado, Iowa, Nebraska, Tennessee, and West Virginia. This is not a direct OBBB challenge — the OBBB's SNAP provisions are a separate statutory authority — but it represents a relevant judicial signal on the limits of USDA administrative authority to implement food-restriction demonstrations. The OBBB's own SNAP provisions face distinct legal authority challenges as implementation proceeds across 18 states. No federal court has issued a stay on the OBBB's SNAP or Medicaid work-requirement provisions as of July 10 evening. Second: the Russia fuel crisis CDU-10 'destroyed' assessment materially complicates the dual two-source shock's macroeconomic timeline. The Day 9 brief characterized the Omsk refinery halt in terms of a potentially repairable disruption; the CDU-10 'destroyed' assessment for the unit accounting for 38% of Omsk's 440,000 bpd capacity shifts the restoration estimate from weeks to months for that fraction of output. The practical consequence: the second-leg supply-side inflationary shock (Russian domestic fuel crisis + Hormuz corridor war-risk premium) will not resolve before the September FOMC meeting, even in an optimistic Hormuz-normalization scenario. Warsh's September SEP deflationary impulse thesis — which required both Hormuz normalization and Russian refining recovery — now faces a structural obstacle from the CDU-10 timeline. Third: SAVE America Reconciliation 3.0 (Speaker Johnson post-recess signaling) remains in the Senate Byrd bath risk zone. Senate Republican skepticism about the direct budgetary impact of voter ID mandates is publicly expressed. No new legislative procedural steps have been taken as of July 10. The legislative signal from Johnson's post-recess agenda framing is the relevant data point — the pathway to passage is severely constrained, but the political agenda item is live.",
+          "significance": "MODERATE",
+          "actors": ["FERC", "BPA", "WECC", "CBO", "Speaker Mike Johnson", "Senate Republicans", "Kevin Warsh", "FOMC", "HHS", "USDA", "FRAC", "IEA"],
+          "metrics": {
+            "obbb_law_day": 11,
+            "obbb_signed_date": "2026-06-29",
+            "obbb_effective_date": "2026-07-01",
+            "obbb_medicaid_work_requirements_states_active": 18,
+            "obbb_snap_restrictions_states_active": 18,
+            "obbb_legal_challenges_with_federal_stay": 0,
+            "obbb_cbo_deficit_10yr_tn": 3.4,
+            "snap_aragon_rollins_ruling_date": "2026-06-22",
+            "snap_aragon_rollins_states_invalidated": ["Colorado", "Iowa", "Nebraska", "Tennessee", "West Virginia"],
+            "snap_aragon_rollins_obbb_direct_challenge": false,
+            "snap_aragon_rollins_usda_authority_signal": "RELEVANT — limits on USDA administrative authority for food-restriction demonstrations",
+            "treasury_30yr_approx": "~5.0%",
+            "russia_omsk_cdu10_status": "DESTROYED — 38% of 440,000 bpd Omsk capacity; multi-month restoration",
+            "russia_dual_shock_september_fomc_timeline": "EXTENDED — CDU-10 destroyed assessment removes near-term Russian refining recovery scenario",
+            "warsh_deflationary_impulse_september_feasibility": "REDUCED — both Hormuz normalization and Russian refining recovery now required; neither resolving",
+            "save_america_reconciliation_30": "BYRD BATH RISK HIGH — voter ID direct budgetary impact not established; Senate skepticism open"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "CHELAN HILLS FIRE DAY 6 — FIRST POST-AR RED FLAG TEST (50% Containment Under Active Red Flag Warning; 10-20% RH / 35MPH Gusts; Critical Geometry Test; Level 3 Still Active; Human-Caused Investigation; ~9,735-9,861 Acres ICS-209); SOURDOUGH FIRE DAY 6 — SR-20 REOPENED (Day 5 ICS-209 Confirmed AR-Period Progress; Skagit Dam Power Restoration Developing; Extended Attack Phase); NIFC PL4 DAY 12 (37 Large Fires; North Cayuse OR; Crawford Oaks WA); FERC AI 30-Day Report T-8 (July 18); NSF Newport OR Dark Day 12 (Monitoring Gap Through Fire Season Peak); Longview CSB Day 46 T-1 (July 11 Three-Thread Convergence — Opening Tomorrow); WA Drought Day 36; DOE Energy Emergency Nominally Active (Heat Abated; PJM Low Risk).",
+      "items": [
+        {
+          "headline": "CHELAN HILLS FIRE DAY 6 — FIRST POST-AR RED FLAG TEST (50% Containment Under Active Red Flag Warning; 10-20% RH; 35MPH Gusts; 200+ Personnel On Line; Critical Geometry Stress Test; Level 3 Still Active — Orondo/Chelan Falls Corridor; ~9,735-9,861 Acres ICS-209; 1 Fatality; Human-Caused Investigation Active); SOURDOUGH FIRE DAY 6 — SR-20 REOPENED (Day 5 ICS-209 Confirmed AR-Period Suppression Progress; Skagit Dam Power Restoration Developing; Extended Attack Phase); NIFC PL4 DAY 12 (37 Large Fires; North Cayuse OR; Crawford Oaks WA)",
+          "summary": "The July 10 infrastructure session is defined by Chelan Hills Fire Day 6 entering its first post-atmospheric-river red flag conditions — the week's critical containment geometry stress test. The AR suppression window (July 5-8) that enabled the zero-to-50% containment surge over Days 3-5 is fully expired. Red Flag Warning conditions active on July 10 in the east-of-Cascades Douglas/Chelan County WUI terrain: relative humidity 10-20%, wind gusts to approximately 35mph. These are conditions that closely approximate the meteorological environment of Days 1-3, when the Chelan Hills Fire progressed from ignition to zero containment with 100+ structures destroyed. The 50% containment geometry — dozer-built line on the dominant perimeter segments, aerial-supplemented on roadless sections — is encountering its first direct weather challenge. The 200+ personnel on the line are operating in initial-attack weather conditions while in extended-containment operational mode: the risk is that individual spot fires from embers crossing established lines trigger breakout behavior before crews can respond. The Day 6 ICS-209 (available in the morning reporting cycle July 11) will be the definitive indicator of whether the line held under red flag conditions. The key secondary question: whether the Red Flag Warning triggers a Day 6 Level 3 downgrade pause — a precautionary hold on evacuation downgrade decisions until the red flag window passes — or whether fire managers have sufficient line confidence to begin partial Level 3 to Level 2 downgrade procedures in consolidated zones. The human-caused investigation (Douglas County Sheriff Tyler Caille, in coordination with state fire investigators) continues; the ICS-209 official acreage figure of ~9,735-9,861 acres is the authoritative footprint. Some media estimates placed peak spread at 15,000-20,000 acres; the official ICS-209 remains the brief's acreage reference. Highways 97 and 97A remain open. The Sourdough Fire (Day 6, North Cascades NP, Whatcom County) has transitioned to the extended attack phase following the Day 5 ICS-209 confirming AR-period suppression progress. SR-20 (North Cascades Highway) has reopened — the most significant regional infrastructure restoration since the July 4 fire outbreak. KING5 and multiple local outlets confirmed the reopening during or shortly after the AR window. Skagit dam complex (Gorge, Diablo, Ross) hydropower restoration is developing: Seattle City Light's supply from the three Skagit dams is partially recovering as fire proximity to the dam complex is cleared. NIFC PL4 Day 12 (first since 2021) remains active: 37 large fires nationally, North Cayuse Fire (east of Pendleton, OR) and Crawford Oaks Fire (Dallesport WA, Columbia Gorge) still active.",
+          "significance": "HIGH",
+          "actors": ["NPS", "USFS Pacific Northwest Region", "BLM", "Washington DNR", "Oregon ODF", "NWS Seattle", "NWS Portland", "NIFC", "Governor Bob Ferguson", "Oregon Governor Tina Kotek", "Douglas County Sheriff Tyler Caille", "BPA", "Seattle City Light", "WSDOT", "Douglas County Emergency Management", "Chelan County Emergency Management", "Skagit County Emergency Management", "FEMA"],
+          "metrics": {
+            "chelan_hills_fire": {
+              "location": "US-97 MP-233, between Orondo and Chelan Falls, Douglas County WA",
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 6,
+              "acres_ics209_official": "~9,735-9,861",
+              "acres_media_peak_estimate": "15,000-20,000 (Lake Chelan Mirror; preliminary/peak estimate)",
+              "containment_pct": 50,
+              "containment_arc": "0% Day 3 → 20% Day 4 → 50% Day 5-6 (holding under red flag test)",
+              "red_flag_warning_active": true,
+              "red_flag_humidity_pct": "10-20",
+              "red_flag_wind_gusts_mph": 35,
+              "ar_buffer_status": "FULLY EXPIRED — Day 6 is first post-AR red flag weather",
+              "personnel": "200+",
+              "structures_destroyed": "100+ (75% of structures in footprint; McNeil Canyon devastated)",
+              "evacuations": "Level 3 STILL ACTIVE — Orondo, Chelan Falls, Chelan Hills corridor (~500 residents)",
+              "fatality_count": 1,
+              "fatality_investigation": "Human remains found in burned vehicle; confirmed",
+              "cause_investigation": "ACTIVE — human-caused classification; Douglas County Sheriff + state fire investigators",
+              "highway_97_status": "OPEN",
+              "highway_97a_status": "OPEN",
+              "day6_ics209_significance": "CRITICAL — first post-AR containment figure; validates whether 50% geometry holds under red flag conditions",
+              "phase": "Extended containment — transitioning toward mop-up on consolidated sections if red flag line holds"
+            },
+            "sourdough_fire": {
+              "location": "North Cascades NP / Ross Lake NRA — Sourdough Ridge / Diablo Lake, Whatcom County WA",
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 6,
+              "acres_day5_ics209": "~3,900+ (post-AR figure pending full release)",
+              "containment_pct": "ESTABLISHING — Day 5 ICS-209 consistent with AR-period progress; extended attack phase",
+              "sr20_status": "REOPENED — North Cascades Highway reopened following fire proximity clearance",
+              "skagit_dam_power_status": "RESTORING — Seattle City Light Gorge/Diablo/Ross hydropower partial recovery developing",
+              "suppression_mode": "Extended attack — aerial suppression primary; roadless wilderness terrain",
+              "ar_window_benefit": "CONFIRMED — Day 5 ICS-209 + SR-20 reopening consistent with productive AR suppression geometry"
+            },
+            "north_cayuse_fire": {
+              "location": "East of Pendleton OR",
+              "status": "ACTIVE — evacuations ongoing"
+            },
+            "crawford_oaks_fire": {
+              "location": "Dallesport WA (Columbia River Gorge)",
+              "status": "ACTIVE — structures threatened"
+            },
+            "nifc_preparedness_level": 4,
+            "nifc_pl4_day": 12,
+            "nifc_pl4_first_since": 2021,
+            "nifc_large_fires_active": 37,
+            "nifc_ytd_fires_vs_10yr_avg_pct": 130,
+            "nifc_ytd_acres_vs_10yr_avg_pct": 146
+          }
+        },
+        {
+          "headline": "FERC AI 30-Day Informational Report T-8 (July 18; Six ISO/RTO Operators Resource Adequacy Plans Due; PNW Data Center Standard-Setting); NSF Newport OR Dark Day 12 (Monitoring Gap Through Peak Fire Season; Third Fire Weather Event Without Coastal Anchor Possible); Longview CSB Day 46 T-1 (THREE-THREAD CONVERGENCE TOMORROW — Longview Elevated Risk + FERC 30-Day T-8 + Measles Sub-Window Closing July 12); WA Drought Day 36; DOE Energy Emergency Nominally Active (PJM Heat Abated)",
+          "summary": "Four secondary infrastructure threads on July 10 evening. First: FERC AI pathway 30-day informational report deadline T-8 (July 18). The six ISO/RTO operators — MISO, SPP, PJM, NYISO, ISO-NE, and CAISO — must submit reports detailing how they will ensure sufficient generation capacity for existing customers plus new large-load customers (AI data centers, crypto mining, manufacturing). The July 18 reports will be the first formal statement of each grid operator's large-load integration position following the July 9 stakeholder lock-in. For PNW data center corridors (Quincy WA, The Dalles OR, Eastern Oregon — BPA/WECC jurisdiction, outside the six ISO/RTO direct scope), the six operators' July 18 submissions will set de facto national standards for large-load integration reform that BPA must track as the dominant federal power marketer serving PNW AI infrastructure. With T-8 to the July 18 deadline, the FERC AI proceedings are entering their analytically most consequential reporting phase of the current calendar cycle. Second: NSF Newport, Oregon ocean observatory Dark Day 12. The monitoring gap through the PNW fire season's peak (July-September) is now fully established as an operational baseline. The Day 12 gap has produced two confirmed degraded-calibration events (atmospheric river July 5-8; prior heat advisory events). The Chelan Hills Red Flag Warning on July 10 — generating fire weather in Douglas/Chelan County — is proceeding without the Newport coastal atmospheric anchor for fire-weather forecast calibration. Any new marine-layer interaction with east-of-Cascades fire terrain in the July-August window will operate under the same monitoring gap. Senate unanimous reinstallation authorization remains in place; physical reinstallation timeline pending. Third: Longview CSB Day 46. The atmospheric river temperature buffer has been fully expired since July 8 night. Summer heat returns to the lower Columbia River corridor entering July 11. The three-thread convergence opens TOMORROW (July 11): (1) Longview CSB elevated chemical vapor pressure risk window opening; (2) FERC AI 30-day informational report deadline July 18 T-8; (3) measles high-consequence sub-window peak closing July 12. The convergence is now at T-1. This is the brief's most concentrated forward risk calendar event — three independently significant deadline/risk threads converging in a single July 11-18 window. Fourth: Washington drought Day 36 (fourth consecutive year, 50% snowpack vs. normal, 12-county emergency declaration). DOE Energy Emergency Alert for PJM nominally active. The Mid-Atlantic/Northeast heat wave has abated; rolling blackout risk remains low. Secretary Wright's PJM directive remains formally active.",
+          "significance": "MODERATE",
+          "actors": ["FERC", "MISO", "SPP", "PJM", "NYISO", "ISO-NE", "CAISO", "BPA", "WECC", "NSF", "NWS Portland", "NWS Seattle", "CSB", "DOE Secretary Chris Wright", "Governor Bob Ferguson"],
+          "metrics": {
+            "ferc_ai_30day_report_deadline": "2026-07-18 (T-8)",
+            "ferc_ai_60day_show_cause_deadline": "2026-08-17 (T-39)",
+            "ferc_ai_stakeholder_map_status": "COMPLETE — intervention deadline closed July 9 COB",
+            "ferc_pnw_data_center_corridors": ["Quincy WA (BPA/WECC)", "The Dalles OR (BPA/WECC)", "Eastern Oregon (WECC)"],
+            "ferc_pnw_outside_iso_rto_scope": true,
+            "ferc_pnw_de_facto_standard_setter": true,
+            "nsf_newport_or_dark_day": 12,
+            "nsf_degraded_calibration_events_in_gap": 2,
+            "nsf_peak_fire_season_gap": "ACTIVE — monitoring gap through July-September peak",
+            "nsf_chelan_hills_red_flag_gap": "Red Flag Warning July 10 operating without Newport coastal anchor",
+            "nsf_reinstallation_authorized": "SENATE UNANIMOUS — physical reinstallation timeline pending",
+            "longview_csb_day": 46,
+            "longview_ar_buffer_status": "FULLY EXPIRED — July 8 night",
+            "longview_next_elevated_risk_window": "July 11 (T-1 — TOMORROW)",
+            "longview_three_thread_convergence": "T-1 OPENING TOMORROW — (1) Longview CSB + (2) FERC 30-day July 18 T-8 + (3) Measles sub-window peak July 9-12",
+            "washington_drought_emergency_day": 36,
+            "washington_drought_consecutive_years": 4,
+            "washington_snowpack_vs_normal_pct": 50,
+            "doe_energy_emergency_nominally_active": true,
+            "doe_pjm_heat_wave_status": "ABATED — peak July 4-7 past; rolling blackout risk LOW",
+            "east_cascades_onset_day": 13
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "OBBB Day 11 (Medicaid/SNAP 18 States; No Federal Stay; SNAP Aragon v. Rollins June 22 Downstream — 5 State USDA Demonstration Invalidation; SAVE America Reconciliation 3.0 Senate Byrd Bath Risk); SCOTUS Five Rulings Digesting (Humphrey's Executor; Watson v. RNC; Campaign Finance; VRA Section 2; Birthright Upheld); Measles HIGH-CONSEQUENCE SUB-WINDOW DAY 2 (Peak Window July 10-11; Georgetown Surveillance Active; NO CLUSTERS DAY 2 — TWO-DAY CLEAN STREAK; Window Closes July 12); FEMA Compound PNW Demand Reducing (Chelan Hills SR-20 Progress; Sourdough Restoring); Acting DNI Day 50; CISA Clean Day 70.",
+      "items": [
+        {
+          "headline": "OBBB Day 11 (Medicaid Work Requirements + SNAP Restrictions 18 States; No Federal Stay; SNAP Aragon v. Rollins June 22 Ruling — 5-State USDA Demonstration Invalidation Downstream; SAVE America Reconciliation 3.0 Senate Byrd Bath Risk High); SCOTUS Five Rulings Digesting (Humphrey's Executor Implementation Active FTC/NLRB/SEC/CFPB; Watson v. RNC Mail Ballot Implementation Active); Acting DNI Day 50; CISA Clean Day 70",
+          "summary": "The July 10 domestic session adds the Aragon v. Rollins SNAP ruling's downstream relevance to the OBBB implementation picture. OBBB Law Day 11 (signed June 29, effective July 1): Medicaid work requirements and SNAP healthy food restrictions remain active in 18 states with no federal court stay issued on any OBBB title. The judicial development requiring monitoring: the Aragon v. Rollins federal district court ruling (June 22) invalidated USDA's approvals of SNAP food-restriction demonstration projects in Colorado, Iowa, Nebraska, Tennessee, and West Virginia. The Aragon ruling addressed pre-OBBB demonstration authority, not the OBBB's own SNAP provisions — but it establishes a relevant precedent on the limits of USDA administrative authority for food-restriction implementations that will be cited in challenges to the OBBB's SNAP provisions as they take effect across 18 states. The specific legal distinction: the OBBB's SNAP healthy-food restriction provisions operate under newly enacted statutory authority rather than existing demonstration waiver authority. The Aragon precedent limits the waiver pathway; whether it constrains the new statutory pathway is the pending legal question. Speaker Johnson's SAVE America Reconciliation 3.0 (voter ID through budget reconciliation) remains in the Senate Byrd bath risk zone — no new legislative procedural developments on July 10. On the SCOTUS arc: implementation of all five term-end rulings proceeds. Trump v. Slaughter (Humphrey's Executor overturned; 6-3) enforcement restructuring at FTC, NLRB, SEC, and CFPB is in active progress. Watson v. RNC (mail ballot grace periods eliminated; 5-4) is being implemented by state election officials ahead of the 2026 midterm cycle. Campaign finance coordination limits struck (6-3) enhances structural Republican advantage in 2026 coordinated spending. Louisiana v. Callais (VRA Section 2 raised) affects pending litigation in five southern states. Birthright citizenship upheld (6-3). Acting DNI Day 50: the IC is now at a 50-day leadership vacancy milestone at the analytical peak of the current threat cycle — Hormuz re-escalation intelligence, MOU compliance monitoring, Lebanon fragile hold analysis, Iran nuclear declaration review, Russia fuel crisis sourcing, and July 8-9 CENTCOM strike battle damage assessment are all simultaneous analytical requirements. CISA Clean Day 70.",
+          "significance": "HIGH",
+          "actors": ["Speaker Mike Johnson", "SCOTUS", "Chief Justice John Roberts", "President Trump", "FTC", "NLRB", "SEC", "CFPB", "HHS", "USDA", "CBO", "Senate Republicans", "Acting DNI", "CISA", "FRAC"],
+          "metrics": {
+            "obbb_law_day": 11,
+            "obbb_medicaid_work_requirements_states_active": 18,
+            "obbb_snap_restrictions_states_active": 18,
+            "obbb_legal_challenges_with_federal_stay": 0,
+            "snap_aragon_rollins_ruling_date": "2026-06-22",
+            "snap_aragon_rollins_states_invalidated": ["Colorado", "Iowa", "Nebraska", "Tennessee", "West Virginia"],
+            "snap_aragon_rollins_authority_basis": "Pre-OBBB USDA demonstration waiver authority",
+            "snap_aragon_rollins_obbb_authority_basis": "New statutory authority — separate from Aragon; Aragon precedent relevant but not directly controlling",
+            "scotus_humphreys_executor": {
+              "outcome": "OVERTURNED — presidential removal authority at FTC, NLRB, SEC, CFPB confirmed",
+              "vote": "6-3",
+              "implementation_status": "ACTIVE — enforcement restructuring at four agencies"
+            },
+            "scotus_watson_v_rnc": {
+              "outcome": "MAIL BALLOT GRACE PERIODS ELIMINATED — all 50 states",
+              "vote": "5-4",
+              "implementation_status": "ACTIVE — state election official implementation ahead of 2026 midterms"
+            },
+            "scotus_campaign_finance": {
+              "outcome": "COORDINATION LIMITS STRUCK — structural Republican advantage in 2026 coordinated spending",
+              "vote": "6-3"
+            },
+            "scotus_louisiana_v_callais": {
+              "outcome": "VRA SECTION 2 THRESHOLD RAISED",
+              "affected_states": ["Alabama", "Louisiana", "Texas", "North Carolina", "Georgia"]
+            },
+            "scotus_birthright_citizenship": {
+              "outcome": "UPHELD — Trump EO blocked; 14th Amendment confirmed",
+              "vote": "6-3"
+            },
+            "save_america_reconciliation_30": "BYRD BATH RISK HIGH — no new procedural steps July 10",
+            "acting_dni_vacancy_day": 50,
+            "acting_dni_50day_milestone": "Peak analytical load — Hormuz/MOU/Lebanon/Iran-nuclear/Russia/CENTCOM BDA simultaneous requirements",
+            "cisa_clean_streak_days": 70
+          }
+        },
+        {
+          "headline": "Measles HIGH-CONSEQUENCE SUB-WINDOW DAY 2 — PEAK WINDOW (July 10-11 Maximum Epidemiological Concentration; Georgetown Wastewater + ER Surveillance Active; NO CLUSTERS DAY 2 — TWO-DAY CLEAN STREAK; Window Closes Day 10 July 12); FEMA PNW Compound Demand Reducing (Chelan Hills SR-20/Sourdough Progress; Atlantic Quiet)",
+          "summary": "Two secondary domestic threads on July 10 evening. First: measles high-consequence sub-window Day 2 (July 10) is the epidemiological peak window. Day 7-10 (July 9-12) of the June 19 Lumen Field cluster window is the highest-concentration period for community transmission chains from the mass-event exposure (~69,000 attendance, FIFA match, Lumen Field, Seattle). Days 8-9 (July 10-11) represent the sub-window's peak epidemiological concentration: if community transmission chains were seeded at the June 19 exposure, they would be most identifiable through Georgetown University's wastewater DNA and emergency department data fusion platform during this 48-hour window. As of the July 10 evening brief, no clusters have been confirmed in King County or Snohomish County. The two-day consecutive clean streak (July 9 Day 1, July 10 Day 2) in the peak window is the strongest reassurance signal since the June 19 exposure event. However, the window does not formally close until July 12 (Day 10). Secondary transmission chains from mass-event exposures can produce identifiable community cases across the full Days 7-10 window rather than clustering on a single day. Georgetown's platform — integrating FIFA wastewater stream monitoring, emergency department presentation data, and social media symptom signal — is the primary early-warning instrument; no alert has been issued as of this session. The CIDRAP slowing signal (Day 34) continues as the baseline national reassurance signal. The July 11 morning Georgetown report (Day 9 of the window, Day 3 of the sub-window) will be the next key indicator. Second: FEMA compound PNW demand is meaningfully reducing but not resolved. The Chelan Hills Fire's 50% containment (held through Day 5; under Day 6 red flag test) and Sourdough Fire's SR-20 reopening signal a transition from acute compound disaster demand toward managed-relief demand. The SR-20 reopening and Skagit dam power restoration progression reduce the FEMA logistics and energy-infrastructure coordination demands associated with a simultaneously closed-highway and disrupted-power scenario. However, Level 3 evacuations remain active at Chelan Hills (~500 residents), the Day 6 red flag test may complicate the evacuation downgrade timeline, and NIFC PL4 Day 12 maintains national resource constraint pressure. Atlantic is quiet entering July 10 — no active tropical development.",
+          "significance": "MODERATE",
+          "actors": ["CDC", "CIDRAP", "Georgetown University", "King County Public Health", "Snohomish County Health District", "FEMA", "NHC", "WA DOH", "HHS"],
+          "metrics": {
+            "measles_national_case_count": 2170,
+            "measles_cdc_update_date": "2026-07-02",
+            "measles_cidrap_slowing_signal_day": 34,
+            "measles_mmr_coverage_national_pct": 92.5,
+            "measles_herd_immunity_threshold_pct": 95,
+            "measles_june19_cluster_window_day": 8,
+            "measles_june19_window_dates": "July 3-10, 2026",
+            "measles_high_consequence_subwindow_active": true,
+            "measles_high_consequence_subwindow_dates": "July 9-12 (Day 7-10)",
+            "measles_high_consequence_subwindow_day": 2,
+            "measles_high_consequence_subwindow_peak": "Days 8-9 (July 10-11) — maximum epidemiological concentration",
+            "measles_high_consequence_day2_status": "CLEAN — no clusters confirmed King County or Snohomish County",
+            "measles_consecutive_clean_days_in_subwindow": 2,
+            "measles_two_day_streak_signal": "STRONGEST REASSURANCE SIGNAL SINCE JUNE 19 EXPOSURE — but window not closed",
+            "measles_sub_window_remaining_days": "Day 10 (July 12) — window closes",
+            "measles_georgetown_surveillance": "ACTIVE — no cluster alert issued through July 10 evening",
+            "measles_june19_lumen_field_attendance": 69000,
+            "fema_hurricane_posture": "DEGRADED — staffing + supply + director vacancy",
+            "fema_atlantic_july10_status": "QUIET — no active tropical development",
+            "fema_pnw_compound_demand": "REDUCING — Chelan Hills 50%/SR-20 open/Skagit restoring; not resolved",
+            "fema_chelan_hills_evacuation_active_residents": 500,
+            "fema_sourdough_sr20_status": "REOPENED — logistics improvement"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "CHELAN HILLS FIRE DAY 6 — FIRST POST-AR RED FLAG TEST (50% Containment; 10-20% RH; 35MPH Gusts; Level 3 Still Active; Human-Caused Investigation; Highways Open); SOURDOUGH FIRE DAY 6 — SR-20 REOPENED (Skagit Dam Power Restoring; Extended Attack); NIFC PL4 DAY 12 (37 Large Fires; North Cayuse OR; Crawford Oaks WA); WA DROUGHT DAY 36 (4th Year; 50% Snowpack); NSF Newport OR Dark Day 12 (Monitoring Gap Peak Fire Season); Longview CSB Day 46 T-1 (July 11 Three-Thread Convergence TOMORROW); Measles Sub-Window Day 2 CLEAN (Peak Window; Two-Day Streak); FERC AI T-8 (July 18); PNW CLIMATE WEEK T-3 (July 13-19); Amazon/Microsoft Structural Bifurcation Ongoing.",
+      "items": [
+        {
+          "headline": "CHELAN HILLS FIRE DAY 6 — FIRST POST-AR RED FLAG TEST (50% Containment Under Red Flag Warning; 10-20% RH; 35MPH Gusts; 200+ Personnel; Level 3 Still Active — Orondo/Chelan Falls Corridor; ~9,735-9,861 Acres; 1 Fatality; Human-Caused Investigation); SOURDOUGH FIRE DAY 6 — SR-20 REOPENED (Extended Attack; Skagit Hydropower Restoring); NIFC PL4 Day 12 (37 Large Fires; North Cayuse OR; Crawford Oaks WA)",
+          "summary": "The July 10 PNW fire session is defined by the transition from the Chelan Hills Fire's managed-containment milestone (50% at Days 4-5) to its first real stress test under post-AR red flag conditions on Day 6. The atmospheric river that provided 72+ hours of humidity recovery and suppression cover from July 5-8 is fully expired. The east-of-Cascades WUI terrain of Douglas/Chelan County is under active Red Flag Warning: 10-20% relative humidity, wind gusts to approximately 35mph, high temperatures. These are conditions identical to or exceeding those that produced the Days 1-3 zero-containment crisis — the same meteorological ingredients that drove the fire's initial rapid progression into the McNeil Canyon community before any containment line was established. The key difference at Day 6: 200+ personnel are now in extended-containment posture with dozer-built line geometry on approximately 50% of the perimeter. The red flag test is whether that line geometry is structurally robust enough to hold without the AR's humidity moderating influence. Spot fires from airborne embers crossing established line are the primary breach mechanism in red flag conditions. The Day 6 ICS-209 (available in the July 11 morning cycle) is the definitive answer. If the 50% containment figure holds or improves under Day 6 red flag conditions, the brief's assessment shifts toward high confidence in extended suppression timeline and eventual Level 3 downgrade. If the line regresses, the brief returns toward the Days 1-3 zero-containment framing. The Sourdough Fire (Day 6, North Cascades NP) has resolved the July 9 evening SR-20 'developing reopening' uncertainty: the North Cascades Highway (SR-20) is confirmed reopened. This is the most significant infrastructure restoration event in Whatcom County since the July 4 Sourdough ignition. Seattle City Light's Skagit dam hydropower supply (Gorge, Diablo, Ross dams) is in partial restoration as fire proximity to the dam complex is cleared. The Sourdough Fire is now in extended attack mode — a managed-suppression posture consistent with the fire being within a stable perimeter at a scale manageable under NIFC PL4 aerial and ground resource allocation. NIFC PL4 Day 12 (first since 2021, 37 large fires nationally): North Cayuse Fire (east of Pendleton, OR) remains active with evacuations; Crawford Oaks Fire (Dallesport WA, Columbia Gorge) remains at structure-threat status. The east-of-Cascades and Columbia Gorge fire belt remains the highest-concentration PNW risk corridor through the July-August east wind season.",
+          "significance": "HIGH",
+          "actors": ["NPS", "USFS Pacific Northwest Region", "BLM", "Washington DNR", "Oregon ODF", "NWS Seattle", "NWS Portland", "NIFC", "Governor Bob Ferguson", "Oregon Governor Tina Kotek", "Douglas County Sheriff Tyler Caille", "BPA", "Seattle City Light", "WSDOT", "Douglas County Emergency Management", "Chelan County Emergency Management", "Skagit County Emergency Management", "FEMA"],
+          "metrics": {
+            "chelan_hills_fire": {
+              "location": "US-97 MP-233, between Orondo and Chelan Falls, Douglas County WA",
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 6,
+              "acres_ics209": "~9,735-9,861",
+              "containment_pct": 50,
+              "containment_arc": "0% Day 3 → 20% Day 4 → 50% Day 5 → RED FLAG TEST Day 6",
+              "red_flag_warning_active": true,
+              "red_flag_rh_pct": "10-20",
+              "red_flag_wind_gusts_mph": 35,
+              "ar_buffer_expired": true,
+              "personnel": "200+",
+              "structures_destroyed": "100+ (McNeil Canyon; 75% of footprint structures)",
+              "fatality_count": 1,
+              "cause_investigation": "HUMAN-CAUSED — active investigation",
+              "evacuation_status": "Level 3 STILL ACTIVE — Orondo, Chelan Falls, Chelan Hills corridor (~500 residents)",
+              "highway_97_status": "OPEN",
+              "highway_97a_status": "OPEN",
+              "day6_ics209_significance": "DEFINITIVE — does 50% geometry hold under red flag conditions identical to Days 1-3?",
+              "day6_primary_risk": "Spot fire ember crossing established dozer line under 35mph gusts"
+            },
+            "sourdough_fire": {
+              "location": "North Cascades NP / Ross Lake NRA, Whatcom County WA",
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 6,
+              "containment_status": "EXTENDED ATTACK — AR-period geometry confirmed by SR-20 reopening",
+              "sr20_status": "REOPENED — North Cascades Highway open",
+              "skagit_dam_power_status": "RESTORING — Seattle City Light partial recovery; Gorge/Diablo/Ross dams",
+              "suppression_mode": "Extended attack; aerial-primary; roadless wilderness terrain"
+            },
+            "north_cayuse_fire": {
+              "location": "East of Pendleton OR",
+              "evacuations_active": true
+            },
+            "crawford_oaks_fire": {
+              "location": "Dallesport WA (Columbia Gorge)",
+              "structures_threatened": true
+            },
+            "nifc_preparedness_level": 4,
+            "nifc_pl4_day": 12,
+            "nifc_pl4_first_since": 2021,
+            "nifc_large_fires_active": 37
+          }
+        },
+        {
+          "headline": "WA Drought Day 36 (4th Year; 50% Snowpack; Red Flag Warning Confirms East-Cascades Fuel-Load Risk); NSF Newport OR Dark Day 12 (Monitoring Gap Active Through Fire Season Peak; Red Flag Event Operating Without Coastal Anchor); Longview CSB Day 46 T-1 (THREE-THREAD CONVERGENCE TOMORROW — July 11 Elevated Risk + FERC 30-Day T-8 + Measles Sub-Window Closing); Measles Sub-Window Day 2 CLEAN (Two-Day Streak; Closes July 12); PNW Climate Week T-3 (July 13-19); Amazon WA Structural Bifurcation Ongoing",
+          "summary": "Five secondary PNW environmental and local threads on July 10 evening. First: Washington drought emergency Day 36 (fourth consecutive year; 50% snowpack vs. normal; 12-county emergency declaration). The July 10 Red Flag Warning in east-of-Cascades terrain is the drought's most direct operational expression of the week — fuel moisture in Douglas/Chelan/Okanogan County terrain is at or below record lows for the date, making the Chelan Hills Day 6 red flag conditions existentially more hazardous than they would be in a normal snowpack year. El Nino base probability 61%; Super El Nino at 25% (1-in-4 forward risk for a critically dry 2026-2027 PNW winter). NIFC above-normal fire potential continues through July-August for the Pacific Northwest. Second: NSF Newport, Oregon ocean observatory Dark Day 12. The July 10 Red Flag Warning — generating east-of-Cascades fire weather — is the third major weather event in the monitoring gap (after two prior calibration-confirmed events). NWS Seattle is issuing the Red Flag Warning and fire-weather forecasts for Douglas/Chelan County without the Newport coastal atmospheric anchor. For fire-weather forecasting in the east-of-Cascades WUI terrain, the marine-layer/east-wind interaction is a key forecast variable that the Newport observatory normally helps calibrate. With the monitoring gap active and the east Cascades fire season at operational peak, each fire-weather forecast event in the gap period degrades precision in exactly the terrain where Chelan Hills and adjacent fires are burning. Third: Longview CSB Day 46. Three-thread convergence opens TOMORROW (July 11 = T-1 is now T-0): (1) Longview CSB elevated chemical vapor pressure risk window for the 90,000-gallon hazardous material storage facility, driven by summer heat returning to the lower Columbia River corridor; (2) FERC AI 30-day informational report deadline July 18 (T-8, opening of the active reporting window); (3) measles high-consequence sub-window peak (July 9-12 — entering final days). This is the July 10 evening brief's most concentrated forward risk calendar. Fourth: measles high-consequence sub-window Day 2 (July 10) CLEAN — two-day consecutive clean streak in the peak window. Georgetown surveillance platform is active with no cluster alert as of evening. The window runs through July 12. CIDRAP slowing Day 34 holds as the baseline national reassurance signal. Fifth: PNW Climate Week (July 13-19, Seattle-Vancouver-Portland corridor) is T-3. The forum arrives during the most operationally acute fire backdrop of its history — Chelan Hills Day 6 red flag test, Sourdough Day 6 extended attack, North Cayuse OR and Crawford Oaks WA active, NIFC PL4 Day 12, fourth drought year, Super El Nino 25% on the 2026-2027 horizon. The forum's recommendations will carry unprecedented operational urgency. Amazon Washington WARN ongoing (2,198 corporate positions April-June; ~1/3 software engineers; part of 30,000+ since October 2025) — the PNW tech-labor structural bifurcation (capital accelerating: $200B Amazon 2026 capex, $72.4B Microsoft H1 FY2026; headcount contracting: 30,000+ since October 2025) continues as the regional economy's defining long-term pattern.",
+          "significance": "MODERATE",
+          "actors": ["NWS Seattle", "NWS Portland", "NOAA", "NSF", "Governor Bob Ferguson", "Oregon Governor Tina Kotek", "BPA", "NIFC", "CSB", "FERC", "Georgetown University", "WA DOH", "Amazon", "Microsoft"],
+          "metrics": {
+            "washington_drought_emergency_day": 36,
+            "washington_drought_consecutive_years": 4,
+            "washington_snowpack_vs_normal_pct": 50,
+            "washington_drought_emergency_counties": 12,
+            "oregon_drought_monitor_pct": 83,
+            "el_nino_probability_pct": 61,
+            "super_el_nino_probability_pct": 25,
+            "super_el_nino_pnw_winter_risk": "Critically dry 2026-2027 — compounding 4th drought year into 5th cycle",
+            "red_flag_warning_east_cascades_july10": true,
+            "east_cascades_fuel_moisture": "AT OR BELOW RECORD LOWS FOR DATE — 4th drought year structural driver",
+            "east_cascades_onset_day": 13,
+            "nsf_newport_or_dark_day": 12,
+            "nsf_fire_weather_events_in_gap": 3,
+            "nsf_red_flag_july10_without_anchor": true,
+            "nsf_reinstallation_authorized": "SENATE UNANIMOUS — physical reinstallation timeline pending",
+            "longview_csb_day": 46,
+            "longview_elevated_risk_window": "OPENING TOMORROW July 11",
+            "longview_three_thread_convergence": "OPENING TOMORROW — Longview CSB + FERC 30-day T-8 + Measles sub-window closing",
+            "measles_high_consequence_subwindow_day": 2,
+            "measles_high_consequence_day2_status": "CLEAN — two-day streak; no King County/Snohomish clusters",
+            "measles_sub_window_closes": "July 12 (Day 10)",
+            "pnw_climate_week_start": "2026-07-13",
+            "pnw_climate_week_days_out": 3,
+            "pnw_climate_week_fire_context": "Chelan Hills Day 6 red flag + Sourdough Day 6 extended attack + NIFC PL4 Day 12 + 4th drought year + Super El Nino 25% — most operationally acute forum backdrop in history",
+            "amazon_wa_warn_positions": 2198,
+            "amazon_total_corporate_layoffs_since_oct2025": 30000,
+            "amazon_2026_capex_bn": 200,
+            "microsoft_h1_fy2026_capex_bn": 72.4,
+            "pnw_tech_labor_dynamic": "STRUCTURAL BIFURCATION — AI capital accelerating; headcount contracting"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "July 10, 2026 evening holds at Vibe 4 — maintaining the July 9 evening level through two roughly offsetting directional signals. The session's analytical structure is a genuine balance between a meaningful Hormuz procedural stabilization (Witkoff/Kushner Doha presence, Iran communication channel agreed, WTI modestly pulling back from the $75 re-escalation peak) and the PNW fire season's most consequential domestic infrastructure stress test of the week (Chelan Hills Day 6 under active Red Flag Warning conditions identical to the Days 1-3 zero-containment catastrophe). On Hormuz: the Witkoff/Kushner Doha development is analytically significant because it demonstrates active negotiator presence and produced a concrete procedural output — a formal communication channel between the US and Iran, mediated by Qatar and Pakistan, to resolve MOU disputes. Iran refused direct meetings but did not void the MOU or issue a SNSC formal termination declaration. The $6B frozen assets were not released — the US retained its principal economic leverage. The gap between the MOU's maximum declaratory stress (Trump 'ceasefire over' July 8) and its formal operational status (no termination instrument, active negotiator channel) is the clearest since the MOU was signed June 19. WTI's retreat from $75 toward $73-74 is the commodity market's read on this gap — a partial premium de-risk, not a normalization signal. On fires: the Chelan Hills Day 6 red flag test is the brief's central forward question. The AR-enabled 0%→50% containment arc (Days 3-5) was achieved under conditions that no longer apply. The 200+ personnel on line have built geometry that will either hold under wind and low humidity — validating the extended-containment assessment — or regress under spot-fire activity. The Day 6 ICS-209 (morning reporting cycle July 11) is the answer. The Sourdough SR-20 reopening is the session's secondary PNW positive — the most significant infrastructure restoration event in Whatcom County since the July 4 ignition. Skagit dam hydropower is restoring. The Longview CSB three-thread convergence (Longview elevated risk + FERC 30-day T-8 + measles sub-window closing) opens tomorrow (July 11) — the brief's most concentrated forward risk calendar event. The measles sub-window's two-day consecutive clean streak in the peak window is the strongest epidemiological reassurance signal since the June 19 Lumen Field exposure. Primary watch items for July 11-12: first, Chelan Hills Day 6 ICS-209 — does 50% containment hold under red flag conditions? Second, Longview CSB July 11 elevated risk window — T-0 on the three-thread convergence; any Longview incident in the July 11-18 window is the brief's highest-consequence domestic infrastructure event. Third, Iran response to the Qatar communication channel — does the SNSC formally characterize the channel as a dispute-resolution mechanism (stabilizing) or issue a void declaration premised on oil-sanction reimposition (terminal)? Fourth, measles sub-window Day 3 (July 11) — the 48-hour peak window; Georgetown morning report is the primary signal.",
+  "watch_items": [
+    "Chelan Hills Fire Day 6 ICS-209 (July 11 morning) — the 200+ personnel are holding 50% containment geometry under active Red Flag Warning conditions (10-20% RH, 35mph gusts) identical to the Days 1-3 zero-containment catastrophe; the Day 6 ICS-209 is the definitive test of whether the line holds; any regression below 50% under red flag conditions would be the most significant PNW fire management setback since Day 3; any improvement above 50% validates extended-containment operational mode and opens Level 3 partial downgrade discussion for the Orondo/Chelan Falls corridor",
+    "Longview CSB July 11 elevated risk window (T-1 — TOMORROW) — the three-thread July 11-18 convergence opens at T-0 tomorrow: (1) Longview CSB elevated chemical vapor pressure risk for 90,000-gallon hazardous material storage, driven by summer heat returning to lower Columbia River corridor; (2) FERC AI 30-day informational report deadline July 18 T-8 entering active window; (3) measles high-consequence sub-window peak closing July 12; any Longview CSB incident in the July 11-18 window is the brief's highest-consequence domestic infrastructure event and the compound risk that most directly stresses PNW emergency response capacity already allocated to Chelan Hills/Sourdough",
+    "Measles sub-window Day 3 (July 11) — peak window (Days 8-9, July 10-11); two-day consecutive clean streak through Day 2 is the strongest reassurance signal since the June 19 Lumen Field exposure; Day 3 clean would complete the peak window with a three-day streak; Georgetown University wastewater DNA + ER data fusion morning report is the primary signal; any King County/Snohomish County cluster emerging July 11 would be the brief's highest-consequence domestic public health event since measles crossed 2,000 nationally",
+    "Iran SNSC response to Qatar communication channel — the key question entering MOU Acute Stress Day 4: does Iran's SNSC formally characterize the Doha communication channel as a dispute-resolution mechanism within the MOU framework (stabilizing — would be the most significant MOU-positive development since the June 19 signing) or issue a formal MOU-void declaration premised on the July 7 oil sanctions reimposition (terminal — single most escalatory step available to Iran); the $6B frozen assets non-release and Iran's refusal of direct meetings in Doha signal that Iran is maintaining maximum pressure while preserving the channel — watching for SNSC formal statement",
+    "WTI trajectory July 11 (FERC-Hormuz convergence signal) — WTI's retreat from $75 toward $73-74 on July 10 is a partial de-risk signal; directional signal on July 11 will reflect the market's read on the Qatar channel's durability; WTI declining toward $71-73 would signal the market is pricing meaningful MOU-continuation probability; WTI returning above $74.50 toward $75+ would signal the de-risk was temporary and re-escalation premium is reasserting; WTI declining toward $69-71 remains the genuine normalization confidence price",
+    "Sourdough Fire Day 6-7 extended attack (Skagit dam power restoration timeline) — SR-20 confirmed reopened; Skagit dam hydropower (Gorge/Diablo/Ross; Seattle City Light) partial restoration developing; the restoration trajectory over July 11-14 is the next PNW infrastructure watch item; any Sourdough expansion that threatens SR-20 re-closure or re-disrupts Skagit hydropower would be a significant setback; extended attack stability through the July 11-14 window would confirm the Sourdough as a managed-suppression situation through the PNW Climate Week (July 13-19)",
+    "FERC AI 30-day informational report July 18 (T-8) — the six ISO/RTO operators' resource adequacy submissions are the next hard gate in the AI large-load integration reform proceedings; PNW data center corridors (Quincy WA, The Dalles OR, Eastern Oregon — BPA/WECC) track as de facto standard-setters; the July 18 reports will be the first formal statement of the grid operators' AI data center capacity positions and will set the framework for the 60-day show cause response (August 17 T-39); the July 11 Longview convergence opens the same calendar window",
+    "Section 122 tariff expiry July 24 (T-14) and USTR Section 301 successor — the post-hearing review period is active; any White House announcement of a finalized Section 301 framework in the July 10-24 window would be a material clarity event for importers; 12.5% on 46 countries / 10% on 15 others (EU, Canada, UK, Mexico) remains the operative USTR proposal; the 14-day planning gap window is now open; Pharma 232 scheduled July 31",
+    "Russia Omsk CDU-10 restoration timeline (extended inflationary pressure signal) — CDU-10 'destroyed' assessment (38% of Omsk capacity) shifts the Russian refining recovery timeline from weeks to months; the next data signal is IEA formal response to the CDU-10 assessment and any Russian SPR drawdown or emergency import announcement; the extended timeline directly complicates Warsh's September SEP deflationary impulse thesis and the September FOMC's ability to characterize the dual two-source energy shock as transient",
+    "PNW Climate Week July 13-19 (T-3) — forum arrives during most operationally acute fire backdrop in its history; Chelan Hills Day 6 red flag test outcome, Sourdough Day 7 stability, NIFC PL4 Day 12, East Cascades Onset Day 13, WA Drought Day 36, Super El Nino 25% on the 2026-2027 horizon all provide the operational urgency context; the forum's 2026 policy recommendations will be the most consequential in its history; measles sub-window closing July 12 — one day before forum opens — is a relevant public health convergence"
+  ],
+  "sources": [
+    {"title": "Iran to open 'communication channel' on MoU with US after talks in Qatar — Al Jazeera", "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar"},
+    {"title": "Witkoff, Kushner in Qatar but won't meet with Iran directly — The Hill", "url": "https://thehill.com/homenews/administration/5947244-witkoff-kushner-qatar-iran-talks/"},
+    {"title": "Iran War: Iran Disses Witkoff and Kushner in Doha but Does Not Get $6 Billion in Frozen Assets — Naked Capitalism", "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-disses-witkoff-and-kushner-in-doha-but-does-not-get-6-billion-in-frozen-assets-strait-of-hormuz-traffic-sub-par-but-continues-on-oman-side-as-talks-over-future-management-continue.html"},
+    {"title": "Trump's Iran envoys face scrutiny as diplomacy stalls — CNN Politics", "url": "https://www.cnn.com/2026/07/09/politics/iran-strikes-kushner-witkoff-flawed-ceasefire"},
+    {"title": "WTI slips below $74 after rally as US-Iran tensions support prices — FXStreet", "url": "https://www.fxstreet.com/news/wti-slips-below-74-after-recent-rally-middle-east-tensions-limit-the-downside-202607091001"},
+    {"title": "Oil prices today: Brent, WTI rise as U.S. targets Iran — CNBC", "url": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html"},
+    {"title": "Omsk oil refinery shut down following a Ukrainian drone attack — Ukrainska Pravda", "url": "https://www.pravda.com.ua/eng/news/2026/07/07/8042903/"},
+    {"title": "Drone Strike Shuts Russia's Largest Refinery as Fuel Shortages Worsen — OilPrice.com", "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Shuts-Russias-Largest-Refinery-as-Fuel-Shortages-Worsen.amp.html"},
+    {"title": "Russian Largest Oil Refinery Halts Production After Drone Attack — The Moscow Times", "url": "https://www.themoscowtimes.com/2026/07/07/russias-largest-oil-refinery-halts-production-after-drone-attack-sources-say-a93190"},
+    {"title": "Chelan Hills Fire 50% contained amid red flag warning conditions — KHQ", "url": "https://www.khq.com/news/chelan-hills-fire-near-orondo-burning-at-least-15-000-acres-evacuations-remain-in-place/article_93a2cf5b-6563-4a6e-ab36-58027c704416.html"},
+    {"title": "Chelan Hills fire now 20,000 acres; second wildfire sparks in Navarre Coulee — Lake Chelan Mirror", "url": "https://www.lakechelanmirror.com/stories/chelan-hills-fire-grows-to-20000-acres-second-wildfire-sparks-in-navarre-coulee,180556"},
+    {"title": "9,800-acre Chelan Hills fire that killed 1 investigated as human-caused — Seattle Times", "url": "https://www.seattletimes.com/seattle-news/9800-acre-chelan-hills-fire-that-killed-1-investigated-as-human-caused/"},
+    {"title": "Sourdough Fire Update — North Cascades National Park (NPS)", "url": "https://www.nps.gov/noca/learn/news/sourdough-fire-update.htm"},
+    {"title": "Sourdough Fire, Blue Lake Fire: SR 20 reopens in North Cascades — KING5", "url": "https://www.king5.com/article/traffic/traffic-news/sr-20-reopens-north-cascades-wildfire-closure/281-416a464b-eade-4423-a503-bf4bf024ee02"},
+    {"title": "National Fire News — NIFC", "url": "https://www.nifc.gov/fire-information/nfn"},
+    {"title": "July heat and drought conditions raise wildfire threat across Washington — MyNorthwest", "url": "https://mynorthwest.com/pacific-northwest-weather/wildfire-threat/4254486"},
+    {"title": "Washington drought set to worsen as heat wave, El Niño loom — MyNorthwest", "url": "https://mynorthwest.com/pacific-northwest-weather/washington-drought/4255252"},
+    {"title": "Section 122 Tariff Expiry: What Happens July 24, 2026 — USTradeStack", "url": "https://ustradestack.ai/guides/section-122-expiry-2026"},
+    {"title": "Section 301 Replacing Section 122: 12.5% on 46 Countries — TariffsTool", "url": "https://www.tariffstool.com/guides/section-301-replacing-section-122"},
+    {"title": "Federal Court Strikes Down USDA Approval of SNAP Food Restriction Demonstrations — FRAC", "url": "https://frac.org/blog/federal-court-strikes-down-usda-approval-of-snap-food-restriction-demonstrations"},
+    {"title": "Keiko Fujimori officially declared winner of Peru presidential race — Al Jazeera", "url": "https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race"},
+    {"title": "Milei plans to attend inaugurations of new Peru and Colombia presidents — Buenos Aires Times", "url": "https://www.batimes.com.ar/news/latin-america/milei-to-attend-inaugurations-of-new-peru-and-colombia-presidents.phtml"},
+    {"title": "2026 Iran war ceasefire — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire"},
+    {"title": "2026 Washington wildfires — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Washington_wildfires"},
+    {"title": "FERC Launches Aggressive Targeted Action to Speed Large Load Integration — FERC", "url": "https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration"}
+  ]
+}

@@ -2162,7 +2162,23 @@
       ],
       "headline": "Trump 'Ceasefire Over' At NATO Summit Ankara; CENTCOM Second-Wave Strikes; Iran 85+ US Facility Counter-Strikes; MOU Formally Intact Witkoff/Kushner Negotiating; Chelan Hills 50% Containment Day 5; Measles High-Consequence Sub-Window Day 1 Clean; FERC AI Deadline Closed; Vibe 4",
       "generated_at": "2026-07-09T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-10-evening",
+      "date": "2026-07-10",
+      "session": "evening",
+      "file": "reports/2026-07-10-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Witkoff/Kushner In Doha Iran Communication Channel Agreed MOU Acute Stress Day 3 WTI Modest Pullback $73-74; Chelan Hills Day 6 First Post-AR Red Flag Test 50% Under Active Warning; Sourdough SR-20 Reopened Skagit Restoring; Longview CSB T-1 Three-Thread Convergence Tomorrow; Measles Sub-Window Day 2 CLEAN Two-Day Streak; Russia Omsk CDU-10 Destroyed; Vibe 4",
+      "generated_at": "2026-07-10T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-09T07:00:00-07:00"
+  "last_updated": "2026-07-10T20:00:00-07:00"
 }
