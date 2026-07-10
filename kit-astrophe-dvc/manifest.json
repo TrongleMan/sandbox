@@ -2164,6 +2164,22 @@
       "generated_at": "2026-07-09T20:00:00-07:00"
     },
     {
+      "id": "2026-07-10-morning",
+      "date": "2026-07-10",
+      "session": "morning",
+      "file": "reports/2026-07-10-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 133 MOU Acute Stress Day 3 Trump Ceasefire Over Not Retracted Markets Thursday Close S&P +0.8% SK Hynix IPO $26.51B Largest-Ever Foreign Nasdaq Debut; Chelan Hills Day 6 50% Containment Red Flag Test; Longview CSB Day 46 T-1 Elevated Risk; Maine Platner Dropout Dems T-17; Acting DNI Day 50; Vibe 4",
+      "generated_at": "2026-07-10T07:00:00-07:00"
+    },
+    {
       "id": "2026-07-10-evening",
       "date": "2026-07-10",
       "session": "evening",
