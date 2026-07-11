@@ -2194,7 +2194,23 @@
       ],
       "headline": "Witkoff/Kushner In Doha Iran Communication Channel Agreed MOU Acute Stress Day 3 WTI Modest Pullback $73-74; Chelan Hills Day 6 First Post-AR Red Flag Test 50% Under Active Warning; Sourdough SR-20 Reopened Skagit Restoring; Longview CSB T-1 Three-Thread Convergence Tomorrow; Measles Sub-Window Day 2 CLEAN Two-Day Streak; Russia Omsk CDU-10 Destroyed; Vibe 4",
       "generated_at": "2026-07-10T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-11-evening",
+      "date": "2026-07-11",
+      "session": "evening",
+      "file": "reports/2026-07-11-evening.json",
+      "vibe": 5,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Iran Talks Resume Post-Khamenei Funeral MOU Day 23 Nuclear Issue On Agenda Doha Channel Operative; WTI Below $72 First Normalization-Zone Pricing Since July 7 Re-Escalation; Chelan Hills 95% Contained Day 7 Breakthrough; Kartar 100% Contained; Longview CSB T-0 Three-Thread Convergence; Measles Sub-Window Day 3 CLEAN Peak Window Closes Tomorrow; Vibe 5",
+      "generated_at": "2026-07-11T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-10T20:00:00-07:00"
+  "last_updated": "2026-07-11T20:00:00-07:00"
 }
