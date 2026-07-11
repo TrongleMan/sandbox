@@ -2196,6 +2196,22 @@
       "generated_at": "2026-07-10T20:00:00-07:00"
     },
     {
+      "id": "2026-07-11-morning",
+      "date": "2026-07-11",
+      "session": "morning",
+      "file": "reports/2026-07-11-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Khamenei Funeral Concluded — Talk-Resumption Window Opens; WTI ~$71-72 Transitioning Normalization Zone; Chelan Hills Day 7 Red Flag ICS-209 Pending; Longview CSB Three-Thread Convergence T-0; Vibe 4",
+      "generated_at": "2026-07-11T07:00:00-07:00"
+    },
+    {
       "id": "2026-07-11-evening",
       "date": "2026-07-11",
       "session": "evening",
