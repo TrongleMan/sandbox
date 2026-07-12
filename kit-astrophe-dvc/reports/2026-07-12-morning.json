@@ -1,0 +1,429 @@
+{
+  "report_id": "2026-07-12-morning",
+  "generated_at": "2026-07-12T06:00:00-07:00",
+  "series": "DVC Morning Brief",
+  "analyst_note": "Hormuz Day 135 — MOU DAY 24 / ACUTE STRESS DAY 5: OVERNIGHT IRAN GULF RETALIATION SEQUENCE (IRAN FIRES BALLISTIC MISSILES AND DRONES AT QATAR, BAHRAIN, UAE, KUWAIT — GULF ARAB STATES INTERCEPT; IRGC DECLARES HORMUZ CLOSED; CENTCOM SAYS STRAIT OPEN AND US FORCES POSITIONED; IRAN PARLIAMENT SPEAKER GHALIBAF ACCUSES US OF BREAKING MOU — FIRST FORMAL LEGISLATIVE MOU-VIOLATION FRAMING FROM TEHRAN; DIPLOMATIC CHANNEL CRITICALLY UNCERTAIN — QATAR IS BOTH CHANNEL HOST AND OVERNIGHT MISSILE TARGET); B AND O FIRE DAY 3 NEAR OKANOGAN — OVERNIGHT LARGE-FIRE ESCALATION (LEVEL 3 EVACUATIONS ISSUED; ~2,000+ ACRES; 0% CONTAINMENT; 359 PERSONNEL; RED FLAG WARNING LOOMING; EAST CASCADES ONSET REGION DAY 15 — KARTAR TERRAIN RISK ACTUATING; HIGHEST-CONSEQUENCE UNRESOLVED PNW FIRE THIS MORNING); WTI RE-ESCALATING ON GULF SPILLOVER SIGNAL (IRGC CLOSURE DECLARATION + GULF ARAB STATES TARGETED — NEW ROUTING RISK LAYER MONDAY MARKET OPEN); CHELAN HILLS FIRE DAY 8 — FULL CONTAINMENT ARC (95% DAY 7 → ANTICIPATED FULL CONTAINMENT TODAY; DEMOBILIZATION BEGINNING; LEVEL 3 DOWNGRADE EXPECTED ORONDO/CHELAN FALLS); NIFC PL4 DAY 14 (38+ LARGE FIRES; 541,000+ ACRES; 14+ STATES); MEASLES SUB-WINDOW DAY 4 / INCUBATION DAY 10 — FINAL DAY (THREE-DAY CLEAN STREAK JULY 10-11-12; GEORGETOWN WASTEWATER + ER SURVEILLANCE FINAL MONITORING DAY; IF TONIGHT CLEAN = PRIMARY CLUSTER RISK RESOLVED); LONGVIEW CSB DAY 48 — ELEVATED RISK WINDOW DAY 2 (NO INCIDENT OVERNIGHT); FERC AI 30-DAY T-6 (JULY 18 — FINAL WEEK; SIX ISO/RTO SUBMISSIONS); WA DROUGHT DAY 38 (4TH YEAR; HEAT WAVE BUILDING LATE JULY; B AND O FIRE OVERNIGHT ESCALATION CONFIRMING FUEL VULNERABILITY IN ONSET REGION); OBBB DAY 13 (18 STATES MEDICAID/SNAP; NO FEDERAL STAY); ACTING DNI DAY 52 (OVERNIGHT GULF RETALIATION ASSESSMENT + THIRD-STRIKE BDA + LEBANON REASSESSMENT + IRAN PARLIAMENT MOU-VIOLATION FRAMING — MAXIMUM CONCURRENT LOAD DAY 2); CISA CLEAN DAY 72; PNW CLIMATE WEEK T-1 (OPENS TOMORROW JULY 13 — MOST OPERATIONALLY ACUTE BACKDROP IN FORUM HISTORY); SECTION 122 T-12 (JULY 24) / USTR SECTION 301 T-8 (JULY 20); PHARMA 232 T-19 (JULY 31); EAST CASCADES ONSET DAY 15; PERU FUJIMORI JNE CREDENTIALS T-3 (JULY 15); COLOMBIA T-26 (AUG 7); VENEZUELA EARTHQUAKE DAY 19. Sunday July 12, 2026 morning. The July 12 morning brief opens at Vibe 4. The dominant new development since the July 11 evening brief is the Iran overnight retaliation sequence: following the third US CENTCOM strike package Saturday night (Iran attacked a Cyprus-flagged container ship, US responded), Iran escalated horizontally by firing ballistic missiles and drones at Gulf Arab states — Qatar, Bahrain, the UAE, and Kuwait — all of whom reported interceptions. The IRGC simultaneously declared the Strait of Hormuz closed. CENTCOM immediately countered that the strait is open and US forces are positioned to guarantee freedom of navigation. Iran Parliament Speaker Ghalibaf posted on X accusing the US of breaking the June 19 MOU. The overnight sequence is structurally more dangerous than the Saturday night exchange alone: it has widened the conflict's geographic footprint to Gulf Arab states, introduced a formal MOU-violation accusation from Tehran's legislative leadership, and directed missiles at Qatar — the host country of the diplomatic communication channel that was confirmed operative July 11 daytime. The second critical morning development is the B and O Fire near Okanogan, which escalated overnight from Day 3 'not yet at large fire' status to approximately 2,000+ acres at 0% containment with Level 3 evacuations issued and 359 personnel deployed. Red Flag Warning conditions are expected. The Kartar Fire suppression-challenge terrain risk flagged in the July 11 brief has actuated.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — consistent with July 12 evening but morning brief opens with two developments that were not present at the close of July 11 evening. Primary escalation: The overnight Iran Gulf retaliation sequence widens the Hormuz conflict's geographic footprint to Gulf Arab states (Qatar, Bahrain, UAE, Kuwait) and introduces three compounding signals. First, Iran fired ballistic missiles and drones at Gulf Arab states — all intercepted — escalating the conflict from US-Iran bilateral kinetic exchange to a regional targeting pattern. Second, the IRGC declared the Strait of Hormuz closed — a declaratory move CENTCOM immediately contested, but one that introduces a new routing uncertainty layer for tanker operators regardless of CENTCOM's operational countering. Third, Iran Parliament Speaker Ghalibaf's MOU-violation accusation from Tehran's legislative leadership is the first formal Iranian institutional framing that the US broke the June 19 agreement — a development qualitatively different from IRGC operational claims, as it positions Tehran's political leadership (not just the Revolutionary Guard) as asserting MOU breach. The most consequential analytical complication is that Qatar — the diplomatic communication channel host — is now also an overnight Iranian missile target. Whether the Qatar/Pakistan mediation channel remains operative after Iran fired missiles at Doha is the morning's single most critical open question. The formal MOU status remains unchanged (no SNSC void declaration, no CENTCOM blockade reinstatement, no Kharg Island strike) but the overnight sequence places MOU survival at maximum stress. Secondary escalation: B and O Fire near Okanogan grew overnight from 'not yet at large fire' (Day 3 close status) to approximately 2,000+ acres at 0% containment with Level 3 evacuations and 359 personnel. The Red Flag Warning expected to extend over Okanogan County is the suppression challenge driver. This is the Kartar Fire terrain risk actuating — a rapid-escalation fire in the east Cascades onset region at the same point in the onset cycle as the Kartar Fire's suppression-challenge arc. Suppression resources that were releasing from the Chelan Hills demobilization are being re-allocated. Residual positive: Chelan Hills Fire Day 8 is expected to complete the full containment arc today, and the measles sub-window has reached its final day (Day 10, July 12) with a three-day clean streak through the peak window. These positives hold the morning at Vibe 4 rather than Vibe 3. Drop to Vibe 3 requires: confirmed MOU termination instrument (SNSC formal void declaration OR CENTCOM naval blockade reinstatement OR Kharg Island strike) OR confirmed Gulf Arab state casualties from Iranian missile/drone strikes OR Qatar communication channel formally suspended following overnight missile attack OR B and O Fire rapid growth above 10,000 acres with WUI structure losses under Red Flag conditions. Upgrade to Vibe 5 requires: Iran retracts Hormuz closure declaration AND communication channel produces confirmed diplomatic session output; WTI returns below $72; B and O Fire achieves initial containment lines; measles July 12 Georgetown close confirmed clean."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "Hormuz Day 135 — MOU Day 24 / Acute Stress Day 5: Overnight Iran Gulf Retaliation Sequence (Ballistic Missiles And Drones At Qatar, Bahrain, UAE, Kuwait — All Intercepted; IRGC Declares Hormuz Closed; CENTCOM Says Strait Open; Ghalibaf MOU-Violation Accusation From Iranian Parliament; Qatar As Both Diplomatic Channel Host And Overnight Missile Target — Channel Survival Critically Uncertain; WTI Re-Escalating On Gulf Regional Targeting; Formal MOU Status Unchanged — No SNSC Void / No CENTCOM Blockade / No Kharg Strike); Russia Fuel Crisis Day 12 (Omsk 75% Offline; Diesel Export Ban; Central Asian Spillover); Lebanon Fragile Hold Day 27 (Iran Gulf Targeting Complicates Hezbollah Assessment); Peru T-3 (July 15); Colombia T-26 (Aug 7); Venezuela Earthquake Day 19.",
+      "items": [
+        {
+          "headline": "Hormuz Day 135 — MOU Day 24 / Acute Stress Day 5: Overnight Iran Gulf Retaliation Widens Conflict (Ballistic Missiles And Drones At Qatar, Bahrain, UAE, Kuwait — Intercepted; IRGC Declares Hormuz Closed; CENTCOM Counters Strait Is Open; Ghalibaf Accuses US Of Breaking MOU — First Formal Legislative MOU-Violation Framing From Tehran; Qatar — Diplomatic Channel Host — Overnight Missile Target; WTI Re-Escalating; No SNSC Void / No CENTCOM Blockade / No Kharg Strike)",
+          "summary": "The July 12 morning brief records the most geographically expansive single overnight exchange in the 2026 Hormuz arc. The sequence: Iran fired ballistic missiles and drones targeting Gulf Arab states — Qatar, Bahrain, the UAE, and Kuwait — in apparent retaliation for the third US CENTCOM strike package Saturday night (the response to Iran's attack on a Cyprus-flagged container ship with one crew member missing). All four Gulf Arab states reported interceptions; no confirmed casualties as of morning. Simultaneously, the IRGC declared the Strait of Hormuz closed to vessel traffic. US CENTCOM immediately countered on X: 'The Strait of Hormuz is open to all vessels seeking to lawfully transit the international waterway. US forces are positioned and prepared to ensure that freedom of navigation remains available despite unwarranted Iranian aggression, harassment, threats, and arbitrary declarations. Iran does not control the strait.' Iran Parliament Speaker Mohammad Bagher Ghalibaf posted on X that the US had failed to honor the June 19 MOU, in which Iran committed to arranging safe passage for commercial shipping through the Strait of Hormuz — accusing the US of being the party in breach. This is the first formal legislative MOU-violation framing from Tehran, distinct in institutional weight from IRGC operational claims. The most analytically consequential development is the targeting of Qatar: Qatar is the host country of the diplomatic communication channel confirmed operative July 11 daytime — the same channel that was producing the diplomatic resumption signal the July 11 brief characterized as the Vibe 5 upgrade driver. Whether Iran firing ballistic missiles at Doha overnight terminates, suspends, or complicates the Qatar/Pakistan mediation architecture is the morning's single highest-priority open analytical question. The formal MOU status on July 12 morning is unchanged: no SNSC formal void declaration, no CENTCOM naval blockade reinstatement, no Kharg Island strike. The MOU has not been formally terminated. But the overnight sequence places MOU survival at maximum acute stress: three US strike packages in five days, Iran retaliating against Gulf Arab states with ballistic missiles, IRGC asserting Hormuz is closed, and Tehran's parliamentary leadership accusing the US of MOU breach. WTI is re-escalating in the overnight session as markets process the Gulf Arab state targeting and IRGC closure declaration — new routing risk on top of the war-risk premium already asserting from the Saturday night exchange.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "Steve Witkoff", "Jared Kushner", "CENTCOM", "IRGC", "Masoud Pezeshkian", "Abbas Araghchi", "Mohammad Bagher Ghalibaf", "SNSC", "Qatar", "Sheikh Tamim bin Hamad Al Thani", "Pakistan", "Bahrain", "UAE", "Kuwait", "Acting DNI", "JD Vance", "Marco Rubio", "Lloyd's of London", "Kpler"],
+          "metrics": {
+            "hormuz_day": 135,
+            "mou_signed_date": "2026-06-19",
+            "mou_compliance_day": 24,
+            "mou_acute_stress_day": 5,
+            "mou_formal_termination_instrument": false,
+            "snsc_formal_mou_void_declaration": false,
+            "centcom_naval_blockade_reinstated": false,
+            "kharg_island_struck": false,
+            "us_iran_strike_exchanges_since_july7": 3,
+            "strike_exchange_dates": ["2026-07-07 (US 80+ targets in Iran)", "2026-07-08 (US second consecutive)", "2026-07-11 overnight (US third package — Cyprus ship attack response)"],
+            "iran_gulf_arab_state_retaliation_confirmed": true,
+            "iran_gulf_targets": ["Qatar (Doha)", "Bahrain", "UAE", "Kuwait"],
+            "iran_gulf_strike_type": "Ballistic missiles and drones — all intercepted",
+            "gulf_arab_state_casualties_confirmed": false,
+            "irgc_hormuz_closure_declaration": true,
+            "centcom_hormuz_closure_counter": "STRAIT IS OPEN — US forces positioned to ensure freedom of navigation",
+            "ghalibaf_mou_violation_accusation": true,
+            "ghalibaf_mou_framing": "US failed to honor June 19 MOU — accusing US as breaching party",
+            "ghalibaf_institutional_weight": "PARLIAMENTARY LEADERSHIP — first formal legislative MOU-violation framing from Tehran distinct from IRGC operational claims",
+            "qatar_diplomatic_channel_status": "CRITICALLY UNCERTAIN — Qatar is both channel host and overnight missile target; channel survival highest-priority open question",
+            "july11_diplomatic_resumption_confirmed": true,
+            "july11_diplomatic_resumption_source": "Al Arabiya / Times of Israel",
+            "doha_channel_overnight_status": "UNKNOWN — operative July 11 daytime; Qatar targeted overnight; July 12 morning status unconfirmed",
+            "wti_morning_direction": "RE-ESCALATING — Gulf Arab state targeting + IRGC closure declaration adding new risk premium layer",
+            "wti_normalization_zone_status": "BROKEN — sub-$72 normalization signal from July 11 fully interrupted by overnight sequence",
+            "lloyds_normalization_announced": false,
+            "iran_cypress_ship_crew_missing": 1,
+            "sixty_day_nuclear_window_day": 24,
+            "sixty_day_nuclear_window_pct_elapsed": "40%",
+            "sixty_day_window_end": "~2026-08-17",
+            "nuclear_technical_talks_scheduled": false,
+            "acting_dni_vacancy_day": 52,
+            "cisa_clean_streak_days": 72
+          }
+        },
+        {
+          "headline": "Russia Fuel Crisis Day 12 (Omsk 75% Offline; CDU-10 Destroyed / CDU-11 Multi-Month; Diesel Export Ban Through July; Central Asian Spillover Confirmed); Lebanon Fragile Hold Day 27 (Iran Gulf Attack Complicates Hezbollah Assessment — 48-Hour Post-Exchange Window Resets); Peru Fujimori JNE Credentials T-3 (July 15); Colombia T-26 (Aug 7); Venezuela Earthquake Day 19 (1,719+ Dead; Maduro Restricting Access)",
+          "summary": "Five secondary geopolitical threads this morning. First: Russia fuel crisis Day 12. Omsk refinery remains at 75% offline — CDU-10 destroyed (38% capacity, multi-month restoration) and CDU-11 offline (37% capacity, infrastructure damage, multi-month timeline). Russia's diesel export ban through end of July sustains the Central Asian supply spillover: Uzbekistan flights remain cut, Kazakhstan continuing Chinese import-insurance procurement. IEA 'unprecedented' designation stands. The overnight Iran Gulf retaliation reinforces the dual two-source energy shock (Hormuz re-escalation + Russian domestic refinery crisis) as the dominant inflationary macro backdrop. Second: Lebanon fragile hold Day 27. The overnight Iran attack on Gulf Arab states recalibrates the Lebanon assessment: Iran directing ballistic missiles at Qatar, Bahrain, UAE, and Kuwait on Saturday night/Sunday morning indicates Iran is willing to escalate broadly and regionally, not just operationally through the Hormuz corridor. The analytic question for Lebanon is whether this broader regional escalation increases the probability of Iran sanctioning Hezbollah mobilization. The 48-hour post-exchange window resets with the overnight Gulf attacks; Lebanon is now under a heightened assessment posture through July 14 morning. No confirmed Hezbollah mobilization orders through overnight. Third: Peru — JNE credentials ceremony T-3 (July 15, Grand National Theater, noon). Fujimori first and second vice presidents Galarreta and Torres credential ceremony confirmed. Milei (Argentina) attendance confirmed. Inauguration July 28. No transition complications. Fourth: Colombia T-26 to de la Espriella inauguration August 7. No transition complications through overnight. Fifth: Venezuela earthquake Day 19 — 1,719+ confirmed dead, 46,600+ missing. Maduro restricting US humanitarian access. Colombia incoming government (T-26) faces cross-border humanitarian pressure at transition.",
+          "significance": "MODERATE",
+          "actors": ["IEA", "Russia", "Vladimir Putin", "Gazprom Neft", "Uzbekistan", "Kazakhstan", "China", "IDF", "Hezbollah", "Keiko Fujimori", "JNE Peru", "Luis Fernando Galarreta", "Miguel Angel Torres", "Javier Milei", "Abelardo de la Espriella", "Gustavo Petro", "Nicolas Maduro"],
+          "metrics": {
+            "russia_fuel_crisis_day": 12,
+            "omsk_combined_capacity_offline_pct": 75,
+            "omsk_cdu10_status": "DESTROYED — multi-month restoration",
+            "omsk_cdu11_status": "OFFLINE — infrastructure damage; multi-month timeline",
+            "russia_diesel_export_ban_through": "End of July 2026",
+            "central_asian_spillover_confirmed": true,
+            "dual_energy_shock_morning_status": "BOTH ESCALATED OVERNIGHT — Hormuz Gulf retaliation + IRGC closure; Omsk Day 12 no restoration; Warsh September SEP thesis at maximum constraint",
+            "lebanon_fragile_hold_day": 27,
+            "lebanon_hezbollah_direction_morning": "NOT CONFIRMED — 48-hour window resets with Gulf attack escalation; heightened monitoring through July 14",
+            "lebanon_iran_gulf_escalation_implication": "Iran willing to escalate regionally (Gulf Arab state targeting) increases analytic uncertainty about Hezbollah mobilization sanctioning",
+            "peru_fujimori_credentials_date": "2026-07-15",
+            "peru_fujimori_credentials_days_out": 3,
+            "peru_fujimori_inauguration_date": "2026-07-28",
+            "colombia_inauguration_date": "2026-08-07",
+            "colombia_inauguration_days_out": 26,
+            "venezuela_earthquake_day": 19,
+            "venezuela_earthquake_confirmed_dead": 1719,
+            "venezuela_earthquake_missing": 46600
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "WTI Re-Escalating Overnight (IRGC Hormuz Closure Declaration + Iran Gulf Arab State Ballistic Missile Attacks — New Routing Risk Layer Ahead Of Monday Market Open; Gulf Tanker Operator Reassessment Compounding Cyprus Ship Crew Casualty); CPI 4.2% (May; Largest 12-Month Since April 2023); Kevin Warsh Hawkish Hold (September Rate Hike 61% CME FedWatch); Dual Energy Shock Maximum Constraint On Warsh September SEP Thesis (Hormuz Overnight Escalation + Omsk 75% Offline Day 12 — Both Worsened From July 11); Section 122 T-12 (July 24) / USTR Section 301 T-8 (July 20) — No Successor Announced; Pharma 232 T-19 (July 31); OBBB Day 13 Economic Implementation.",
+      "items": [
+        {
+          "headline": "WTI Re-Escalating Overnight On Iran Gulf Retaliation (IRGC Hormuz Closure Declaration + Ballistic Missiles At Qatar/Bahrain/UAE/Kuwait; Monday Market Open With New Gulf-Wide Routing Risk Layer; CPI 4.2% May; Warsh Hawkish Hold; September Rate Hike 61% CME; Dual Energy Shock At Maximum September SEP Constraint; Section 122 T-12 / Section 301 T-8 — No Successor Announced; Pharma 232 T-19)",
+          "summary": "The July 12 morning energy session opens with WTI re-escalating on two compounding overnight signals: the IRGC's Hormuz closure declaration and the Gulf Arab state ballistic missile attacks. The closure declaration — immediately countered by CENTCOM — introduces routing uncertainty for tanker operators that is distinct from the war-risk premium already building from the Saturday night third US-Iran exchange and the Cyprus-flagged ship crew casualty (1 missing). The Gulf Arab state targeting adds a new risk dimension: Bahrain hosts the US Fifth Fleet (naval coordination center for Hormuz operations), UAE hosts major commercial shipping bunkering and logistics hubs, Qatar hosts the diplomatic communication channel and major US military basing (Al Udeid), and Kuwait is a critical petroleum logistics corridor. The simultaneous IRGC closure declaration and attacks on these Gulf infrastructure nodes is the most consequential single overnight commercial shipping disruption since the July 7 re-escalation sequence. Monday market open will process: (1) WTI routing risk from Gulf Arab state targeting and IRGC closure declaration; (2) Cyprus-flagged ship crew casualty (1 missing confirmed) from Saturday night; (3) Iran-UK Lloyd's normalization window — already under pressure before the overnight — now analytically suspended. On the broader macro picture: CPI at 4.2% (May) is the trailing inflation signal. Kevin Warsh's hawkish hold (September rate hike 61% CME FedWatch; core PCE forecast 3.4% year-end) is premised on energy price deceleration through late summer. The July 12 overnight escalation directly constrains that scenario: WTI was at sub-$72 on July 11 (the normalization zone signal) and is re-escalating through $73-74 range as Gulf routing risk adds premium. Warsh's September SEP deflationary thesis now requires resolution of both the Hormuz war-risk premium (not happening on current trajectory) and the Russian refinery crisis (multi-month horizon). The dual energy shock is at its maximum constraint on the September FOMC trajectory as of this morning. Tariff calendar: Section 122 expires July 24 (T-12); USTR Section 301 completion deadline July 20 (T-8). No White House Section 301 successor structure announced. The 3-4 day July 20-24 gap between Section 301 completion and Section 122 expiry is the operative importer planning concern. Pharma 232 July 31 (T-19). FERC AI 30-day report July 18 (T-6) — final week.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "FOMC", "CME FedWatch", "USTR", "Treasury", "Lloyd's of London", "Kpler", "CENTCOM", "OPEC+", "FERC", "BPA", "WECC", "Fifth Fleet", "Al Udeid Air Base"],
+          "metrics": {
+            "wti_morning_direction": "RE-ESCALATING — IRGC closure declaration + Gulf Arab state targeting; routing risk premium on top of Saturday night war-risk premium",
+            "wti_july11_normalization_low": "~$71-72",
+            "wti_normalization_signal_status": "BROKEN — Gulf overnight escalation adds new routing uncertainty",
+            "irgc_hormuz_closure_declared": true,
+            "centcom_hormuz_open_statement": true,
+            "gulf_arab_routing_risk_hubs": ["Bahrain (Fifth Fleet)", "UAE (bunkering/logistics)", "Qatar (Al Udeid/diplomatic channel)", "Kuwait (petroleum logistics)"],
+            "lloyds_normalization_window": "ANALYTICALLY SUSPENDED — overnight Gulf escalation postpones normalization signal indefinitely",
+            "tanker_routing_reassessment": "ELEVATED — Cyprus crew casualty + Gulf Arab state targeting + IRGC closure declaration; triple compounding",
+            "cpi_may2026_yoy_pct": 4.2,
+            "cpi_may2026_largest_since": "April 2023",
+            "core_pce_forecast_year_end_pct": 3.4,
+            "fed_funds_rate": "3.50-3.75% HOLD — hawkish",
+            "warsh_hawkish_hold_status": "INTACT — September hike trajectory further reinforced by overnight energy escalation",
+            "september_rate_hike_probability_pct": 61,
+            "warsh_september_deflationary_thesis_status": "AT MAXIMUM CONSTRAINT — both required conditions (Hormuz normalization + Russian refining recovery) in deteriorated status; overnight escalation worsens Hormuz trajectory",
+            "section_122_expiry_date": "2026-07-24",
+            "section_122_days_to_expiry": 12,
+            "ustr_section_301_completion_deadline": "2026-07-20",
+            "ustr_section_301_days_to_completion": 8,
+            "ustr_section_301_successor_announced": false,
+            "tariff_gap_risk_window": "July 20-24 — 3-4 day gap between 301 completion and 122 expiry",
+            "pharma_232_effective_date": "2026-07-31",
+            "pharma_232_days_to_effective": 19,
+            "ferc_ai_30day_report_deadline": "2026-07-18",
+            "ferc_ai_30day_days_remaining": 6,
+            "recession_probability_12mo_pct": 35,
+            "treasury_30yr_approx": "~5.0%"
+          }
+        },
+        {
+          "headline": "OBBB Day 13 (18 States Medicaid Work Requirements + SNAP Restrictions; Zero Federal Court Stays; Aragon v. Rollins Downstream); Russia CDU-11 Day 12 Offline (75% Total Omsk — Dual Shock Extended; September SEP Conditions Deteriorating); SAVE America Reconciliation 3.0 Byrd Bath Risk; Maine Democrats July 27 Candidate Replacement Deadline (15 Days)",
+          "summary": "Four secondary economic and domestic-policy threads this morning. First: OBBB Law Day 13 (signed June 29, effective July 1). Medicaid work requirements and SNAP healthy food restrictions in 18 states, with zero federal court stays on any OBBB title as of this morning. The Aragon v. Rollins downstream USDA SNAP administrative precedent exposure accumulates through Day 13. CBO 10-year deficit estimate ($3.4T) is the operative fiscal impact assessment. No new OBBB legal filings or procedural developments overnight. Speaker Johnson's SAVE America Reconciliation 3.0 (voter ID through budget reconciliation) remains in the Senate Byrd bath risk zone with no new procedural steps. Second: Russia CDU-11 continues offline at Day 12. The combined 75% Omsk offline picture is a multi-month structural story unchanged from July 11. The overnight Hormuz escalation means both components of the dual energy shock that constrains Warsh's September SEP deflationary thesis are in active deterioration simultaneously: Hormuz war-risk premium re-escalated overnight, Russian refining recovery on multi-month timeline. Third: SAVE America Reconciliation 3.0 Byrd bath risk — Senate Republican skepticism publicly expressed; no new procedural steps overnight. Fourth: Maine Democratic Party July 27 deadline to submit a replacement nominee for the Senate race against Republican Sen. Susan Collins — 15 days remaining, no replacement candidate confirmed.",
+          "significance": "MODERATE",
+          "actors": ["Speaker Mike Johnson", "Senate Republicans", "Kevin Warsh", "FOMC", "HHS", "USDA", "CBO", "IEA", "Maine Democratic Party", "Sen. Susan Collins", "FRAC"],
+          "metrics": {
+            "obbb_law_day": 13,
+            "obbb_signed_date": "2026-06-29",
+            "obbb_effective_date": "2026-07-01",
+            "obbb_medicaid_work_requirements_states_active": 18,
+            "obbb_snap_restrictions_states_active": 18,
+            "obbb_legal_challenges_with_federal_stay": 0,
+            "obbb_cbo_deficit_10yr_tn": 3.4,
+            "russia_omsk_combined_offline_pct": 75,
+            "russia_fuel_crisis_day": 12,
+            "dual_shock_morning_status": "BOTH CONDITIONS IN ACTIVE DETERIORATION — Hormuz overnight escalation adds Gulf routing layer; Russian refining multi-month; Warsh September trajectory at maximum constraint",
+            "save_america_reconciliation_30": "BYRD BATH RISK HIGH — no new procedural steps overnight",
+            "maine_democrat_replacement_deadline": "2026-07-27",
+            "maine_democrat_replacement_days_remaining": 15,
+            "maine_november_race": "vs. Sen. Susan Collins (R)"
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "B AND O FIRE DAY 3 NEAR OKANOGAN — OVERNIGHT LARGE-FIRE ESCALATION (LEVEL 3 EVACUATIONS ISSUED; ~2,000+ ACRES; 0% CONTAINMENT; 359 PERSONNEL; RED FLAG WARNING LOOMING; EAST CASCADES ONSET REGION DAY 15; KARTAR TERRAIN RISK ACTUATING — HIGHEST-CONSEQUENCE ACTIVE PNW FIRE THIS MORNING); CHELAN HILLS FIRE DAY 8 — FULL CONTAINMENT ARC (95% → ANTICIPATED FULL; DEMOBILIZATION BEGINNING; LEVEL 3 DOWNGRADE EXPECTED ORONDO/CHELAN FALLS); SOURDOUGH FIRE DAY 8 (SR-20 OPEN; SKAGIT HYDROPOWER RESTORING); NIFC PL4 DAY 14 (38+ LARGE FIRES; 541,000+ ACRES); FERC AI 30-DAY T-6 (JULY 18 — FINAL WEEK); DOE $17.5B NUCLEAR LOAN COMMITMENT (LARGEST FEDERAL NUCLEAR INVESTMENT IN DECADES); ARMY CRITICAL MINERALS LEASES (FOUR SITES); LONGVIEW CSB DAY 48 (ELEVATED RISK WINDOW DAY 2; NO INCIDENT OVERNIGHT); WA DROUGHT DAY 38 (4TH YEAR; 50% SNOWPACK; HEAT WAVE BUILDING LATE JULY); EAST CASCADES ONSET DAY 15.",
+      "items": [
+        {
+          "headline": "B AND O FIRE DAY 3 — Overnight Large-Fire Escalation (Level 3 Evacuations Issued Near Okanogan; ~2,000+ Acres; 0% Containment; 359 Personnel; Red Flag Warning Looming; East Cascades Onset Region Day 15 — Kartar Terrain Risk Actuating; Human-Caused — Under Investigation; Highest-Consequence Unresolved PNW Fire July 12 Morning); CHELAN HILLS DAY 8 — Full Containment Arc (95% → Full; Demobilization Begun; Level 3 Downgrade Expected); SOURDOUGH DAY 8 (SR-20 Open; Skagit Restoring); NIFC PL4 Day 14",
+          "summary": "The July 12 morning infrastructure session is defined by the overnight escalation of the B and O Fire from 'Day 3 not yet at large fire' to a large-fire-scale incident with Level 3 evacuations, approximately 2,000+ acres at 0% containment, and 359 personnel deployed. The B and O Fire (near Okanogan, Okanogan County WA — ignition July 9) is now the July 12 morning brief's highest-consequence active PNW fire and the primary negative development since the July 11 evening brief. Location: the fire is in the east Cascades onset region at Day 15, in the same Okanogan terrain complex that produced the Kartar Fire's suppression-challenge arc (15% containment under Red Flag on July 10 before 100% containment July 11). The overnight escalation to large-fire-scale with Level 3 evacuations in Okanogan County demonstrates the fuel conditions and terrain-wind dynamic the July 11 brief identified as the B and O's primary risk: east-wind season under 4th-year drought, record-low fuel moisture in eastern Washington, onset region at Day 15. Red Flag Warning is expected to extend over the Okanogan County area, which is the exact suppression-challenge condition the Kartar Fire encountered. The fire is human-caused and is under investigation by authorities — the same human-caused determination that applies to the Chelan Hills Fire. With 359 personnel deployed and Level 3 evacuations active in Okanogan, the suppression resource pool in eastern Washington is under renewed pressure at the moment when Chelan Hills and Kartar releases were anticipated to reduce the resource demand. Chelan Hills Fire (Day 8, Douglas County WA): the July 11 brief's 95% containment breakthrough is progressing toward full containment today. Demobilization has begun — the 200+ emergency response personnel are releasing toward mop-up and patrol skeleton crew. Level 3 evacuation downgrade for the Orondo/Chelan Falls corridor (~500 residents) is expected today; if confirmed, it marks the end of the July 4-11 emergency response arc and the beginning of the McNeil Canyon recovery phase (100+ structures destroyed, 1 fatality, $9.1M+ preliminary damage). Sourdough Fire (Day 8, Whatcom County, North Cascades NP): extended attack posture; SR-20 (North Cascades Highway) confirmed open; Skagit dam hydropower (Gorge, Diablo, Ross) continuing partial recovery. No new Sourdough developments threatening SR-20 or Skagit infrastructure overnight. NIFC Preparedness Level 4 Day 14 (first PL4 since 2021): 38+ large fires nationally burning 541,000+ acres across 14+ states. The B and O Fire's escalation to large-fire scale is consistent with the national PL4 backdrop — the 2026 fire season has already burned 3.4 million acres nationally at 146% of the ten-year average as of July 8.",
+          "significance": "CRITICAL",
+          "actors": ["NIFC", "Washington DNR", "NPS", "USFS Pacific Northwest Region", "BLM", "NWS Seattle", "Governor Bob Ferguson", "Okanogan County Emergency Management", "BPA", "WSDOT", "Douglas County Sheriff Tyler Caille", "Chelan County Emergency Management", "FEMA", "Seattle City Light"],
+          "metrics": {
+            "b_and_o_fire": {
+              "location": "Near Okanogan, Okanogan County WA — east Cascades onset region",
+              "ignition_date": "2026-07-09",
+              "day_since_ignition": 3,
+              "acres_morning": "~2,000+ (large-fire scale confirmed overnight — escalation from Day 3 evening not-yet-large status)",
+              "containment_pct": 0,
+              "personnel_assigned": 359,
+              "evacuation_status": "LEVEL 3 — Go Now orders issued in Okanogan County",
+              "cause": "HUMAN-CAUSED — under investigation",
+              "red_flag_warning": "EXPECTED — extending over Okanogan County area",
+              "onset_region_day": 15,
+              "terrain_analogy": "Same Okanogan/east Cascades terrain as Kartar Fire suppression-challenge arc",
+              "kartar_risk_status": "ACTUATING — rapid escalation overnight confirming fuel/wind dynamic; east-wind season at onset Day 15",
+              "july11_brief_status": "NOT YET LARGE FIRE — status reversed overnight",
+              "morning_priority": "HIGHEST-CONSEQUENCE ACTIVE PNW FIRE July 12 morning"
+            },
+            "chelan_hills_fire": {
+              "location": "US-97 MP-233, between Orondo and Chelan Falls, Douglas County WA",
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 8,
+              "containment_pct_july11": 95,
+              "containment_arc": "0% → 20% → 50% → 50% RF HOLD → 95% → FULL CONTAINMENT ARC TODAY",
+              "day8_status": "FULL CONTAINMENT ANTICIPATED TODAY — demobilization phase begun",
+              "level3_downgrade_expected": true,
+              "level3_downgrade_area": "Orondo/Chelan Falls corridor (~500 residents)",
+              "structures_destroyed": "100+",
+              "damage_estimate_usd": "9.1M+ (preliminary)",
+              "fatality_count": 1,
+              "cause": "HUMAN-CAUSED — Douglas County Sheriff + state investigators active",
+              "phase": "ENTERING RECOVERY — McNeil Canyon recovery arc beginning if Level 3 downgrade confirmed today"
+            },
+            "sourdough_fire": {
+              "location": "North Cascades NP / Ross Lake NRA, Whatcom County WA",
+              "ignition_date": "2026-07-04",
+              "day_since_ignition": 8,
+              "sr20_status": "CONFIRMED OPEN — North Cascades Highway",
+              "skagit_dam_power_status": "RESTORING — Gorge/Diablo/Ross; Seattle City Light partial recovery continuing",
+              "phase": "EXTENDED ATTACK MANAGED — no new WUI or SR-20 threat overnight"
+            },
+            "nifc_preparedness_level": 4,
+            "nifc_pl4_day": 14,
+            "nifc_pl4_first_since": 2021,
+            "nifc_large_fires_active": "38+",
+            "nifc_large_fires_acres": "541,000+",
+            "nifc_large_fires_states": "14+",
+            "national_season_total_acres": "3.4 million (as of July 8 — 146% of 10-year average)",
+            "east_cascades_onset_day": 15,
+            "bpa_grid_status": "UNDER RENEWED PRESSURE — B and O Fire Level 3 adding east-of-Cascades load while Chelan Hills releasing"
+          }
+        },
+        {
+          "headline": "DOE $17.5B Nuclear Loan Commitment (Largest Federal Nuclear Investment In Decades; Four Companies Selected); FERC Show-Cause Orders All Six ISO/RTOs (Large Load Integration; 60-Day Response); Army Critical Minerals Leases (Four Sites — Graphite/Lithium/Boron/Heavy Rare Earths); FERC AI 30-Day T-6 (July 18 — Final Week; PNW Climate Week Day 1 Tomorrow Precedes FERC Deadline); Longview CSB Day 48 (Elevated Risk Window Day 2; No Incident Overnight); WA Drought Day 38 (Columbia Basin Most Likely West Drought Intensification Zone; Heat Wave Building Late July)",
+          "summary": "Five secondary infrastructure threads this morning. First: DOE Energy Dominance Financing office $17.5 billion conditional loan commitment for long-lead-time nuclear reactor component procurement — the largest single federal nuclear investment in decades. Four companies: Titan Mining Corporation (Anniston Army Depot AL — graphite), EnergyX (Pine Bluff Arsenal AR — lithium), Ioneer (Red River Army Depot TX — boron), REalloys (Tooele Army Depot UT — heavy rare earths). Critical minerals processing on leased military installation land. The overnight Iran-Gulf escalation context: the nuclear loan commitment is a long-cycle supply diversification instrument (years, not months) at a moment when the near-term Hormuz corridor energy shock is re-escalating. Second: FERC show-cause orders to all six ISO/RTOs on large energy user grid connection tariff justification. 60-day response deadline. FERC has also eliminated cumulative NEPA environmental effects analyses as a standard component of project reviews — significant large-load integration streamlining. Third: Army critical minerals leases at four sites (Anniston/Pine Bluff/Red River/Tooele). Fourth: FERC AI 30-day informational report T-6 (July 18). Six ISO/RTO operators in final week of submissions. PNW Climate Week opens TOMORROW (July 13) in the Seattle-Vancouver-Portland corridor — its Day 1-5 outputs directly precede and inform the July 18 FERC AI deadline's regulatory context. The dual mandate (physical climate emergency from 4th-year drought/B and O Fire/Chelan Hills catastrophe PLUS AI data center electricity demand governance for Quincy WA/The Dalles OR corridors) arrives with the most operationally acute backdrop in the forum's history. Fifth: Longview CSB Day 48 — Elevated Risk Window Day 2. No chemical incident through overnight. Summer heat at lower Columbia River corridor persisting post-atmospheric river. Nippon Dynawave monitoring active. Washington drought emergency Day 38: 4th consecutive year; 50% snowpack; 12-county emergency. B and O Fire's overnight escalation to large-fire-scale is a direct expression of the fuel vulnerability the drought creates in the onset region. Federal forecasters: Columbia River Basin most likely spot in the West to see drought intensify over next three months. Heat wave building over northern Plains forecast to push into PNW late July — peak fire season structural driver.",
+          "significance": "MODERATE",
+          "actors": ["DOE Secretary Chris Wright", "FERC", "PJM", "MISO", "CAISO", "NYISO", "ISO-NE", "SPP", "BPA", "WECC", "Titan Mining Corporation", "EnergyX", "Ioneer", "REalloys", "US Army", "CSB", "Nippon Dynawave", "NWS Seattle", "NOAA", "Governor Bob Ferguson"],
+          "metrics": {
+            "doe_nuclear_loan_commitment_bn": 17.5,
+            "doe_nuclear_loan_designation": "LARGEST FEDERAL NUCLEAR INVESTMENT IN DECADES",
+            "army_critical_minerals_lessees": ["Titan Mining Corporation (graphite — Anniston Army Depot AL)", "EnergyX (lithium — Pine Bluff Arsenal AR)", "Ioneer (boron — Red River Army Depot TX)", "REalloys (heavy rare earths — Tooele Army Depot UT)"],
+            "ferc_show_cause_orders_issued": "ALL SIX ISO/RTOs — PJM/MISO/SPP/CAISO/ISO-NE/NYISO",
+            "ferc_nepa_cumulative_effects": "ELIMINATED — no longer standard component of project reviews",
+            "ferc_ai_30day_report_deadline": "2026-07-18",
+            "ferc_ai_30day_days_remaining": 6,
+            "ferc_ai_60day_show_cause_deadline": "2026-08-17",
+            "pnw_climate_week_start": "TOMORROW — 2026-07-13",
+            "pnw_climate_week_ferc_timing": "Days 1-5 directly precede July 18 FERC AI deadline; forum outputs inform regulatory context",
+            "pnw_climate_week_backdrop": "MOST ACUTE IN FORUM HISTORY — B and O Fire Level 3 this morning; Chelan Hills catastrophe; 4th drought year; NIFC PL4; AI power surge",
+            "longview_csb_day": 48,
+            "longview_elevated_risk_window_day": 2,
+            "longview_chemical_incident_status": "NO INCIDENT — overnight clean",
+            "washington_drought_emergency_day": 38,
+            "washington_drought_consecutive_years": 4,
+            "washington_snowpack_vs_normal_pct": 50,
+            "washington_drought_emergency_counties": 12,
+            "b_and_o_fire_drought_expression": "OVERNIGHT LARGE-FIRE ESCALATION — direct expression of 4th-year drought fuel vulnerability in onset region",
+            "columbia_basin_drought_outlook": "MOST LIKELY WEST DROUGHT INTENSIFICATION ZONE — 3-month federal forecast",
+            "pnw_late_july_heat_wave_risk": "BUILDING — northern Plains heat forecast to push into PNW late July",
+            "el_nino_probability_pct": 61,
+            "super_el_nino_probability_pct": 25,
+            "east_cascades_onset_day": 15
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "MEASLES SUB-WINDOW DAY 4 / INCUBATION DAY 10 — FINAL DAY THIS MORNING (JUNE 19 LUMEN FIELD PRIMARY WINDOW CLOSES TODAY; THREE-DAY CLEAN STREAK JULY 10-11-12 THROUGH PEAK; GEORGETOWN WASTEWATER + ER SURVEILLANCE FINAL MONITORING DAY; IF TONIGHT CLEAN = PRIMARY CLUSTER RISK RESOLVED; NATIONAL 2,231 CASES AS OF JULY 9); ACTING DNI DAY 52 (OVERNIGHT IRAN GULF RETALIATION + GHALIBAF MOU FRAMING + THIRD-STRIKE BDA + LEBANON REASSESSMENT — MAXIMUM CONCURRENT LOAD; UNPRECEDENTED CONCURRENT IC REQUIREMENT STACK); OBBB DAY 13 (18 STATES; ZERO FEDERAL STAYS; ARAGON V. ROLLINS DOWNSTREAM); TRUMP RELIEVES ELECTION ASSISTANCE COMMISSION MEMBERS; CISA CLEAN DAY 72 (IRANIAN-AFFILIATED THREAT SURFACE RE-ELEVATED OVERNIGHT — GULF ATTACKS ACTIVE MONITORING PERIOD); SCOTUS FIVE RULINGS IMPLEMENTATION; MCCONNELL ABSENT WEEK 4+.",
+      "items": [
+        {
+          "headline": "Measles Sub-Window Day 4 / Incubation Day 10 — FINAL DAY (July 12 Is Final Day Of June 19 Lumen Field Primary Window; Three-Day Clean Streak July 10-11-12 Through Peak Window; Georgetown Wastewater + ER Surveillance Final Monitoring Day This Evening; If Tonight Close Clean = Primary Cluster Risk Resolved; National 2,231 Cases As Of July 9; CIDRAP Slowing Signal Day 36)",
+          "summary": "The July 12 brief carries the measles sub-window to its final day — the most consequential public health monitoring event of the 2026 arc. July 12 is Day 10 of the June 19 Lumen Field exposure incubation window, and Day 4 of the high-consequence sub-window (the 4-day concentration period, Days 7-10, defined by the highest secondary-transmission-chain identification probability from the ~69,000-person Lumen Field mass attendance on June 19). The three-day consecutive clean streak through the peak window (July 10, 11, and today July 12 — pending this evening's Georgetown University wastewater DNA and emergency department data fusion close) is the best epidemiological result sequence possible for this monitoring arc. If the July 12 Georgetown close confirms clean, the June 19 Lumen Field mass-event cluster risk is resolved for the primary incubation window. The analytical standard qualification: a June 19 secondary transmission chain can generate tertiary exposures that present after Day 10, but the probability of a mass-event cluster emerging from a confirmed Day 10-clean primary window is substantially lower. The July 13 morning brief will characterize the June 19 cluster risk as resolved for the primary window if tonight's Georgetown close is clean. National measles count: 2,231 confirmed cases as of July 9 CDC update (61 new cases in the week to July 9 — a modest deceleration from prior weeks). CIDRAP slowing signal Day 36 is the operative national baseline reassurance frame. MMR coverage at 92.5% (below the 95% herd immunity threshold) remains the structural national vulnerability regardless of the Lumen Field window outcome. Seafair Fleet Week (July 21-24) is the next major Seattle mass-attendance event on the post-window calendar.",
+          "significance": "HIGH",
+          "actors": ["CDC", "CIDRAP", "Georgetown University", "King County Public Health", "Snohomish County Health District", "WA DOH", "HHS", "FIFA"],
+          "metrics": {
+            "measles_national_case_count": 2231,
+            "measles_cdc_update_date": "2026-07-09",
+            "measles_cidrap_slowing_signal_day": 36,
+            "measles_mmr_coverage_national_pct": 92.5,
+            "measles_herd_immunity_threshold_pct": 95,
+            "measles_june19_incubation_window_day": 10,
+            "measles_high_consequence_subwindow_day": 4,
+            "measles_high_consequence_subwindow_dates": "July 9-12 (Days 7-10)",
+            "measles_high_consequence_subwindow_closing_today": true,
+            "measles_peak_window_clean_streak_days": "THREE (July 10, 11 — July 12 pending evening close)",
+            "measles_july12_monitoring": "Georgetown University wastewater DNA + ER surveillance — FINAL DAY",
+            "measles_if_july12_clean": "PRIMARY WINDOW RESOLVED — June 19 Lumen Field cluster risk resolved for Day 10 incubation window; July 13 morning brief will characterize as resolved",
+            "measles_june19_lumen_field_attendance": 69000,
+            "measles_next_major_seattle_mass_event": "Seafair Fleet Week — July 21-24 (9 days out)"
+          }
+        },
+        {
+          "headline": "Acting DNI Day 52 — Overnight Iran Gulf Retaliation Adds Maximum Concurrent IC Load (Gulf Arab State Damage Assessment + Iran Ghalibaf MOU-Framing Signal + Lebanon Hezbollah Escalation Reassessment + Third-Strike BDA + Qatar Channel Status Assessment — Five New Overnight IC Requirements On Top Of Existing Stack); OBBB Day 13 (18 States; Zero Federal Stays); Trump Relieves Election Assistance Commission Members; CISA Clean Day 72 (Overnight Iranian-Affiliated Threat Surface Re-Elevated); SCOTUS Five Rulings Implementation; McConnell Absent Week 4+",
+          "summary": "Five secondary domestic threads this morning. First and most significant: Acting DNI Day 52 is operating at an unprecedented concurrent IC requirement stack. The overnight Iran Gulf retaliation sequence adds at minimum five new morning intelligence requirements on top of the stack the July 11 brief characterized as 'maximum concurrent load': (1) Gulf Arab state damage assessment — what was hit, what was intercepted, and whether Bahrain's Fifth Fleet assets were targeted or threatened; (2) Iranian intentions assessment — is the Gulf Arab state targeting a one-time retaliation or the opening of a broader regional escalation axis?; (3) Ghalibaf MOU-violation accusation signal — is Iran's parliamentary leadership coordinating with the IRGC on the MOU-breach narrative, and does this signal the formal diplomatic architecture is being positioned for rejection?; (4) Lebanon Hezbollah escalation reassessment — Iran directing ballistic missiles at Gulf Arab states materially changes the probability calculus for Hezbollah mobilization sanctioning, with a 48-hour reassessment window opened by the overnight Gulf attacks; (5) Qatar communication channel status — can the Qatar channel survive Iran targeting Doha with ballistic missiles? Day 52 without Senate-confirmed IC leadership carrying this stack is the operational stress the brief tracks as a structural deficit. Second: OBBB Law Day 13. Zero federal stays on all OBBB titles. Aragon v. Rollins downstream exposure accumulates. No new filings overnight. Third: Trump has relieved the remaining members of the US Election Assistance Commission. The EAC provides federal guidance, testing, and certification for election equipment and voting systems across all 50 states — the relief of all members heading into the 2026 midterm cycle removes the independent federal election administration oversight body. Fourth: CISA Clean Day 72. The overnight Iran-Gulf escalation re-elevates the Iranian-affiliated cyber threat surface against US infrastructure: historical pattern shows Iranian-affiliated actors intensify reconnaissance activity during periods of active kinetic exchange; five ongoing kinetic axes (three US-Iran, Iran vs. Gulf Arab states, IRGC Hormuz closure) create a higher-than-baseline threat surface. Clean through Day 72 overnight. Active monitoring. Fifth: McConnell hospitalization enters week 4+ with scant public health details — a structural Congressional capacity note heading into the FERC AI and tariff deadline weeks.",
+          "significance": "MODERATE",
+          "actors": ["Acting DNI", "CISA", "Speaker Mike Johnson", "SCOTUS", "President Trump", "US Election Assistance Commission", "HHS", "USDA", "CBO", "Senate Republicans", "Sen. Mitch McConnell", "Fifth Fleet", "NSA", "CIA"],
+          "metrics": {
+            "acting_dni_vacancy_day": 52,
+            "acting_dni_overnight_new_requirements": [
+              "Gulf Arab state damage assessment (Bahrain Fifth Fleet; UAE logistics; Qatar Al Udeid)",
+              "Iran Gulf targeting intentions — one-time retaliation or new regional escalation axis?",
+              "Ghalibaf MOU-violation framing — coordination with IRGC? Formal diplomatic rejection signal?",
+              "Lebanon Hezbollah escalation reassessment — Gulf attacks change mobilization probability",
+              "Qatar communication channel survival assessment — channel host targeted with ballistic missiles"
+            ],
+            "acting_dni_pre_overnight_stack": ["Hormuz/MOU compliance monitoring", "Iran nuclear verification support", "Third-strike BDA", "Russia Omsk fuel crisis", "Colombia/Peru electoral intelligence", "Venezuela earthquake intelligence"],
+            "acting_dni_total_concurrent_workloads": "11+ identified threads — unprecedented for acting leadership without Senate confirmation",
+            "obbb_law_day": 13,
+            "obbb_medicaid_work_requirements_states_active": 18,
+            "obbb_snap_restrictions_states_active": 18,
+            "obbb_legal_challenges_with_federal_stay": 0,
+            "trump_eac_reliefs": "ALL REMAINING MEMBERS — US Election Assistance Commission",
+            "eac_function_impacted": "Federal election equipment guidance, testing, certification — 50 states; 2026 midterm cycle",
+            "cisa_clean_streak_days": 72,
+            "cisa_overnight_threat_surface_status": "RE-ELEVATED — Iranian-affiliated actors historically intensify reconnaissance during active kinetic exchange; five concurrent kinetic axes increase baseline threat surface",
+            "cisa_active_monitoring": true,
+            "scotus_humphreys_executor": "IMPLEMENTATION ACTIVE — FTC/NLRB/SEC/CFPB restructuring",
+            "scotus_watson_v_rnc": "IMPLEMENTATION ACTIVE — mail ballot grace periods eliminated",
+            "scotus_campaign_finance": "ACTIVE — 6-3 structural Republican advantage",
+            "scotus_louisiana_v_callais": "ACTIVE — VRA Section 2 raised; five southern states",
+            "scotus_birthright_citizenship": "UPHELD — Trump EO blocked",
+            "mcconnell_hospitalization_weeks": "4+"
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "B AND O FIRE DAY 3 — OVERNIGHT LARGE-FIRE ESCALATION (LEVEL 3 EVACUATIONS NEAR OKANOGAN; ~2,000+ ACRES; 0% CONTAINMENT; 359 PERSONNEL; RED FLAG WARNING LOOMING; EAST CASCADES ONSET REGION DAY 15; KARTAR TERRAIN RISK ACTUATING — BRIEF'S HIGHEST-CONSEQUENCE ACTIVE PNW FIRE); CHELAN HILLS DAY 8 — FULL CONTAINMENT ARC (95% → FULL; DEMOBILIZATION; LEVEL 3 DOWNGRADE EXPECTED TODAY); SOURDOUGH DAY 8 (SR-20 OPEN; SKAGIT RESTORING); NIFC PL4 DAY 14 (38+ FIRES); WA DROUGHT DAY 38 (4TH YEAR; HEAT WAVE BUILDING; B AND O OVERNIGHT ESCALATION CONFIRMING FUEL VULNERABILITY); NORTH CAYUSE FIRE UMATILLA RESERVATION OREGON (4,885 ACRES; 15% CONTAINMENT; 524 PERSONNEL — ACTIVE SUPPRESSION); PNW CLIMATE WEEK T-1 (OPENS TOMORROW JULY 13 — MOST ACUTE BACKDROP IN FORUM HISTORY); LONGVIEW CSB DAY 48 (ELEVATED RISK WINDOW DAY 2; NO INCIDENT OVERNIGHT); NSF NEWPORT OR DARK DAY 14 (4+ EVENTS WITHOUT COASTAL ANCHOR); MEASLES SUB-WINDOW CLOSING TODAY.",
+      "items": [
+        {
+          "headline": "B AND O FIRE DAY 3 — Overnight Large-Fire Escalation (Level 3 Evacuations Issued Near Okanogan; ~2,000+ Acres; 0% Containment; 359 Personnel; Human-Caused Under Investigation; Red Flag Warning Looming — East Cascades Onset Region Day 15; Kartar Rapid-Escalation Terrain Risk Actuating; July 12 Morning's Highest-Consequence Active PNW Fire); CHELAN HILLS DAY 8 (Full Containment Arc; Level 3 Downgrade Expected Today; Demobilization Begun); SOURDOUGH DAY 8 (SR-20 Open; Skagit Restoring); NORTH CAYUSE FIRE OREGON (4,885 Acres; 15% Containment; Umatilla Reservation); NIFC PL4 Day 14",
+          "summary": "The July 12 morning PNW fire session is dominated by the overnight B and O Fire escalation from 'Day 3 not yet at large fire' to large-fire-scale with Level 3 evacuations, ~2,000+ acres at 0% containment, and 359 personnel deployed. This is the Kartar Fire terrain risk the July 11 brief flagged actuating in the Okanogan terrain complex at East Cascades Onset Region Day 15. The B and O Fire (ignition July 9, near Okanogan, Okanogan County WA, human-caused/under investigation) was characterized as the July 11 brief's 'highest-priority unresolved fire thread' at 72+ hours post-ignition without large-fire escalation confirmation. Overnight, that assessment reversed: Level 3 evacuations — 'Go Now' orders — were issued for Okanogan County areas near the fire; the fire grew to approximately 2,000+ acres at 0% containment with 359 personnel assigned. Red Flag Warning conditions are expected to extend over the area. The structural drivers are identical to the Kartar Fire suppression-challenge arc: Okanogan County east Cascades terrain, east-wind season at onset Day 15, drought-desiccated fuel (4th year, record-low fuel moisture in eastern Washington), low humidity. The B and O Fire's overnight escalation occurred while suppression resources were in the process of releasing from the Chelan Hills (95% containment July 11) and Kartar (100% containment July 11) demobilization arcs. The timing — peak resource release coinciding with peak onset-region fire growth — is a structurally stressful configuration for Washington DNR and USFS Pacific Northwest Region fire management. Chelan Hills Fire (Day 8, Douglas County WA): full containment is expected today as mop-up and patrol operations mature from the 95% Day 7 breakthrough. Demobilization has begun. Level 3 evacuation downgrade for the Orondo/Chelan Falls corridor (~500 residents) is expected today; if confirmed, it marks the end of the July 4-11 Chelan Hills emergency response arc and the formal beginning of the McNeil Canyon recovery phase (100+ structures destroyed, 1 fatality, $9.1M+ preliminary damage, human-caused investigation active). Sourdough Fire (Day 8, North Cascades NP, Whatcom County): SR-20 (North Cascades Highway) confirmed open — economic lifeline for communities east of the Cascades. Skagit dam hydropower (Gorge, Diablo, Ross dams) continuing partial recovery under Seattle City Light. Extended attack managed posture without new WUI or SR-20 threat. North Cayuse Fire (Umatilla Indian Reservation, Oregon): 4,885 acres, 15% contained, 524 personnel. Northwest Incident Management Team 3 took command July 9 in full suppression response. An active multi-state Oregon incident confirming the PNW regional fire posture under NIFC PL4. NIFC PL4 Day 14: 38+ large fires nationally burning 541,000+ acres across 14+ states. The 2026 fire season at 3.4 million acres nationally as of July 8 — 146% of the ten-year average.",
+          "significance": "CRITICAL",
+          "actors": ["Washington DNR", "NPS", "USFS Pacific Northwest Region", "BLM", "NWS Seattle", "NIFC", "Governor Bob Ferguson", "Okanogan County Emergency Management", "BPA", "Seattle City Light", "WSDOT", "FEMA", "Douglas County Sheriff Tyler Caille", "Chelan County Emergency Management", "Douglas County Emergency Management", "Northwest Incident Management Team 3", "Umatilla Indian Reservation"],
+          "metrics": {
+            "b_and_o_fire": {
+              "day_since_ignition": 3,
+              "status": "LARGE FIRE — overnight escalation confirmed; Level 3 evacuations active",
+              "acres_morning_estimate": "~2,000+",
+              "containment_pct": 0,
+              "personnel": 359,
+              "evacuation_level": "LEVEL 3 — Go Now issued for Okanogan County areas",
+              "cause": "HUMAN-CAUSED — under investigation",
+              "red_flag_warning": "EXPECTED over Okanogan County",
+              "onset_region_day": 15,
+              "kartar_risk_assessment": "ACTUATING — same terrain; rapid escalation overnight confirms fuel/wind dynamic",
+              "suppression_context": "RESOURCE STRESS — escalating simultaneously with Chelan Hills and Kartar demobilization releases",
+              "july11_evening_brief_status": "NOT YET LARGE FIRE — reversed overnight; highest-priority unresolved fire actuated"
+            },
+            "chelan_hills_fire": {
+              "day_since_ignition": 8,
+              "containment_pct_day7": 95,
+              "day8_expected": "FULL CONTAINMENT — demobilization phase",
+              "level3_downgrade_expected_today": true,
+              "level3_area": "Orondo/Chelan Falls corridor (~500 residents)",
+              "structures_destroyed": "100+",
+              "damage_estimate_usd": "9.1M+",
+              "fatality_count": 1,
+              "cause": "HUMAN-CAUSED — investigation active"
+            },
+            "sourdough_fire": {
+              "day_since_ignition": 8,
+              "sr20_status": "CONFIRMED OPEN — North Cascades Highway economic lifeline",
+              "skagit_dam_status": "RESTORING — Seattle City Light partial recovery",
+              "phase": "EXTENDED ATTACK MANAGED — no new overnight developments"
+            },
+            "north_cayuse_fire_oregon": {
+              "location": "Umatilla Indian Reservation, Oregon",
+              "acres": 4885,
+              "containment_pct": 15,
+              "personnel": 524,
+              "imt": "Northwest Incident Management Team 3 — command assumed July 9",
+              "status": "FULL SUPPRESSION RESPONSE — active multi-state PNW regional incident"
+            },
+            "nifc_preparedness_level": 4,
+            "nifc_pl4_day": 14,
+            "nifc_large_fires": "38+",
+            "nifc_large_fires_acres": "541,000+",
+            "national_season_acres": "3.4 million (146% of 10-yr avg as of July 8)",
+            "bpa_grid_status": "UNDER RENEWED STRESS — B and O Fire Level 3 adding load while Chelan Hills releasing; net demand uncertain"
+          }
+        },
+        {
+          "headline": "WA Drought Day 38 (4th Year; 50% Snowpack; El Nino 61%; Super El Nino 25%; Heat Wave Building Late July; B and O Overnight Escalation Confirming Fuel Vulnerability); NSF Newport OR Dark Day 14 (4+ Fire Events Without Coastal Anchor; B and O Now Operating Without Newport); Longview CSB Day 48 (Elevated Risk Window Day 2; No Incident Overnight); Measles Sub-Window Closing Today; PNW Climate Week T-1 (Opens Tomorrow July 13 — B and O Fire Backdrop Adds Urgency); Amazon/Microsoft Structural Bifurcation; Seafair Fleet Week T-9",
+          "summary": "Six secondary PNW environmental and regional threads this morning. First: Washington drought emergency Day 38. Fourth consecutive year; 50% snowpack vs. normal; 12-county emergency. The B and O Fire's overnight large-fire escalation to ~2,000 acres at 0% containment is the operationally direct expression of what drought-desiccated fuel conditions produce in the east Cascades onset region at Day 15. Record-low fuel moisture in eastern Washington remains the structural driver. Federal forecasters: Columbia River Basin in Washington and Oregon is the most likely spot in the West to see drought intensify over the next three months. Heat wave building over northern Plains forecast to push into PNW by late July — the structural fire season accelerator. Super El Nino at 25% probability for the 2026-2027 winter is the most consequential long-cycle forward risk. Second: NSF Newport OR ocean observatory Dark Day 14. The monitoring gap has now encompassed 4+ major weather/fire events without the Newport coastal atmospheric anchor. The B and O Fire is now operating without Newport calibration — the same deficiency that applied to the Kartar, Chelan Hills, and Sourdough Fire suppression arcs. Senate unanimous reinstallation authorization in place; physical reinstallation timeline pending. Third: Longview CSB Day 48 — Elevated Risk Window Day 2. No chemical incident through overnight. Summer heat at lower Columbia River corridor persisting. Monitoring active at Nippon Dynawave. The three-thread convergence (CSB elevated window + FERC AI T-6 + measles sub-window) that opened July 11 will partially resolve today as the measles sub-window closes (pending Georgetown close tonight). CSB window and FERC AI T-6 remain active through July 18. Fourth: Measles sub-window closes tonight (July 12, Incubation Day 10). Three-day clean streak intact through peak window. Georgetown wastewater DNA + ER surveillance final monitoring day this evening. July 13 morning brief will carry the resolution characterization. Fifth: PNW Climate Week T-1 — opens tomorrow (July 13) across the Seattle-Vancouver-Portland corridor. The B and O Fire's overnight escalation to large-fire with Level 3 evacuations adds acute urgency to the forum's physical climate emergency agenda beyond what the July 11 brief could characterize. The dual mandate (4th-year drought WUI catastrophe + AI data center electricity demand governance for Quincy WA/The Dalles OR) arrives with the most operationally acute fire backdrop in the forum's history: two active PNW large fires this morning (B and O Level 3; Sourdough extended attack), NIFC PL4 Day 14, Chelan Hills catastrophe in fresh recovery. Sixth: Amazon/Microsoft structural bifurcation continues (Amazon $200B 2026 capex; Microsoft H1 FY2026 $72.4B capex; Amazon 30,000+ corporate layoffs since October 2025 including 2,198 Washington WARN positions). Seafair Fleet Week (July 21-24) is 9 days out — the first major Seattle mass-attendance event in the post-Lumen Field measles sub-window resolution window.",
+          "significance": "MODERATE",
+          "actors": ["NWS Seattle", "NWS Portland", "NOAA", "NSF", "Governor Bob Ferguson", "Oregon Governor Tina Kotek", "BPA", "NIFC", "CSB", "FERC", "Georgetown University", "WA DOH", "Amazon", "Microsoft", "Seattle City Light"],
+          "metrics": {
+            "washington_drought_emergency_day": 38,
+            "washington_drought_consecutive_years": 4,
+            "washington_snowpack_vs_normal_pct": 50,
+            "washington_drought_emergency_counties": 12,
+            "b_and_o_overnight_escalation_drought_expression": "CONFIRMED — overnight large-fire growth actuates fuel vulnerability forecast for onset region under 4th-year drought conditions",
+            "fuel_moisture_eastern_wa": "BELOW NORMAL / RECORD LOWS FOR DATE",
+            "columbia_basin_drought_outlook": "MOST LIKELY WEST DROUGHT INTENSIFICATION ZONE — 3-month federal forecast",
+            "pnw_late_july_heat_wave_risk": "BUILDING — northern Plains heat wave forecast to push into PNW late July",
+            "el_nino_probability_pct": 61,
+            "super_el_nino_probability_pct": 25,
+            "nifc_above_normal_fire_potential_through": "August 2026 — Pacific Northwest",
+            "nsf_newport_or_dark_day": 14,
+            "nsf_fire_events_without_anchor": "4+ (Chelan Hills / Kartar / Sourdough / B and O — now with B and O active at large-fire scale without Newport)",
+            "nsf_reinstallation_authorized": "SENATE UNANIMOUS — physical reinstallation timeline pending",
+            "longview_csb_day": 48,
+            "longview_elevated_risk_window_day": 2,
+            "longview_overnight_status": "NO INCIDENT — clean through overnight",
+            "longview_three_thread_convergence": "PARTIALLY RESOLVING — measles sub-window closes tonight; CSB + FERC T-6 remain through July 18",
+            "measles_sub_window_closing_today": true,
+            "measles_clean_streak": "THREE DAYS through peak window — final Georgetown close pending tonight",
+            "pnw_climate_week_opens_tomorrow": true,
+            "pnw_climate_week_b_and_o_fire_addition": "B and O Level 3 large-fire adds acute urgency to Day 1 physical climate emergency agenda beyond July 11 brief's T-1 characterization",
+            "pnw_climate_week_active_fire_backdrop": "2 active PNW large fires at forum open (B and O Level 3 / Sourdough extended attack) + Chelan Hills in fresh recovery + NIFC PL4 Day 14",
+            "amazon_wa_warn_positions": 2198,
+            "amazon_2026_capex_bn": 200,
+            "microsoft_h1_fy2026_capex_bn": 72.4,
+            "seafair_fleet_week": "2026-07-21 to 2026-07-24",
+            "seafair_fleet_week_days_out": 9
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "July 12, 2026 morning opens at Vibe 4. The two dominant developments since the July 11 evening brief are the overnight Iran Gulf retaliation sequence and the B and O Fire's large-fire escalation. On the geopolitical axis: Iran fired ballistic missiles and drones at Qatar, Bahrain, UAE, and Kuwait following the third US CENTCOM strike package Saturday night. All Gulf Arab states reported interceptions with no confirmed casualties. The IRGC declared the Strait of Hormuz closed; CENTCOM immediately countered the declaration. Iran Parliament Speaker Ghalibaf accused the US of breaking the June 19 MOU — the first formal legislative MOU-violation framing from Tehran's political leadership, qualitatively distinct from IRGC operational assertions. The most consequential analytical question of July 12 morning is the survival of the Qatar diplomatic communication channel: Qatar is both the June 19 MOU communication architecture host and an overnight Iranian missile target. Whether the Doha channel remains operative after Iran targeted it with ballistic missiles is the single highest-priority intelligence and diplomatic question of the morning. WTI is re-escalating on overnight Gulf routing risk, with the IRGC closure declaration and Gulf Arab state targeting adding a new risk premium layer on top of the Cyprus-flag crew casualty signal from Saturday night. On the PNW fire axis: the B and O Fire near Okanogan escalated overnight from 'Day 3 not yet at large fire' to Level 3 evacuations, ~2,000+ acres, 0% containment, and 359 personnel. The Kartar Fire terrain risk the July 11 brief flagged has actuated in the same Okanogan onset-region terrain at East Cascades Onset Day 15. The structural PNW fire season conditions — 4th-year drought, record-low fuel moisture, east-wind season at onset — are producing precisely the rapid-escalation dynamic the brief has tracked since the July 4 ignition arc. The residual positives that hold the morning at Vibe 4 rather than Vibe 3 are the Chelan Hills Fire Day 8 full containment arc (the 2026 Washington fire season's most consequential WUI event entering recovery today) and the measles sub-window reaching its final day (Day 10) with a three-day clean streak through the peak window. Primary watch items for the July 12 day session: (1) B and O Fire suppression progress — any ICS-209 mid-day update on acreage and containment under expected Red Flag Warning conditions is the morning's highest-priority PNW data gate; (2) Qatar diplomatic channel operational status — any reporting on whether the Doha communication channel is functioning after overnight Iranian missile targeting; (3) Iran Gulf intentions — one-time retaliation or continued regional escalation axis?; (4) Chelan Hills Level 3 downgrade confirmation for Orondo/Chelan Falls corridor; (5) Measles Georgetown wastewater close tonight. PNW Climate Week opens tomorrow (July 13) with the most operationally acute fire and drought backdrop in the forum's history.",
+  "watch_items": [
+    "B and O Fire Day 3 Suppression Progress — Highest-Priority PNW Development: overnight escalation to Level 3 evacuations / ~2,000+ acres / 0% containment / 359 personnel under expected Red Flag Warning conditions is the most consequential new PNW development of the July 12 morning; any ICS-209 mid-day update on acreage control, evacuation level adjustment, or containment establishment under Red Flag conditions is the primary data gate for the July 12 day session; resources releasing from Chelan Hills and Kartar demobilization are being redirected into the suppression response — the resource balance is the operational question",
+    "Qatar Diplomatic Channel Operational Status — Highest-Priority Geopolitical Development: Iran fired ballistic missiles at Qatar overnight; Qatar hosts both the diplomatic communication channel confirmed operative July 11 daytime and major US military basing at Al Udeid; whether the Doha channel can continue to function as Iran-US diplomatic architecture after Iran targeted Doha with ballistic missiles is the morning's single most critical open analytical question; any reporting confirming channel suspension or continuation is the primary trigger for Vibe movement up or down",
+    "Iran Gulf Retaliation Scope Assessment — One-Time or Ongoing: the overnight ballistic missile and drone attacks on Qatar/Bahrain/UAE/Kuwait need to be assessed for whether they represent a bounded one-time retaliation for the third US strike package or the opening of a sustained Gulf-wide targeting campaign; Iran's targeting of the Fifth Fleet host (Bahrain) alongside the diplomatic channel host (Qatar) and major commercial hubs (UAE) has a different strategic logic than a single-axis Hormuz corridor response; the 12-24 hour post-attack window (through tonight) is the assessment frame",
+    "Chelan Hills Fire Level 3 Downgrade Confirmation: the July 11 95% containment breakthrough is expected to produce Level 3 → Level 2 or Level 1 downgrade for the Orondo/Chelan Falls corridor (~500 residents) today; if confirmed, it marks the completion of the July 4-11 emergency response arc and formally begins the McNeil Canyon recovery phase (100+ structures / 1 fatality / $9.1M+); Douglas County Courthouse / FEMA Region 10 recovery declaration coordination is the next downstream process; confirmation today would be the morning's strongest positive development",
+    "Measles Sub-Window July 12 Georgetown Close — Final Day: tonight's Georgetown University wastewater DNA and emergency department data fusion close is the last monitoring gate of the June 19 Lumen Field primary incubation window; if clean (maintaining the three-day streak through Days 8-9-10), the July 13 morning brief will characterize the June 19 cluster risk as resolved for the primary window; this is the domestic public health arc's most consequential resolution event of the 2026 monitoring series",
+    "WTI July 12 Trajectory and Monday Market Open Anticipation: WTI is re-escalating in the overnight session on the Gulf Arab state targeting and IRGC closure declaration; Monday morning market open (July 13) will be the first equity and commodity market response to the full overnight sequence (third US-Iran strike + Iran Gulf retaliation + IRGC closure declaration + MOU-violation framing); WTI above $76 sustained on Monday open would signal Lloyd's normalization definitively postponed and Warsh's August-CPI deceleration scenario foreclosed; WTI declining below $72 after CENTCOM confirms strait operationally open would be the market's containment-signal",
+    "PNW Climate Week Day 1 July 13 — Most Acute Backdrop In Forum History: the B and O Fire Level 3 large-fire escalation overnight adds acute urgency to Day 1 beyond what the July 11 T-1 brief characterized; the forum opens with two active PNW large fires (B and O Level 3 / Sourdough extended attack), Chelan Hills fresh recovery, NIFC PL4 Day 14, and 4th-year drought; the dual mandate (physical climate emergency + AI data center electricity demand governance) has real operational stakes: FERC AI 30-day informational report T-6 (July 18) makes Days 1-5 forum outputs materially consequential for large-load integration regulatory trajectory",
+    "Lebanon 48-Hour Reassessment Through July 14 Morning: Iran directing ballistic missiles at Gulf Arab states materially changes the Lebanon assessment; Iran demonstrating willingness to escalate horizontally and regionally (not just through Hormuz corridor) increases the analytic uncertainty about whether Iran would sanction Hezbollah mobilization as part of a broader regional pressure campaign; no confirmed Hezbollah mobilization orders as of overnight; 48-hour clean (through July 14 morning) would confirm the Lebanon fragile-hold designation holds",
+    "FERC AI 30-Day Report T-6 (July 18) — Final Week Monitoring: six ISO/RTO operators in final week of submissions; any early submission by a major operator before July 18 would be the first formal statement of national large-load integration position and would set the baseline for the August 17 show-cause response; PNW data center corridors (BPA/WECC jurisdiction) track July 18 as de facto national standard-setting moment; PNW Climate Week Day 1 (tomorrow) directly informs the policy context for the July 18 submissions"
+  ],
+  "sources": [
+    {"title": "Iran launches attacks on Gulf states after heaviest U.S. strikes in months — Washington Post", "url": "https://www.washingtonpost.com/world/2026/07/11/us-strikes-iran-it-declares-strait-hormuz-closed-fires-ship/"},
+    {"title": "Iran live updates: Gulf countries under attack after US completes 3rd round of retaliatory strikes — ABC News", "url": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610"},
+    {"title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out at Gulf Arab states — NPR", "url": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf"},
+    {"title": "Live updates: U.S. conducts another round of strikes on Iran — CBS News", "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz/"},
+    {"title": "Level 3 evacuations remain in place as B and O Fire burns near Okanogan — KHQ Spokane", "url": "https://www.khq.com/news/level-3-evacuations-remain-in-place-as-b-and-o-fire-burns-2-000-acres/article_0b4f0d35-4026-4be4-a269-1d0f870aedee.html"},
+    {"title": "'Go Now' Evacuations issued in fire in Okanogan County — KIRO 7", "url": "https://www.kiro7.com/news/local/go-now-evacuations-issued-fire-okanogan-county/76KDLYSCCFE6LKAL5PAWBEP3SA/"},
+    {"title": "Rapidly growing fire rages in Okanogan County as Chelan Hills nears containment — My Bellingham Now", "url": "https://mybellinghamnow.com/news/297792-rapidly-growing-fire-rages-in-okanogan-county-as-chelan-hills-nears-containment/"},
+    {"title": "Update: Red Flag Warning Looms Over B and O Fire Near Okanogan — Your Source One", "url": "https://www.yoursourceone.com/columbia_basin/update-red-flag-warning-looms-over-b-and-o-fire-near-okanogan/article_e3fe8a9e-e0a2-4617-830b-a4046ac5c4ba.html"},
+    {"title": "Level 3 evacuations issued for B&O Fire — Omak Chronicle", "url": "https://www.omakchronicle.com/free/level-3-evacuations-issued-for-b-o-fire/article_5c1d312c-2b6e-41db-8466-4859e4740c73.html"},
+    {"title": "Okanogan, WA wildfire triggers Level 3 'Go Now' evacuations — FOX 13 Seattle", "url": "https://www.fox13seattle.com/news/okanogan-wildfire-level-3-evacuations"},
+    {"title": "Washington drought set to worsen as heat wave and El Nino loom over Pacific Northwest — KIRO 7", "url": "https://www.kiro7.com/news/local/washington-drought-set-worsen-heat-wave-el-nio-loom-over-pacific-northwest/7JVCAJGETJASNJ5M5XAQKA75X4/"},
+    {"title": "July heat and drought conditions raise wildfire threat across Washington — MyNorthwest", "url": "https://mynorthwest.com/pacific-northwest-weather/wildfire-threat/4254486"},
+    {"title": "Here's where Washington wildfires are currently burning — FOX 13 Seattle", "url": "https://www.fox13seattle.com/news/heres-where-washington-wildfires"},
+    {"title": "National Fire News — NIFC", "url": "https://www.nifc.gov/fire-information/nfn"},
+    {"title": "Iran Conflict Heightens Cyber Threats to U.S. Energy Infrastructure — CSIS", "url": "https://www.csis.org/analysis/iran-conflict-heightens-cyber-threats-us-energy-infrastructure"},
+    {"title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far — TechCrunch", "url": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/"},
+    {"title": "July Market Outlook: Tariffs, Trade and the Next Inflation Test — Investing.com", "url": "https://www.investing.com/analysis/july-market-outlook-tariffs-trade-and-the-next-inflation-test-200682939"},
+    {"title": "2026 Economic Outlook Midyear Update — J.P. Morgan", "url": "https://www.jpmorgan.com/insights/markets-and-economy/economy/economic-trends"},
+    {"title": "FERC Launches Aggressive Targeted Action to Speed Large Load Integration — FERC", "url": "https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration"},
+    {"title": "2026 Strait of Hormuz crisis — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"},
+    {"title": "2026 Washington wildfires — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Washington_wildfires"}
+  ]
+}
