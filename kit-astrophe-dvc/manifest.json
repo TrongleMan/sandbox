@@ -2260,6 +2260,22 @@
       "generated_at": "2026-07-12T20:00:00-07:00"
     },
     {
+      "id": "2026-07-13-morning",
+      "date": "2026-07-13",
+      "session": "morning",
+      "file": "reports/2026-07-13-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "B and O Fire Reverses To 19% Containment / Level 2; Hormuz Acute Stress Day 6 — WTI Above $74 +4%; June CPI T-1; First US Ebola Case July 11; PNW Climate Week Opens; Vibe 4",
+      "generated_at": "2026-07-13T06:00:00-07:00"
+    },
+    {
       "id": "2026-07-13-evening",
       "date": "2026-07-13",
       "session": "evening",
@@ -2276,5 +2292,5 @@
       "generated_at": "2026-07-13T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-13T20:00:00-07:00"
+  "last_updated": "2026-07-13T06:00:00-07:00"
 }
