@@ -2258,7 +2258,23 @@
       ],
       "headline": "Third US Strike Package Saturday Night MOU Acute Stress Day 5 Cyprus Ship Crew Missing WTI Bouncing From Normalization Zone; Chelan Hills Day 8 Full Containment Demobilization; B and O Fire Day 3 Onset Region Tracking; Measles Sub-Window Closing Today; PNW Climate Week T-1; Vibe 4",
       "generated_at": "2026-07-12T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-13-evening",
+      "date": "2026-07-13",
+      "session": "evening",
+      "file": "reports/2026-07-13-evening.json",
+      "vibe": 5,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz MOU Acute Stress Day 6 — No Fourth Exchange; Chelan Hills 100% Contained + All Evacuations Lifted; Measles June 19 Primary Window Resolved; June CPI T-1 (3.8% Expected); PNW Climate Week Day 1; Vibe 5",
+      "generated_at": "2026-07-13T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-12T06:00:00-07:00"
+  "last_updated": "2026-07-13T20:00:00-07:00"
 }
