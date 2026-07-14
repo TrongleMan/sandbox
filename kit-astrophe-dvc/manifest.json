@@ -2292,6 +2292,22 @@
       "generated_at": "2026-07-13T20:00:00-07:00"
     },
     {
+      "id": "2026-07-14-morning",
+      "date": "2026-07-14",
+      "session": "morning",
+      "file": "reports/2026-07-14-morning.json",
+      "vibe": 3,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Fourth US-Iran Exchange Confirmed — Tanker Struck In Hormuz (1 Killed); WTI $80.55 Highest Since Feb 28; Trump 20% Shipping Fee Proposal; June CPI T-0 Today; Four New WA Evacuation Fires; B and O Day 5; Vibe 3",
+      "generated_at": "2026-07-14T06:00:00-07:00"
+    },
+    {
       "id": "2026-07-14-evening",
       "date": "2026-07-14",
       "session": "evening",
