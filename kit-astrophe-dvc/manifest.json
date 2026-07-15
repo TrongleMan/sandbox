@@ -2322,7 +2322,23 @@
       ],
       "headline": "B and O Fire Day 5 Large-Fire Confirmed (2,815 Acres; Level 3 Evacuations; 4 Homes Destroyed; 63% Contained); June CPI T-0 (~3.9% YoY — First Likely Sub-4.0% Print); Hormuz Acute Stress Day 7 — Oman Dual-Corridor Proposal + Qatar/Pakistan Diplomatic Push; Trump MOU Contestation New Factor; Vibe 5",
       "generated_at": "2026-07-14T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-15-evening",
+      "date": "2026-07-15",
+      "session": "evening",
+      "file": "reports/2026-07-15-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "CENTCOM Blockade Reinstated — MOU De Facto Terminated Day 1; WTI $79.34 Above $76 Trigger; Fourth Exchange Confirmed; Treasury Iran Sanctions Reimposed; B And O Fire Forward Progress Stopped (Day 6 Improving); Peru JNE Credentials Smooth; Vibe 4",
+      "generated_at": "2026-07-15T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-14T20:00:00-07:00"
+  "last_updated": "2026-07-15T20:00:00-07:00"
 }
