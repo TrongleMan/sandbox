@@ -2324,6 +2324,22 @@
       "generated_at": "2026-07-14T20:00:00-07:00"
     },
     {
+      "id": "2026-07-15-morning",
+      "date": "2026-07-15",
+      "session": "morning",
+      "file": "reports/2026-07-15-morning.json",
+      "vibe": 5,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Third Consecutive Night CENTCOM Strikes / NDAA Blocked 50-46 — Blockade Not Yet Reinstated 0600 PDT; Brent $85.92 Pre-Market; B And O Fire Day 6 Level 3 Active; June CPI Today; Vibe 5",
+      "generated_at": "2026-07-15T06:00:00-07:00"
+    },
+    {
       "id": "2026-07-15-evening",
       "date": "2026-07-15",
       "session": "evening",
