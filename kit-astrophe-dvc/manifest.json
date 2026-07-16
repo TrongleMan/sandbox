@@ -2354,7 +2354,23 @@
       ],
       "headline": "CENTCOM Blockade Reinstated — MOU De Facto Terminated Day 1; WTI $79.34 Above $76 Trigger; Fourth Exchange Confirmed; Treasury Iran Sanctions Reimposed; B And O Fire Forward Progress Stopped (Day 6 Improving); Peru JNE Credentials Smooth; Vibe 4",
       "generated_at": "2026-07-15T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-16-evening",
+      "date": "2026-07-16",
+      "session": "evening",
+      "file": "reports/2026-07-16-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Blockade Day 2 — CENTCOM Disables Tanker With Hellfire Missiles; IRGC Regional Energy Threat ('Oil And Gas For Everyone Or No One'); Lebanon-Israel Pilot Zones Agreement (Rome Talks); B And O Fire 95% Contained Day 7; September Rate Hike Odds 68.8%; Vibe 4",
+      "generated_at": "2026-07-16T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-15T20:00:00-07:00"
+  "last_updated": "2026-07-16T20:00:00-07:00"
 }
