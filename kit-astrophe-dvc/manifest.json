@@ -2356,6 +2356,22 @@
       "generated_at": "2026-07-15T20:00:00-07:00"
     },
     {
+      "id": "2026-07-16-morning",
+      "date": "2026-07-16",
+      "session": "morning",
+      "file": "reports/2026-07-16-morning.json",
+      "vibe": 3,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "US Strikes Around Tehran First Time In Current Wave; IRGC Hits Kuwait/Bahrain/Jordan/Oman (Kuwait Vessel Hit); Brent $84.63; Marines On Kharg 'Within The Week'; B And O Fire Day 7 Monitoring; Section 301 T-4; Vibe 3",
+      "generated_at": "2026-07-16T07:00:00-07:00"
+    },
+    {
       "id": "2026-07-16-evening",
       "date": "2026-07-16",
       "session": "evening",
