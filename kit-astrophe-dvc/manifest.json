@@ -2386,8 +2386,23 @@
       ],
       "headline": "Blockade Day 2 — CENTCOM Disables Tanker With Hellfire Missiles; IRGC Regional Energy Threat ('Oil And Gas For Everyone Or No One'); Lebanon-Israel Pilot Zones Agreement (Rome Talks); B And O Fire 95% Contained Day 7; September Rate Hike Odds 68.8%; Vibe 4",
       "generated_at": "2026-07-16T20:00:00-07:00"
-    }
-  ],
+    },
+    {
+      "id": "2026-07-17-morning",
+      "date": "2026-07-17",
+      "session": "morning",
+      "file": "reports/2026-07-17-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "US Strikes Bridges In Iran (6th Consecutive Night — New Logistics Category); Iran Captured-Marines Claim Assessed Disinformation (Kharg Landing NOT Executed); B And O Fire Day 8 95%+ Containment Heading To 100%; WA DNR Eastern WA Burn Ban Today; Lebanon Pilot Zones Day 2; Section 301 T-3; FERC AI T-1; Vibe 4",
+      "generated_at": "2026-07-17T07:00:00-07:00"
+    },
     {
       "id": "2026-07-17-evening",
       "date": "2026-07-17",
@@ -2405,5 +2420,5 @@
       "generated_at": "2026-07-17T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-17T20:00:00-07:00"
+  "last_updated": "2026-07-17T07:00:00-07:00"
 }
