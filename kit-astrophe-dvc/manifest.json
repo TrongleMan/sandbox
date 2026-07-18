@@ -2420,6 +2420,22 @@
       "generated_at": "2026-07-17T20:00:00-07:00"
     },
     {
+      "id": "2026-07-18-morning",
+      "date": "2026-07-18",
+      "session": "morning",
+      "file": "reports/2026-07-18-morning.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 141 — Seventh Consecutive Night Strikes (Bridge/Logistics Arc Day 2); Iran 48H Restraint Signal (SNSC Void Absent; Kharg Oil Infrastructure Not Struck); Kharg Island Window Day 3 (July 16-22); B And O Fire 100% Contained (Day 8 Confirmed); Eastern OR/WA Outbreak + Hazardous Smoke; FERC AI T-0 + Longview CSB Double-Thread Close Today; World Cup Final T-1; Vibe 4",
+      "generated_at": "2026-07-18T07:00:00-07:00"
+    },
+    {
       "id": "2026-07-18-evening",
       "date": "2026-07-18",
       "session": "evening",
