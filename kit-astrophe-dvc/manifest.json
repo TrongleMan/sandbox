@@ -2418,7 +2418,23 @@
       ],
       "headline": "Blockade Day 3 — No Confirmed Iranian Response To Hellfire Interdiction (24h Window); Lebanon Pilot Zones Day 1 No IDF Movement; B And O Fire 100% Contained Day 8; WA DNR Burn Ban Activated; Section 301 T-3; FERC AI T-1; Vibe 4",
       "generated_at": "2026-07-17T20:00:00-07:00"
+    },
+    {
+      "id": "2026-07-18-evening",
+      "date": "2026-07-18",
+      "session": "evening",
+      "file": "reports/2026-07-18-evening.json",
+      "vibe": 4,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Blockade Day 4 — Iranian Response 48h Window Closes Without Confirmed Major Escalation (Most Significant Restraint Signal Of Blockade Phase); Lebanon Pilot Zones Day 2 No IDF Movement (Diplomatic Window Narrowed); Longview CSB Clean Close Day 54; FERC AI T-0 Nominal; World Cup Final T-1; WA Burn Ban Day 2; Section 301 T-2; Vibe 4",
+      "generated_at": "2026-07-18T20:00:00-07:00"
     }
   ],
-  "last_updated": "2026-07-17T07:00:00-07:00"
+  "last_updated": "2026-07-18T20:00:00-07:00"
 }
