@@ -2452,6 +2452,22 @@
       "generated_at": "2026-07-18T20:00:00-07:00"
     },
     {
+      "id": "2026-07-19-morning",
+      "date": "2026-07-19",
+      "session": "morning",
+      "file": "reports/2026-07-19-morning.json",
+      "vibe": 3,
+      "domains": [
+        "geopolitical",
+        "economic",
+        "infrastructure",
+        "domestic",
+        "local_pnw"
+      ],
+      "headline": "Hormuz Day 142 / Blockade Day 5: Eighth Consecutive US Strike Night; IRGC Supertanker Interdiction In Strait (Vertical Escalation — Vibe Drops To 3); World Cup Final T-0 Today (Spain Vs Argentina 3 PM ET MetLife); Eastern OR/WA Wildfire Outbreak Day 2; Record-Challenging Heat Wave Building Week July 20-26; Section 301 T-1; FERC AI T-1",
+      "generated_at": "2026-07-19T07:00:00-07:00"
+    },
+    {
       "id": "2026-07-19-evening",
       "date": "2026-07-19",
       "session": "evening",
