@@ -1,0 +1,426 @@
+{
+  "report_id": "2026-07-20-evening",
+  "generated_at": "2026-07-20T20:00:00-07:00",
+  "series": "DVC Evening Brief",
+  "analyst_note": "HORMUZ DAY 143 — BLOCKADE DAY 6 / MOU DE FACTO TERMINATED DAY 6: IRANIAN RESTRAINT WINDOW NOW 96H+ POST-HELLFIRE-INTERDICTION WITHOUT CONFIRMED MAJOR KINETIC ESCALATION (LONGEST NON-ESCALATION WINDOW OF BLOCKADE ARC; IC CHARACTERIZATION STILL PENDING — ACTING DNI DAY 60 PRIMARY TASK; IRGC EXPLICIT ULTIMATUM LAPSED 36H+ WITHOUT LATE KINETIC RESPONSE); IRAN FOREIGN MINISTER ARAGHCHI REPORTED ATTACKED BY HARDLINE MOB AT FUNERAL (INTERNAL IRANIAN FACTIONAL FRACTURE — DOMESTIC OPPOSITION TO DIPLOMACY; IRANIAN FM STATEMENT 'NO PLANS FOR NEGOTIATIONS'; DIRECT COMPLICATION TO DIPLOMATIC TRACK; HEZBOLLAH STAND-DOWN DAY 35 HOLDS UNDER KHAMENEI DIRECTIVE — ARAGHCHI DOMESTIC POSITION WEAKENED BUT TOP-LEVEL RESTRAINT SUSTAINED); IRGC REGIONAL ENERGY THREAT INTENT ASSESSMENT UNRESOLVED; LEBANON PILOT ZONES DAY 4 — STRUCTURE-AND-GUIDELINES FRAMEWORK AGREED (PRODUCTIVE TALKS; HEZBOLLAH DISARMAMENT CENTRAL UNRESOLVED CONDITION; NO CONFIRMED IDF MOVEMENT IN PILOT ZONES; ROME IMPLEMENTATION WINDOW EXTENDED VIA WORKING-LEVEL CONTACTS; HEZBOLLAH STAND-DOWN DAY 35 HOLDS); WTI ~$76-79 (96H RESTRAINT SIGNAL MODEST ADDITIONAL RELIEF — BELOW $85 VIBE-3 TRIGGER; IRGC ENERGY THREAT TAIL RISK SUSTAINED); BRENT ~$81-84 (BELOW $85 ON EXTENDED RESTRAINT SIGNAL); JUNE CPI 3.5% YOY (-0.4% MOM FROM 4.2% MAY — SURPRISE DISINFLATION PRINT; JULY FOMC RATE HIKE PROBABILITY COLLAPSED FROM 42% TO ~17%; SEPTEMBER FOMC HIKE ODDS REVISED DOWN TO ~42-45% FROM 68.8% ON CPI PRINT — HORMUZ BLOCKADE OIL UNCERTAINTY SUSTAINS RESIDUAL PREMIUM; WARSH 'INFLATION SURGE IS OVER' — DATA-DEPENDENT PAUSE); FERC AI GENERATION ADEQUACY REPORTS FILED TODAY (MONDAY JULY 20 — ALL SIX ISO/RTOs ON SCHEDULE; FIRST FORMAL NATIONAL AI LARGE-LOAD INTEGRATION ACCOUNTING COMPLETE; PNW GRID PRIMARY SCRUTINY — BPA/CAISO/NORTHWEST POWER POOL; FERC JULY 16 SHOW-CAUSE ORDERS TO ALL SIX ALREADY ISSUED; NERC RELIABILITY STANDARDS DEADLINE DECEMBER 31 2026); WA DNR BURN BAN DAY 4 — HEAT WAVE ONSET TODAY (EASTERN WA 90S TODAY; JULY 21-24 PEAK 95-105°F; KAISER CANYON FIRE DAY 5 — OVERNIGHT/MONDAY SUPPRESSION PARTIAL PROGRESS; FRANKLIN COUNTY COMPLEX ACTIVE; LOWER DRY CREEK OR CONTAINED JULY 19; 35+ ACTIVE FIRES OR/WA; SOURDOUGH DAY 16 EXTENDED ATTACK; MULTIPLE NEW IGNITIONS); NIFC PL4 DAY 22; BPA STABLE; SEAFAIR FLEET WEEK T-1 (PARADE OF SHIPS ELLIOTT BAY JULY 21; SHIP TOURS JULY 22-23; BLUE ANGELS JULY 31-AUG 2; 500,000+ ATTENDANCE; MEASLES TERTIARY WINDOW T-3 JULY 23-26; CDC NEXT UPDATE ~JULY 23); SECTION 122 T-4 (JULY 24 EXPIRY; USTR FORCED-LABOR FRAMEWORK NOT YET FINALIZED AS OF JULY 20 EVENING — CRITICAL 24H WINDOW; COMPLIANCE GAP ACTIVATES IF SLIPS); SECTION 301 BRAZIL 25% EFFECTIVE TOMORROW JULY 22 (T-1); PHARMA 232 T-11 (JULY 31); OBBB DAY 21 (18 STATES; ZERO FEDERAL STAYS; CBO $3.4T); NATO ANKARA SUMMIT (€140B UKRAINE PLEDGE 2026-27; RUSSIA LABELED DIRECT THREAT TO EURO-ATLANTIC SECURITY; TRUMP ATTENDED; UKRAINE PATRIOT MANUFACTURING RIGHTS OFFERED; RUSSIAN BATTLEFIELD GAINS NEAR-ZERO FIRST HALF 2026); NDAA BLOCKED DAY 5; ACTING DNI DAY 60; CISA CLEAN STREAK DAY 80 (96H+ POST-HELLFIRE WINDOW CLOSED CLEAN; 120H MONITORING WINDOW NOW ACTIVE); EAC GOVERNANCE GAP DAY 11 (ZERO REPLACEMENTS); MEASLES 2,260 (CDC JULY 16; CIDRAP SLOWING SIGNAL DAY 44; SEAFAIR T-1; TERTIARY WINDOW T-3 JULY 23-26; CDC CONVERGENCE JULY 23); NSF NEWPORT OR DARK DAY 22 (SENATE UNANIMOUS; PHYSICAL TIMELINE PENDING; THREE ACTIVE FIRES WITHOUT ANCHOR — KAISER CANYON + SOURDOUGH + ADDITIONAL IGNITIONS); WA DROUGHT DAY 46 (4TH YEAR; SUPER EL NIÑO CONFIRMED DEVELOPING; COLUMBIA BASIN INTENSIFICATION; HEAT WAVE DAY 1); RUSSIA FUEL CRISIS DAY 20 (OMSK 75% OFFLINE; NO RESTORATION SIGNAL; IEA DUAL SHOCK DEEPENING); GEOMAGNETIC STORM NORMALIZED (BPA GIC MONITORING CONCLUDED; NO FURTHER AURORA EXPECTED); DOE $17.5B CONDITIONAL NUCLEAR LOAN (FIVE WESTINGHOUSE AP1000 PROJECTS — ENERGY DOMINANCE FINANCING); MAINE DEMOCRAT T-7 (JULY 27 DEADLINE — NO CANDIDATE CONFIRMED); SEATTLE TECH LAYOFFS (AMAZON 30K CORPORATE SINCE OCTOBER; EXPEDIA 160+ HQ; META REALITY LABS; 'SCARIEST ECONOMICALLY SINCE GREAT RECESSION' — GEEKWIRE); PERU T-8 (JULY 28 INAUGURATION — ON TRACK); COLOMBIA T-18 (AUGUST 7); VENEZUELA EARTHQUAKE DAY 27 (1,730+ DEAD; 46,600+ MISSING; MADURO FEDERAL CUSTODY). Monday July 20, 2026 evening. Vibe 4 — holding fifth consecutive session. The July 20 session is defined by the Iranian restraint window extending to 96h+ (longest non-escalation period of the blockade arc) offset by the reported attack on Iranian Foreign Minister Araghchi by hardline opponents and the FM's 'no plans for negotiations' statement — the most significant internal Iranian diplomatic fracture of the blockade arc — combined with heat wave onset today in the Pacific Northwest and the FERC AI generation adequacy reports filed on schedule by all six ISO/RTOs.",
+  "vibe": {
+    "score": 4,
+    "scale": "1-10 (1=crisis, 10=stable)",
+    "rationale": "Vibe 4 — holding for a fifth consecutive session (July 17 morning through July 20 evening). The July 20 session is characterized by two primary competing signals that prevent either an upgrade to Vibe 5 or a drop to Vibe 3. Primary positive signal: the 96h+ Iranian non-escalation window is the longest restraint period of the blockade arc. The IRGC's July 15 explicit '2-3-day full-scale offensive if US attacks continue' ultimatum has now lapsed more than 36 hours without late kinetic activation — no confirmed naval challenge, no Gulf energy infrastructure attack, no Hezbollah mobilization through Monday evening July 20. This duration materially reduces the probability of a major delayed kinetic response and is the single most significant Iranian restraint signal since the June 19 MOU. The June CPI surprise (3.5% YoY, -0.4% MoM from 4.2% in May) adds a significant economic positive: Warsh's 'inflation surge is over' declaration combined with the collapse of July FOMC rate hike probability from 42% to 17% suggests the pre-blockade disinflation trajectory was more robust than the July 19 brief's 68.8% September hike probability implied, and September odds are revised down to approximately 42-45% on the CPI print. Lebanon diplomatic track shows modest structural positive: Israeli and Lebanese officials agreed on structure and guidelines for a phased IDF withdrawal framework — more productive than the July 19 framing of Rome window expiry without movement. Primary negative signal: the reported attack on Iranian Foreign Minister Araghchi by hardline political opponents at a funeral — combined with the Iranian Foreign Ministry's explicit statement that Iran has 'no plans for negotiations' — represents the most significant internal Iranian diplomatic fracture of the blockade arc. The domestic political cost of diplomacy within Iran has materially increased. Araghchi was the primary Iranian architect of the June 19 MOU; his weakened domestic political position directly degrades the diplomatic channel through which a Hezbollah stand-down extension and Hormuz re-opening sequence would be communicated. Critically, Khamenei's restraint directive appears to remain intact (Hezbollah stand-down Day 35 holds) but the IC's characterization of the 96h restraint as strategic decision vs. operational pause is now more complex: the hardline domestic political pressure on Araghchi is circumstantial evidence that the IC should weigh toward 'operational pause' rather than 'clean strategic restraint.' Acting DNI Day 60's primary IC analytical task remains unchanged. PNW heat wave onset: Eastern Washington hit 90s today (Monday), with the July 21-24 peak (95-105°F) arriving tomorrow. Kaiser Canyon Fire (Day 5) made overnight and Monday suppression progress but has not achieved meaningful containment before the heat wave front. Both Kaiser Canyon and the Franklin County complex enter the heat wave window at low or zero containment — maximum compound fire risk environment. Positive factor 3 (FERC AI reports filed): All six ISO/RTOs filed generation adequacy reports Monday July 20 as required — a clean regulatory delivery confirming the FERC AI large-load integration accounting is now on record. Positive factor 4 (NATO Ankara): €140B Ukraine pledge over 2026-27, Russia formally labeled a direct threat to Euro-Atlantic security — structural strengthening of the Western alliance framework while Russian battlefield gains remain near-zero. Upgrade to Vibe 5 requires: IC formally characterizes 96h+ Iranian restraint as strategic restraint (not operational pause) — despite the Araghchi hardliner pressure, if Khamenei-level direction can be confirmed; AND confirmed concrete IDF movement in south Lebanon pilot zones with Lebanese Army control transfer that Iran publicly acknowledges; AND WTI retraces toward $76 / Brent toward $81 on IC confirmation and Araghchi political recovery signal; AND PNW fire system achieves containment milestone before July 21-24 heat wave peak. Drop to Vibe 3 requires: WTI above $85; confirmed IRGC kinetic activation against GCC energy infrastructure (Ras Tanura, Fujairah, Ras Laffan, Kuwait terminals); CENTCOM-IRGC direct naval engagement in Strait; Kharg Island struck; confirmed Iranian offensive cyber attack on US critical infrastructure; Araghchi removal or resignation triggering declared end to diplomatic engagement from Khamenei level; or Kaiser Canyon / Franklin County fire complex catastrophic escalation under July 21-24 heat wave peak with mass casualties."
+  },
+  "domains": {
+    "geopolitical": {
+      "summary": "HORMUZ DAY 143 — BLOCKADE DAY 6 / MOU DE FACTO TERMINATED DAY 6: IRANIAN RESTRAINT WINDOW 96H+ (LONGEST OF BLOCKADE ARC; IC CHARACTERIZATION PENDING — ACTING DNI DAY 60); IRAN FM ARAGHCHI REPORTED ATTACKED BY HARDLINE MOB AT FUNERAL ('NO PLANS FOR NEGOTIATIONS' — IRANIAN FM; INTERNAL FACTIONAL FRACTURE; HEZBOLLAH STAND-DOWN DAY 35 HOLDS UNDER KHAMENEI DIRECTIVE); IRGC REGIONAL ENERGY THREAT INTENT UNRESOLVED; LEBANON PILOT ZONES DAY 4 — STRUCTURE-AND-GUIDELINES FRAMEWORK AGREED (PRODUCTIVE TALKS; HEZBOLLAH DISARMAMENT UNRESOLVED; NO IDF MOVEMENT CONFIRMED); WTI ~$76-79 / BRENT ~$81-84; NATO ANKARA SUMMIT (€140B UKRAINE PLEDGE; RUSSIA LABELED THREAT); RUSSIA FUEL CRISIS DAY 20 (OMSK 75% OFFLINE; IEA DUAL SHOCK); PERU T-8; COLOMBIA T-18; VENEZUELA DAY 27.",
+      "items": [
+        {
+          "headline": "Hormuz Day 143 — Blockade Day 6 / MOU De Facto Terminated Day 6: Iranian Restraint Window 96H+ Post-Hellfire-Interdiction (Longest Non-Escalation Window Of Blockade Arc; IRGC Ultimatum Lapsed 36H+ Without Late-Kinetic Activation; IC Characterization Pending — Acting DNI Day 60); Iran FM Araghchi Reported Attacked By Hardline Mob At Funeral ('No Plans For Negotiations' — Iranian FM Statement; Internal Factional Fracture; Hezbollah Stand-Down Day 35 Holds Under Khamenei Directive); Lebanon Pilot Zones Day 4 — Structure-And-Guidelines Framework Agreed (Productive Working-Level Talks; IDF Withdrawal Framework Structure; Hezbollah Disarmament Central Unresolved Condition; No Confirmed IDF Movement In Pilot Zones); WTI ~$76-79; Brent ~$81-84",
+          "summary": "The 96h+ non-escalation window since the July 16 CENTCOM Hellfire interdiction is now the longest confirmed Iranian restraint period of the blockade arc. Through Monday evening July 20, no confirmed IRGC naval challenge to CENTCOM interdiction operations, no confirmed IRGC attack on Gulf partner energy infrastructure (Saudi Ras Tanura, UAE Fujairah, Qatar Ras Laffan, Kuwait crude terminals), and no confirmed Hezbollah mobilization orders were reported. The IRGC's explicit July 15 '2-3-day full-scale offensive if US attacks continue' ultimatum has now definitively lapsed more than 36 hours past its maximum timeline without triggering — the strongest restraint signal of the blockade arc, materially reducing the probability of a major delayed kinetic response. However, the IC's characterization of this 96h+ restraint as strategic decision or operational pause remains the primary unresolved analytical task for Acting DNI Day 60, and a new complicating factor has emerged. Iranian Foreign Minister Abbas Araghchi — the lead Iranian architect of the June 19 MOU and the primary diplomatic channel for the Hezbollah stand-down negotiation — was reportedly attacked by a hardline political mob at a funeral, with hardline opponents physically confronting him. The Iranian Foreign Ministry subsequently stated Iran has 'no plans for negotiations,' a declaration that signals the domestic political cost of diplomacy within Iran has materially increased following the blockade reinstatement. Araghchi's weakened domestic position is the most significant diplomatic fracture of the blockade arc: the channel through which a Hormuz re-opening sequence and Hezbollah stand-down extension would be communicated is degraded at exactly the moment when the IC is attempting to characterize the 96h quiet period. Critically, Hezbollah stand-down Day 35 continues to hold through July 20 — Khamenei's restraint directive has not been rescinded despite the Araghchi incident, which indicates top-level Iranian decision-making continues to favor non-escalation even as the hardline domestic faction intensifies pressure. Lebanon pilot zones Day 4: working-level Israeli and Lebanese contacts reached agreement on structure and guidelines for a phased IDF withdrawal framework — a more substantive outcome than the July 19 brief's 'Rome window definitively expired' framing suggested. However, the central condition from Israel remains the disarmament of Hezbollah, which Lebanese officials have not formally committed to, and no confirmed IDF movement into designated south Lebanon pilot zones occurred through July 20 evening. The structural diplomatic framework exists; implementation sequencing, Hezbollah disarmament conditions, and the timeline remain unresolved.",
+          "significance": "CRITICAL",
+          "actors": ["Donald Trump", "CENTCOM", "US Navy", "IRGC", "Iran IRGC Navy", "Abbas Araghchi", "Masoud Pezeshkian", "Ali Khamenei", "Acting DNI", "CISA", "IDF", "Lebanese Armed Forces", "Hezbollah", "Qatar", "Oman", "France", "US Treasury", "Lloyd's of London", "Kpler", "IEA"],
+          "metrics": {
+            "hormuz_day": 143,
+            "mou_signed_date": "2026-06-19",
+            "mou_day": 32,
+            "mou_de_facto_terminated": true,
+            "blockade_day": 6,
+            "blockade_effective_date": "2026-07-15",
+            "hellfire_interdiction_response_window_96h_status": "CLOSED WITHOUT MAJOR ESCALATION — longest restraint period of blockade arc; IRGC ultimatum definitively lapsed 36h+ past maximum timeline",
+            "irgc_explicit_ultimatum_status": "DEFINITIVELY LAPSED — 'full-scale offensive if US attacks continue 2-3 days' (July 15); 36h+ post-deadline without activation; delayed kinetic response probability materially reduced",
+            "iran_fm_araghchi_status": "REPORTED ATTACKED BY HARDLINE MOB AT FUNERAL — domestic political fracture; 'no plans for negotiations' FM statement; primary MOU diplomatic architect under political pressure",
+            "irgc_regional_energy_threat_status": "OPERATIONAL ASSESSMENT UNRESOLVED — 'oil and gas for everyone or no one'; intent vs. signaling; Acting DNI Day 60 secondary task",
+            "snsc_formal_mou_void_declaration": false,
+            "kharg_island_struck": false,
+            "hezbollah_mobilization_orders": "NOT CONFIRMED — Day 35 hold intact under Khamenei directive; sustained despite Araghchi domestic political fracture",
+            "lebanon_pilot_zones_day": 4,
+            "lebanon_pilot_zones_framework_status": "STRUCTURE AND GUIDELINES AGREED — working-level Israeli-Lebanese contacts reached structural agreement on IDF withdrawal framework; Hezbollah disarmament central unresolved condition; no confirmed IDF movement in pilot zones",
+            "wti_july20_range_est": "$76-79",
+            "brent_july20_range_est": "$81-84",
+            "wti_vibe3_trigger": 85,
+            "wti_above_vibe3_trigger": false,
+            "oil_price_delta_from_july19": "WTI -$1-2; Brent -$1-2; 96h restraint signal additional modest relief; Araghchi attack complicates diplomatic tail risk assessment",
+            "hormuz_tanker_transits_daily": "~1 (trickle vs. 55 pre-war baseline)",
+            "acting_dni_vacancy_day": 60,
+            "acting_dni_primary_task_july20": "96h+ Iranian restraint IC characterization — strategic restraint vs. operational pause; Araghchi hardliner attack as complicating analytical input",
+            "cisa_clean_streak_days": 80,
+            "total_us_iran_strike_exchanges": 5
+          }
+        },
+        {
+          "headline": "NATO Ankara Summit — €140B Ukraine Pledge 2026-27 (Russia Labeled Direct Threat To Euro-Atlantic Security; Trump Attends; Ukraine Patriot Manufacturing Rights Offered); Russia Fuel Crisis Day 20 (Omsk 75% Offline; IEA Dual Shock Deepening); Peru T-8 (July 28 — On Track); Colombia T-18 (August 7); Venezuela Earthquake Day 27 (1,730+ Dead; Maduro Federal Custody)",
+          "summary": "Four secondary geopolitical threads on July 20 evening. First: NATO Ankara summit concluded in early July. The summit produced a landmark declaration formally labeling Russia a direct threat to Euro-Atlantic security and committing €70B annually for 2026 and 2027 — €140B over two years — to Ukraine's military defense. Trump attended and expressed optimism about eventual peace, offering Ukraine the right to manufacture US Patriot missile systems domestically. Russian battlefield gains on the ground have slowed to near-zero in the first half of 2026 — less than 100 square kilometers of net territorial change. Russian drone and missile strikes on Kyiv killed at least 14 people in the days preceding the summit. The NATO Ankara declaration represents the largest single NATO financial commitment to Ukraine and the formal diplomatic codification of Russia's status that Ukraine has sought since 2022. Second: Russia fuel crisis Day 20. Omsk refinery continues at 75% offline capacity with no restoration signal on Day 20. Ukraine drone strike tempo remains the primary ongoing threat for additional Russian refinery losses. IEA dual shock (Hormuz blockade Day 6 + Omsk Day 20) continues to deepen. Third: Peru T-8. Keiko Fujimori's July 28 inauguration proceeds on track without confirmed disruption. Fourth: Colombia T-18. Abelardo De La Espriella's August 7 inauguration on track. Venezuela earthquake Day 27: 1,730+ confirmed dead, 46,600+ missing, with Maduro in New York federal custody on narco-terrorism charges and humanitarian access to earthquake-affected areas still restricted.",
+          "significance": "MODERATE",
+          "actors": ["Donald Trump", "NATO", "Mark Rutte", "Volodymyr Zelenskyy", "Vladimir Putin", "Keiko Fujimori", "Abelardo de la Espriella", "IEA", "Mikhail Mishustin", "Ukraine Armed Forces", "Nicolás Maduro", "DOJ"],
+          "metrics": {
+            "nato_ankara_ukraine_pledge_2yr_bn_eur": 140,
+            "nato_ankara_russia_designation": "DIRECT THREAT TO EURO-ATLANTIC SECURITY — formal designation",
+            "nato_ankara_trump_attendance": true,
+            "ukraine_patriot_manufacturing_rights": "OFFERED — US Patriot domestic manufacturing authorization to Ukraine",
+            "russia_ukraine_battlefield_gains_h1_2026_sqkm": "<100",
+            "russia_fuel_crisis_day": 20,
+            "omsk_refinery_status": "75% OFFLINE — Day 20; no restoration signal",
+            "iea_dual_shock_status": "DEEPENING — Hormuz blockade Day 6 + Omsk Day 20",
+            "peru_inauguration_days_out": 8,
+            "peru_inauguration_date": "2026-07-28",
+            "colombia_inauguration_days_out": 18,
+            "colombia_inauguration_date": "2026-08-07",
+            "venezuela_earthquake_day": 27,
+            "venezuela_confirmed_dead": 1730,
+            "venezuela_missing": 46600,
+            "maduro_custody_status": "NEW YORK FEDERAL CUSTODY — narco-terrorism charges"
+          }
+        }
+      ]
+    },
+    "economic": {
+      "summary": "JUNE CPI 3.5% YOY (-0.4% MOM FROM 4.2% MAY — SURPRISE DISINFLATION; JULY FOMC RATE HIKE PROBABILITY ~17% DOWN FROM 42%; SEPTEMBER REVISED DOWN TO ~42-45% FROM 68.8% — HORMUZ BLOCKADE OIL UNCERTAINTY SUSTAINS RESIDUAL PREMIUM; WARSH 'INFLATION SURGE IS OVER'; DATA-DEPENDENT PAUSE); WTI ~$76-79 / BRENT ~$81-84 (96H RESTRAINT SIGNAL MODEST ADDITIONAL OIL RELIEF; IRGC ENERGY THREAT TAIL RISK SUSTAINED; BELOW $85 TRIGGER); S&P 500 ~7,534 (BELOW ATH 7,621; SEMICONDUCTOR VOLATILITY; AI SPECULATION WARNINGS); SECTION 122 T-4 (JULY 24 EXPIRY; USTR FORCED-LABOR FRAMEWORK NOT FINALIZED — CRITICAL 24H WINDOW); SECTION 301 BRAZIL 25% EFFECTIVE TOMORROW (T-1); USTR SECTION 301 GERMANY PHARMA PROBE LAUNCHED; PHARMA 232 T-11 (JULY 31); FERC AI REPORTS FILED (MONDAY JULY 20 — ALL SIX ISO/RTOs); DOE $17.5B NUCLEAR CONDITIONAL LOAN; OBBB DAY 21; MAINE DEMOCRAT T-7.",
+      "items": [
+        {
+          "headline": "June CPI 3.5% YoY (-0.4% MoM From 4.2% May — Surprise Disinflation Print; July FOMC Rate Hike Probability Collapsed To ~17% From 42%; September FOMC Revised Down To ~42-45% From 68.8% — Warsh 'Inflation Surge Is Over'; Hormuz Blockade Oil Uncertainty Sustains Residual Premium; WTI ~$76-79 / Brent ~$81-84 On 96H+ Restraint Signal; S&P 500 ~7,534 Below ATH; IEA Dual Shock Deepening Day 6/20",
+          "summary": "The June CPI print is the most significant economic data point of the blockade phase. Headline CPI came in at 3.5% year-over-year, a -0.4% month-on-month deceleration from May's 4.2% — the largest single-month disinflation in over two years and materially below consensus expectations. Federal Reserve Chair Kevin Warsh testified before Congress in this period declaring 'the inflation surge of the last five years will be a thing of the past,' and explicitly removed traditional forward guidance in favor of pure data dependence. The July FOMC rate hike probability collapsed from 42% to approximately 17% on the CPI print. The September probability — carried at 68.8% in the July 19 brief — is revised down to approximately 42-45%, reflecting the CPI signal while sustaining the premium for Hormuz blockade Day 6 oil price uncertainty: a WTI above $85 or a confirmed IRGC Gulf energy attack would immediately reverse the disinflation signal by reigniting energy-driven CPI. Warsh's current rate stance of 3.50%-3.75% hold remains in place and no rate cuts are anticipated before Q2 2027 unless the blockade resolves and CPI continues declining. Oil markets registered a further modest relief movement on the 96h+ non-escalation window: WTI fell approximately $1-2 from July 19's $78-81 range to approximately $76-79, and Brent from $83-86 to approximately $81-84. Both are well below the $85 Vibe-3 trigger. The primary remaining oil pricing driver is the IC characterization of Iranian restraint and the IRGC regional energy threat intent assessment — an 'operational pause' conclusion would reverse the modest price relief. S&P 500 closed at approximately 7,534 on the most recent available close, below its all-time high of 7,621 with semiconductor stocks as the primary source of volatility. Goldman Sachs reported earnings 9% above consensus. Multiple strategists have flagged that AI-related equity speculation has reached 'extreme levels,' with warnings the index could give back gains if AI valuation expectations disappoint. IEA dual shock assessment deepens on Hormuz blockade Day 6 and Russia Omsk Day 20.",
+          "significance": "HIGH",
+          "actors": ["Kevin Warsh", "FOMC", "CME FedWatch", "US Treasury", "CENTCOM", "OPEC+", "IEA", "Saudi Aramco", "Qatar LNG", "Goldman Sachs", "JPMorgan", "Kpler"],
+          "metrics": {
+            "june_cpi_yoy_pct": 3.5,
+            "june_cpi_mom_pct": -0.4,
+            "may_cpi_yoy_pct": 4.2,
+            "june_cpi_vs_consensus": "BELOW — surprise disinflation print; largest MoM decel in 2+ years",
+            "july_fomc_rate_hike_probability_pct": 17,
+            "july_fomc_rate_hike_probability_prior_pct": 42,
+            "september_fomc_rate_hike_probability_pct": 43,
+            "september_fomc_rate_hike_probability_july19_pct": 68.8,
+            "december_fomc_rate_hike_probability_pct": 62,
+            "december_fomc_rate_hike_probability_july19_pct": 85.3,
+            "fed_no_rate_cuts_until": "Q2 2027 — conditional on blockade resolution and sustained CPI decline",
+            "warsh_statement": "'The inflation surge of the last five years will be a thing of the past' — Congressional testimony; pure data-dependence posture",
+            "warsh_rate_current": "3.50-3.75% HOLD",
+            "wti_july20_range_est": "$76-79",
+            "brent_july20_range_est": "$81-84",
+            "wti_vibe3_trigger": 85,
+            "wti_above_vibe3_trigger": false,
+            "oil_price_delta_from_july19": "WTI -$1-2; Brent -$1-2; 96h restraint signal additional modest relief",
+            "hormuz_tanker_transits_daily": "~1 (trickle vs. 55 pre-war baseline)",
+            "sp500_level": 7534,
+            "sp500_ath": 7621,
+            "sp500_ytd_return_approx_pct": 9,
+            "sp500_ai_speculation_warning": "ACTIVE — multiple strategists flagging extreme AI valuation levels",
+            "goldman_sachs_q2_earnings_beat_pct": 9,
+            "iea_dual_shock_status": "DEEPENING — Hormuz Day 6 + Omsk Day 20",
+            "recession_probability_12mo_pct": 38
+          }
+        },
+        {
+          "headline": "Section 122 T-4 (July 24 Expiry — USTR Forced-Labor Section 301 Framework Not Finalized As Of July 20 Evening; Critical 24H Replacement Window; Compliance Gap Activates If Framework Slips Past July 22-23); Section 301 Brazil 25% Effective Tomorrow (T-1); USTR Section 301 Germany Pharma Probe Launched; Pharma 232 T-11 (July 31); FERC AI Generation Adequacy Reports Filed (Monday July 20 — All Six ISO/RTOs; First National Accounting Complete); DOE $17.5B Conditional Nuclear Loan (Five Westinghouse AP1000 Projects); OBBB Day 21; Maine Democrat T-7",
+          "summary": "Six secondary economic-legislative-regulatory threads on July 20 evening. First: Section 122 T-4 critical window. Emergency tariff bridge authority expires July 24 — statutory, cannot be waived without congressional authorization. USTR has not announced finalization of the broader forced-labor Section 301 framework (10-12.5% on 61 countries) as of July 20 evening. The July 21 business day opens the critical 24-hour window before the Brazil-effective-date deadline (July 22) and the July 23 publication window needed to avoid a statutory gap on July 24. White House bandwidth remains consumed by Blockade Day 6 response assessment, Araghchi attack significance evaluation, and NATO Ankara follow-on. Compliance gap risk is active for major importers with China, Vietnam, and India exposure. Second: Section 301 Brazil 25% effective tomorrow (July 22, T-1). The Brazilian tariff action is proceeding on schedule. Third: USTR Section 301 Germany pharma probe. USTR launched a Section 301 investigation against Germany targeting pharmaceutical pricing practices as 'unreasonable and discriminatory' — the US-EU trade deal (live July 1) did not foreclose further US unilateral actions. Fourth: FERC AI generation adequacy reports filed. All six ISO/RTOs submitted their generation adequacy reports to FERC on Monday July 20, meeting the filing deadline. The filings constitute the first formal national accounting of AI-era large-load data center integration readiness against generation and transmission capacity. The PNW grid (BPA, CAISO Northwest imports, Northwest Power Pool, Microsoft Quincy/Wenatchee, Amazon BPA footprint, Google The Dalles/Malheur corridor) receives the most scrutiny given drought-reduced hydropower output against the largest concentrated data center load in the Western Interconnection. FERC's July 16 show-cause orders to all six ISOs/RTOs remain live with an August 17 response deadline; NERC reliability standards for computational load integration are due December 31, 2026. Fifth: DOE $17.5B conditional nuclear loan. The Department of Energy's Office of Energy Dominance Financing issued a conditional loan commitment for five Westinghouse AP1000 commercial nuclear projects — the largest single federal nuclear financing commitment in years, targeting dispatchable clean generation capacity to meet surging AI-era electricity demand. Sixth: OBBB Day 21. No new judicial or legislative OBBB developments on July 20. Maine Democrat replacement deadline T-7 (July 27) remains without a confirmed candidate.",
+          "significance": "MODERATE",
+          "actors": ["USTR", "US Treasury", "White House", "FERC", "PJM", "MISO", "CAISO", "ISO-NE", "NYISO", "SPP", "DOE", "NERC", "BPA", "Microsoft", "Amazon", "Google", "Westinghouse", "HHS", "USDA", "CBO", "Maine Democratic Party"],
+          "metrics": {
+            "section_122_expiry_date": "2026-07-24",
+            "section_122_days_to_expiry": 4,
+            "ustr_section_301_broader_framework_finalized": false,
+            "ustr_section_301_broader_framework_critical_window": "July 21-22 — last viable publication window before July 24 statutory expiry",
+            "ustr_section_301_brazil_effective_date": "2026-07-22",
+            "ustr_section_301_brazil_days_to_effective": 1,
+            "ustr_section_301_germany_pharma_probe": "LAUNCHED — targeting drug pricing practices as unreasonable/discriminatory under Section 301",
+            "pharma_232_effective_date": "2026-07-31",
+            "pharma_232_days_to_effective": 11,
+            "ferc_ai_generation_adequacy_status": "FILED — all six ISO/RTOs submitted Monday July 20; first national AI large-load integration accounting on record",
+            "ferc_ai_show_cause_deadline": "2026-08-17",
+            "ferc_ai_nerc_standards_deadline": "2026-12-31",
+            "doe_nuclear_conditional_loan_bn": 17.5,
+            "doe_nuclear_reactor_type": "Westinghouse AP1000",
+            "doe_nuclear_projects_count": 5,
+            "us_eu_trade_deal_live_date": "2026-07-01",
+            "obbb_law_day": 21,
+            "obbb_medicaid_work_requirements_states": 18,
+            "obbb_snap_restrictions_states": 18,
+            "obbb_legal_challenges_with_federal_stay": 0,
+            "obbb_cbo_deficit_10yr_tn": 3.4,
+            "maine_democrat_replacement_deadline": "2026-07-27",
+            "maine_democrat_replacement_days_remaining": 7
+          }
+        }
+      ]
+    },
+    "infrastructure": {
+      "summary": "WA DNR BURN BAN DAY 4 — HEAT WAVE ONSET TODAY (EASTERN WA 90S; JULY 21-24 PEAK 95-105°F TOMORROW; KAISER CANYON FIRE DAY 5 — PARTIAL OVERNIGHT/MONDAY SUPPRESSION PROGRESS; LEVEL 3 EVACUATIONS; LOW CONTAINMENT; FRANKLIN COUNTY COMPLEX ACTIVE; LOWER DRY CREEK OR CONTAINED JULY 19; 35+ ACTIVE FIRES OR/WA; SOURDOUGH DAY 16 EXTENDED ATTACK); NIFC PL4 DAY 22; BPA STABLE (HEAT DEMAND BUILD ACCELERATING); FERC AI GENERATION ADEQUACY REPORTS FILED MONDAY (ALL SIX ISO/RTOs — FIRST NATIONAL ACCOUNTING; FERC JULY 16 SHOW-CAUSE ORDERS; DOE $17.5B NUCLEAR CONDITIONAL LOAN); WA DROUGHT DAY 46 (SUPER EL NIÑO CONFIRMED; COLUMBIA BASIN INTENSIFICATION); NSF NEWPORT OR DARK DAY 22; GEOMAGNETIC NORMALIZED.",
+      "items": [
+        {
+          "headline": "WA DNR Burn Ban Day 4 — Heat Wave Onset (Eastern WA 90S Today; July 21-24 Peak 95-105°F Tomorrow); Kaiser Canyon Fire Day 5 (Partial Overnight-Monday Suppression Progress; Level 3 Evacuations; Low Containment; 0% To Low Single-Digit Before Heat Wave Peak); Franklin County Complex Active; Lower Dry Creek OR Contained July 19 (8,100 Acres; 6 Homes Lost; Third OR Emergency Conflagration Act Invocation 2026); 35+ Active Fires OR/WA; Sourdough Day 16 Extended Attack; NIFC PL4 Day 22; BPA Stable",
+          "summary": "The July 20 PNW fire and infrastructure domain is defined by the onset of the July 21-24 heat wave and the failure of both Kaiser Canyon and Franklin County fire systems to achieve meaningful containment before the heat front arrived. Three primary developments. First: Kaiser Canyon Fire Day 5. Overnight and Monday day-shift suppression crews working Kaiser Canyon (Okanogan County / Colville Reservation) made partial progress against the fire's northern and northeastern flanks. Early indications suggest acreage growth was moderated from the July 19 pace — but no formal containment line was established before heat wave onset. Level 3 'Go Now' evacuations in the Rebecca Lake, Belvedere, Buffalo Lake Road, Joe Moses Road, and Nespelem to Jackson Ranch SR-15 south-side corridor remained in place through Monday evening. The Kaiser Canyon power outage in Okanogan County continued with restoration estimates pending. Approximately 200 firefighters remain deployed on direct attack. The fire enters the July 21-24 heat wave peak without a meaningful containment milestone — the primary local_pnw Vibe 3 scenario trigger condition. Second: Franklin County fire complex. The approximately 38,000-40,000 acre complex near Kahlotus remained active Monday without containment announcement. The Franklin County complex and Kaiser Canyon represent the two primary active fronts of the Eastern Washington burn ban period entering the heat wave peak with zero confirmed containment. Third: Lower Dry Creek Fire (Oregon) contained July 19. The Umatilla County fire reached 100% containment July 19 at approximately 8,100 acres, having burned 6 residences and 40 outbuildings with 1,650+ at peak Level 3 evacuation. Governor Kotek's Emergency Conflagration Act invocation for Lower Dry Creek was the third of 2026 — signaling an extremely active Oregon fire season. Resources from the Lower Dry Creek demobilization are potentially available for Eastern Washington redeployment. Across Oregon and Washington, 35+ active fires are burning simultaneously, with the Evans Creek and Hoag fires in Oregon also under active task force response. NIFC PL4 Day 22 nationally sustained. BPA grid stable with heat wave demand build accelerating. Sourdough Fire (North Cascades NP) remains on extended attack Day 16 with SR-20 open and Skagit River dam complex in continued restoration.",
+          "significance": "HIGH",
+          "actors": ["Washington DNR", "Oregon DNR", "NPS", "USFS Pacific Northwest Region", "BLM", "BIA", "Colville Tribe", "NWS Seattle", "NIFC", "Governor Bob Ferguson", "Governor Tina Kotek", "BPA", "WSDOT", "Oregon OEM", "Umatilla County Emergency Management"],
+          "metrics": {
+            "wa_dnr_burn_ban_day": 4,
+            "heat_wave_status": "ONSET — Eastern Washington 90s today (July 20); peak July 21-24 at 95-105°F; Portland upper 80s to low 90s",
+            "kaiser_canyon_fire": {
+              "day_since_ignition": 5,
+              "location": "Okanogan County / Colville Reservation, WA",
+              "ignition_date": "2026-07-16",
+              "containment_status": "LOW — partial overnight/Monday suppression progress; no formal containment line before heat wave onset",
+              "evacuation_level": "LEVEL 3 GO NOW — Rebecca Lake, Belvedere, Buffalo Lake Road, Joe Moses Road, Nespelem to Jackson Ranch SR-15 south side",
+              "personnel_deployed": 200,
+              "power_outage": "ONGOING — Okanogan County distribution; restoration pending",
+              "heat_wave_entry_status": "ACTIVE WITHOUT CONTAINMENT MILESTONE — primary Vibe 3 trigger scenario condition"
+            },
+            "franklin_county_fire_complex": {
+              "acreage_approx": 40000,
+              "location": "Franklin County, near Kahlotus, WA",
+              "status": "ACTIVE WITHOUT CONTAINMENT",
+              "heat_wave_entry_status": "ACTIVE — entering July 21-24 peak without containment"
+            },
+            "lower_dry_creek_fire": {
+              "location": "Umatilla County, near Weston, OR",
+              "containment_status": "100% CONTAINED — July 19",
+              "final_acreage": 8100,
+              "homes_destroyed": 6,
+              "outbuildings_destroyed": 40,
+              "peak_evacuations": 1650,
+              "fema_fire_management_assistance_grant": true,
+              "oregon_emergency_conflagration_act_invocation_2026": 3
+            },
+            "sourdough_fire": {
+              "day_since_ignition": 16,
+              "sr20_status": "CONFIRMED OPEN",
+              "skagit_dam_status": "RESTORING — Gorge/Diablo/Ross continued recovery"
+            },
+            "or_wa_active_fires_count": "35+",
+            "or_evans_creek_hoag_status": "ACTIVE — Oregon task force response",
+            "nifc_preparedness_level": 4,
+            "nifc_pl4_day": 22,
+            "bpa_grid_status": "STABLE — heat demand build accelerating; Kaiser Canyon power outage isolated",
+            "heat_wave_fire_convergence": "CRITICAL WINDOW OPEN — July 21-24 peak beginning tomorrow; two primary Eastern WA fronts without containment milestone"
+          }
+        },
+        {
+          "headline": "FERC AI Generation Adequacy Reports Filed Monday (All Six ISO/RTOs — First National AI Large-Load Integration Accounting; Show-Cause August 17; DOE $17.5B AP1000 Conditional Nuclear Loan; US Monthly Major Power Outages Continuing Pattern); WA Drought Day 46 (Super El Niño Confirmed; Columbia Basin; Heat Wave Day 1; BPA Summer Peak Accelerating); NSF Newport OR Dark Day 22 (Three Active Fires Without Anchor); Geomagnetic Storm Normalized",
+          "summary": "Four secondary infrastructure threads on July 20 evening. First: FERC AI generation adequacy reports filed. All six ISO/RTOs (PJM, MISO, SPP, CAISO, ISO-NE, NYISO) filed their generation adequacy reports to FERC on Monday July 20, meeting the filing deadline and completing the first formal national accounting of AI large-load integration readiness. The PNW grid entities — BPA, CAISO Northwest import/export flows, Northwest Power Pool, Microsoft Quincy/Wenatchee campus, Amazon BPA data center footprint, and Google The Dalles/Malheur corridor — are the most scrutinized regional grid in the filings, with drought-reduced Columbia River hydropower output against the largest concentrated data center load in the Western Interconnection. FERC's show-cause orders to all six ISOs/RTOs (July 16) remain live with an August 17 response deadline. Separately, DOE's Energy Dominance Financing office issued a conditional $17.5 billion loan for five Westinghouse AP1000 commercial nuclear projects — the largest single federal nuclear financing commitment in years, directly targeting AI-era electricity demand. The July 2-3 heat event earlier this month demonstrated the national grid's stress: PJM forecast demand above its all-time record at 166,147 MW, triggering DOE Energy Emergency Alert authorization to curtail data centers and waive pollution limits; over 200,000 customers lost power. The US has now recorded at least one significant grid failure per month in 2026 — a pattern Electrek analysis characterized as 'new normal.' Second: Washington drought Day 46. Super El Niño confirmed developing, with NOAA forecasting warm and dry anomalies through September-October. Columbia River Basin remains the primary western intensification zone in NOAA's three-month federal drought outlook. BPA summer peak demand is in acceleration phase — July 21-24 heat wave peak arrives tomorrow against below-normal Columbia River flow and Skagit dam complex at partial restoration capacity. Third: NSF Newport OR Dark Day 22. Senate reinstallation authorization unanimous, physical reinstallation timeline pending congressional scheduling. Three active fires in the region without the Newport coastal atmospheric baseline anchor (Kaiser Canyon Day 5 in Okanogan County, Sourdough Day 16 in North Cascades NP, and multiple new Oregon ignitions). Newport enters its fifth week of dark status. Fourth: Geomagnetic storm fully normalized. K-index has returned to normal baseline, aurora is no longer expected, and BPA GIC monitoring has concluded.",
+          "significance": "LOW",
+          "actors": ["FERC", "PJM", "MISO", "CAISO", "ISO-NE", "NYISO", "SPP", "BPA", "DOE", "NERC", "NOAA", "NWS Seattle", "NSF", "Microsoft", "Amazon", "Google", "Westinghouse", "Governor Bob Ferguson"],
+          "metrics": {
+            "ferc_ai_generation_adequacy_status": "FILED — all six ISO/RTOs submitted Monday July 20; first national AI large-load integration accounting on record",
+            "ferc_ai_show_cause_deadline": "2026-08-17",
+            "ferc_ai_pnw_primary_entities": ["BPA", "CAISO Northwest imports/exports", "Northwest Power Pool", "Microsoft Quincy/Wenatchee", "Amazon BPA footprint", "Google The Dalles/Malheur"],
+            "doe_nuclear_conditional_loan_bn": 17.5,
+            "doe_nuclear_projects": "5 Westinghouse AP1000 projects — energy dominance financing",
+            "us_major_power_outage_2026_pattern": "AT LEAST ONE PER MONTH — Electrek analysis July 15; grid failure as 'new normal'",
+            "pjm_july_peak_demand_record_mw": 166147,
+            "doe_energy_emergency_alert_july_4": true,
+            "washington_drought_day": 46,
+            "washington_drought_consecutive_years": 4,
+            "super_el_nino_status": "CONFIRMED DEVELOPING — warm/dry anomalies through Sept-Oct; Columbia Basin most likely western intensification zone",
+            "columbia_river_bonneville_flow": "BELOW NORMAL — drought Day 46; heat wave demand surge imminent",
+            "bpa_summer_peak_load_status": "ACCELERATING — heat wave peak tomorrow; below-normal hydro; Kaiser Canyon power outage isolated",
+            "nsf_newport_or_dark_day": 22,
+            "nsf_active_fires_without_anchor": 3,
+            "nsf_reinstallation_status": "SENATE UNANIMOUS — physical timeline pending; entering Week 5 of dark status",
+            "geomagnetic_storm_status": "NORMALIZED — K-index at baseline; no further aurora; BPA GIC monitoring concluded"
+          }
+        }
+      ]
+    },
+    "domestic": {
+      "summary": "ACTING DNI DAY 60 (PRIMARY TASK: IC CHARACTERIZATION OF 96H+ IRANIAN RESTRAINT — ARAGHCHI ATTACK AS ANALYTICAL INPUT; SECONDARY: IRGC ENERGY INTENT + LEBANON FRAMEWORK ASSESSMENT); CISA CLEAN STREAK DAY 80 (96H+ WINDOW CLOSED CLEAN; 120H MONITORING WINDOW ACTIVE); SCOTUS BIRTHRIGHT CITIZENSHIP 6-3 (JUNE 30 — 14TH AMENDMENT UPHELD; TRUMP DAY-ONE ORDER STRUCK; REVERBERATING IN MIDTERM CYCLE); HUMPHREY'S EXECUTOR OVERTURNED 6-3 (JUNE 29 — FTC INDEPENDENCE ELIMINATED; EXECUTIVE REMOVAL POWER EXPANDED); OBBB DAY 21 (18 STATES; ZERO STAYS); NDAA BLOCKED DAY 5; AI LEGISLATION ADVANCING (10 HOUSE SCIENCE BILLS MARKED UP; SENATE AI LABELING ACT BIPARTISAN); EAC GOVERNANCE GAP DAY 11 (ZERO REPLACEMENTS); MEASLES 2,260 (CDC JULY 16; CIDRAP SLOWING SIGNAL DAY 44; SEAFAIR T-1; TERTIARY WINDOW T-3); MAINE DEMOCRAT T-7.",
+      "items": [
+        {
+          "headline": "Acting DNI Day 60 (Primary Task: IC Characterization Of 96H+ Iranian Restraint — Araghchi Hardliner Attack As Complicating Analytical Input; Strategic Restraint vs. Operational Pause; Secondary: IRGC Energy Intent; Tertiary: Lebanon Framework); CISA Clean Streak Day 80 (120H Post-Hellfire Monitoring Window Active — 96H Closed Clean); NDAA Blocked Day 5; OBBB Day 21",
+          "summary": "Four primary domestic governance threads on July 20 evening. First: Acting DNI Day 60 — the IC's primary analytical challenge intensifies with new complicating input. The core task — formally characterizing the 96h+ absence of Iranian kinetic escalation as strategic restraint or operational pause — must now be integrated with the Araghchi hardliner attack and the Iranian FM's 'no plans for negotiations' statement. The IC analytical framework for this characterization must weigh: (a) whether the 96h+ restraint reflects a Khamenei-level strategic decision to avoid kinetic escalation (supported by Hezbollah stand-down Day 35 continuing), or (b) whether the restraint is an operational pause — preparation in progress, delayed response — with the hardliner attack on Araghchi serving as domestic political cover for an escalatory decision. The Araghchi attack is analytically ambiguous: it could signal that hardliners are pressuring Khamenei toward escalation (supporting operational pause), or it could signal that Khamenei's restraint decision is creating domestic political blowback that actually confirms the restraint as a top-level strategic choice over hardliner objections. Acting DNI Day 60 carries this primary analytical deliverable alongside the IRGC regional energy intent evaluation (July 16 'oil and gas for everyone or no one' statement) and the Lebanon framework assessment (structure-and-guidelines agreed, but implementation and Hezbollah disarmament conditions unresolved). Sixty consecutive days without Senate-confirmed IC leadership under the blockade arc's maximum analytical load. Second: CISA clean streak Day 80. The 96h post-Hellfire interdiction window — the highest-risk Iranian offensive cyber period — closed without a confirmed CISA-reportable incident. The extended monitoring window (120h post-interdiction) is now active through July 21 morning as the primary post-primary-risk-window cyber assessment period. CISA's clean streak at Day 80 is the second-longest in the 2026 arc. Third: NDAA blocked Day 5 (July 15 50-46 cloture failure). No Senate reconsideration path announced through July 20. Fourth: OBBB Day 21. No new OBBB judicial or legislative developments on July 20.",
+          "significance": "MODERATE",
+          "actors": ["Acting DNI", "CISA", "CENTCOM", "IRGC", "Hezbollah", "IDF", "Iranian Intelligence Ministry (MOIS)", "Abbas Araghchi", "Ali Khamenei", "Senate Armed Services Committee", "Speaker Mike Johnson", "CBO"],
+          "metrics": {
+            "acting_dni_vacancy_day": 60,
+            "acting_dni_primary_task_july20": "96h+ Iranian restraint IC characterization — strategic restraint vs. operational pause; Araghchi hardliner attack as analytical complication",
+            "acting_dni_araghchi_analytical_framework": {
+              "interpretation_a": "Araghchi attack = hardliner pressure on Khamenei toward escalation → supports operational pause assessment",
+              "interpretation_b": "Araghchi attack = domestic blowback against Khamenei restraint decision → confirms strategic restraint over hardliner objections",
+              "hezbollah_standdown_day35_weight": "CONTINUES HOLDING — primary Khamenei-level restraint indicator; not rescinded despite Araghchi attack"
+            },
+            "cisa_clean_streak_days": 80,
+            "cisa_96h_post_hellfire_status": "CLOSED CLEAN — 120h extended monitoring window now active through July 21 morning",
+            "ndaa_senate_cloture_vote": "BLOCKED 50-46 — July 15, 2026",
+            "ndaa_failure_day": 5,
+            "obbb_law_day": 21,
+            "obbb_medicaid_work_requirements_states": 18,
+            "obbb_snap_restrictions_states": 18,
+            "obbb_legal_challenges_with_federal_stay": 0,
+            "scotus_humphreys_executor": "OVERTURNED — Trump v. Slaughter 6-3 (June 29); FTC independence eliminated; executive removal power expanded"
+          }
+        },
+        {
+          "headline": "SCOTUS Birthright Citizenship 6-3 — 14th Amendment Upheld, Trump Day-One Order Struck (June 30; Midterm Reverberations); AI Legislation Advancing (10 House Science Committee Bills; Senate AI Labeling Act — Bipartisan); Measles 2,260 (CDC July 16; CIDRAP Slowing Day 44; Seafair T-1; Tertiary Window T-3 July 23-26; CDC Convergence July 23); EAC Governance Gap Day 11 (Zero Replacements); Maine Democrat T-7",
+          "summary": "Five secondary domestic threads on July 20 evening. First: SCOTUS birthright citizenship ruling (June 30). Chief Justice Roberts wrote a 6-3 majority holding that the 14th Amendment guarantees citizenship to virtually all children born on US soil, striking down the executive order Trump signed on Inauguration Day seeking to deny citizenship to children of undocumented or temporarily present parents. The ruling is the Supreme Court's most direct constitutional rebuke of the second Trump administration and is reverberating in the 2026 midterm cycle — analysts characterize it as reshaping the midterm election outlook in Latino-heavy competitive districts. This ruling stands alongside the June 29 Humphrey's Executor reversal (6-3, Trump v. Slaughter — FTC independence eliminated, executive removal power expanded) as the Court's two most significant governance-restructuring decisions of the 2025-2026 term. Second: AI legislation advancing. The House Science, Space, and Technology Committee favorably reported 10 AI-related bills — most with unanimous bipartisan support — in late June. The Senate introduced the AI Labeling Act of 2026 on a bipartisan basis, requiring disclosure of AI-generated content across major digital platforms. Both tracks are committee-stage; floor passage remains unconfirmed. Third: Measles 2,260 confirmed (CDC July 16). CIDRAP slowing signal Day 44 is sustained. The July 23 triple-convergence window — next CDC update, Seafair Fleet Week opening, and measles tertiary monitoring window — is T-3 from today. Seafair starts tomorrow (July 21, Parade of Ships). Georgetown wastewater and King/Snohomish ED monitoring are the primary pre-Seafair early-detection mechanisms. No new King or Snohomish County clusters confirmed through July 20. Fourth: EAC governance gap Day 11. Zero new members nominated or announced. The 2026 midterm cycle is entering its active campaign-infrastructure phase without a functioning federal election equipment certification body. Fifth: Maine Democrat T-7 (July 27 deadline). No replacement candidate has confirmed through July 20; fundraising window is effectively closed.",
+          "significance": "LOW",
+          "actors": ["Chief Justice Roberts", "SCOTUS", "CDC", "CIDRAP", "Georgetown University", "King County Public Health", "Snohomish County Health District", "WA DOH", "House Science Committee", "Senate Commerce Committee", "US Election Assistance Commission", "Maine Democratic Party", "Trump Administration"],
+          "metrics": {
+            "scotus_birthright_citizenship_ruling": "6-3 UPHELD — 14th Amendment guarantees birthright citizenship; Trump Day-One executive order struck; June 30, 2026",
+            "scotus_birthright_midterm_impact": "ACTIVE — reshaping competitive Latino-heavy district dynamics per analyst assessment",
+            "ai_legislation_house_science_bills": 10,
+            "ai_legislation_senate_labeling_act": "BIPARTISAN — disclosure of AI-generated content on digital platforms; Senate introduction",
+            "measles_national_case_count": 2260,
+            "measles_cdc_update_date": "2026-07-16",
+            "measles_cidrap_slowing_signal_day": 44,
+            "measles_next_update_expected": "~2026-07-23",
+            "measles_tertiary_window_dates": "~July 23-26",
+            "measles_tertiary_days_to_window": 3,
+            "measles_seafair_convergence": "JULY 23 = Seafair opening + CDC next update + tertiary window; ~500,000 attendance",
+            "seafair_fleet_week_start": "2026-07-21",
+            "seafair_fleet_week_days_out": 1,
+            "measles_king_snohomish_clusters_july20": false,
+            "eac_governance_gap_day": 11,
+            "eac_replacement_members_announced": false,
+            "maine_democrat_replacement_deadline": "2026-07-27",
+            "maine_democrat_replacement_days_remaining": 7
+          }
+        }
+      ]
+    },
+    "local_pnw": {
+      "summary": "WA DNR BURN BAN DAY 4 — HEAT WAVE DAY 1 (EASTERN WA 90S; JULY 21-24 PEAK TOMORROW 95-105°F; KAISER CANYON FIRE DAY 5 — PARTIAL PROGRESS; LEVEL 3 EVACUATIONS; LOW CONTAINMENT ENTERING HEAT WAVE; FRANKLIN COUNTY COMPLEX ACTIVE; LOWER DRY CREEK OR CONTAINED JULY 19; 35+ ACTIVE FIRES OR/WA; SOURDOUGH DAY 16); NIFC PL4 DAY 22; BPA STABLE (HEAT DEMAND ACCELERATING); SEAFAIR FLEET WEEK T-1 (PARADE OF SHIPS JULY 21; 500,000+ ATTENDANCE; MEASLES TERTIARY WINDOW T-3 JULY 23-26; CDC CONVERGENCE JULY 23); SEATTLE TECH LAYOFFS (AMAZON 30K CORPORATE; EXPEDIA 160+ HQ; META REALITY LABS — 'SCARIEST ECONOMICALLY SINCE GREAT RECESSION'); WA DROUGHT DAY 46 (SUPER EL NIÑO CONFIRMED; COLUMBIA BASIN; HEAT DAY 1); NSF NEWPORT OR DARK DAY 22 (THREE FIRES WITHOUT ANCHOR); FERC AI PNW GRID REPORTS FILED.",
+      "items": [
+        {
+          "headline": "WA DNR Burn Ban Day 4 — Heat Wave Day 1 (Eastern WA 90S Today; July 21-24 Peak 95-105°F Tomorrow; Kaiser Canyon Fire Day 5 — Partial Progress; Level 3 Evacuations; Low Containment Entering Heat Wave Peak; Franklin County Complex Active; Lower Dry Creek OR Contained July 19; 35+ Active Fires OR/WA; Sourdough Day 16); NIFC PL4 Day 22; Seafair Fleet Week T-1 (July 21 Parade Of Ships; Measles Tertiary Window T-3; CDC Convergence July 23)",
+          "summary": "The July 20 PNW local session opens the heat wave window with both primary fire fronts still active and a clean Seafair Fleet Week launch T-1 pending. Primary PNW fire status: Kaiser Canyon Fire (Okanogan County / Colville Reservation, Day 5) made partial overnight and Monday day-shift suppression progress. Crews worked the northern and northeastern flanks with direct attack, hand crews, dozers, and air support. Level 3 'Go Now' evacuations in the Rebecca Lake / Belvedere / Buffalo Lake Road / Joe Moses Road / Nespelem-to-Jackson Ranch corridor remain in effect. A formal containment line was not established before heat wave onset — the fire enters the July 21-24 peak without a meaningful containment milestone, which is the primary local_pnw scenario for a Vibe 3 rating. Franklin County fire complex (~38,000-40,000 acres near Kahlotus) remained active Monday without containment announcement. Resources freed from Lower Dry Creek containment (100% contained July 19, Umatilla County OR, 8,100 acres) are potentially available for redeployment to Eastern Washington. The Lower Dry Creek containment is the session's only active fire suppression positive — achieved just before the Western heat wave arrival. Oregon Governor Kotek's third Emergency Conflagration Act invocation of 2026 for Lower Dry Creek signals the fire season's severity. Across Oregon and Washington, 35+ concurrent fires are active — multiple under active task force response. NSF Newport OR Dark Day 22 is now monitoring three concurrent fire events without its coastal atmospheric baseline anchor. Sourdough Fire (North Cascades NP, Day 16) remains on extended attack with SR-20 open and Skagit dam complex in continued restoration. NIFC PL4 Day 22 sustained nationally. BPA grid stable under heat demand acceleration. Seafair Fleet Week starts tomorrow — Parade of Ships through Elliott Bay on July 21, ship tours July 22-23, Blue Angels July 31-August 2. The measles tertiary monitoring window (T-3, opening July 23-26) and next CDC measles update (~July 23) both arrive on Seafair's opening day — the brief's primary PNW health monitoring convergence, unchanged from prior sessions. Georgetown wastewater and King/Snohomish ED monitoring are the pre-Seafair early detection mechanisms through the July 21-22 final window before mass-event attendance. No new King or Snohomish clusters confirmed through July 20.",
+          "significance": "HIGH",
+          "actors": ["Washington DNR", "Oregon DNR", "NPS", "USFS Pacific Northwest Region", "BLM", "BIA", "Colville Tribe", "NWS Seattle", "NIFC", "Governor Bob Ferguson", "Governor Tina Kotek", "BPA", "WSDOT", "King County Public Health", "Snohomish County Health District", "WA DOH", "Georgetown University"],
+          "metrics": {
+            "wa_dnr_burn_ban_day": 4,
+            "heat_wave_day": 1,
+            "heat_wave_eastern_wa_today_f": "90s",
+            "heat_wave_peak_forecast_july_21_24_f": "95-105°F Eastern WA; upper 80s to low 90s Portland",
+            "kaiser_canyon_fire": {
+              "day_since_ignition": 5,
+              "acreage_est": "2,200-2,800 — partial overnight progress on northern flanks",
+              "containment_status": "LOW — no formal containment line established before heat wave onset",
+              "evacuation_level": "LEVEL 3 GO NOW — in effect through July 20 evening",
+              "heat_wave_entry_status": "ACTIVE WITHOUT MEANINGFUL CONTAINMENT — primary Vibe 3 trigger scenario condition active"
+            },
+            "franklin_county_fire_complex": {
+              "acreage_approx": 40000,
+              "status": "ACTIVE WITHOUT CONTAINMENT"
+            },
+            "lower_dry_creek_fire_or": {
+              "containment_status": "100% CONTAINED — July 19",
+              "final_acreage": 8100,
+              "oregon_conflagration_act_2026_invocations": 3
+            },
+            "sourdough_fire": {
+              "day": 16,
+              "sr20_status": "OPEN",
+              "skagit_dam_status": "RESTORING"
+            },
+            "or_wa_active_fires_count": "35+",
+            "nifc_preparedness_level": 4,
+            "nifc_pl4_day": 22,
+            "bpa_grid_status": "STABLE — heat demand acceleration; Kaiser Canyon power outage isolated",
+            "seafair_fleet_week_days_out": 1,
+            "seafair_parade_of_ships_date": "2026-07-21",
+            "seafair_blue_angels_dates": "July 31 - August 2",
+            "measles_tertiary_days_to_window": 3,
+            "measles_cdc_convergence_date": "~2026-07-23",
+            "measles_king_snohomish_clusters_july20": false
+          }
+        },
+        {
+          "headline": "Seattle Tech Layoffs: Amazon 30K Corporate Since October (Expedia 160+ HQ; Meta Reality Labs — 'Scariest Economically Since Great Recession'); WA Drought Day 46 (Super El Niño Confirmed; Columbia Basin Heat Convergence Day 1; BPA Summer Peak Accelerating); NSF Newport OR Dark Day 22 (Three Active Fires Without Anchor; Week 5 Approaching); FERC AI PNW Grid Reports Filed (BPA/CAISO/Northwest Power Pool Primary Scrutiny)",
+          "summary": "Four secondary PNW regional threads on July 20 evening. First: Seattle tech layoffs. GeekWire analysis reports Seattle is leading all cities globally in AI-driven tech layoffs, with over 45,000 cuts worldwide and one in five directly tied to automation and AI displacement. Amazon has laid off approximately 30,000 corporate employees since October 2025. Expedia cut over 160 jobs at its Seattle headquarters. Meta is cutting Reality Labs staff. The regional economic conditions are characterized by GeekWire as the 'scariest time economically since the Great Recession' — simultaneously squeezed by elevated interest rates cooling commercial construction, Boeing manufacturing layoffs, tariff impacts on trade-dependent sectors, and tech sector contraction. This regional economic stress adds a new structural layer to the PNW local domain that has not been prominently tracked in prior briefs; the Seattle tech employment contraction is a development with real-wage and commercial real estate implications through the 2026 midterm window. Second: Washington drought Day 46 and heat wave Day 1 convergence. Super El Niño has been confirmed developing by NOAA, with warm and dry anomalies forecast through September-October — extending the fire season and deepening the Columbia Basin drought beyond the 4th consecutive year. BPA's Bonneville-to-California transmission corridor is at normal operational status but summer peak load is entering its acceleration phase against below-normal Columbia River flow and Skagit dam partial restoration — precisely the compound stress scenario BPA managed in early July's DOE Emergency Alert event. Third: NSF Newport OR Dark Day 22. The ocean observatory's absence removes the primary coastal atmospheric baseline anchor at the worst possible time: three concurrent fire events (Kaiser Canyon, Sourdough, and new Oregon ignitions) are now occurring without the Newport integration. Senate reinstallation authorization is unanimous but physical reinstallation is awaiting congressional scheduling — entering Week 5 of dark status with no confirmed restoration date. Fourth: FERC AI PNW grid reports filed. BPA, CAISO Northwest imports, and the Northwest Power Pool submitted their first formal AI large-load integration accounting to FERC on Monday July 20 as part of the national ISO/RTO generation adequacy filing. The data center corridor (Microsoft Quincy/Wenatchee, Amazon BPA, Google The Dalles/Malheur) is quantified in the filing against drought-reduced hydropower, Kaiser Canyon power outage, and heat wave demand build.",
+          "significance": "LOW",
+          "actors": ["Amazon", "Expedia", "Meta", "NOAA", "NWS Seattle", "BPA", "FERC", "NSF", "Governor Bob Ferguson", "Northwest Power Pool", "WECC", "Microsoft", "Google"],
+          "metrics": {
+            "seattle_tech_layoffs_amazon_since_oct2025": 30000,
+            "seattle_tech_layoffs_expedia_hq": 160,
+            "seattle_meta_reality_labs": "CUTS — size unspecified",
+            "seattle_global_ai_layoff_rank": "LEADING GLOBALLY — GeekWire July 2026",
+            "seattle_ai_layoffs_total_global": 45000,
+            "seattle_economic_characterization": "'Scariest time economically since the Great Recession' — GeekWire",
+            "washington_drought_day": 46,
+            "washington_drought_consecutive_years": 4,
+            "super_el_nino_status": "CONFIRMED DEVELOPING — warm/dry anomalies through Sept-Oct",
+            "heat_wave_drought_convergence_day": 1,
+            "bpa_bonneville_california_corridor": "NORMAL OPERATIONAL STATUS — heat demand surge building",
+            "columbia_river_bonneville_flow": "BELOW NORMAL",
+            "nsf_newport_or_dark_day": 22,
+            "nsf_active_fires_without_anchor": 3,
+            "nsf_reinstallation_status": "SENATE UNANIMOUS — no physical timeline; approaching Week 5",
+            "ferc_ai_pnw_filing_status": "FILED MONDAY JULY 20 — BPA/CAISO/Northwest Power Pool; data center corridor quantified against drought-reduced hydro and heat wave demand build"
+          }
+        }
+      ]
+    }
+  },
+  "analyst_summary": "July 20, 2026 evening holds at Vibe 4 for a fifth consecutive session, defined by three competing threads. The primary positive is the 96h+ Iranian non-escalation window — the longest restraint period of the blockade arc — with the IRGC's explicit July 15 ultimatum now definitively lapsed 36+ hours past its maximum timeline without late kinetic activation. The June CPI surprise (3.5% YoY, -0.4% MoM) adds significant economic context: Warsh's 'inflation surge is over' declaration and the July FOMC hike probability collapsing to 17% from 42% reflect a pre-blockade disinflation trajectory more robust than the July 19 brief's 68.8% September hike odds implied; September odds are revised down to approximately 42-45% while the blockade sustains energy price uncertainty. FERC AI generation adequacy reports filed on schedule by all six ISO/RTOs complete the first formal national accounting of AI large-load integration readiness. Lebanon pilot zones Day 4 produced a structural diplomatic positive — agreement on framework and guidelines for a phased IDF withdrawal — that is more productive than the July 19 'Rome window definitively expired' framing. The primary negative is the reported attack on Iranian FM Araghchi by hardline opponents at a funeral, combined with the Iranian FM's 'no plans for negotiations' statement — the most significant internal Iranian diplomatic fracture of the blockade arc. Araghchi's domestic political weakening degrades the diplomatic channel for any Hezbollah stand-down extension or Hormuz re-opening sequence at exactly the moment when the IC needs to characterize the 96h+ restraint. Critically, Hezbollah stand-down Day 35 holds through July 20 — Khamenei's restraint directive has not been rescinded despite the Araghchi incident — but Acting DNI Day 60's primary analytical task now requires integrating the hardliner attack as either evidence for 'operational pause' (hardliners pressuring Khamenei toward escalation) or evidence for 'strategic restraint' (domestic blowback against a Khamenei restraint decision over hardliner objections). The PNW heat wave arrived Monday: Eastern Washington hit 90s today with the July 21-24 peak (95-105°F) arriving tomorrow. Kaiser Canyon Fire (Day 5) and the Franklin County complex both enter the heat wave peak without meaningful containment — the maximum compound fire risk window is now open. Lower Dry Creek Fire (OR) containment achieved July 19 is the only suppression positive of the session. Three primary watch items for July 21-22. First: Acting DNI Day 60's IC characterization of 96h+ Iranian restraint — the Araghchi hardliner attack has significantly complicated the analytical picture; the IC's conclusion on strategic restraint vs. operational pause is the primary gating factor for oil market direction and a Vibe 5 pathway. Second: Kaiser Canyon Fire and Franklin County complex trajectory through the July 21-24 heat wave peak — do crews hold the Kaiser Canyon line or does the fire break and run under 95-105°F conditions with low humidity and dry winds? Either active front breaking into a major complex under heat wave peak conditions is the primary Vibe 3 trigger for the PNW domain. Third: USTR forced-labor Section 301 framework publication — July 21 is the critical business-day window before the July 24 Section 122 statutory expiry; non-publication by July 22 activates the compliance gap scenario for major importers.",
+  "watch_items": [
+    {
+      "item": "Acting DNI Day 60 IC characterization of 96h+ Iranian restraint — Araghchi hardliner attack as analytical input (July 21-22)",
+      "priority": "CRITICAL",
+      "rationale": "The IC's formal assessment of the 96h+ absence of confirmed major Iranian kinetic escalation is the session's most consequential pending product, now complicated by the Araghchi hardliner attack and the Iranian FM's 'no plans for negotiations' statement. The IC must assess whether the Araghchi attack is evidence of (a) hardliner pressure on Khamenei toward escalation — operational pause interpretation — or (b) domestic blowback against a Khamenei restraint decision made over hardliner objections — strategic restraint interpretation. Hezbollah stand-down Day 35 continuing to hold is the primary Khamenei-level restraint indicator and must be weighted against the Araghchi political fracture. A 'strategic restraint' conclusion with confidence is the gating factor for a Vibe 5 upgrade; an 'operational pause' conclusion sustains the Vibe 3-4 tail risk regardless of oil market relief.",
+      "watch_for": "IC formal or signaled characterization of 96h+ restraint; any Khamenei direct statement; any IRGC movement or posturing; Hezbollah stand-down Day 35 status change; oil market response to IC signals"
+    },
+    {
+      "item": "Kaiser Canyon Fire and Franklin County complex trajectory through July 21-24 heat wave peak",
+      "priority": "HIGH",
+      "rationale": "Both Kaiser Canyon (Day 5, Level 3 evacuations, low containment) and the Franklin County complex (~40,000 acres, active) enter the July 21-24 heat wave peak tomorrow without meaningful containment. Eastern Washington forecast 95-105°F with low humidity and dry winds through July 24. A fire break or run on either front under these conditions is the primary local_pnw scenario for a Vibe 3 rating. The B&O Fire demobilization and Lower Dry Creek (OR) containment resources are the primary suppression backstop.",
+      "watch_for": "Formal containment percentage announcement for Kaiser Canyon before Tuesday July 21 heat peak; Level 3 evacuation expansion or contraction; Franklin County containment milestone; new Eastern Washington ignitions under heat wave; BPA grid impacts"
+    },
+    {
+      "item": "USTR forced-labor Section 301 framework publication — Section 122 T-4 critical window (July 21-22)",
+      "priority": "HIGH",
+      "rationale": "Emergency tariff bridge authority (Section 122) expires July 24. USTR has not announced finalization of the broader forced-labor Section 301 framework as of July 20 evening. July 21 is the last practical business-day publication window before July 22 (when the Brazil-specific tariff takes effect) and July 23 (the final full business day before Section 122 expiry). White House bandwidth has been consumed by Blockade Day 6 response assessment and Araghchi attack significance evaluation. A slip past July 22 activates the tariff compliance gap window for major importers with China, Vietnam, and India exposure.",
+      "watch_for": "USTR Federal Register publication of forced-labor framework; White House tariff announcement July 21-22; Section 122 gap activation signals from major importer legal filings"
+    },
+    {
+      "item": "Seafair Fleet Week opening / measles tertiary window / CDC update convergence (July 21-23)",
+      "priority": "MEDIUM-HIGH",
+      "rationale": "Seafair Fleet Week starts tomorrow (July 21, Parade of Ships, ~500,000 attendance through July 24). Measles tertiary monitoring window opens July 23-26. Next CDC measles update (~July 23) is expected the same day as Seafair opening. July 21-22 are the last full pre-mass-event days for Georgetown wastewater surveillance and King/Snohomish ED monitoring to identify any emerging cluster before peak attendance. The 2,260 confirmed cases (July 16 CDC, CIDRAP slowing signal Day 44) sustain an amplification risk under 500,000 attendance, even with the deceleration signal.",
+      "watch_for": "Georgetown wastewater anomaly signal July 21-22 pre-Seafair window; King/Snohomish ED cluster reports; CDC update content and case count trajectory on ~July 23"
+    },
+    {
+      "item": "Iran FM Araghchi diplomatic track recovery — Lebanese-Israeli framework implementation momentum (July 21-22)",
+      "priority": "HIGH",
+      "rationale": "Araghchi's reported attack by hardline opponents and the Iranian FM's 'no plans for negotiations' statement are the most significant diplomatic fracture of the blockade arc. The structure-and-guidelines framework agreed in Lebanon pilot zone talks (Day 4) is a modest positive, but implementation requires Hezbollah disarmament conditions that Iran must transmit through Araghchi or another channel. Does Araghchi make a public statement walking back or contextualizing the 'no negotiations' declaration? Does a Khamenei or SNSC-level signal emerge clarifying the diplomatic track status?",
+      "watch_for": "Araghchi public statement or appearance; Khamenei signal on diplomatic track; Hezbollah stand-down Day 35 status maintenance; Lebanese-Israeli working-level contacts on IDF pilot zone movement; Oman or Qatar intermediary communications"
+    },
+    {
+      "item": "Oil price WTI/Brent trajectory — June CPI surprise vs. blockade tail risk (July 21-22)",
+      "priority": "MEDIUM-HIGH",
+      "rationale": "June CPI 3.5% YoY and the collapse of July FOMC hike probability to 17% create a disinflationary signal that competes with Hormuz blockade Day 6 energy price uncertainty. WTI ~$76-79 and Brent ~$81-84 are both well below Vibe-3 triggers, but the Araghchi attack has introduced new tail risk uncertainty into the market's assessment of whether diplomatic de-escalation is achievable. An IC characterization confirming 'strategic restraint' could catalyze a WTI retracement to $74-76; an 'operational pause' conclusion or Hezbollah mobilization order would reverse the recent relief.",
+      "watch_for": "WTI/Brent price action at open July 21 following weekend Araghchi news absorption; IC characterization signals in allied diplomatic communications; IRGC statement on 'no plans for negotiations' meaning for Hormuz commercial traffic"
+    }
+  ],
+  "sources": [
+    {"title": "2026 Strait of Hormuz crisis — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"},
+    {"title": "US Resumes Strikes on Iran as Ceasefire Breaks Down — CNN Live Updates", "url": "https://www.cnn.com/2026/07/18/world/live-news/iran-war-trump"},
+    {"title": "Iran War: Trump says ceasefire over, mediation stalled — Al Jazeera", "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over"},
+    {"title": "2026 Iran War — Britannica", "url": "https://www.britannica.com/event/2026-Iran-war"},
+    {"title": "NATO Pledges €70B Annually for Ukraine, Labels Russia Direct Threat — Al Jazeera", "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress"},
+    {"title": "Israel and Lebanon agree on structure for potential IDF withdrawal — Deutsche Bank Geopolitics", "url": "https://www.dbresearch.com/PROD/IE-PROD/PROD0000000000632129/This_Month_in_Geopolitics:_July_2026.PDF"},
+    {"title": "Federal Reserve Monetary Policy Report July 2026 — FRB", "url": "https://www.federalreserve.gov/monetarypolicy/files/20260710_mprfullreport.pdf"},
+    {"title": "FOMC Statement June 2026 — FRB", "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm"},
+    {"title": "S&P 500 Outlook July 2026 — Fortune", "url": "https://fortune.com/2026/07/05/stock-market-outlook-sp500-target-7100-ai-boom-speculation-extreme-levels/"},
+    {"title": "US Market Drivers July 2026 — GoMarkets", "url": "https://www.gomarkets.com/en/articles/us-market-drivers-july-2026"},
+    {"title": "Economic Outlook July 2026 — Welch Forbes", "url": "https://www.welchforbes.com/insights/economic-outlook-july-2026/"},
+    {"title": "US-EU Tariff Deal July 1 / USTR Germany Pharma Section 301 Probe — Baker Botts Tariff Tracker", "url": "https://ourtake.bakerbotts.com/post/102n7tq/trump-tariff-tracker-july-2-2026"},
+    {"title": "USTR Section 301 Brazil 25% Tariff — EY Tax News", "url": "https://taxnews.ey.com/news/2026-1530-ustr-issues-notice-of-action-imposing-25-percent-section-301-tariffs-on-imports-brazil-effective-22-july-2026"},
+    {"title": "Section 301 Tariff After July 24 — Movargo", "url": "https://www.movargo.com/post/post-after-july-24-section-301-tariff-2026"},
+    {"title": "FERC Launches Aggressive Targeted Action to Speed Large Load Integration — FERC", "url": "https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration"},
+    {"title": "What's Missing From FERC's New Orders — Energy Central", "url": "https://news.energycentral.com/p/what-s-missing-from-ferc-s-new-orders"},
+    {"title": "DOE $17.5B Conditional Nuclear Loan — Mintz Washington Update", "url": "https://www.mintz.com/insights-center/viewpoints/54246/2026-07-02-washington-update-sustainable-energy-infrastructure-july"},
+    {"title": "US Has Suffered a Major Power Outage Every Month of 2026 — Electrek", "url": "https://electrek.co/2026/07/15/new-normal-the-us-has-suffered-a-major-power-outage-every-month-of-2026"},
+    {"title": "Heat Wave Prompts US Electrical Grid Strain — ABC News", "url": "https://abcnews.com/US/stretched-limit-heat-wave-prompts-us-electrical-grid/story?id=134369230"},
+    {"title": "Supreme Court Upholds Birthright Citizenship 6-3 — Brookings / SCOTUSblog", "url": "https://www.brookings.edu/articles/supreme-court-decision-alters-2026-midterm-election-outlook/"},
+    {"title": "Supreme Court Key 2026 Decisions — Stanford Law", "url": "https://law.stanford.edu/2026/07/09/inside-the-supreme-courts-key-2026-decisions/"},
+    {"title": "House Science Committee AI Bills / Senate AI Labeling Act — Mintz AI Washington Report", "url": "https://www.mintz.com/insights-center/viewpoints/54941/2026-07-08-ai-washington-report-july-2026-edition"},
+    {"title": "Lower Dry Creek Fire 100% Contained July 19 — East Oregonian", "url": "https://eastoregonian.com/2026/07/19/lower-dry-creek-fire-reaches-100-containment/"},
+    {"title": "Oregon Multi-Fire Outbreak / Evans Creek / Hoag — OPB", "url": "https://www.opb.org/article/2026/07/17/oregon-wildfire-fire-dry-creek-hoag-evans-creek-salmon/"},
+    {"title": "PNW Multi-Fire Outbreak 35+ Active — Property Guardian", "url": "https://www.propertyguardian.com/news/oregon-washington-face-multi-fire-outbreak/"},
+    {"title": "Heat Wave Monday 4+ Days Above 90°F — KATU", "url": "https://katu.com/news/local/heat-wave-builds-monday-with-at-least-four-days-above-90-degrees-central-oregon-portland-weather-wildfires-spc-elevated-risk-red-flag-warning"},
+    {"title": "Super El Niño Developing — KPTV", "url": "https://www.kptv.com/2026/07/08/super-el-nio-is-developing-what-it-means-pacific-northwest/"},
+    {"title": "Seattle Tech Layoffs / Amazon 30K / AI Displacement — GeekWire", "url": "https://www.geekwire.com/2026/tech-boom-turns-to-gloom-in-seattle-as-economic-fears-swirl-amid-layoffs/"},
+    {"title": "Kaiser Canyon Fire Level 3 Evacuations — KXLY", "url": "https://kxly920.com/2026/07/17/kaiser-canyon-fire-expands-level-3-evacuations-power-outage-hits-okanogan-county/"},
+    {"title": "WA DNR Eastern Washington Burn Ban — WA DNR", "url": "https://dnr.wa.gov/news/2026/dnr-enacts-eastern-washington-burn-ban-beginning-friday-july-17"},
+    {"title": "Washington Drought Heat Wave El Niño — KIRO 7", "url": "https://www.kiro7.com/news/local/washington-drought-set-worsen-heat-wave-el-nio-loom-over-pacific-northwest/7JVCAJGETJASNJ5M5XAQKA75X4/"},
+    {"title": "Measles Cases and Outbreaks — CDC", "url": "https://www.cdc.gov/measles/data-research/index.html"},
+    {"title": "2025-2026 Russian fuel crisis — Wikipedia", "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Russian_fuel_crisis"},
+    {"title": "Seattle Seafair Fleet Week 2026 — Seafair.org", "url": "https://www.seafair.org/fleet-week/"},
+    {"title": "National Fire News — NIFC", "url": "https://www.nifc.gov/fire-information/nfn"},
+    {"title": "NIFC Seasonal Outlook July-October 2026 — NIFC", "url": "https://www.nifc.gov/nicc-files/predictive/outlooks/monthly_seasonal_outlook.pdf"}
+  ]
+}
